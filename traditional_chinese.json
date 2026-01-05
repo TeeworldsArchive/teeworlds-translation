@@ -614,12 +614,12 @@
 		{
 			"context": "Playing '(gametype)' on '(map)'",
 			"or": "Playing '%s' on '%s'",
-			"tr": ""
+			"tr": "正在玩：%s 地圖：%s"
 		},
 		{
 			"context": "Watching '(gametype)' on '(map)'",
 			"or": "Watching '%s' on '%s'",
-			"tr": ""
+			"tr": "正在旁觀：%s 地圖：%s"
 		},
 		{
 			"or": "Click to delete this friend.",
@@ -636,7 +636,7 @@
 		{
 			"context": "friends (server browser)",
 			"or": "Offline (%d)",
-			"tr": ""
+			"tr": "離線（%d）"
 		},
 		{
 			"or": "Clan",
@@ -725,7 +725,7 @@
 		{
 			"context": "clear gametype filters",
 			"or": "Clear",
-			"tr": ""
+			"tr": "清除"
 		},
 		{
 			"or": "Maximum ping:",
@@ -766,17 +766,17 @@
 		{
 			"context": "Server difficulty",
 			"or": "Casual",
-			"tr": ""
+			"tr": "休閒"
 		},
 		{
 			"context": "Server difficulty",
 			"or": "Normal",
-			"tr": ""
+			"tr": "普通"
 		},
 		{
 			"context": "Server difficulty",
 			"or": "Competitive",
-			"tr": ""
+			"tr": "競技"
 		},
 		{
 			"or": "Click to remove the player from your friends.",
@@ -941,12 +941,12 @@
 		{
 			"context": "In-game joystick mode",
 			"or": "Relative",
-			"tr": ""
+			"tr": "相對"
 		},
 		{
 			"context": "In-game joystick mode",
 			"or": "Absolute",
-			"tr": ""
+			"tr": "絕對"
 		},
 		{
 			"or": "In-game joystick mode",
@@ -1051,7 +1051,7 @@
 		{
 			"context": "DemoBrowser",
 			"or": "Play",
-			"tr": ""
+			"tr": "播放"
 		},
 		{
 			"or": "Unable to delete the demo",
@@ -1096,7 +1096,7 @@
 		{
 			"context": "rounds (scoreboard)",
 			"or": "Match",
-			"tr": ""
+			"tr": "比賽"
 		},
 		{
 			"or": "Game over",
@@ -1149,32 +1149,32 @@
 		{
 			"context": "skins",
 			"or": "body",
-			"tr": ""
+			"tr": "身體"
 		},
 		{
 			"context": "skins",
 			"or": "marking",
-			"tr": ""
+			"tr": "印記"
 		},
 		{
 			"context": "skins",
 			"or": "decoration",
-			"tr": ""
+			"tr": "裝飾"
 		},
 		{
 			"context": "skins",
 			"or": "hands",
-			"tr": ""
+			"tr": "手"
 		},
 		{
 			"context": "skins",
 			"or": "feet",
-			"tr": ""
+			"tr": "腳"
 		},
 		{
 			"context": "skins",
 			"or": "eyes",
-			"tr": ""
+			"tr": "眼睛"
 		},
 		{
 			"or": "Free-View",
@@ -1191,7 +1191,7 @@
 		{
 			"context": "Net score",
 			"or": "Net",
-			"tr": ""
+			"tr": "淨擊殺"
 		},
 		{
 			"or": "KPM",
@@ -1208,7 +1208,7 @@
 		{
 			"context": "Flag grabs",
 			"or": "Grabs",
-			"tr": ""
+			"tr": "得旗數"
 		},
 		{
 			"or": "'%s' called vote to change server option '%s' (%s)",
@@ -1321,12 +1321,12 @@
 		{
 			"context": "With",
 			"or": "Yes",
-			"tr": ""
+			"tr": "是"
 		},
 		{
 			"context": "Without/None",
 			"or": "No",
-			"tr": ""
+			"tr": "否"
 		},
 		{
 			"or": "Favorite",
@@ -1499,17 +1499,17 @@
 		{
 			"context": "Show chat messages from",
 			"or": "everyone",
-			"tr": ""
+			"tr": "允許所有"
 		},
 		{
 			"context": "Show chat messages from",
 			"or": "friends only",
-			"tr": ""
+			"tr": "僅好友"
 		},
 		{
 			"context": "Show chat messages from",
 			"or": "no one",
-			"tr": ""
+			"tr": "屏蔽所有"
 		},
 		{
 			"or": "Show chat messages from",
