@@ -136,6 +136,320 @@
 			"tr": "кнопка не найдена"
 		},
 		{
+			"or": "Move left",
+			"tr": "Влево"
+		},
+		{
+			"or": "Move right",
+			"tr": "Вправо"
+		},
+		{
+			"or": "Jump",
+			"tr": "Прыжок"
+		},
+		{
+			"or": "Fire",
+			"tr": "Огонь"
+		},
+		{
+			"or": "Hook",
+			"tr": "Крюк"
+		},
+		{
+			"or": "Hammer",
+			"tr": "Молот"
+		},
+		{
+			"or": "Pistol",
+			"tr": "Пистолет"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "Дробовик"
+		},
+		{
+			"or": "Grenade",
+			"tr": "Гранатомёт"
+		},
+		{
+			"or": "Laser",
+			"tr": "Лазер"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "Следующее оружие"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "Предыдущее оружие"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "За"
+		},
+		{
+			"or": "Vote no",
+			"tr": "Против"
+		},
+		{
+			"or": "Chat",
+			"tr": "Чат"
+		},
+		{
+			"or": "Team chat",
+			"tr": "Командный чат"
+		},
+		{
+			"or": "Whisper",
+			"tr": "Написать игроку"
+		},
+		{
+			"or": "Show chat",
+			"tr": "Показать чат"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "Эмоции"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "Режим наблюдения"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "Следить за следующим"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "Следить за предыдущим"
+		},
+		{
+			"or": "Console",
+			"tr": "Консоль"
+		},
+		{
+			"or": "Remote console",
+			"tr": "Консоль сервера"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "Скриншот"
+		},
+		{
+			"or": "Scoreboard",
+			"tr": "Табло счета"
+		},
+		{
+			"or": "Statboard",
+			"tr": "Табло статистики"
+		},
+		{
+			"or": "Respawn",
+			"tr": "Возрождение"
+		},
+		{
+			"or": "Ready",
+			"tr": "Готов"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": "Добавить метку в демо"
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": "Тумблер звука"
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": "Переключатель динамичной камеры"
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": "Системное ускорение мыши"
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": "Чувств. мыши в меню"
+		},
+		{
+			"or": "Enable joystick",
+			"tr": "Включить джойстик"
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": "Мёртвая зона джойстика"
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": "Джойстик не найден. Подключите заново устройство и перезапустите игру."
+		},
+		{
+			"or": "Configure statboard",
+			"tr": "Настроить табло статистики"
+		},
+		{
+			"or": "Device",
+			"tr": "Устройство"
+		},
+		{
+			"or": "Status",
+			"tr": "Статус"
+		},
+		{
+			"or": "Aim bind",
+			"tr": "Закрепить прицел"
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": "Ось джойстика #%d"
+		},
+		{
+			"context": "skins",
+			"or": "body",
+			"tr": "тело"
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": "окрас"
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": "украшение"
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": "руки"
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": "ноги"
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "глаза"
+		},
+		{
+			"or": "Name",
+			"tr": "Имя"
+		},
+		{
+			"or": "Suicides",
+			"tr": "Самоубийств"
+		},
+		{
+			"or": "Ratio",
+			"tr": "Соотношение"
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": "Сеть"
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": "Серия"
+		},
+		{
+			"or": "Best spree",
+			"tr": "Лучшая серия"
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": "Захвачено"
+		},
+		{
+			"or": "%d other players",
+			"tr": "%d других игроков"
+		},
+		{
+			"or": "Red team",
+			"tr": "Красные"
+		},
+		{
+			"or": "Blue team",
+			"tr": "Синие"
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": "'%s' голосует за смену параметра сервера '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": "'%s' голосует за изгнание игрока '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": "'%s' голосует за перемещение '%s' в наблюдатели (%s)"
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": "Администратор изменил параметр '%s' (%s)"
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": "Администратор перенес '%s' в наблюдатели (%s)"
+		},
+		{
+			"or": "Vote aborted",
+			"tr": "Голосование прервано"
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": "Администратор проголосовал за"
+		},
+		{
+			"or": "Vote passed",
+			"tr": "Голосование окончено"
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": "Администратор проголосовал против"
+		},
+		{
+			"or": "Vote failed",
+			"tr": "Голосование не состоялось"
+		},
+		{
 			"or": "Map changed to '%s'",
 			"tr": "Смена карты на '%s'"
 		},
@@ -150,10 +464,6 @@
 		{
 			"or": "Team",
 			"tr": "Команда"
-		},
-		{
-			"or": "Chat",
-			"tr": "Чат"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -480,10 +790,6 @@
 			"tr": "Вы действительно хотите переименовать демо?"
 		},
 		{
-			"or": "Name",
-			"tr": "Имя"
-		},
-		{
 			"or": "Error",
 			"tr": "Ошибка"
 		},
@@ -799,206 +1105,12 @@
 			"tr": ""
 		},
 		{
-			"or": "Scoreboard",
-			"tr": "Табло счета"
-		},
-		{
 			"or": "Refresh",
 			"tr": "Обновить"
 		},
 		{
 			"or": "Connect",
 			"tr": "Войти"
-		},
-		{
-			"or": "Move left",
-			"tr": "Влево"
-		},
-		{
-			"or": "Move right",
-			"tr": "Вправо"
-		},
-		{
-			"or": "Jump",
-			"tr": "Прыжок"
-		},
-		{
-			"or": "Fire",
-			"tr": "Огонь"
-		},
-		{
-			"or": "Hook",
-			"tr": "Крюк"
-		},
-		{
-			"or": "Hammer",
-			"tr": "Молот"
-		},
-		{
-			"or": "Pistol",
-			"tr": "Пистолет"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "Дробовик"
-		},
-		{
-			"or": "Grenade",
-			"tr": "Гранатомёт"
-		},
-		{
-			"or": "Laser",
-			"tr": "Лазер"
-		},
-		{
-			"or": "Next weapon",
-			"tr": "Следующее оружие"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "Предыдущее оружие"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "За"
-		},
-		{
-			"or": "Vote no",
-			"tr": "Против"
-		},
-		{
-			"or": "Team chat",
-			"tr": "Командный чат"
-		},
-		{
-			"or": "Whisper",
-			"tr": "Написать игроку"
-		},
-		{
-			"or": "Show chat",
-			"tr": "Показать чат"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "Эмоции"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "Режим наблюдения"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "Следить за следующим"
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "Следить за предыдущим"
-		},
-		{
-			"or": "Console",
-			"tr": "Консоль"
-		},
-		{
-			"or": "Remote console",
-			"tr": "Консоль сервера"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "Скриншот"
-		},
-		{
-			"or": "Statboard",
-			"tr": "Табло статистики"
-		},
-		{
-			"or": "Respawn",
-			"tr": "Возрождение"
-		},
-		{
-			"or": "Ready",
-			"tr": "Готов"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": "Добавить метку в демо"
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": "Тумблер звука"
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": "Переключатель динамичной камеры"
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": "Системное ускорение мыши"
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": "Чувств. мыши в меню"
-		},
-		{
-			"or": "Enable joystick",
-			"tr": "Включить джойстик"
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": "Мёртвая зона джойстика"
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": "Джойстик не найден. Подключите заново устройство и перезапустите игру."
-		},
-		{
-			"or": "Configure statboard",
-			"tr": "Настроить табло статистики"
-		},
-		{
-			"or": "Device",
-			"tr": "Устройство"
-		},
-		{
-			"or": "Status",
-			"tr": "Статус"
-		},
-		{
-			"or": "Aim bind",
-			"tr": "Закрепить прицел"
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": "Ось джойстика #%d"
 		},
 		{
 			"or": "Length",
@@ -1096,171 +1208,6 @@
 		{
 			"or": "Crc",
 			"tr": "Crc"
-		},
-		{
-			"or": "Score limit",
-			"tr": "Максимум очков"
-		},
-		{
-			"or": "Time limit: %d min",
-			"tr": "Лимит времени: %d мин."
-		},
-		{
-			"context": "rounds (scoreboard)",
-			"or": "Match",
-			"tr": "Матч"
-		},
-		{
-			"or": "Game over",
-			"tr": "Игра окончена"
-		},
-		{
-			"or": "Round over",
-			"tr": "Раунд закончен"
-		},
-		{
-			"or": "Map record",
-			"tr": "Запись карты"
-		},
-		{
-			"or": "Time",
-			"tr": "Время"
-		},
-		{
-			"or": "Score",
-			"tr": "Счет"
-		},
-		{
-			"or": "%d other players",
-			"tr": "%d других игроков"
-		},
-		{
-			"or": "REC %3d:%02d",
-			"tr": "REC %3d:%02d"
-		},
-		{
-			"or": "Red team",
-			"tr": "Красные"
-		},
-		{
-			"or": "Blue team",
-			"tr": "Синие"
-		},
-		{
-			"or": "%s wins!",
-			"tr": "%s победили!"
-		},
-		{
-			"or": "Draw!",
-			"tr": "Ничья!"
-		},
-		{
-			"or": "Round over!",
-			"tr": "Конец раунда!"
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": "тело"
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": "окрас"
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": "украшение"
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": "руки"
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": "ноги"
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "глаза"
-		},
-		{
-			"or": "Free-View",
-			"tr": "Свободный обзор"
-		},
-		{
-			"or": "Suicides",
-			"tr": "Самоубийств"
-		},
-		{
-			"or": "Ratio",
-			"tr": "Соотношение"
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
-			"tr": "Сеть"
-		},
-		{
-			"or": "KPM",
-			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": "Серия"
-		},
-		{
-			"or": "Best spree",
-			"tr": "Лучшая серия"
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": "Захвачено"
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": "'%s' голосует за смену параметра сервера '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": "'%s' голосует за изгнание игрока '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": "'%s' голосует за перемещение '%s' в наблюдатели (%s)"
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": "Администратор изменил параметр '%s' (%s)"
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": "Администратор перенес '%s' в наблюдатели (%s)"
-		},
-		{
-			"or": "Vote aborted",
-			"tr": "Голосование прервано"
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": "Администратор проголосовал за"
-		},
-		{
-			"or": "Vote passed",
-			"tr": "Голосование окончено"
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": "Администратор проголосовал против"
-		},
-		{
-			"or": "Vote failed",
-			"tr": "Голосование не состоялось"
 		},
 		{
 			"or": "Teams are locked",
@@ -1361,6 +1308,10 @@
 			"tr": "Сложность"
 		},
 		{
+			"or": "Score limit",
+			"tr": "Максимум очков"
+		},
+		{
 			"or": "Time limit",
 			"tr": "Ограничение времени"
 		},
@@ -1427,22 +1378,6 @@
 		{
 			"or": "Add",
 			"tr": "Добавить"
-		},
-		{
-			"or": "Local server",
-			"tr": "Локальный сервер"
-		},
-		{
-			"or": "Editor",
-			"tr": "Редактор"
-		},
-		{
-			"or": "Play",
-			"tr": "Играть"
-		},
-		{
-			"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-			"tr": "Вышла Teeworlds %s! Скачайте на www.teeworlds.com!"
 		},
 		{
 			"or": "Hue:",
@@ -1732,6 +1667,10 @@
 			"tr": "Сглаживание"
 		},
 		{
+			"or": "Enable OpenGL ES",
+			"tr": ""
+		},
+		{
 			"or": "V-Sync",
 			"tr": "Вертикальная синхронизация"
 		},
@@ -1830,6 +1769,71 @@
 		{
 			"or": "You have to wait %1.0f seconds to change identity.",
 			"tr": "Подождите %1.0f сек. перед применением настроек."
+		},
+		{
+			"or": "Local server",
+			"tr": "Локальный сервер"
+		},
+		{
+			"or": "Editor",
+			"tr": "Редактор"
+		},
+		{
+			"or": "Play",
+			"tr": "Играть"
+		},
+		{
+			"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
+			"tr": "Вышла Teeworlds %s! Скачайте на www.teeworlds.com!"
+		},
+		{
+			"or": "Time limit: %d min",
+			"tr": "Лимит времени: %d мин."
+		},
+		{
+			"context": "rounds (scoreboard)",
+			"or": "Match",
+			"tr": "Матч"
+		},
+		{
+			"or": "Game over",
+			"tr": "Игра окончена"
+		},
+		{
+			"or": "Round over",
+			"tr": "Раунд закончен"
+		},
+		{
+			"or": "Map record",
+			"tr": "Запись карты"
+		},
+		{
+			"or": "Time",
+			"tr": "Время"
+		},
+		{
+			"or": "Score",
+			"tr": "Счет"
+		},
+		{
+			"or": "REC %3d:%02d",
+			"tr": "REC %3d:%02d"
+		},
+		{
+			"or": "%s wins!",
+			"tr": "%s победили!"
+		},
+		{
+			"or": "Draw!",
+			"tr": "Ничья!"
+		},
+		{
+			"or": "Round over!",
+			"tr": "Конец раунда!"
+		},
+		{
+			"or": "Free-View",
+			"tr": "Свободный обзор"
 		}
 	]
 }

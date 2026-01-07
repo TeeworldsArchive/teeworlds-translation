@@ -123,6 +123,320 @@
 			"tr": ""
 		},
 		{
+			"or": "Move left",
+			"tr": "左移動"
+		},
+		{
+			"or": "Move right",
+			"tr": "右移動"
+		},
+		{
+			"or": "Jump",
+			"tr": "ジャンプ"
+		},
+		{
+			"or": "Fire",
+			"tr": "射撃"
+		},
+		{
+			"or": "Hook",
+			"tr": "フック"
+		},
+		{
+			"or": "Hammer",
+			"tr": "ハンマー"
+		},
+		{
+			"or": "Pistol",
+			"tr": "ピストル"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "ショットガン"
+		},
+		{
+			"or": "Grenade",
+			"tr": "グレネード"
+		},
+		{
+			"or": "Laser",
+			"tr": "レーザー"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "次の武器"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "前の武器"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "賛成"
+		},
+		{
+			"or": "Vote no",
+			"tr": "反対"
+		},
+		{
+			"or": "Chat",
+			"tr": "チャット"
+		},
+		{
+			"or": "Team chat",
+			"tr": "チームチャット"
+		},
+		{
+			"or": "Whisper",
+			"tr": ""
+		},
+		{
+			"or": "Show chat",
+			"tr": "チャットを見る"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "エモティコン"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "観戦モード"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "次の人を見る"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "前の人を見る"
+		},
+		{
+			"or": "Console",
+			"tr": "コンソール"
+		},
+		{
+			"or": "Remote console",
+			"tr": "リモコン"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "スクリーンショット"
+		},
+		{
+			"or": "Scoreboard",
+			"tr": "スコアボード"
+		},
+		{
+			"or": "Statboard",
+			"tr": ""
+		},
+		{
+			"or": "Respawn",
+			"tr": "リスポーン"
+		},
+		{
+			"or": "Ready",
+			"tr": "レディー"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": ""
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": ""
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": ""
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": ""
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Enable joystick",
+			"tr": ""
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": ""
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": ""
+		},
+		{
+			"or": "Configure statboard",
+			"tr": ""
+		},
+		{
+			"or": "Device",
+			"tr": ""
+		},
+		{
+			"or": "Status",
+			"tr": ""
+		},
+		{
+			"or": "Aim bind",
+			"tr": ""
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "body",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": ""
+		},
+		{
+			"or": "Name",
+			"tr": "名前"
+		},
+		{
+			"or": "Suicides",
+			"tr": ""
+		},
+		{
+			"or": "Ratio",
+			"tr": ""
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": ""
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": ""
+		},
+		{
+			"or": "Best spree",
+			"tr": ""
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": ""
+		},
+		{
+			"or": "%d other players",
+			"tr": ""
+		},
+		{
+			"or": "Red team",
+			"tr": "赤チーム"
+		},
+		{
+			"or": "Blue team",
+			"tr": "青チーム"
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": ""
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": ""
+		},
+		{
+			"or": "Vote aborted",
+			"tr": "投票中止"
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": ""
+		},
+		{
+			"or": "Vote passed",
+			"tr": "投票合格"
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": ""
+		},
+		{
+			"or": "Vote failed",
+			"tr": "投票不合格"
+		},
+		{
 			"or": "Map changed to '%s'",
 			"tr": ""
 		},
@@ -137,10 +451,6 @@
 		{
 			"or": "Team",
 			"tr": "チーム"
-		},
-		{
-			"or": "Chat",
-			"tr": "チャット"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -467,10 +777,6 @@
 			"tr": "デモをリネームしてもよろしいですか？"
 		},
 		{
-			"or": "Name",
-			"tr": "名前"
-		},
-		{
 			"or": "Error",
 			"tr": "エラー"
 		},
@@ -786,206 +1092,12 @@
 			"tr": ""
 		},
 		{
-			"or": "Scoreboard",
-			"tr": "スコアボード"
-		},
-		{
 			"or": "Refresh",
 			"tr": "更新"
 		},
 		{
 			"or": "Connect",
 			"tr": "接続"
-		},
-		{
-			"or": "Move left",
-			"tr": "左移動"
-		},
-		{
-			"or": "Move right",
-			"tr": "右移動"
-		},
-		{
-			"or": "Jump",
-			"tr": "ジャンプ"
-		},
-		{
-			"or": "Fire",
-			"tr": "射撃"
-		},
-		{
-			"or": "Hook",
-			"tr": "フック"
-		},
-		{
-			"or": "Hammer",
-			"tr": "ハンマー"
-		},
-		{
-			"or": "Pistol",
-			"tr": "ピストル"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "ショットガン"
-		},
-		{
-			"or": "Grenade",
-			"tr": "グレネード"
-		},
-		{
-			"or": "Laser",
-			"tr": "レーザー"
-		},
-		{
-			"or": "Next weapon",
-			"tr": "次の武器"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "前の武器"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "賛成"
-		},
-		{
-			"or": "Vote no",
-			"tr": "反対"
-		},
-		{
-			"or": "Team chat",
-			"tr": "チームチャット"
-		},
-		{
-			"or": "Whisper",
-			"tr": ""
-		},
-		{
-			"or": "Show chat",
-			"tr": "チャットを見る"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "エモティコン"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "観戦モード"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "次の人を見る"
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "前の人を見る"
-		},
-		{
-			"or": "Console",
-			"tr": "コンソール"
-		},
-		{
-			"or": "Remote console",
-			"tr": "リモコン"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "スクリーンショット"
-		},
-		{
-			"or": "Statboard",
-			"tr": ""
-		},
-		{
-			"or": "Respawn",
-			"tr": "リスポーン"
-		},
-		{
-			"or": "Ready",
-			"tr": "レディー"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": ""
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": ""
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": ""
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": ""
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Enable joystick",
-			"tr": ""
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": ""
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": ""
-		},
-		{
-			"or": "Configure statboard",
-			"tr": ""
-		},
-		{
-			"or": "Device",
-			"tr": ""
-		},
-		{
-			"or": "Status",
-			"tr": ""
-		},
-		{
-			"or": "Aim bind",
-			"tr": ""
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": ""
 		},
 		{
 			"or": "Length",
@@ -1083,171 +1195,6 @@
 		{
 			"or": "Crc",
 			"tr": "CRC"
-		},
-		{
-			"or": "Score limit",
-			"tr": "スコア上限"
-		},
-		{
-			"or": "Time limit: %d min",
-			"tr": "残り %d 分"
-		},
-		{
-			"context": "rounds (scoreboard)",
-			"or": "Match",
-			"tr": "試合"
-		},
-		{
-			"or": "Game over",
-			"tr": "ゲームオーバー"
-		},
-		{
-			"or": "Round over",
-			"tr": "ラウンドオーバー"
-		},
-		{
-			"or": "Map record",
-			"tr": ""
-		},
-		{
-			"or": "Time",
-			"tr": ""
-		},
-		{
-			"or": "Score",
-			"tr": "スコア"
-		},
-		{
-			"or": "%d other players",
-			"tr": ""
-		},
-		{
-			"or": "REC %3d:%02d",
-			"tr": "REC %3d:%02d"
-		},
-		{
-			"or": "Red team",
-			"tr": "赤チーム"
-		},
-		{
-			"or": "Blue team",
-			"tr": "青チーム"
-		},
-		{
-			"or": "%s wins!",
-			"tr": "%s の勝ち!"
-		},
-		{
-			"or": "Draw!",
-			"tr": "引き分け！"
-		},
-		{
-			"or": "Round over!",
-			"tr": "ラウンドオーバー！"
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": ""
-		},
-		{
-			"or": "Free-View",
-			"tr": "自由視点"
-		},
-		{
-			"or": "Suicides",
-			"tr": ""
-		},
-		{
-			"or": "Ratio",
-			"tr": ""
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
-			"tr": ""
-		},
-		{
-			"or": "KPM",
-			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": ""
-		},
-		{
-			"or": "Best spree",
-			"tr": ""
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": ""
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": ""
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": ""
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": ""
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": ""
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": ""
-		},
-		{
-			"or": "Vote aborted",
-			"tr": "投票中止"
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": ""
-		},
-		{
-			"or": "Vote passed",
-			"tr": "投票合格"
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": ""
-		},
-		{
-			"or": "Vote failed",
-			"tr": "投票不合格"
 		},
 		{
 			"or": "Teams are locked",
@@ -1348,6 +1295,10 @@
 			"tr": ""
 		},
 		{
+			"or": "Score limit",
+			"tr": "スコア上限"
+		},
+		{
 			"or": "Time limit",
 			"tr": "残り時間"
 		},
@@ -1414,22 +1365,6 @@
 		{
 			"or": "Add",
 			"tr": "追加"
-		},
-		{
-			"or": "Local server",
-			"tr": "ローカルサーバ"
-		},
-		{
-			"or": "Editor",
-			"tr": "エディタ"
-		},
-		{
-			"or": "Play",
-			"tr": "プレイ"
-		},
-		{
-			"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-			"tr": "Teeworlds %s が公開されました！ダウンロードはこちら！www.teeworlds.com"
 		},
 		{
 			"or": "Hue:",
@@ -1719,6 +1654,10 @@
 			"tr": "アンチエイリアス"
 		},
 		{
+			"or": "Enable OpenGL ES",
+			"tr": ""
+		},
+		{
 			"or": "V-Sync",
 			"tr": "V-Sync"
 		},
@@ -1817,6 +1756,71 @@
 		{
 			"or": "You have to wait %1.0f seconds to change identity.",
 			"tr": ""
+		},
+		{
+			"or": "Local server",
+			"tr": "ローカルサーバ"
+		},
+		{
+			"or": "Editor",
+			"tr": "エディタ"
+		},
+		{
+			"or": "Play",
+			"tr": "プレイ"
+		},
+		{
+			"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
+			"tr": "Teeworlds %s が公開されました！ダウンロードはこちら！www.teeworlds.com"
+		},
+		{
+			"or": "Time limit: %d min",
+			"tr": "残り %d 分"
+		},
+		{
+			"context": "rounds (scoreboard)",
+			"or": "Match",
+			"tr": "試合"
+		},
+		{
+			"or": "Game over",
+			"tr": "ゲームオーバー"
+		},
+		{
+			"or": "Round over",
+			"tr": "ラウンドオーバー"
+		},
+		{
+			"or": "Map record",
+			"tr": ""
+		},
+		{
+			"or": "Time",
+			"tr": ""
+		},
+		{
+			"or": "Score",
+			"tr": "スコア"
+		},
+		{
+			"or": "REC %3d:%02d",
+			"tr": "REC %3d:%02d"
+		},
+		{
+			"or": "%s wins!",
+			"tr": "%s の勝ち!"
+		},
+		{
+			"or": "Draw!",
+			"tr": "引き分け！"
+		},
+		{
+			"or": "Round over!",
+			"tr": "ラウンドオーバー！"
+		},
+		{
+			"or": "Free-View",
+			"tr": "自由視点"
 		}
 	]
 }

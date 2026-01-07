@@ -127,6 +127,320 @@
 			"tr": "键位不存在"
 		},
 		{
+			"or": "Move left",
+			"tr": "向左移动"
+		},
+		{
+			"or": "Move right",
+			"tr": "向右移动"
+		},
+		{
+			"or": "Jump",
+			"tr": "跳跃"
+		},
+		{
+			"or": "Fire",
+			"tr": "开火"
+		},
+		{
+			"or": "Hook",
+			"tr": "钩子"
+		},
+		{
+			"or": "Hammer",
+			"tr": "锤子"
+		},
+		{
+			"or": "Pistol",
+			"tr": "手枪"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "霰弹枪"
+		},
+		{
+			"or": "Grenade",
+			"tr": "榴弹枪"
+		},
+		{
+			"or": "Laser",
+			"tr": "激光枪"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "下一个武器"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "上一个武器"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "赞成"
+		},
+		{
+			"or": "Vote no",
+			"tr": "否决"
+		},
+		{
+			"or": "Chat",
+			"tr": "聊天"
+		},
+		{
+			"or": "Team chat",
+			"tr": "队伍聊天"
+		},
+		{
+			"or": "Whisper",
+			"tr": "私信"
+		},
+		{
+			"or": "Show chat",
+			"tr": "显示聊天"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "表情"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "旁观者模式"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "旁观下一个"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "旁观上一个"
+		},
+		{
+			"or": "Console",
+			"tr": "控制台"
+		},
+		{
+			"or": "Remote console",
+			"tr": "远程控制台"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "截图"
+		},
+		{
+			"or": "Scoreboard",
+			"tr": "计分板"
+		},
+		{
+			"or": "Statboard",
+			"tr": "统计板"
+		},
+		{
+			"or": "Respawn",
+			"tr": "重生"
+		},
+		{
+			"or": "Ready",
+			"tr": "准备"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": "添加回放书签"
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": "启用/禁用音效"
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": "切换动态镜头"
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": "使用系统的鼠标加速度设置"
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": "游戏内鼠标灵敏度"
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": "主界面鼠标灵敏度"
+		},
+		{
+			"or": "Enable joystick",
+			"tr": "启用控制器"
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": "点击轮换所有可用控制器"
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": "相对"
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": "绝对"
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": "游戏内控制器模式"
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": "游戏内控制器灵敏度"
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": "主界面控制器灵敏度"
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": "摇杆防抖强度"
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": "未发现游戏控制器。连接游戏控制器后请重启游戏。"
+		},
+		{
+			"or": "Configure statboard",
+			"tr": "配置统计信息板"
+		},
+		{
+			"or": "Device",
+			"tr": "设备"
+		},
+		{
+			"or": "Status",
+			"tr": "状态"
+		},
+		{
+			"or": "Aim bind",
+			"tr": "瞄准绑定"
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": "摇杆%d号轴"
+		},
+		{
+			"context": "skins",
+			"or": "body",
+			"tr": "身体"
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": "印记"
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": "装饰"
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": "手"
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": "脚"
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "眼睛"
+		},
+		{
+			"or": "Name",
+			"tr": "名字"
+		},
+		{
+			"or": "Suicides",
+			"tr": "自杀数"
+		},
+		{
+			"or": "Ratio",
+			"tr": "击杀死亡比"
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": "净击杀"
+		},
+		{
+			"or": "KPM",
+			"tr": "击杀/分钟"
+		},
+		{
+			"or": "Spree",
+			"tr": "连杀数"
+		},
+		{
+			"or": "Best spree",
+			"tr": "最高连杀数"
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": "得旗数"
+		},
+		{
+			"or": "%d other players",
+			"tr": "另有%d名玩家"
+		},
+		{
+			"or": "Red team",
+			"tr": "红队"
+		},
+		{
+			"or": "Blue team",
+			"tr": "蓝队"
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": "'%s' 发起投票想要改变服务器设置 '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": "'%s' 发起投票想要踢除 '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": "'%s' 发起投票想要将 '%s' 移至旁观位 (%s)"
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": "管理员强制修改了服务器设置 '%s' (%s)"
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": "管理员将 '%s' 移至了旁观位 (%s)"
+		},
+		{
+			"or": "Vote aborted",
+			"tr": "投票被取消"
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": "管理员强制通过了投票"
+		},
+		{
+			"or": "Vote passed",
+			"tr": "投票已通过"
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": "管理员强制否决了投票"
+		},
+		{
+			"or": "Vote failed",
+			"tr": "投票被否决"
+		},
+		{
 			"or": "Map changed to '%s'",
 			"tr": "地图已更换为 '%s'"
 		},
@@ -141,10 +455,6 @@
 		{
 			"or": "Team",
 			"tr": "队伍"
-		},
-		{
-			"or": "Chat",
-			"tr": "聊天"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -471,10 +781,6 @@
 			"tr": "你确定要重命名这个回放吗？"
 		},
 		{
-			"or": "Name",
-			"tr": "名字"
-		},
-		{
 			"or": "Error",
 			"tr": "错误"
 		},
@@ -572,7 +878,7 @@
 		},
 		{
 			"or": "Refreshing master servers",
-			"tr": ""
+			"tr": "正在刷新服务器列表"
 		},
 		{
 			"or": "No filter category is selected",
@@ -790,206 +1096,12 @@
 			"tr": "点击将该玩家加入到好友"
 		},
 		{
-			"or": "Scoreboard",
-			"tr": "计分板"
-		},
-		{
 			"or": "Refresh",
 			"tr": "刷新"
 		},
 		{
 			"or": "Connect",
 			"tr": "连接"
-		},
-		{
-			"or": "Move left",
-			"tr": "向左移动"
-		},
-		{
-			"or": "Move right",
-			"tr": "向右移动"
-		},
-		{
-			"or": "Jump",
-			"tr": "跳跃"
-		},
-		{
-			"or": "Fire",
-			"tr": "开火"
-		},
-		{
-			"or": "Hook",
-			"tr": "钩子"
-		},
-		{
-			"or": "Hammer",
-			"tr": "锤子"
-		},
-		{
-			"or": "Pistol",
-			"tr": "手枪"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "霰弹枪"
-		},
-		{
-			"or": "Grenade",
-			"tr": "榴弹枪"
-		},
-		{
-			"or": "Laser",
-			"tr": "激光枪"
-		},
-		{
-			"or": "Next weapon",
-			"tr": "下一个武器"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "上一个武器"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "赞成"
-		},
-		{
-			"or": "Vote no",
-			"tr": "否决"
-		},
-		{
-			"or": "Team chat",
-			"tr": "队伍聊天"
-		},
-		{
-			"or": "Whisper",
-			"tr": "私信"
-		},
-		{
-			"or": "Show chat",
-			"tr": "显示聊天"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "表情"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "旁观者模式"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "旁观下一个"
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "旁观上一个"
-		},
-		{
-			"or": "Console",
-			"tr": "控制台"
-		},
-		{
-			"or": "Remote console",
-			"tr": "远程控制台"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "截图"
-		},
-		{
-			"or": "Statboard",
-			"tr": "统计板"
-		},
-		{
-			"or": "Respawn",
-			"tr": "重生"
-		},
-		{
-			"or": "Ready",
-			"tr": "准备"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": "添加回放书签"
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": "启用/禁用音效"
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": "切换动态镜头"
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": "使用系统的鼠标加速度设置"
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": "游戏内鼠标灵敏度"
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": "主界面鼠标灵敏度"
-		},
-		{
-			"or": "Enable joystick",
-			"tr": "启用控制器"
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": "点击轮换所有可用控制器"
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": "相对"
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": "绝对"
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": "游戏内控制器模式"
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": "游戏内控制器灵敏度"
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": "主界面控制器灵敏度"
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": "摇杆防抖强度"
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": "未发现游戏控制器。连接游戏控制器后请重启游戏。"
-		},
-		{
-			"or": "Configure statboard",
-			"tr": "配置统计信息板"
-		},
-		{
-			"or": "Device",
-			"tr": "设备"
-		},
-		{
-			"or": "Status",
-			"tr": "状态"
-		},
-		{
-			"or": "Aim bind",
-			"tr": "瞄准绑定"
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": "摇杆%d号轴"
 		},
 		{
 			"or": "Length",
@@ -1087,171 +1199,6 @@
 		{
 			"or": "Crc",
 			"tr": "地图Crc"
-		},
-		{
-			"or": "Score limit",
-			"tr": "目标得分"
-		},
-		{
-			"or": "Time limit: %d min",
-			"tr": "规定时限：%d分钟"
-		},
-		{
-			"context": "rounds (scoreboard)",
-			"or": "Match",
-			"tr": "比赛"
-		},
-		{
-			"or": "Game over",
-			"tr": "游戏结束"
-		},
-		{
-			"or": "Round over",
-			"tr": "回合结束"
-		},
-		{
-			"or": "Map record",
-			"tr": "地图最高记录"
-		},
-		{
-			"or": "Time",
-			"tr": "用时"
-		},
-		{
-			"or": "Score",
-			"tr": "分数"
-		},
-		{
-			"or": "%d other players",
-			"tr": "另有%d名玩家"
-		},
-		{
-			"or": "REC %3d:%02d",
-			"tr": "REC %3d:%02d"
-		},
-		{
-			"or": "Red team",
-			"tr": "红队"
-		},
-		{
-			"or": "Blue team",
-			"tr": "蓝队"
-		},
-		{
-			"or": "%s wins!",
-			"tr": "%s胜利!"
-		},
-		{
-			"or": "Draw!",
-			"tr": "平局！"
-		},
-		{
-			"or": "Round over!",
-			"tr": "回合结束！"
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": "身体"
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": "印记"
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": "装饰"
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": "手"
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": "脚"
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "眼睛"
-		},
-		{
-			"or": "Free-View",
-			"tr": "自由视角"
-		},
-		{
-			"or": "Suicides",
-			"tr": "自杀数"
-		},
-		{
-			"or": "Ratio",
-			"tr": "击杀死亡比"
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
-			"tr": "净击杀"
-		},
-		{
-			"or": "KPM",
-			"tr": "击杀/分钟"
-		},
-		{
-			"or": "Spree",
-			"tr": "连杀数"
-		},
-		{
-			"or": "Best spree",
-			"tr": "最高连杀数"
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": "得旗数"
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": "'%s' 发起投票想要改变服务器设置 '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": "'%s' 发起投票想要踢除 '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": "'%s' 发起投票想要将 '%s' 移至旁观位 (%s)"
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": "管理员强制修改了服务器设置 '%s' (%s)"
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": "管理员将 '%s' 移至了旁观位 (%s)"
-		},
-		{
-			"or": "Vote aborted",
-			"tr": "投票被取消"
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": "管理员强制通过了投票"
-		},
-		{
-			"or": "Vote passed",
-			"tr": "投票已通过"
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": "管理员强制否决了投票"
-		},
-		{
-			"or": "Vote failed",
-			"tr": "投票被否决"
 		},
 		{
 			"or": "Teams are locked",
@@ -1352,6 +1299,10 @@
 			"tr": "难度"
 		},
 		{
+			"or": "Score limit",
+			"tr": "目标得分"
+		},
+		{
 			"or": "Time limit",
 			"tr": "规定时限"
 		},
@@ -1418,22 +1369,6 @@
 		{
 			"or": "Add",
 			"tr": "添加"
-		},
-		{
-			"or": "Local server",
-			"tr": "本地服务器"
-		},
-		{
-			"or": "Editor",
-			"tr": "编辑器"
-		},
-		{
-			"or": "Play",
-			"tr": "开始游戏"
-		},
-		{
-			"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-			"tr": "Teeworlds %s已经发布！请访问 www.teeworlds.com 下载最新版本！"
 		},
 		{
 			"or": "Hue:",
@@ -1723,6 +1658,10 @@
 			"tr": "抗锯齿"
 		},
 		{
+			"or": "Enable OpenGL ES",
+			"tr": "启用OpenGL ES"
+		},
+		{
 			"or": "V-Sync",
 			"tr": "垂直同步"
 		},
@@ -1821,6 +1760,71 @@
 		{
 			"or": "You have to wait %1.0f seconds to change identity.",
 			"tr": "你需要等待 %1.0f 秒才能修改身份"
+		},
+		{
+			"or": "Local server",
+			"tr": "本地服务器"
+		},
+		{
+			"or": "Editor",
+			"tr": "编辑器"
+		},
+		{
+			"or": "Play",
+			"tr": "开始游戏"
+		},
+		{
+			"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
+			"tr": "Teeworlds %s已经发布！请访问 www.teeworlds.com 下载最新版本！"
+		},
+		{
+			"or": "Time limit: %d min",
+			"tr": "规定时限：%d分钟"
+		},
+		{
+			"context": "rounds (scoreboard)",
+			"or": "Match",
+			"tr": "比赛"
+		},
+		{
+			"or": "Game over",
+			"tr": "游戏结束"
+		},
+		{
+			"or": "Round over",
+			"tr": "回合结束"
+		},
+		{
+			"or": "Map record",
+			"tr": "地图最高记录"
+		},
+		{
+			"or": "Time",
+			"tr": "用时"
+		},
+		{
+			"or": "Score",
+			"tr": "分数"
+		},
+		{
+			"or": "REC %3d:%02d",
+			"tr": "REC %3d:%02d"
+		},
+		{
+			"or": "%s wins!",
+			"tr": "%s胜利!"
+		},
+		{
+			"or": "Draw!",
+			"tr": "平局！"
+		},
+		{
+			"or": "Round over!",
+			"tr": "回合结束！"
+		},
+		{
+			"or": "Free-View",
+			"tr": "自由视角"
 		}
 	]
 }

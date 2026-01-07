@@ -130,6 +130,320 @@
 			"tr": ""
 		},
 		{
+			"or": "Move left",
+			"tr": "Sola git"
+		},
+		{
+			"or": "Move right",
+			"tr": "Sağa git"
+		},
+		{
+			"or": "Jump",
+			"tr": "Zıpla"
+		},
+		{
+			"or": "Fire",
+			"tr": "Ateş"
+		},
+		{
+			"or": "Hook",
+			"tr": "Kanca"
+		},
+		{
+			"or": "Hammer",
+			"tr": "Çekiç"
+		},
+		{
+			"or": "Pistol",
+			"tr": "Tabanca"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "Tüfek"
+		},
+		{
+			"or": "Grenade",
+			"tr": "El bombası"
+		},
+		{
+			"or": "Laser",
+			"tr": "Lazer"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "Sonraki silah"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "Önceki silah"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "Olumlu oy ver"
+		},
+		{
+			"or": "Vote no",
+			"tr": "Olumsuz oy ver"
+		},
+		{
+			"or": "Chat",
+			"tr": "Sohbet"
+		},
+		{
+			"or": "Team chat",
+			"tr": "Takım sohbeti"
+		},
+		{
+			"or": "Whisper",
+			"tr": "Fısılda"
+		},
+		{
+			"or": "Show chat",
+			"tr": "Sohbeti göster"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "Yüz ifadesi"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "İzleyici modu"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "Sıradakini izle"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "Öncekini izle"
+		},
+		{
+			"or": "Console",
+			"tr": "Konsol"
+		},
+		{
+			"or": "Remote console",
+			"tr": "Uzak konsol"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "Ekran alıntısı"
+		},
+		{
+			"or": "Scoreboard",
+			"tr": "Skor tahtası"
+		},
+		{
+			"or": "Statboard",
+			"tr": ""
+		},
+		{
+			"or": "Respawn",
+			"tr": "Yeniden doğ"
+		},
+		{
+			"or": "Ready",
+			"tr": "Hazır"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": "Demo işareti ekle"
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": ""
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": ""
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": "İşletim sisteminin fare ivmesini kullan."
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": "Menü fare hassasiyeti."
+		},
+		{
+			"or": "Enable joystick",
+			"tr": ""
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": ""
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": ""
+		},
+		{
+			"or": "Configure statboard",
+			"tr": ""
+		},
+		{
+			"or": "Device",
+			"tr": ""
+		},
+		{
+			"or": "Status",
+			"tr": ""
+		},
+		{
+			"or": "Aim bind",
+			"tr": ""
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "body",
+			"tr": "gövde"
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": "damga"
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": "Dekorasyon"
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": "eller"
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": "ayak"
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "gözler"
+		},
+		{
+			"or": "Name",
+			"tr": "Ad"
+		},
+		{
+			"or": "Suicides",
+			"tr": ""
+		},
+		{
+			"or": "Ratio",
+			"tr": ""
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": ""
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": ""
+		},
+		{
+			"or": "Best spree",
+			"tr": ""
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": ""
+		},
+		{
+			"or": "%d other players",
+			"tr": "%dbaşka oyuncu"
+		},
+		{
+			"or": "Red team",
+			"tr": "Kırmızı takım"
+		},
+		{
+			"or": "Blue team",
+			"tr": "Mavi takım"
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": "'%s' sunucu ayarlarını değiştirmek için oylama başlattı '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": "'%s', '%s' adlı kişiyi oyundan atmak için oylama başlattı (%s)"
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": "'%s', '%s' adlı kişiyi izleyici yapmak için oylama başlattı (%s)"
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": "Yönetici '%s' sunucu ayarını değistirmeye zorladı (%s)"
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": "Yönetici '%s' adlı kişiyi izleyici yaptı (%s)"
+		},
+		{
+			"or": "Vote aborted",
+			"tr": "Oylama iptal edildi"
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": "Yönetici oylamayı \"olumlu\" olarak zorladı"
+		},
+		{
+			"or": "Vote passed",
+			"tr": "Oylama başarılı"
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": "Yönetici oylamayı 'olumsuz' olarak zorladı"
+		},
+		{
+			"or": "Vote failed",
+			"tr": "Oylama başarısız"
+		},
+		{
 			"or": "Map changed to '%s'",
 			"tr": ""
 		},
@@ -144,10 +458,6 @@
 		{
 			"or": "Team",
 			"tr": "Takım"
-		},
-		{
-			"or": "Chat",
-			"tr": "Sohbet"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -474,10 +784,6 @@
 			"tr": "Demonun adını değiştirmek istediğinize emin misiniz?"
 		},
 		{
-			"or": "Name",
-			"tr": "Ad"
-		},
-		{
 			"or": "Error",
 			"tr": "Hata"
 		},
@@ -793,206 +1099,12 @@
 			"tr": ""
 		},
 		{
-			"or": "Scoreboard",
-			"tr": "Skor tahtası"
-		},
-		{
 			"or": "Refresh",
 			"tr": "Yenile"
 		},
 		{
 			"or": "Connect",
 			"tr": "Bağlan"
-		},
-		{
-			"or": "Move left",
-			"tr": "Sola git"
-		},
-		{
-			"or": "Move right",
-			"tr": "Sağa git"
-		},
-		{
-			"or": "Jump",
-			"tr": "Zıpla"
-		},
-		{
-			"or": "Fire",
-			"tr": "Ateş"
-		},
-		{
-			"or": "Hook",
-			"tr": "Kanca"
-		},
-		{
-			"or": "Hammer",
-			"tr": "Çekiç"
-		},
-		{
-			"or": "Pistol",
-			"tr": "Tabanca"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "Tüfek"
-		},
-		{
-			"or": "Grenade",
-			"tr": "El bombası"
-		},
-		{
-			"or": "Laser",
-			"tr": "Lazer"
-		},
-		{
-			"or": "Next weapon",
-			"tr": "Sonraki silah"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "Önceki silah"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "Olumlu oy ver"
-		},
-		{
-			"or": "Vote no",
-			"tr": "Olumsuz oy ver"
-		},
-		{
-			"or": "Team chat",
-			"tr": "Takım sohbeti"
-		},
-		{
-			"or": "Whisper",
-			"tr": "Fısılda"
-		},
-		{
-			"or": "Show chat",
-			"tr": "Sohbeti göster"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "Yüz ifadesi"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "İzleyici modu"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "Sıradakini izle"
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "Öncekini izle"
-		},
-		{
-			"or": "Console",
-			"tr": "Konsol"
-		},
-		{
-			"or": "Remote console",
-			"tr": "Uzak konsol"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "Ekran alıntısı"
-		},
-		{
-			"or": "Statboard",
-			"tr": ""
-		},
-		{
-			"or": "Respawn",
-			"tr": "Yeniden doğ"
-		},
-		{
-			"or": "Ready",
-			"tr": "Hazır"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": "Demo işareti ekle"
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": ""
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": ""
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": "İşletim sisteminin fare ivmesini kullan."
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": "Menü fare hassasiyeti."
-		},
-		{
-			"or": "Enable joystick",
-			"tr": ""
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": ""
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": ""
-		},
-		{
-			"or": "Configure statboard",
-			"tr": ""
-		},
-		{
-			"or": "Device",
-			"tr": ""
-		},
-		{
-			"or": "Status",
-			"tr": ""
-		},
-		{
-			"or": "Aim bind",
-			"tr": ""
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": ""
 		},
 		{
 			"or": "Length",
@@ -1090,171 +1202,6 @@
 		{
 			"or": "Crc",
 			"tr": "Sağlama"
-		},
-		{
-			"or": "Score limit",
-			"tr": "Skor limiti"
-		},
-		{
-			"or": "Time limit: %d min",
-			"tr": "Süre limiti: %d dakika"
-		},
-		{
-			"context": "rounds (scoreboard)",
-			"or": "Match",
-			"tr": "Maç"
-		},
-		{
-			"or": "Game over",
-			"tr": "Oyun sonu"
-		},
-		{
-			"or": "Round over",
-			"tr": "Tur bitti"
-		},
-		{
-			"or": "Map record",
-			"tr": ""
-		},
-		{
-			"or": "Time",
-			"tr": ""
-		},
-		{
-			"or": "Score",
-			"tr": "Skor"
-		},
-		{
-			"or": "%d other players",
-			"tr": "%dbaşka oyuncu"
-		},
-		{
-			"or": "REC %3d:%02d",
-			"tr": "Kayıt %3d:%02d"
-		},
-		{
-			"or": "Red team",
-			"tr": "Kırmızı takım"
-		},
-		{
-			"or": "Blue team",
-			"tr": "Mavi takım"
-		},
-		{
-			"or": "%s wins!",
-			"tr": "%s kazandı!"
-		},
-		{
-			"or": "Draw!",
-			"tr": "Berabere!"
-		},
-		{
-			"or": "Round over!",
-			"tr": "Tur bitti!"
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": "gövde"
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": "damga"
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": "Dekorasyon"
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": "eller"
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": "ayak"
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "gözler"
-		},
-		{
-			"or": "Free-View",
-			"tr": "Serbest Görüntü"
-		},
-		{
-			"or": "Suicides",
-			"tr": ""
-		},
-		{
-			"or": "Ratio",
-			"tr": ""
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
-			"tr": ""
-		},
-		{
-			"or": "KPM",
-			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": ""
-		},
-		{
-			"or": "Best spree",
-			"tr": ""
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": ""
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": "'%s' sunucu ayarlarını değiştirmek için oylama başlattı '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": "'%s', '%s' adlı kişiyi oyundan atmak için oylama başlattı (%s)"
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": "'%s', '%s' adlı kişiyi izleyici yapmak için oylama başlattı (%s)"
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": "Yönetici '%s' sunucu ayarını değistirmeye zorladı (%s)"
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": "Yönetici '%s' adlı kişiyi izleyici yaptı (%s)"
-		},
-		{
-			"or": "Vote aborted",
-			"tr": "Oylama iptal edildi"
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": "Yönetici oylamayı \"olumlu\" olarak zorladı"
-		},
-		{
-			"or": "Vote passed",
-			"tr": "Oylama başarılı"
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": "Yönetici oylamayı 'olumsuz' olarak zorladı"
-		},
-		{
-			"or": "Vote failed",
-			"tr": "Oylama başarısız"
 		},
 		{
 			"or": "Teams are locked",
@@ -1355,6 +1302,10 @@
 			"tr": "Zorluk"
 		},
 		{
+			"or": "Score limit",
+			"tr": "Skor limiti"
+		},
+		{
 			"or": "Time limit",
 			"tr": "Süre limiti"
 		},
@@ -1421,22 +1372,6 @@
 		{
 			"or": "Add",
 			"tr": "Ekle"
-		},
-		{
-			"or": "Local server",
-			"tr": "Yerel Sunucu"
-		},
-		{
-			"or": "Editor",
-			"tr": "Editör"
-		},
-		{
-			"or": "Play",
-			"tr": "Oyna"
-		},
-		{
-			"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-			"tr": "Teeworlds %s çıktı! www.teeworlds.com dan indir!"
 		},
 		{
 			"or": "Hue:",
@@ -1726,6 +1661,10 @@
 			"tr": "Anti Aliasing"
 		},
 		{
+			"or": "Enable OpenGL ES",
+			"tr": ""
+		},
+		{
 			"or": "V-Sync",
 			"tr": "V-Sync"
 		},
@@ -1824,6 +1763,71 @@
 		{
 			"or": "You have to wait %1.0f seconds to change identity.",
 			"tr": "Kimlik değiştirmek için %1.0f saniye beklemelisiniz."
+		},
+		{
+			"or": "Local server",
+			"tr": "Yerel Sunucu"
+		},
+		{
+			"or": "Editor",
+			"tr": "Editör"
+		},
+		{
+			"or": "Play",
+			"tr": "Oyna"
+		},
+		{
+			"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
+			"tr": "Teeworlds %s çıktı! www.teeworlds.com dan indir!"
+		},
+		{
+			"or": "Time limit: %d min",
+			"tr": "Süre limiti: %d dakika"
+		},
+		{
+			"context": "rounds (scoreboard)",
+			"or": "Match",
+			"tr": "Maç"
+		},
+		{
+			"or": "Game over",
+			"tr": "Oyun sonu"
+		},
+		{
+			"or": "Round over",
+			"tr": "Tur bitti"
+		},
+		{
+			"or": "Map record",
+			"tr": ""
+		},
+		{
+			"or": "Time",
+			"tr": ""
+		},
+		{
+			"or": "Score",
+			"tr": "Skor"
+		},
+		{
+			"or": "REC %3d:%02d",
+			"tr": "Kayıt %3d:%02d"
+		},
+		{
+			"or": "%s wins!",
+			"tr": "%s kazandı!"
+		},
+		{
+			"or": "Draw!",
+			"tr": "Berabere!"
+		},
+		{
+			"or": "Round over!",
+			"tr": "Tur bitti!"
+		},
+		{
+			"or": "Free-View",
+			"tr": "Serbest Görüntü"
 		}
 	]
 }
