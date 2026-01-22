@@ -13,10 +13,6 @@
 	},
 	"translated strings": [
 		{
-			"or": "Search:",
-			"tr": "Hledat:"
-		},
-		{
 			"or": "Teams were swapped",
 			"tr": ""
 		},
@@ -125,322 +121,12 @@
 			"tr": ""
 		},
 		{
+			"or": "Search:",
+			"tr": "Hledat:"
+		},
+		{
 			"or": "key not found",
 			"tr": ""
-		},
-		{
-			"or": "Move left",
-			"tr": "Pohyb doleva"
-		},
-		{
-			"or": "Move right",
-			"tr": "Pohyb doprava"
-		},
-		{
-			"or": "Jump",
-			"tr": "Skok"
-		},
-		{
-			"or": "Fire",
-			"tr": "Střelba"
-		},
-		{
-			"or": "Hook",
-			"tr": "Hák"
-		},
-		{
-			"or": "Hammer",
-			"tr": "Palice"
-		},
-		{
-			"or": "Pistol",
-			"tr": "Pistol"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "Brokovnice"
-		},
-		{
-			"or": "Grenade",
-			"tr": "Granátomet"
-		},
-		{
-			"or": "Laser",
-			"tr": "Laser"
-		},
-		{
-			"or": "Next weapon",
-			"tr": "Další zbraň"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "Předchozí zbraň"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "ANO"
-		},
-		{
-			"or": "Vote no",
-			"tr": "NE"
-		},
-		{
-			"or": "Chat",
-			"tr": "Chat"
-		},
-		{
-			"or": "Team chat",
-			"tr": "Týmový chat"
-		},
-		{
-			"or": "Whisper",
-			"tr": ""
-		},
-		{
-			"or": "Show chat",
-			"tr": "Zobrazit chat"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "Emotikony"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "Nastavit pozorování"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "Pozorovat dalšího"
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "Pozorovat minulého"
-		},
-		{
-			"or": "Console",
-			"tr": "Konzola"
-		},
-		{
-			"or": "Remote console",
-			"tr": "Vzdálená konzola"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "Vyfotit obrazovku"
-		},
-		{
-			"or": "Scoreboard",
-			"tr": "Tabulka výsledků"
-		},
-		{
-			"or": "Statboard",
-			"tr": ""
-		},
-		{
-			"or": "Respawn",
-			"tr": "Obživit"
-		},
-		{
-			"or": "Ready",
-			"tr": ""
-		},
-		{
-			"or": "Add demo marker",
-			"tr": ""
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": ""
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": ""
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": ""
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Enable joystick",
-			"tr": ""
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": ""
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": ""
-		},
-		{
-			"or": "Configure statboard",
-			"tr": ""
-		},
-		{
-			"or": "Device",
-			"tr": ""
-		},
-		{
-			"or": "Status",
-			"tr": ""
-		},
-		{
-			"or": "Aim bind",
-			"tr": ""
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "oči"
-		},
-		{
-			"or": "Name",
-			"tr": "Jméno"
-		},
-		{
-			"or": "Suicides",
-			"tr": ""
-		},
-		{
-			"or": "Ratio",
-			"tr": ""
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
-			"tr": ""
-		},
-		{
-			"or": "KPM",
-			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": ""
-		},
-		{
-			"or": "Best spree",
-			"tr": ""
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": ""
-		},
-		{
-			"or": "%d other players",
-			"tr": ""
-		},
-		{
-			"or": "Red team",
-			"tr": "Červení"
-		},
-		{
-			"or": "Blue team",
-			"tr": "Modří"
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": "Hráč '%s' vyvolal hlasování o změně nastavení serveru  '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": "Hráč '%s' vyvolal hlasování o vykopnutí hráče '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": "Hráč '%s' vyvolal hlasování o přesunutí hráče '%s' mezi pozorovatele (%s)"
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": "Administrátor vynutil nastavení serveru '%s' (%s)"
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": "Administrátor přesunul hráče '%s' mezi pozorovatele (%s)"
-		},
-		{
-			"or": "Vote aborted",
-			"tr": "Hlasování bylo přerušeno"
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": ""
-		},
-		{
-			"or": "Vote passed",
-			"tr": "Hlasování se zdařilo"
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": ""
-		},
-		{
-			"or": "Vote failed",
-			"tr": "Hlasování se nezdařilo"
 		},
 		{
 			"or": "Map changed to '%s'",
@@ -457,6 +143,10 @@
 		{
 			"or": "Team",
 			"tr": "Týmu"
+		},
+		{
+			"or": "Chat",
+			"tr": "Chat"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -783,6 +473,10 @@
 			"tr": "Opravdu chcete přejmenovat tento záznam?"
 		},
 		{
+			"or": "Name",
+			"tr": "Jméno"
+		},
+		{
 			"or": "Error",
 			"tr": "Chyba"
 		},
@@ -1098,12 +792,206 @@
 			"tr": ""
 		},
 		{
+			"or": "Scoreboard",
+			"tr": "Tabulka výsledků"
+		},
+		{
 			"or": "Refresh",
 			"tr": "Obnovit"
 		},
 		{
 			"or": "Connect",
 			"tr": "Připojit"
+		},
+		{
+			"or": "Move left",
+			"tr": "Pohyb doleva"
+		},
+		{
+			"or": "Move right",
+			"tr": "Pohyb doprava"
+		},
+		{
+			"or": "Jump",
+			"tr": "Skok"
+		},
+		{
+			"or": "Fire",
+			"tr": "Střelba"
+		},
+		{
+			"or": "Hook",
+			"tr": "Hák"
+		},
+		{
+			"or": "Hammer",
+			"tr": "Palice"
+		},
+		{
+			"or": "Pistol",
+			"tr": "Pistol"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "Brokovnice"
+		},
+		{
+			"or": "Grenade",
+			"tr": "Granátomet"
+		},
+		{
+			"or": "Laser",
+			"tr": "Laser"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "Další zbraň"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "Předchozí zbraň"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "ANO"
+		},
+		{
+			"or": "Vote no",
+			"tr": "NE"
+		},
+		{
+			"or": "Team chat",
+			"tr": "Týmový chat"
+		},
+		{
+			"or": "Whisper",
+			"tr": ""
+		},
+		{
+			"or": "Show chat",
+			"tr": "Zobrazit chat"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "Emotikony"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "Nastavit pozorování"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "Pozorovat dalšího"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "Pozorovat minulého"
+		},
+		{
+			"or": "Console",
+			"tr": "Konzola"
+		},
+		{
+			"or": "Remote console",
+			"tr": "Vzdálená konzola"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "Vyfotit obrazovku"
+		},
+		{
+			"or": "Statboard",
+			"tr": ""
+		},
+		{
+			"or": "Respawn",
+			"tr": "Obživit"
+		},
+		{
+			"or": "Ready",
+			"tr": ""
+		},
+		{
+			"or": "Add demo marker",
+			"tr": ""
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": ""
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": ""
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": ""
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Enable joystick",
+			"tr": ""
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": ""
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": ""
+		},
+		{
+			"or": "Configure statboard",
+			"tr": ""
+		},
+		{
+			"or": "Device",
+			"tr": ""
+		},
+		{
+			"or": "Status",
+			"tr": ""
+		},
+		{
+			"or": "Aim bind",
+			"tr": ""
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": ""
 		},
 		{
 			"or": "Length",
@@ -1596,6 +1484,14 @@
 			"tr": ""
 		},
 		{
+			"or": "Suicides",
+			"tr": ""
+		},
+		{
+			"or": "Ratio",
+			"tr": ""
+		},
+		{
 			"or": "The ratio of kills to deaths.",
 			"tr": ""
 		},
@@ -1613,6 +1509,10 @@
 		},
 		{
 			"or": "Current spree",
+			"tr": ""
+		},
+		{
+			"or": "Best spree",
 			"tr": ""
 		},
 		{
@@ -1776,8 +1676,8 @@
 			"tr": "Hrát"
 		},
 		{
-			"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-			"tr": "Stáhněte si nové Teeworlds %s na www.teeworlds.com!"
+			"or": "Teeworlds Archive %s is out! Download it at our github!",
+			"tr": ""
 		},
 		{
 			"or": "Time limit: %d min",
@@ -1809,8 +1709,20 @@
 			"tr": "Skóre"
 		},
 		{
+			"or": "%d other players",
+			"tr": ""
+		},
+		{
 			"or": "REC %3d:%02d",
 			"tr": "REC %3d:%02d"
+		},
+		{
+			"or": "Red team",
+			"tr": "Červení"
+		},
+		{
+			"or": "Blue team",
+			"tr": "Modří"
 		},
 		{
 			"or": "%s wins!",
@@ -1825,8 +1737,96 @@
 			"tr": "Kolo skončilo!"
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "oči"
+		},
+		{
 			"or": "Free-View",
 			"tr": "Volný pohled"
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": ""
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": ""
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": "Hráč '%s' vyvolal hlasování o změně nastavení serveru  '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": "Hráč '%s' vyvolal hlasování o vykopnutí hráče '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": "Hráč '%s' vyvolal hlasování o přesunutí hráče '%s' mezi pozorovatele (%s)"
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": "Administrátor vynutil nastavení serveru '%s' (%s)"
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": "Administrátor přesunul hráče '%s' mezi pozorovatele (%s)"
+		},
+		{
+			"or": "Vote aborted",
+			"tr": "Hlasování bylo přerušeno"
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": ""
+		},
+		{
+			"or": "Vote passed",
+			"tr": "Hlasování se zdařilo"
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": ""
+		},
+		{
+			"or": "Vote failed",
+			"tr": "Hlasování se nezdařilo"
 		}
 	]
 }

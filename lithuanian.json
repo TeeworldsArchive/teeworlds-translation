@@ -8,10 +8,6 @@
 	},
 	"translated strings": [
 		{
-			"or": "Search:",
-			"tr": "Ieškoti:"
-		},
-		{
 			"or": "Teams were swapped",
 			"tr": ""
 		},
@@ -120,322 +116,12 @@
 			"tr": "'%s' prisijungė prie žiūrovų"
 		},
 		{
+			"or": "Search:",
+			"tr": "Ieškoti:"
+		},
+		{
 			"or": "key not found",
 			"tr": ""
-		},
-		{
-			"or": "Move left",
-			"tr": "Judėti kairėn"
-		},
-		{
-			"or": "Move right",
-			"tr": "Judėti dešinėn"
-		},
-		{
-			"or": "Jump",
-			"tr": "Šokti"
-		},
-		{
-			"or": "Fire",
-			"tr": "Ugnis"
-		},
-		{
-			"or": "Hook",
-			"tr": "Kablys"
-		},
-		{
-			"or": "Hammer",
-			"tr": "Plaktukas"
-		},
-		{
-			"or": "Pistol",
-			"tr": "Pistoletas"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "Šratinis šautuvas"
-		},
-		{
-			"or": "Grenade",
-			"tr": "Granata"
-		},
-		{
-			"or": "Laser",
-			"tr": "Lazeris"
-		},
-		{
-			"or": "Next weapon",
-			"tr": "Kitas ginklas"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "Praeitas ginklas"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "Balsuoti taip"
-		},
-		{
-			"or": "Vote no",
-			"tr": "Balsuoti ne"
-		},
-		{
-			"or": "Chat",
-			"tr": "Pokalbis"
-		},
-		{
-			"or": "Team chat",
-			"tr": "Komandos pokalbis"
-		},
-		{
-			"or": "Whisper",
-			"tr": "Šnabždėti"
-		},
-		{
-			"or": "Show chat",
-			"tr": "Rodyti pokalbį"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "Emoticon"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "Žiūrovo režimas"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "Žiūrėti kitą"
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "Žiūrėti praeitą"
-		},
-		{
-			"or": "Console",
-			"tr": "Konsolė"
-		},
-		{
-			"or": "Remote console",
-			"tr": "Nuotolinė konsolė"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "Ekrano nuotrauka"
-		},
-		{
-			"or": "Scoreboard",
-			"tr": "Taškų lentelė"
-		},
-		{
-			"or": "Statboard",
-			"tr": ""
-		},
-		{
-			"or": "Respawn",
-			"tr": "Atsirasti"
-		},
-		{
-			"or": "Ready",
-			"tr": "Pasiruošęs"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": "Pridėti demo žymeklį"
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": ""
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": ""
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": "Naudoti OS pelės akceleraciją"
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": "Meniu pelės jautrumas"
-		},
-		{
-			"or": "Enable joystick",
-			"tr": ""
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": ""
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": ""
-		},
-		{
-			"or": "Configure statboard",
-			"tr": ""
-		},
-		{
-			"or": "Device",
-			"tr": ""
-		},
-		{
-			"or": "Status",
-			"tr": ""
-		},
-		{
-			"or": "Aim bind",
-			"tr": ""
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": "kūnas"
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": "žymėjimas"
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": "dekoracijos"
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": "rankos"
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": "kojos"
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "akys"
-		},
-		{
-			"or": "Name",
-			"tr": "Vardas"
-		},
-		{
-			"or": "Suicides",
-			"tr": ""
-		},
-		{
-			"or": "Ratio",
-			"tr": ""
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
-			"tr": ""
-		},
-		{
-			"or": "KPM",
-			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": ""
-		},
-		{
-			"or": "Best spree",
-			"tr": ""
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": ""
-		},
-		{
-			"or": "%d other players",
-			"tr": "%dkiti žaidėjai"
-		},
-		{
-			"or": "Red team",
-			"tr": "Raudona komanda"
-		},
-		{
-			"or": "Blue team",
-			"tr": "Mėlyna komanda"
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": "'%s' kviečia balsuoti kad pakeistų serverio nustatymą '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": "'%s' kviečia balsuoti kad išspirtų '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": "'%s' kviečia balsuoti, kad perkeltų '%s' į žiūrovus (%s)"
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": "Administratorius pakeitė serverio nustatymą \"%s\" (%s)"
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": "Administratorius perkėlė '%s' į žiūrovus (%s)"
-		},
-		{
-			"or": "Vote aborted",
-			"tr": "Balsavimas atšauktas"
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": "Administratorius privertė balsuoti taip"
-		},
-		{
-			"or": "Vote passed",
-			"tr": "Balsavimas pavyko"
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": "Administratorius priverstinai balsavo ne"
-		},
-		{
-			"or": "Vote failed",
-			"tr": "Balsavimas nepavyko"
 		},
 		{
 			"or": "Map changed to '%s'",
@@ -452,6 +138,10 @@
 		{
 			"or": "Team",
 			"tr": "Komanda"
+		},
+		{
+			"or": "Chat",
+			"tr": "Pokalbis"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -778,6 +468,10 @@
 			"tr": "Ar tikrai norite pervadinti šį demo?"
 		},
 		{
+			"or": "Name",
+			"tr": "Vardas"
+		},
+		{
 			"or": "Error",
 			"tr": "Klaida"
 		},
@@ -1093,12 +787,206 @@
 			"tr": ""
 		},
 		{
+			"or": "Scoreboard",
+			"tr": "Taškų lentelė"
+		},
+		{
 			"or": "Refresh",
 			"tr": "Atnaujinti"
 		},
 		{
 			"or": "Connect",
 			"tr": "Jungtis"
+		},
+		{
+			"or": "Move left",
+			"tr": "Judėti kairėn"
+		},
+		{
+			"or": "Move right",
+			"tr": "Judėti dešinėn"
+		},
+		{
+			"or": "Jump",
+			"tr": "Šokti"
+		},
+		{
+			"or": "Fire",
+			"tr": "Ugnis"
+		},
+		{
+			"or": "Hook",
+			"tr": "Kablys"
+		},
+		{
+			"or": "Hammer",
+			"tr": "Plaktukas"
+		},
+		{
+			"or": "Pistol",
+			"tr": "Pistoletas"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "Šratinis šautuvas"
+		},
+		{
+			"or": "Grenade",
+			"tr": "Granata"
+		},
+		{
+			"or": "Laser",
+			"tr": "Lazeris"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "Kitas ginklas"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "Praeitas ginklas"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "Balsuoti taip"
+		},
+		{
+			"or": "Vote no",
+			"tr": "Balsuoti ne"
+		},
+		{
+			"or": "Team chat",
+			"tr": "Komandos pokalbis"
+		},
+		{
+			"or": "Whisper",
+			"tr": "Šnabždėti"
+		},
+		{
+			"or": "Show chat",
+			"tr": "Rodyti pokalbį"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "Emoticon"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "Žiūrovo režimas"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "Žiūrėti kitą"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "Žiūrėti praeitą"
+		},
+		{
+			"or": "Console",
+			"tr": "Konsolė"
+		},
+		{
+			"or": "Remote console",
+			"tr": "Nuotolinė konsolė"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "Ekrano nuotrauka"
+		},
+		{
+			"or": "Statboard",
+			"tr": ""
+		},
+		{
+			"or": "Respawn",
+			"tr": "Atsirasti"
+		},
+		{
+			"or": "Ready",
+			"tr": "Pasiruošęs"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": "Pridėti demo žymeklį"
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": ""
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": ""
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": "Naudoti OS pelės akceleraciją"
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": "Meniu pelės jautrumas"
+		},
+		{
+			"or": "Enable joystick",
+			"tr": ""
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": ""
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": ""
+		},
+		{
+			"or": "Configure statboard",
+			"tr": ""
+		},
+		{
+			"or": "Device",
+			"tr": ""
+		},
+		{
+			"or": "Status",
+			"tr": ""
+		},
+		{
+			"or": "Aim bind",
+			"tr": ""
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": ""
 		},
 		{
 			"or": "Length",
@@ -1591,6 +1479,14 @@
 			"tr": ""
 		},
 		{
+			"or": "Suicides",
+			"tr": ""
+		},
+		{
+			"or": "Ratio",
+			"tr": ""
+		},
+		{
 			"or": "The ratio of kills to deaths.",
 			"tr": ""
 		},
@@ -1608,6 +1504,10 @@
 		},
 		{
 			"or": "Current spree",
+			"tr": ""
+		},
+		{
+			"or": "Best spree",
 			"tr": ""
 		},
 		{
@@ -1771,8 +1671,8 @@
 			"tr": "Žaisti"
 		},
 		{
-			"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-			"tr": "Teeworld nauja versija %s .Atsisiūskite iš www.teeworlds.com!"
+			"or": "Teeworlds Archive %s is out! Download it at our github!",
+			"tr": ""
 		},
 		{
 			"or": "Time limit: %d min",
@@ -1804,8 +1704,20 @@
 			"tr": "Taškai"
 		},
 		{
+			"or": "%d other players",
+			"tr": "%dkiti žaidėjai"
+		},
+		{
 			"or": "REC %3d:%02d",
 			"tr": "REC %3d:%02d"
+		},
+		{
+			"or": "Red team",
+			"tr": "Raudona komanda"
+		},
+		{
+			"or": "Blue team",
+			"tr": "Mėlyna komanda"
 		},
 		{
 			"or": "%s wins!",
@@ -1820,8 +1732,96 @@
 			"tr": "Raundas Baigtas!"
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": "kūnas"
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": "žymėjimas"
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": "dekoracijos"
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": "rankos"
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": "kojos"
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "akys"
+		},
+		{
 			"or": "Free-View",
 			"tr": "Laisvas vaizdas"
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": ""
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": ""
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": "'%s' kviečia balsuoti kad pakeistų serverio nustatymą '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": "'%s' kviečia balsuoti kad išspirtų '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": "'%s' kviečia balsuoti, kad perkeltų '%s' į žiūrovus (%s)"
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": "Administratorius pakeitė serverio nustatymą \"%s\" (%s)"
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": "Administratorius perkėlė '%s' į žiūrovus (%s)"
+		},
+		{
+			"or": "Vote aborted",
+			"tr": "Balsavimas atšauktas"
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": "Administratorius privertė balsuoti taip"
+		},
+		{
+			"or": "Vote passed",
+			"tr": "Balsavimas pavyko"
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": "Administratorius priverstinai balsavo ne"
+		},
+		{
+			"or": "Vote failed",
+			"tr": "Balsavimas nepavyko"
 		}
 	]
 }

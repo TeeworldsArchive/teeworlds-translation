@@ -7,10 +7,6 @@
 	},
 	"translated strings": [
 		{
-			"or": "Search:",
-			"tr": ""
-		},
-		{
 			"or": "Teams were swapped",
 			"tr": ""
 		},
@@ -119,321 +115,11 @@
 			"tr": ""
 		},
 		{
+			"or": "Search:",
+			"tr": ""
+		},
+		{
 			"or": "key not found",
-			"tr": ""
-		},
-		{
-			"or": "Move left",
-			"tr": "왼쪽으로 이동"
-		},
-		{
-			"or": "Move right",
-			"tr": "오른쪽으로 이동"
-		},
-		{
-			"or": "Jump",
-			"tr": "점프"
-		},
-		{
-			"or": "Fire",
-			"tr": "발사"
-		},
-		{
-			"or": "Hook",
-			"tr": "갈고리"
-		},
-		{
-			"or": "Hammer",
-			"tr": "해머"
-		},
-		{
-			"or": "Pistol",
-			"tr": "권총"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "샷건"
-		},
-		{
-			"or": "Grenade",
-			"tr": "유탄 발사기"
-		},
-		{
-			"or": "Laser",
-			"tr": ""
-		},
-		{
-			"or": "Next weapon",
-			"tr": "다음 무기"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "이전 무기"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "예"
-		},
-		{
-			"or": "Vote no",
-			"tr": "아니오"
-		},
-		{
-			"or": "Chat",
-			"tr": "채팅"
-		},
-		{
-			"or": "Team chat",
-			"tr": "팀 채팅"
-		},
-		{
-			"or": "Whisper",
-			"tr": ""
-		},
-		{
-			"or": "Show chat",
-			"tr": "채팅 보기"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "이모티콘"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "관전 모드"
-		},
-		{
-			"or": "Spectate next",
-			"tr": ""
-		},
-		{
-			"or": "Spectate previous",
-			"tr": ""
-		},
-		{
-			"or": "Console",
-			"tr": "콘솔"
-		},
-		{
-			"or": "Remote console",
-			"tr": "원격 콘솔"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "스크린샷"
-		},
-		{
-			"or": "Scoreboard",
-			"tr": "점수판"
-		},
-		{
-			"or": "Statboard",
-			"tr": ""
-		},
-		{
-			"or": "Respawn",
-			"tr": ""
-		},
-		{
-			"or": "Ready",
-			"tr": ""
-		},
-		{
-			"or": "Add demo marker",
-			"tr": ""
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": ""
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": ""
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": ""
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Enable joystick",
-			"tr": ""
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": ""
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": ""
-		},
-		{
-			"or": "Configure statboard",
-			"tr": ""
-		},
-		{
-			"or": "Device",
-			"tr": ""
-		},
-		{
-			"or": "Status",
-			"tr": ""
-		},
-		{
-			"or": "Aim bind",
-			"tr": ""
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": ""
-		},
-		{
-			"or": "Name",
-			"tr": "이름"
-		},
-		{
-			"or": "Suicides",
-			"tr": ""
-		},
-		{
-			"or": "Ratio",
-			"tr": ""
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
-			"tr": ""
-		},
-		{
-			"or": "KPM",
-			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": ""
-		},
-		{
-			"or": "Best spree",
-			"tr": ""
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": ""
-		},
-		{
-			"or": "%d other players",
-			"tr": ""
-		},
-		{
-			"or": "Red team",
-			"tr": "레드팀"
-		},
-		{
-			"or": "Blue team",
-			"tr": "블루팀"
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": ""
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": ""
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": ""
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": ""
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": ""
-		},
-		{
-			"or": "Vote aborted",
-			"tr": ""
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": ""
-		},
-		{
-			"or": "Vote passed",
-			"tr": ""
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": ""
-		},
-		{
-			"or": "Vote failed",
 			"tr": ""
 		},
 		{
@@ -451,6 +137,10 @@
 		{
 			"or": "Team",
 			"tr": "팀"
+		},
+		{
+			"or": "Chat",
+			"tr": "채팅"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -777,6 +467,10 @@
 			"tr": ""
 		},
 		{
+			"or": "Name",
+			"tr": "이름"
+		},
+		{
 			"or": "Error",
 			"tr": "에러"
 		},
@@ -1092,12 +786,206 @@
 			"tr": ""
 		},
 		{
+			"or": "Scoreboard",
+			"tr": "점수판"
+		},
+		{
 			"or": "Refresh",
 			"tr": "새로고침"
 		},
 		{
 			"or": "Connect",
 			"tr": "연결"
+		},
+		{
+			"or": "Move left",
+			"tr": "왼쪽으로 이동"
+		},
+		{
+			"or": "Move right",
+			"tr": "오른쪽으로 이동"
+		},
+		{
+			"or": "Jump",
+			"tr": "점프"
+		},
+		{
+			"or": "Fire",
+			"tr": "발사"
+		},
+		{
+			"or": "Hook",
+			"tr": "갈고리"
+		},
+		{
+			"or": "Hammer",
+			"tr": "해머"
+		},
+		{
+			"or": "Pistol",
+			"tr": "권총"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "샷건"
+		},
+		{
+			"or": "Grenade",
+			"tr": "유탄 발사기"
+		},
+		{
+			"or": "Laser",
+			"tr": ""
+		},
+		{
+			"or": "Next weapon",
+			"tr": "다음 무기"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "이전 무기"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "예"
+		},
+		{
+			"or": "Vote no",
+			"tr": "아니오"
+		},
+		{
+			"or": "Team chat",
+			"tr": "팀 채팅"
+		},
+		{
+			"or": "Whisper",
+			"tr": ""
+		},
+		{
+			"or": "Show chat",
+			"tr": "채팅 보기"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "이모티콘"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "관전 모드"
+		},
+		{
+			"or": "Spectate next",
+			"tr": ""
+		},
+		{
+			"or": "Spectate previous",
+			"tr": ""
+		},
+		{
+			"or": "Console",
+			"tr": "콘솔"
+		},
+		{
+			"or": "Remote console",
+			"tr": "원격 콘솔"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "스크린샷"
+		},
+		{
+			"or": "Statboard",
+			"tr": ""
+		},
+		{
+			"or": "Respawn",
+			"tr": ""
+		},
+		{
+			"or": "Ready",
+			"tr": ""
+		},
+		{
+			"or": "Add demo marker",
+			"tr": ""
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": ""
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": ""
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": ""
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Enable joystick",
+			"tr": ""
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": ""
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": ""
+		},
+		{
+			"or": "Configure statboard",
+			"tr": ""
+		},
+		{
+			"or": "Device",
+			"tr": ""
+		},
+		{
+			"or": "Status",
+			"tr": ""
+		},
+		{
+			"or": "Aim bind",
+			"tr": ""
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": ""
 		},
 		{
 			"or": "Length",
@@ -1590,6 +1478,14 @@
 			"tr": ""
 		},
 		{
+			"or": "Suicides",
+			"tr": ""
+		},
+		{
+			"or": "Ratio",
+			"tr": ""
+		},
+		{
 			"or": "The ratio of kills to deaths.",
 			"tr": ""
 		},
@@ -1607,6 +1503,10 @@
 		},
 		{
 			"or": "Current spree",
+			"tr": ""
+		},
+		{
+			"or": "Best spree",
 			"tr": ""
 		},
 		{
@@ -1770,8 +1670,8 @@
 			"tr": "플레이"
 		},
 		{
-			"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-			"tr": "Teeworlds %s is out! Download it at www.teeworlds.com!"
+			"or": "Teeworlds Archive %s is out! Download it at our github!",
+			"tr": ""
 		},
 		{
 			"or": "Time limit: %d min",
@@ -1803,8 +1703,20 @@
 			"tr": "점수"
 		},
 		{
+			"or": "%d other players",
+			"tr": ""
+		},
+		{
 			"or": "REC %3d:%02d",
 			"tr": "녹화 %3d:%02d"
+		},
+		{
+			"or": "Red team",
+			"tr": "레드팀"
+		},
+		{
+			"or": "Blue team",
+			"tr": "블루팀"
 		},
 		{
 			"or": "%s wins!",
@@ -1819,8 +1731,96 @@
 			"tr": ""
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": ""
+		},
+		{
 			"or": "Free-View",
 			"tr": "자유 시점"
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": ""
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": ""
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": ""
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": ""
+		},
+		{
+			"or": "Vote aborted",
+			"tr": ""
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": ""
+		},
+		{
+			"or": "Vote passed",
+			"tr": ""
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": ""
+		},
+		{
+			"or": "Vote failed",
+			"tr": ""
 		}
 	]
 }

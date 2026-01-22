@@ -7,10 +7,6 @@
 	},
 	"translated strings": [
 		{
-			"or": "Search:",
-			"tr": ""
-		},
-		{
 			"or": "Teams were swapped",
 			"tr": ""
 		},
@@ -119,322 +115,12 @@
 			"tr": ""
 		},
 		{
+			"or": "Search:",
+			"tr": ""
+		},
+		{
 			"or": "key not found",
 			"tr": ""
-		},
-		{
-			"or": "Move left",
-			"tr": "Сулахаялла"
-		},
-		{
-			"or": "Move right",
-			"tr": "Сылтăмалла"
-		},
-		{
-			"or": "Jump",
-			"tr": "Сик"
-		},
-		{
-			"or": "Fire",
-			"tr": "Пĕрӳ"
-		},
-		{
-			"or": "Hook",
-			"tr": "Çекĕл"
-		},
-		{
-			"or": "Hammer",
-			"tr": "Мăлатук"
-		},
-		{
-			"or": "Pistol",
-			"tr": "Пистолет"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "Йĕтре пăшал"
-		},
-		{
-			"or": "Grenade",
-			"tr": "Гранатомёт"
-		},
-		{
-			"or": "Laser",
-			"tr": ""
-		},
-		{
-			"or": "Next weapon",
-			"tr": "Тепĕр хĕç-пăшал"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "Малтанхи хĕç-пăшал"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "Çинчен"
-		},
-		{
-			"or": "Vote no",
-			"tr": "Хирĕç"
-		},
-		{
-			"or": "Chat",
-			"tr": "Калаçу"
-		},
-		{
-			"or": "Team chat",
-			"tr": "Ушкăнри калаçу"
-		},
-		{
-			"or": "Whisper",
-			"tr": ""
-		},
-		{
-			"or": "Show chat",
-			"tr": "Калаçӳ кăтартма"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "Кăмăл-туйăмсем"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "Пăхакан"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "Тепĕрне пăхма"
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "Малтанхине пăхма"
-		},
-		{
-			"or": "Console",
-			"tr": "Консоль"
-		},
-		{
-			"or": "Remote console",
-			"tr": "Сервер консолĕ"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "Экран ӳкерӳ"
-		},
-		{
-			"or": "Scoreboard",
-			"tr": "Паллăсен хăмми"
-		},
-		{
-			"or": "Statboard",
-			"tr": ""
-		},
-		{
-			"or": "Respawn",
-			"tr": ""
-		},
-		{
-			"or": "Ready",
-			"tr": "Хатер"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": ""
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": ""
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": ""
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": ""
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Enable joystick",
-			"tr": ""
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": ""
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": ""
-		},
-		{
-			"or": "Configure statboard",
-			"tr": ""
-		},
-		{
-			"or": "Device",
-			"tr": ""
-		},
-		{
-			"or": "Status",
-			"tr": ""
-		},
-		{
-			"or": "Aim bind",
-			"tr": ""
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": ""
-		},
-		{
-			"or": "Name",
-			"tr": "Ят"
-		},
-		{
-			"or": "Suicides",
-			"tr": ""
-		},
-		{
-			"or": "Ratio",
-			"tr": ""
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
-			"tr": ""
-		},
-		{
-			"or": "KPM",
-			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": ""
-		},
-		{
-			"or": "Best spree",
-			"tr": ""
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": ""
-		},
-		{
-			"or": "%d other players",
-			"tr": ""
-		},
-		{
-			"or": "Red team",
-			"tr": "Хĕрлĕ ушкăн"
-		},
-		{
-			"or": "Blue team",
-			"tr": "Кăвак ушкăн"
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": ""
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": ""
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": ""
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": ""
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": ""
-		},
-		{
-			"or": "Vote aborted",
-			"tr": ""
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": "Админ суйланине ҫапла ҫине лартрӗ"
-		},
-		{
-			"or": "Vote passed",
-			"tr": ""
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": "Админ суйсану ҫӳк ҫине лартрӗ"
-		},
-		{
-			"or": "Vote failed",
-			"tr": "Суйлу ватнă"
 		},
 		{
 			"or": "Map changed to '%s'",
@@ -451,6 +137,10 @@
 		{
 			"or": "Team",
 			"tr": "Ушкăн"
+		},
+		{
+			"or": "Chat",
+			"tr": "Калаçу"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -777,6 +467,10 @@
 			"tr": ""
 		},
 		{
+			"or": "Name",
+			"tr": "Ят"
+		},
+		{
 			"or": "Error",
 			"tr": "Йăнăш"
 		},
@@ -1092,12 +786,206 @@
 			"tr": ""
 		},
 		{
+			"or": "Scoreboard",
+			"tr": "Паллăсен хăмми"
+		},
+		{
 			"or": "Refresh",
 			"tr": "Каллех вула"
 		},
 		{
 			"or": "Connect",
 			"tr": "Çых"
+		},
+		{
+			"or": "Move left",
+			"tr": "Сулахаялла"
+		},
+		{
+			"or": "Move right",
+			"tr": "Сылтăмалла"
+		},
+		{
+			"or": "Jump",
+			"tr": "Сик"
+		},
+		{
+			"or": "Fire",
+			"tr": "Пĕрӳ"
+		},
+		{
+			"or": "Hook",
+			"tr": "Çекĕл"
+		},
+		{
+			"or": "Hammer",
+			"tr": "Мăлатук"
+		},
+		{
+			"or": "Pistol",
+			"tr": "Пистолет"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "Йĕтре пăшал"
+		},
+		{
+			"or": "Grenade",
+			"tr": "Гранатомёт"
+		},
+		{
+			"or": "Laser",
+			"tr": ""
+		},
+		{
+			"or": "Next weapon",
+			"tr": "Тепĕр хĕç-пăшал"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "Малтанхи хĕç-пăшал"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "Çинчен"
+		},
+		{
+			"or": "Vote no",
+			"tr": "Хирĕç"
+		},
+		{
+			"or": "Team chat",
+			"tr": "Ушкăнри калаçу"
+		},
+		{
+			"or": "Whisper",
+			"tr": ""
+		},
+		{
+			"or": "Show chat",
+			"tr": "Калаçӳ кăтартма"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "Кăмăл-туйăмсем"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "Пăхакан"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "Тепĕрне пăхма"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "Малтанхине пăхма"
+		},
+		{
+			"or": "Console",
+			"tr": "Консоль"
+		},
+		{
+			"or": "Remote console",
+			"tr": "Сервер консолĕ"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "Экран ӳкерӳ"
+		},
+		{
+			"or": "Statboard",
+			"tr": ""
+		},
+		{
+			"or": "Respawn",
+			"tr": ""
+		},
+		{
+			"or": "Ready",
+			"tr": "Хатер"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": ""
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": ""
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": ""
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": ""
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Enable joystick",
+			"tr": ""
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": ""
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": ""
+		},
+		{
+			"or": "Configure statboard",
+			"tr": ""
+		},
+		{
+			"or": "Device",
+			"tr": ""
+		},
+		{
+			"or": "Status",
+			"tr": ""
+		},
+		{
+			"or": "Aim bind",
+			"tr": ""
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": ""
 		},
 		{
 			"or": "Length",
@@ -1590,6 +1478,14 @@
 			"tr": ""
 		},
 		{
+			"or": "Suicides",
+			"tr": ""
+		},
+		{
+			"or": "Ratio",
+			"tr": ""
+		},
+		{
 			"or": "The ratio of kills to deaths.",
 			"tr": ""
 		},
@@ -1607,6 +1503,10 @@
 		},
 		{
 			"or": "Current spree",
+			"tr": ""
+		},
+		{
+			"or": "Best spree",
 			"tr": ""
 		},
 		{
@@ -1770,7 +1670,7 @@
 			"tr": "Выля"
 		},
 		{
-			"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
+			"or": "Teeworlds Archive %s is out! Download it at our github!",
 			"tr": ""
 		},
 		{
@@ -1803,8 +1703,20 @@
 			"tr": "Паллă"
 		},
 		{
+			"or": "%d other players",
+			"tr": ""
+		},
+		{
 			"or": "REC %3d:%02d",
 			"tr": "REC %3d:%02d"
+		},
+		{
+			"or": "Red team",
+			"tr": "Хĕрлĕ ушкăн"
+		},
+		{
+			"or": "Blue team",
+			"tr": "Кăвак ушкăн"
 		},
 		{
 			"or": "%s wins!",
@@ -1819,8 +1731,96 @@
 			"tr": ""
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": ""
+		},
+		{
 			"or": "Free-View",
 			"tr": "Ирĕклĕ обзор"
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": ""
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": ""
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": ""
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": ""
+		},
+		{
+			"or": "Vote aborted",
+			"tr": ""
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": "Админ суйланине ҫапла ҫине лартрӗ"
+		},
+		{
+			"or": "Vote passed",
+			"tr": ""
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": "Админ суйсану ҫӳк ҫине лартрӗ"
+		},
+		{
+			"or": "Vote failed",
+			"tr": "Суйлу ватнă"
 		}
 	]
 }

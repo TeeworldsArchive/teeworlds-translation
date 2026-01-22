@@ -10,10 +10,6 @@
 	},
 	"translated strings": [
 		{
-			"or": "Search:",
-			"tr": "Пошук:"
-		},
-		{
 			"or": "Teams were swapped",
 			"tr": ""
 		},
@@ -122,322 +118,12 @@
 			"tr": "'%s' приєднався до спостерігачів"
 		},
 		{
+			"or": "Search:",
+			"tr": "Пошук:"
+		},
+		{
 			"or": "key not found",
 			"tr": ""
-		},
-		{
-			"or": "Move left",
-			"tr": "Рух ліворуч"
-		},
-		{
-			"or": "Move right",
-			"tr": "Рух праворуч"
-		},
-		{
-			"or": "Jump",
-			"tr": "Стрибок"
-		},
-		{
-			"or": "Fire",
-			"tr": "Постріл"
-		},
-		{
-			"or": "Hook",
-			"tr": "Гак"
-		},
-		{
-			"or": "Hammer",
-			"tr": "Молоток"
-		},
-		{
-			"or": "Pistol",
-			"tr": "Пістолет"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "Дробовик"
-		},
-		{
-			"or": "Grenade",
-			"tr": "Ракетниця"
-		},
-		{
-			"or": "Laser",
-			"tr": "Лазер"
-		},
-		{
-			"or": "Next weapon",
-			"tr": "Наступ. зброя"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "Попер. зброя"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "За"
-		},
-		{
-			"or": "Vote no",
-			"tr": "Проти"
-		},
-		{
-			"or": "Chat",
-			"tr": "Чат"
-		},
-		{
-			"or": "Team chat",
-			"tr": "Командний чат"
-		},
-		{
-			"or": "Whisper",
-			"tr": "Написати гравцю"
-		},
-		{
-			"or": "Show chat",
-			"tr": "Показати чат"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "Емоція"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "Режим спостерігача"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "Спост. за наст."
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "Спост. за поп."
-		},
-		{
-			"or": "Console",
-			"tr": "Консоль"
-		},
-		{
-			"or": "Remote console",
-			"tr": "Консоль сервера"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "Скріншот"
-		},
-		{
-			"or": "Scoreboard",
-			"tr": "Хід гри"
-		},
-		{
-			"or": "Statboard",
-			"tr": "Статистика"
-		},
-		{
-			"or": "Respawn",
-			"tr": "Респаун"
-		},
-		{
-			"or": "Ready",
-			"tr": "Готовність"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": "Додати демо мітку часу"
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": ""
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": ""
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": "Використовувати прискорення миші від ОС"
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": "Чутливість курсору в меню"
-		},
-		{
-			"or": "Enable joystick",
-			"tr": ""
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": ""
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": ""
-		},
-		{
-			"or": "Configure statboard",
-			"tr": "Налаштування вікна статистики"
-		},
-		{
-			"or": "Device",
-			"tr": ""
-		},
-		{
-			"or": "Status",
-			"tr": ""
-		},
-		{
-			"or": "Aim bind",
-			"tr": ""
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": "Тіло"
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": "Забарвлення"
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": "Оздоблення"
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": "Руки"
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": "Ноги"
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "Очі"
-		},
-		{
-			"or": "Name",
-			"tr": "Ім'я"
-		},
-		{
-			"or": "Suicides",
-			"tr": "Самовбивства"
-		},
-		{
-			"or": "Ratio",
-			"tr": "Співвідношення"
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
-			"tr": "Головне"
-		},
-		{
-			"or": "KPM",
-			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": "Серія"
-		},
-		{
-			"or": "Best spree",
-			"tr": "Найкраща серія"
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": "Підбирання"
-		},
-		{
-			"or": "%d other players",
-			"tr": "%d інші гравці"
-		},
-		{
-			"or": "Red team",
-			"tr": "Червоні"
-		},
-		{
-			"or": "Blue team",
-			"tr": "Сині"
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": "'%s' проголосував за зміну серверного параметру '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": "'%s' закликав голосуванням штурхнути з гри '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": "'%s' закликав голосуванням перемістити '%s' до спостерегачів (%s)"
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": "Адміністратор змінив опцію сервера '%s' (%s)"
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": "Адмін перемістив гравця '%s' в спостерагачі (%s)"
-		},
-		{
-			"or": "Vote aborted",
-			"tr": "Голосування скасовано"
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": "Адмін примусово проголосував так"
-		},
-		{
-			"or": "Vote passed",
-			"tr": "Голосування успішне"
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": "Адміністратор примусово проголосував ні"
-		},
-		{
-			"or": "Vote failed",
-			"tr": "Голосування провалено"
 		},
 		{
 			"or": "Map changed to '%s'",
@@ -454,6 +140,10 @@
 		{
 			"or": "Team",
 			"tr": "Команда"
+		},
+		{
+			"or": "Chat",
+			"tr": "Чат"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -780,6 +470,10 @@
 			"tr": "Ви впевнені, що бажаєте перейменувати демо?"
 		},
 		{
+			"or": "Name",
+			"tr": "Ім'я"
+		},
+		{
 			"or": "Error",
 			"tr": "Помилка"
 		},
@@ -1095,12 +789,206 @@
 			"tr": ""
 		},
 		{
+			"or": "Scoreboard",
+			"tr": "Хід гри"
+		},
+		{
 			"or": "Refresh",
 			"tr": "Оновити"
 		},
 		{
 			"or": "Connect",
 			"tr": "Під’єднатись"
+		},
+		{
+			"or": "Move left",
+			"tr": "Рух ліворуч"
+		},
+		{
+			"or": "Move right",
+			"tr": "Рух праворуч"
+		},
+		{
+			"or": "Jump",
+			"tr": "Стрибок"
+		},
+		{
+			"or": "Fire",
+			"tr": "Постріл"
+		},
+		{
+			"or": "Hook",
+			"tr": "Гак"
+		},
+		{
+			"or": "Hammer",
+			"tr": "Молоток"
+		},
+		{
+			"or": "Pistol",
+			"tr": "Пістолет"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "Дробовик"
+		},
+		{
+			"or": "Grenade",
+			"tr": "Ракетниця"
+		},
+		{
+			"or": "Laser",
+			"tr": "Лазер"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "Наступ. зброя"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "Попер. зброя"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "За"
+		},
+		{
+			"or": "Vote no",
+			"tr": "Проти"
+		},
+		{
+			"or": "Team chat",
+			"tr": "Командний чат"
+		},
+		{
+			"or": "Whisper",
+			"tr": "Написати гравцю"
+		},
+		{
+			"or": "Show chat",
+			"tr": "Показати чат"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "Емоція"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "Режим спостерігача"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "Спост. за наст."
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "Спост. за поп."
+		},
+		{
+			"or": "Console",
+			"tr": "Консоль"
+		},
+		{
+			"or": "Remote console",
+			"tr": "Консоль сервера"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "Скріншот"
+		},
+		{
+			"or": "Statboard",
+			"tr": "Статистика"
+		},
+		{
+			"or": "Respawn",
+			"tr": "Респаун"
+		},
+		{
+			"or": "Ready",
+			"tr": "Готовність"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": "Додати демо мітку часу"
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": ""
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": ""
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": "Використовувати прискорення миші від ОС"
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": "Чутливість курсору в меню"
+		},
+		{
+			"or": "Enable joystick",
+			"tr": ""
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": ""
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": ""
+		},
+		{
+			"or": "Configure statboard",
+			"tr": "Налаштування вікна статистики"
+		},
+		{
+			"or": "Device",
+			"tr": ""
+		},
+		{
+			"or": "Status",
+			"tr": ""
+		},
+		{
+			"or": "Aim bind",
+			"tr": ""
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": ""
 		},
 		{
 			"or": "Length",
@@ -1593,6 +1481,14 @@
 			"tr": "Смерті"
 		},
 		{
+			"or": "Suicides",
+			"tr": "Самовбивства"
+		},
+		{
+			"or": "Ratio",
+			"tr": "Співвідношення"
+		},
+		{
 			"or": "The ratio of kills to deaths.",
 			"tr": ""
 		},
@@ -1611,6 +1507,10 @@
 		{
 			"or": "Current spree",
 			"tr": "Поточна серія"
+		},
+		{
+			"or": "Best spree",
+			"tr": "Найкраща серія"
 		},
 		{
 			"or": "Weapons stats",
@@ -1773,8 +1673,8 @@
 			"tr": "Грати"
 		},
 		{
-			"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-			"tr": "Вийшла Teeworlds %s! Завантажуйте на www.teeworlds.com!"
+			"or": "Teeworlds Archive %s is out! Download it at our github!",
+			"tr": ""
 		},
 		{
 			"or": "Time limit: %d min",
@@ -1806,8 +1706,20 @@
 			"tr": "Очки"
 		},
 		{
+			"or": "%d other players",
+			"tr": "%d інші гравці"
+		},
+		{
 			"or": "REC %3d:%02d",
 			"tr": "REC %3d:%02d"
+		},
+		{
+			"or": "Red team",
+			"tr": "Червоні"
+		},
+		{
+			"or": "Blue team",
+			"tr": "Сині"
 		},
 		{
 			"or": "%s wins!",
@@ -1822,8 +1734,96 @@
 			"tr": "Кінець раунду!"
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": "Тіло"
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": "Забарвлення"
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": "Оздоблення"
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": "Руки"
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": "Ноги"
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "Очі"
+		},
+		{
 			"or": "Free-View",
 			"tr": "Вільний перегляд"
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": "Головне"
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": "Серія"
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": "Підбирання"
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": "'%s' проголосував за зміну серверного параметру '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": "'%s' закликав голосуванням штурхнути з гри '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": "'%s' закликав голосуванням перемістити '%s' до спостерегачів (%s)"
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": "Адміністратор змінив опцію сервера '%s' (%s)"
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": "Адмін перемістив гравця '%s' в спостерагачі (%s)"
+		},
+		{
+			"or": "Vote aborted",
+			"tr": "Голосування скасовано"
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": "Адмін примусово проголосував так"
+		},
+		{
+			"or": "Vote passed",
+			"tr": "Голосування успішне"
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": "Адміністратор примусово проголосував ні"
+		},
+		{
+			"or": "Vote failed",
+			"tr": "Голосування провалено"
 		}
 	]
 }

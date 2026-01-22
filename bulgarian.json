@@ -10,10 +10,6 @@
 	},
 	"translated strings": [
 		{
-			"or": "Search:",
-			"tr": "Търсене:"
-		},
-		{
 			"or": "Teams were swapped",
 			"tr": "Отборите бяха разменени"
 		},
@@ -122,322 +118,12 @@
 			"tr": "„%s“ се присъедини към наблюдателите"
 		},
 		{
+			"or": "Search:",
+			"tr": "Търсене:"
+		},
+		{
 			"or": "key not found",
 			"tr": "ключът не е намерен"
-		},
-		{
-			"or": "Move left",
-			"tr": "Наляво"
-		},
-		{
-			"or": "Move right",
-			"tr": "Надясно"
-		},
-		{
-			"or": "Jump",
-			"tr": "Скок"
-		},
-		{
-			"or": "Fire",
-			"tr": "Стрелба"
-		},
-		{
-			"or": "Hook",
-			"tr": "Кука"
-		},
-		{
-			"or": "Hammer",
-			"tr": "Чук"
-		},
-		{
-			"or": "Pistol",
-			"tr": "Пистолет"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "Пушка"
-		},
-		{
-			"or": "Grenade",
-			"tr": "Граната"
-		},
-		{
-			"or": "Laser",
-			"tr": "Лазер"
-		},
-		{
-			"or": "Next weapon",
-			"tr": "Следв. оръжие"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "Предх. оръжие"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "За"
-		},
-		{
-			"or": "Vote no",
-			"tr": "Против"
-		},
-		{
-			"or": "Chat",
-			"tr": "Чат"
-		},
-		{
-			"or": "Team chat",
-			"tr": "Отборен чат"
-		},
-		{
-			"or": "Whisper",
-			"tr": "Шепот"
-		},
-		{
-			"or": "Show chat",
-			"tr": "Показване на чата"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "Емотиконка"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "Режим на наблюдаване"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "Наблюдаване на следв."
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "Наблюдаване на пред."
-		},
-		{
-			"or": "Console",
-			"tr": "Конзола"
-		},
-		{
-			"or": "Remote console",
-			"tr": "Отдалечена конзола"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "Снимка"
-		},
-		{
-			"or": "Scoreboard",
-			"tr": "Табло с резултати"
-		},
-		{
-			"or": "Statboard",
-			"tr": "Табло с резултати"
-		},
-		{
-			"or": "Respawn",
-			"tr": "Прераждане"
-		},
-		{
-			"or": "Ready",
-			"tr": "Готов"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": "Добавяне на отметка за момента в записа"
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": "Превключване на звуците"
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": "Превключване на динамичната камера"
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": "Използване на ускорението на мишката от ОС"
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": "Чувств. на мишката в менютата"
-		},
-		{
-			"or": "Enable joystick",
-			"tr": "Включване на контролера"
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": "Допустимо треперене на джойстика"
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": "Няма намерени контролери. Включете контролер и рестартирайте играта."
-		},
-		{
-			"or": "Configure statboard",
-			"tr": "Настройка на таблото с резултатите"
-		},
-		{
-			"or": "Device",
-			"tr": "Устройство"
-		},
-		{
-			"or": "Status",
-			"tr": "Състояние"
-		},
-		{
-			"or": "Aim bind",
-			"tr": "Прицелване"
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": "Ос #%d"
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": "тяло"
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": "оцветяване"
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": "украса"
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": "ръце"
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": "крака"
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "очи"
-		},
-		{
-			"or": "Name",
-			"tr": "Име"
-		},
-		{
-			"or": "Suicides",
-			"tr": "Самоубийства"
-		},
-		{
-			"or": "Ratio",
-			"tr": "Съотношение"
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
-			"tr": "Разлика"
-		},
-		{
-			"or": "KPM",
-			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": "Серия"
-		},
-		{
-			"or": "Best spree",
-			"tr": "Най-добра серия"
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": "Вземания"
-		},
-		{
-			"or": "%d other players",
-			"tr": "%dдруги играчи"
-		},
-		{
-			"or": "Red team",
-			"tr": "Червен отбор"
-		},
-		{
-			"or": "Blue team",
-			"tr": "Син отбор"
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": "„%s“ поиска гласуване за промяна на сървърния параметър „%s“ (%s)"
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": "„%s“ поиска гласуване за изритване на „%s“ (%s)"
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": "„%s“ поиска гласуване за прехвърляне на „%s“ към наблюдателите (%s)"
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": "Администраторът насили сървърния параметър „%s“ (%s)"
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": "Администраторът направи „%s“ наблюдател (%s)"
-		},
-		{
-			"or": "Vote aborted",
-			"tr": "Гласуването е отменено"
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": "Администраторът насили гласуването със „за“"
-		},
-		{
-			"or": "Vote passed",
-			"tr": "Гласуването мина"
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": "Администраторът насили гласуването с „против“"
-		},
-		{
-			"or": "Vote failed",
-			"tr": "Гласуването не мина"
 		},
 		{
 			"or": "Map changed to '%s'",
@@ -454,6 +140,10 @@
 		{
 			"or": "Team",
 			"tr": "Отбор"
+		},
+		{
+			"or": "Chat",
+			"tr": "Чат"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -780,6 +470,10 @@
 			"tr": "Наистина ли искате да преименувате този запис?"
 		},
 		{
+			"or": "Name",
+			"tr": "Име"
+		},
+		{
 			"or": "Error",
 			"tr": "Грешка"
 		},
@@ -1095,12 +789,206 @@
 			"tr": ""
 		},
 		{
+			"or": "Scoreboard",
+			"tr": "Табло с резултати"
+		},
+		{
 			"or": "Refresh",
 			"tr": "Опресняване"
 		},
 		{
 			"or": "Connect",
 			"tr": "Свързване"
+		},
+		{
+			"or": "Move left",
+			"tr": "Наляво"
+		},
+		{
+			"or": "Move right",
+			"tr": "Надясно"
+		},
+		{
+			"or": "Jump",
+			"tr": "Скок"
+		},
+		{
+			"or": "Fire",
+			"tr": "Стрелба"
+		},
+		{
+			"or": "Hook",
+			"tr": "Кука"
+		},
+		{
+			"or": "Hammer",
+			"tr": "Чук"
+		},
+		{
+			"or": "Pistol",
+			"tr": "Пистолет"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "Пушка"
+		},
+		{
+			"or": "Grenade",
+			"tr": "Граната"
+		},
+		{
+			"or": "Laser",
+			"tr": "Лазер"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "Следв. оръжие"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "Предх. оръжие"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "За"
+		},
+		{
+			"or": "Vote no",
+			"tr": "Против"
+		},
+		{
+			"or": "Team chat",
+			"tr": "Отборен чат"
+		},
+		{
+			"or": "Whisper",
+			"tr": "Шепот"
+		},
+		{
+			"or": "Show chat",
+			"tr": "Показване на чата"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "Емотиконка"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "Режим на наблюдаване"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "Наблюдаване на следв."
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "Наблюдаване на пред."
+		},
+		{
+			"or": "Console",
+			"tr": "Конзола"
+		},
+		{
+			"or": "Remote console",
+			"tr": "Отдалечена конзола"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "Снимка"
+		},
+		{
+			"or": "Statboard",
+			"tr": "Табло с резултати"
+		},
+		{
+			"or": "Respawn",
+			"tr": "Прераждане"
+		},
+		{
+			"or": "Ready",
+			"tr": "Готов"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": "Добавяне на отметка за момента в записа"
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": "Превключване на звуците"
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": "Превключване на динамичната камера"
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": "Използване на ускорението на мишката от ОС"
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": "Чувств. на мишката в менютата"
+		},
+		{
+			"or": "Enable joystick",
+			"tr": "Включване на контролера"
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": "Допустимо треперене на джойстика"
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": "Няма намерени контролери. Включете контролер и рестартирайте играта."
+		},
+		{
+			"or": "Configure statboard",
+			"tr": "Настройка на таблото с резултатите"
+		},
+		{
+			"or": "Device",
+			"tr": "Устройство"
+		},
+		{
+			"or": "Status",
+			"tr": "Състояние"
+		},
+		{
+			"or": "Aim bind",
+			"tr": "Прицелване"
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": "Ос #%d"
 		},
 		{
 			"or": "Length",
@@ -1593,6 +1481,14 @@
 			"tr": "Умирания"
 		},
 		{
+			"or": "Suicides",
+			"tr": "Самоубийства"
+		},
+		{
+			"or": "Ratio",
+			"tr": "Съотношение"
+		},
+		{
 			"or": "The ratio of kills to deaths.",
 			"tr": ""
 		},
@@ -1611,6 +1507,10 @@
 		{
 			"or": "Current spree",
 			"tr": "Текуща серия"
+		},
+		{
+			"or": "Best spree",
+			"tr": "Най-добра серия"
 		},
 		{
 			"or": "Weapons stats",
@@ -1773,8 +1673,8 @@
 			"tr": "Играене"
 		},
 		{
-			"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-			"tr": "Излезе Teeworlds %s! Изтеглете я от www.teeworlds.com!"
+			"or": "Teeworlds Archive %s is out! Download it at our github!",
+			"tr": ""
 		},
 		{
 			"or": "Time limit: %d min",
@@ -1806,8 +1706,20 @@
 			"tr": "Резултат"
 		},
 		{
+			"or": "%d other players",
+			"tr": "%dдруги играчи"
+		},
+		{
 			"or": "REC %3d:%02d",
 			"tr": "Записани %3d:%02d"
+		},
+		{
+			"or": "Red team",
+			"tr": "Червен отбор"
+		},
+		{
+			"or": "Blue team",
+			"tr": "Син отбор"
 		},
 		{
 			"or": "%s wins!",
@@ -1822,8 +1734,96 @@
 			"tr": "Край на рунда!"
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": "тяло"
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": "оцветяване"
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": "украса"
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": "ръце"
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": "крака"
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "очи"
+		},
+		{
 			"or": "Free-View",
 			"tr": "Свободен изглед"
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": "Разлика"
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": "Серия"
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": "Вземания"
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": "„%s“ поиска гласуване за промяна на сървърния параметър „%s“ (%s)"
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": "„%s“ поиска гласуване за изритване на „%s“ (%s)"
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": "„%s“ поиска гласуване за прехвърляне на „%s“ към наблюдателите (%s)"
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": "Администраторът насили сървърния параметър „%s“ (%s)"
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": "Администраторът направи „%s“ наблюдател (%s)"
+		},
+		{
+			"or": "Vote aborted",
+			"tr": "Гласуването е отменено"
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": "Администраторът насили гласуването със „за“"
+		},
+		{
+			"or": "Vote passed",
+			"tr": "Гласуването мина"
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": "Администраторът насили гласуването с „против“"
+		},
+		{
+			"or": "Vote failed",
+			"tr": "Гласуването не мина"
 		}
 	]
 }

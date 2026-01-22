@@ -9,10 +9,6 @@
 	},
 	"translated strings": [
 		{
-			"or": "Search:",
-			"tr": "Serĉi:"
-		},
-		{
 			"or": "Teams were swapped",
 			"tr": ""
 		},
@@ -121,322 +117,12 @@
 			"tr": ""
 		},
 		{
+			"or": "Search:",
+			"tr": "Serĉi:"
+		},
+		{
 			"or": "key not found",
 			"tr": ""
-		},
-		{
-			"or": "Move left",
-			"tr": "Moviĝi maldekstren"
-		},
-		{
-			"or": "Move right",
-			"tr": "Moviĝi dekstren"
-		},
-		{
-			"or": "Jump",
-			"tr": "Salti"
-		},
-		{
-			"or": "Fire",
-			"tr": "Pafo"
-		},
-		{
-			"or": "Hook",
-			"tr": "Hoko"
-		},
-		{
-			"or": "Hammer",
-			"tr": "Martelo"
-		},
-		{
-			"or": "Pistol",
-			"tr": "Pistolo"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "Kartoĉa Fusilo"
-		},
-		{
-			"or": "Grenade",
-			"tr": "Grenado"
-		},
-		{
-			"or": "Laser",
-			"tr": "Laserilo"
-		},
-		{
-			"or": "Next weapon",
-			"tr": "Sekva armilo"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "Antaŭa armilo"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "Voĉdonu jes"
-		},
-		{
-			"or": "Vote no",
-			"tr": "Voĉdonu ne"
-		},
-		{
-			"or": "Chat",
-			"tr": "Babilejo"
-		},
-		{
-			"or": "Team chat",
-			"tr": "Teama babilejo"
-		},
-		{
-			"or": "Whisper",
-			"tr": ""
-		},
-		{
-			"or": "Show chat",
-			"tr": "Montri babilejon"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "Miensimbolo"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "Spektanta reĝimo"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "Spekti neksta"
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "Spekti antaŭan"
-		},
-		{
-			"or": "Console",
-			"tr": "Konzolo"
-		},
-		{
-			"or": "Remote console",
-			"tr": "Telekonzolo"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "Ekrankopio"
-		},
-		{
-			"or": "Scoreboard",
-			"tr": "Rezulttabelo"
-		},
-		{
-			"or": "Statboard",
-			"tr": ""
-		},
-		{
-			"or": "Respawn",
-			"tr": "Viviĝi"
-		},
-		{
-			"or": "Ready",
-			"tr": "Preta"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": ""
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": ""
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": ""
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": ""
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Enable joystick",
-			"tr": ""
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": ""
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": ""
-		},
-		{
-			"or": "Configure statboard",
-			"tr": ""
-		},
-		{
-			"or": "Device",
-			"tr": ""
-		},
-		{
-			"or": "Status",
-			"tr": ""
-		},
-		{
-			"or": "Aim bind",
-			"tr": ""
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": ""
-		},
-		{
-			"or": "Name",
-			"tr": "Nomo"
-		},
-		{
-			"or": "Suicides",
-			"tr": ""
-		},
-		{
-			"or": "Ratio",
-			"tr": ""
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
-			"tr": ""
-		},
-		{
-			"or": "KPM",
-			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": ""
-		},
-		{
-			"or": "Best spree",
-			"tr": ""
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": ""
-		},
-		{
-			"or": "%d other players",
-			"tr": ""
-		},
-		{
-			"or": "Red team",
-			"tr": "Ruĝa teamo"
-		},
-		{
-			"or": "Blue team",
-			"tr": "Blua teamo"
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": "'%s' volas voĉdoni por ŝanĝi la servilagordo '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": "%s' volas forigi '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": "'%s' volas forigi '%s' al la spektantoj (%s)"
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": "Administranto trudis servilagordon '%s' (%s)"
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": "La administranto movis '%s' al spektanto (%s)"
-		},
-		{
-			"or": "Vote aborted",
-			"tr": "Voĉdonado estis nuligita"
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": "La administranto trudis \"jes\" en la voĉdonado"
-		},
-		{
-			"or": "Vote passed",
-			"tr": "Voĉdonado pasis"
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": "La administranto eldevigis la voĉrezulton \"ne\""
-		},
-		{
-			"or": "Vote failed",
-			"tr": "La voĉdonado fiaskis"
 		},
 		{
 			"or": "Map changed to '%s'",
@@ -453,6 +139,10 @@
 		{
 			"or": "Team",
 			"tr": "Teamo"
+		},
+		{
+			"or": "Chat",
+			"tr": "Babilejo"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -779,6 +469,10 @@
 			"tr": "Ĉu vi certe volas renomigi la demonstron?"
 		},
 		{
+			"or": "Name",
+			"tr": "Nomo"
+		},
+		{
 			"or": "Error",
 			"tr": "Eraro"
 		},
@@ -1094,12 +788,206 @@
 			"tr": ""
 		},
 		{
+			"or": "Scoreboard",
+			"tr": "Rezulttabelo"
+		},
+		{
 			"or": "Refresh",
 			"tr": "Aktualigi"
 		},
 		{
 			"or": "Connect",
 			"tr": "Konekti"
+		},
+		{
+			"or": "Move left",
+			"tr": "Moviĝi maldekstren"
+		},
+		{
+			"or": "Move right",
+			"tr": "Moviĝi dekstren"
+		},
+		{
+			"or": "Jump",
+			"tr": "Salti"
+		},
+		{
+			"or": "Fire",
+			"tr": "Pafo"
+		},
+		{
+			"or": "Hook",
+			"tr": "Hoko"
+		},
+		{
+			"or": "Hammer",
+			"tr": "Martelo"
+		},
+		{
+			"or": "Pistol",
+			"tr": "Pistolo"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "Kartoĉa Fusilo"
+		},
+		{
+			"or": "Grenade",
+			"tr": "Grenado"
+		},
+		{
+			"or": "Laser",
+			"tr": "Laserilo"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "Sekva armilo"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "Antaŭa armilo"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "Voĉdonu jes"
+		},
+		{
+			"or": "Vote no",
+			"tr": "Voĉdonu ne"
+		},
+		{
+			"or": "Team chat",
+			"tr": "Teama babilejo"
+		},
+		{
+			"or": "Whisper",
+			"tr": ""
+		},
+		{
+			"or": "Show chat",
+			"tr": "Montri babilejon"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "Miensimbolo"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "Spektanta reĝimo"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "Spekti neksta"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "Spekti antaŭan"
+		},
+		{
+			"or": "Console",
+			"tr": "Konzolo"
+		},
+		{
+			"or": "Remote console",
+			"tr": "Telekonzolo"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "Ekrankopio"
+		},
+		{
+			"or": "Statboard",
+			"tr": ""
+		},
+		{
+			"or": "Respawn",
+			"tr": "Viviĝi"
+		},
+		{
+			"or": "Ready",
+			"tr": "Preta"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": ""
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": ""
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": ""
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": ""
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Enable joystick",
+			"tr": ""
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": ""
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": ""
+		},
+		{
+			"or": "Configure statboard",
+			"tr": ""
+		},
+		{
+			"or": "Device",
+			"tr": ""
+		},
+		{
+			"or": "Status",
+			"tr": ""
+		},
+		{
+			"or": "Aim bind",
+			"tr": ""
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": ""
 		},
 		{
 			"or": "Length",
@@ -1592,6 +1480,14 @@
 			"tr": ""
 		},
 		{
+			"or": "Suicides",
+			"tr": ""
+		},
+		{
+			"or": "Ratio",
+			"tr": ""
+		},
+		{
 			"or": "The ratio of kills to deaths.",
 			"tr": ""
 		},
@@ -1609,6 +1505,10 @@
 		},
 		{
 			"or": "Current spree",
+			"tr": ""
+		},
+		{
+			"or": "Best spree",
 			"tr": ""
 		},
 		{
@@ -1772,8 +1672,8 @@
 			"tr": "Ludi"
 		},
 		{
-			"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-			"tr": "Tejmondo %s estas ellasita! Elŝutu ĝin al www.teeworlds.com!"
+			"or": "Teeworlds Archive %s is out! Download it at our github!",
+			"tr": ""
 		},
 		{
 			"or": "Time limit: %d min",
@@ -1805,8 +1705,20 @@
 			"tr": "Rezulto"
 		},
 		{
+			"or": "%d other players",
+			"tr": ""
+		},
+		{
 			"or": "REC %3d:%02d",
 			"tr": "REG %3d:%02d"
+		},
+		{
+			"or": "Red team",
+			"tr": "Ruĝa teamo"
+		},
+		{
+			"or": "Blue team",
+			"tr": "Blua teamo"
 		},
 		{
 			"or": "%s wins!",
@@ -1821,8 +1733,96 @@
 			"tr": "Fino de la raŭndo!"
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": ""
+		},
+		{
 			"or": "Free-View",
 			"tr": "Libera-Vido"
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": ""
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": ""
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": "'%s' volas voĉdoni por ŝanĝi la servilagordo '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": "%s' volas forigi '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": "'%s' volas forigi '%s' al la spektantoj (%s)"
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": "Administranto trudis servilagordon '%s' (%s)"
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": "La administranto movis '%s' al spektanto (%s)"
+		},
+		{
+			"or": "Vote aborted",
+			"tr": "Voĉdonado estis nuligita"
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": "La administranto trudis \"jes\" en la voĉdonado"
+		},
+		{
+			"or": "Vote passed",
+			"tr": "Voĉdonado pasis"
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": "La administranto eldevigis la voĉrezulton \"ne\""
+		},
+		{
+			"or": "Vote failed",
+			"tr": "La voĉdonado fiaskis"
 		}
 	]
 }

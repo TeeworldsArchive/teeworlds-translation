@@ -25,10 +25,6 @@
 	},
 	"translated strings": [
 		{
-			"or": "Search:",
-			"tr": "Zoeken:"
-		},
-		{
 			"or": "Teams were swapped",
 			"tr": "De teams zijn omgewisseld"
 		},
@@ -137,322 +133,12 @@
 			"tr": "'%s' heeft zich aangesloten bij de toeschouwers"
 		},
 		{
+			"or": "Search:",
+			"tr": "Zoeken:"
+		},
+		{
 			"or": "key not found",
 			"tr": "sleutel niet gevonden"
-		},
-		{
-			"or": "Move left",
-			"tr": "Naar links verplaatsen"
-		},
-		{
-			"or": "Move right",
-			"tr": "Naar rechts verplaatsen"
-		},
-		{
-			"or": "Jump",
-			"tr": "Springen"
-		},
-		{
-			"or": "Fire",
-			"tr": "Schieten"
-		},
-		{
-			"or": "Hook",
-			"tr": "Haak"
-		},
-		{
-			"or": "Hammer",
-			"tr": "Hamer"
-		},
-		{
-			"or": "Pistol",
-			"tr": "Pistool"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "Geweer"
-		},
-		{
-			"or": "Grenade",
-			"tr": "Granaat"
-		},
-		{
-			"or": "Laser",
-			"tr": "Laser"
-		},
-		{
-			"or": "Next weapon",
-			"tr": "Volgend wapen"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "Vorig wapen"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "'Ja' stemmen"
-		},
-		{
-			"or": "Vote no",
-			"tr": "'Nee' stemmen"
-		},
-		{
-			"or": "Chat",
-			"tr": "Chat"
-		},
-		{
-			"or": "Team chat",
-			"tr": "Teamchat"
-		},
-		{
-			"or": "Whisper",
-			"tr": "Fluisteren"
-		},
-		{
-			"or": "Show chat",
-			"tr": "Chat tonen"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "Emoticon"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "Toeschouwermodus"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "Volgende speler volgen"
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "Vorige speler volgen"
-		},
-		{
-			"or": "Console",
-			"tr": "Console"
-		},
-		{
-			"or": "Remote console",
-			"tr": "Externe console"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "Schermafdruk"
-		},
-		{
-			"or": "Scoreboard",
-			"tr": "Scorebord"
-		},
-		{
-			"or": "Statboard",
-			"tr": "Statistiekpagina"
-		},
-		{
-			"or": "Respawn",
-			"tr": "Terugkeren"
-		},
-		{
-			"or": "Ready",
-			"tr": "Klaar"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": "Demomarkering toevoegen"
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": "Geluiden in-/uitschakelen"
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": "Dynamische camera in-/uitschakelen"
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": "Muisversnelling van systeem gebruiken"
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": "Muissnelheid in menu"
-		},
-		{
-			"or": "Enable joystick",
-			"tr": "Joystick gebruiken"
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": "Joystick-gevoeligheidstolerantie"
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": "Geen joysticks aangetroffen. Koppel een joystick aan en start het spel opnieuw."
-		},
-		{
-			"or": "Configure statboard",
-			"tr": "Statistiekpagina instellen"
-		},
-		{
-			"or": "Device",
-			"tr": "Apparaat"
-		},
-		{
-			"or": "Status",
-			"tr": "Status"
-		},
-		{
-			"or": "Aim bind",
-			"tr": "Richtbinding"
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": "Joystick-as #%d"
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": "lichaam"
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": "markering"
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": "decoratie"
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": "handen"
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": "voeten"
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "ogen"
-		},
-		{
-			"or": "Name",
-			"tr": "Naam"
-		},
-		{
-			"or": "Suicides",
-			"tr": "Zelfdoden"
-		},
-		{
-			"or": "Ratio",
-			"tr": "Verhouding"
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
-			"tr": "Net"
-		},
-		{
-			"or": "KPM",
-			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": "Moordaanslag"
-		},
-		{
-			"or": "Best spree",
-			"tr": "Beste moordaanslag"
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": "Gepakt"
-		},
-		{
-			"or": "%d other players",
-			"tr": "%d overige spelers"
-		},
-		{
-			"or": "Red team",
-			"tr": "Rode team"
-		},
-		{
-			"or": "Blue team",
-			"tr": "Blauwe team"
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": "'%s' heeft een stemming geopend om de serveroptie '%s' (%s) aan te passen"
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": "'%s' heeft een stemming geopend over het verbannen van '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": "'%s' heeft een stemming geopend over het verplaatsen van '%s' naar toeschouwers (%s)"
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": "Admin heeft de serveroptie '%s' (%s) afgedwongen"
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": "Admin heeft '%s' verplaatst naar de toeschouwers (%s)"
-		},
-		{
-			"or": "Vote aborted",
-			"tr": "Stemmen afgebroken"
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": "Admin heeft de 'ja'-stem afgedwongen"
-		},
-		{
-			"or": "Vote passed",
-			"tr": "Stem toegestaan"
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": "Administrator dwong 'nee'-stem af"
-		},
-		{
-			"or": "Vote failed",
-			"tr": "Stemmen mislukt"
 		},
 		{
 			"or": "Map changed to '%s'",
@@ -469,6 +155,10 @@
 		{
 			"or": "Team",
 			"tr": "Team"
+		},
+		{
+			"or": "Chat",
+			"tr": "Chat"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -795,6 +485,10 @@
 			"tr": "Weet je zeker dat je de demonaam wilt wijzigen?"
 		},
 		{
+			"or": "Name",
+			"tr": "Naam"
+		},
+		{
 			"or": "Error",
 			"tr": "Fout"
 		},
@@ -1110,12 +804,206 @@
 			"tr": ""
 		},
 		{
+			"or": "Scoreboard",
+			"tr": "Scorebord"
+		},
+		{
 			"or": "Refresh",
 			"tr": "Vernieuwen"
 		},
 		{
 			"or": "Connect",
 			"tr": "Verbinden"
+		},
+		{
+			"or": "Move left",
+			"tr": "Naar links verplaatsen"
+		},
+		{
+			"or": "Move right",
+			"tr": "Naar rechts verplaatsen"
+		},
+		{
+			"or": "Jump",
+			"tr": "Springen"
+		},
+		{
+			"or": "Fire",
+			"tr": "Schieten"
+		},
+		{
+			"or": "Hook",
+			"tr": "Haak"
+		},
+		{
+			"or": "Hammer",
+			"tr": "Hamer"
+		},
+		{
+			"or": "Pistol",
+			"tr": "Pistool"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "Geweer"
+		},
+		{
+			"or": "Grenade",
+			"tr": "Granaat"
+		},
+		{
+			"or": "Laser",
+			"tr": "Laser"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "Volgend wapen"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "Vorig wapen"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "'Ja' stemmen"
+		},
+		{
+			"or": "Vote no",
+			"tr": "'Nee' stemmen"
+		},
+		{
+			"or": "Team chat",
+			"tr": "Teamchat"
+		},
+		{
+			"or": "Whisper",
+			"tr": "Fluisteren"
+		},
+		{
+			"or": "Show chat",
+			"tr": "Chat tonen"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "Emoticon"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "Toeschouwermodus"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "Volgende speler volgen"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "Vorige speler volgen"
+		},
+		{
+			"or": "Console",
+			"tr": "Console"
+		},
+		{
+			"or": "Remote console",
+			"tr": "Externe console"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "Schermafdruk"
+		},
+		{
+			"or": "Statboard",
+			"tr": "Statistiekpagina"
+		},
+		{
+			"or": "Respawn",
+			"tr": "Terugkeren"
+		},
+		{
+			"or": "Ready",
+			"tr": "Klaar"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": "Demomarkering toevoegen"
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": "Geluiden in-/uitschakelen"
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": "Dynamische camera in-/uitschakelen"
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": "Muisversnelling van systeem gebruiken"
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": "Muissnelheid in menu"
+		},
+		{
+			"or": "Enable joystick",
+			"tr": "Joystick gebruiken"
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": "Joystick-gevoeligheidstolerantie"
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": "Geen joysticks aangetroffen. Koppel een joystick aan en start het spel opnieuw."
+		},
+		{
+			"or": "Configure statboard",
+			"tr": "Statistiekpagina instellen"
+		},
+		{
+			"or": "Device",
+			"tr": "Apparaat"
+		},
+		{
+			"or": "Status",
+			"tr": "Status"
+		},
+		{
+			"or": "Aim bind",
+			"tr": "Richtbinding"
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": "Joystick-as #%d"
 		},
 		{
 			"or": "Length",
@@ -1608,6 +1496,14 @@
 			"tr": "Doden"
 		},
 		{
+			"or": "Suicides",
+			"tr": "Zelfdoden"
+		},
+		{
+			"or": "Ratio",
+			"tr": "Verhouding"
+		},
+		{
 			"or": "The ratio of kills to deaths.",
 			"tr": ""
 		},
@@ -1626,6 +1522,10 @@
 		{
 			"or": "Current spree",
 			"tr": "Huidige moordaanslag"
+		},
+		{
+			"or": "Best spree",
+			"tr": "Beste moordaanslag"
 		},
 		{
 			"or": "Weapons stats",
@@ -1788,8 +1688,8 @@
 			"tr": "Spelen"
 		},
 		{
-			"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-			"tr": "Teeworlds %s is uitgebracht! Download het op www.teeworlds.com!"
+			"or": "Teeworlds Archive %s is out! Download it at our github!",
+			"tr": ""
 		},
 		{
 			"or": "Time limit: %d min",
@@ -1821,8 +1721,20 @@
 			"tr": "Score"
 		},
 		{
+			"or": "%d other players",
+			"tr": "%d overige spelers"
+		},
+		{
 			"or": "REC %3d:%02d",
 			"tr": "REC %3d:%02d"
+		},
+		{
+			"or": "Red team",
+			"tr": "Rode team"
+		},
+		{
+			"or": "Blue team",
+			"tr": "Blauwe team"
 		},
 		{
 			"or": "%s wins!",
@@ -1837,8 +1749,96 @@
 			"tr": "Ronde voorbij!"
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": "lichaam"
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": "markering"
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": "decoratie"
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": "handen"
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": "voeten"
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "ogen"
+		},
+		{
 			"or": "Free-View",
 			"tr": "Vrij bewegen"
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": "Net"
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": "Moordaanslag"
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": "Gepakt"
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": "'%s' heeft een stemming geopend om de serveroptie '%s' (%s) aan te passen"
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": "'%s' heeft een stemming geopend over het verbannen van '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": "'%s' heeft een stemming geopend over het verplaatsen van '%s' naar toeschouwers (%s)"
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": "Admin heeft de serveroptie '%s' (%s) afgedwongen"
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": "Admin heeft '%s' verplaatst naar de toeschouwers (%s)"
+		},
+		{
+			"or": "Vote aborted",
+			"tr": "Stemmen afgebroken"
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": "Admin heeft de 'ja'-stem afgedwongen"
+		},
+		{
+			"or": "Vote passed",
+			"tr": "Stem toegestaan"
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": "Administrator dwong 'nee'-stem af"
+		},
+		{
+			"or": "Vote failed",
+			"tr": "Stemmen mislukt"
 		}
 	]
 }

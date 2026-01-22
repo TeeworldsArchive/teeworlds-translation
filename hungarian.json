@@ -8,10 +8,6 @@
 	},
 	"translated strings": [
 		{
-			"or": "Search:",
-			"tr": "Keresés:"
-		},
-		{
 			"or": "Teams were swapped",
 			"tr": ""
 		},
@@ -120,322 +116,12 @@
 			"tr": "%s csatlakozott a nézőkhöz"
 		},
 		{
+			"or": "Search:",
+			"tr": "Keresés:"
+		},
+		{
 			"or": "key not found",
 			"tr": ""
-		},
-		{
-			"or": "Move left",
-			"tr": "Balra lépés"
-		},
-		{
-			"or": "Move right",
-			"tr": "Jobbra lépés"
-		},
-		{
-			"or": "Jump",
-			"tr": "Ugrás"
-		},
-		{
-			"or": "Fire",
-			"tr": "Tűz"
-		},
-		{
-			"or": "Hook",
-			"tr": "Horog"
-		},
-		{
-			"or": "Hammer",
-			"tr": "Kalapács"
-		},
-		{
-			"or": "Pistol",
-			"tr": "Pisztoly"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "Sörétes puska"
-		},
-		{
-			"or": "Grenade",
-			"tr": "Gránát"
-		},
-		{
-			"or": "Laser",
-			"tr": "Lézer"
-		},
-		{
-			"or": "Next weapon",
-			"tr": "Következő fegyver"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "Előző fegyver"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "Igen"
-		},
-		{
-			"or": "Vote no",
-			"tr": "Nem"
-		},
-		{
-			"or": "Chat",
-			"tr": "Chat"
-		},
-		{
-			"or": "Team chat",
-			"tr": "Csapat chat"
-		},
-		{
-			"or": "Whisper",
-			"tr": "Suttogás"
-		},
-		{
-			"or": "Show chat",
-			"tr": "Chat mutatása"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "Hangulatjel"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "Néző mód"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "A következő megfigyelése"
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "Az előző megfigyelése"
-		},
-		{
-			"or": "Console",
-			"tr": "Konzol"
-		},
-		{
-			"or": "Remote console",
-			"tr": "Távoli konzol"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "Pillanatkép"
-		},
-		{
-			"or": "Scoreboard",
-			"tr": "Pontszámtábla"
-		},
-		{
-			"or": "Statboard",
-			"tr": ""
-		},
-		{
-			"or": "Respawn",
-			"tr": "Újraéledés"
-		},
-		{
-			"or": "Ready",
-			"tr": "Kész"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": "\"Könyvjelző\" hozzáadása a demóhoz"
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": ""
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": ""
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": "OS egér gyorsítás használata"
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": "Egér érzékenysége menüben"
-		},
-		{
-			"or": "Enable joystick",
-			"tr": ""
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": ""
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": ""
-		},
-		{
-			"or": "Configure statboard",
-			"tr": ""
-		},
-		{
-			"or": "Device",
-			"tr": ""
-		},
-		{
-			"or": "Status",
-			"tr": ""
-		},
-		{
-			"or": "Aim bind",
-			"tr": ""
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": "test"
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": "mintázat"
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": "dekoráció"
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": "kezek"
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": "lábak"
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "szemek"
-		},
-		{
-			"or": "Name",
-			"tr": "Név"
-		},
-		{
-			"or": "Suicides",
-			"tr": "Öngyilkosságok"
-		},
-		{
-			"or": "Ratio",
-			"tr": ""
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
-			"tr": ""
-		},
-		{
-			"or": "KPM",
-			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": ""
-		},
-		{
-			"or": "Best spree",
-			"tr": ""
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": ""
-		},
-		{
-			"or": "%d other players",
-			"tr": "%d másik játékos"
-		},
-		{
-			"or": "Red team",
-			"tr": "Piros csapat"
-		},
-		{
-			"or": "Blue team",
-			"tr": "Kék csapat"
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": "%s szavazást indított hogy megváltoztassa a szerver beállításait '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": "%s szavazást indított %s kirúgása érdekében (%s)"
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": "%s szavazást indított %s nézők közé helyezése érdekében (%s)"
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": "Admin átállította a szerver beállításait %s (%s)"
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": "Admin %s-t a nézők közé helyezte (%s)"
-		},
-		{
-			"or": "Vote aborted",
-			"tr": "Szavazás megszakítva"
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": "Admin igennel zárta a szavazást"
-		},
-		{
-			"or": "Vote passed",
-			"tr": "Szavazás sikeres"
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": "Admin nemmel zárta a szavazást"
-		},
-		{
-			"or": "Vote failed",
-			"tr": "A szavazás elbukott"
 		},
 		{
 			"or": "Map changed to '%s'",
@@ -452,6 +138,10 @@
 		{
 			"or": "Team",
 			"tr": "Csapat"
+		},
+		{
+			"or": "Chat",
+			"tr": "Chat"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -778,6 +468,10 @@
 			"tr": "Biztosan át akarod nevezni a demót?"
 		},
 		{
+			"or": "Name",
+			"tr": "Név"
+		},
+		{
 			"or": "Error",
 			"tr": "Hiba"
 		},
@@ -1093,12 +787,206 @@
 			"tr": ""
 		},
 		{
+			"or": "Scoreboard",
+			"tr": "Pontszámtábla"
+		},
+		{
 			"or": "Refresh",
 			"tr": "Frissítés"
 		},
 		{
 			"or": "Connect",
 			"tr": "Csatlakozás"
+		},
+		{
+			"or": "Move left",
+			"tr": "Balra lépés"
+		},
+		{
+			"or": "Move right",
+			"tr": "Jobbra lépés"
+		},
+		{
+			"or": "Jump",
+			"tr": "Ugrás"
+		},
+		{
+			"or": "Fire",
+			"tr": "Tűz"
+		},
+		{
+			"or": "Hook",
+			"tr": "Horog"
+		},
+		{
+			"or": "Hammer",
+			"tr": "Kalapács"
+		},
+		{
+			"or": "Pistol",
+			"tr": "Pisztoly"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "Sörétes puska"
+		},
+		{
+			"or": "Grenade",
+			"tr": "Gránát"
+		},
+		{
+			"or": "Laser",
+			"tr": "Lézer"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "Következő fegyver"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "Előző fegyver"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "Igen"
+		},
+		{
+			"or": "Vote no",
+			"tr": "Nem"
+		},
+		{
+			"or": "Team chat",
+			"tr": "Csapat chat"
+		},
+		{
+			"or": "Whisper",
+			"tr": "Suttogás"
+		},
+		{
+			"or": "Show chat",
+			"tr": "Chat mutatása"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "Hangulatjel"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "Néző mód"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "A következő megfigyelése"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "Az előző megfigyelése"
+		},
+		{
+			"or": "Console",
+			"tr": "Konzol"
+		},
+		{
+			"or": "Remote console",
+			"tr": "Távoli konzol"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "Pillanatkép"
+		},
+		{
+			"or": "Statboard",
+			"tr": ""
+		},
+		{
+			"or": "Respawn",
+			"tr": "Újraéledés"
+		},
+		{
+			"or": "Ready",
+			"tr": "Kész"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": "\"Könyvjelző\" hozzáadása a demóhoz"
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": ""
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": ""
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": "OS egér gyorsítás használata"
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": "Egér érzékenysége menüben"
+		},
+		{
+			"or": "Enable joystick",
+			"tr": ""
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": ""
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": ""
+		},
+		{
+			"or": "Configure statboard",
+			"tr": ""
+		},
+		{
+			"or": "Device",
+			"tr": ""
+		},
+		{
+			"or": "Status",
+			"tr": ""
+		},
+		{
+			"or": "Aim bind",
+			"tr": ""
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": ""
 		},
 		{
 			"or": "Length",
@@ -1591,6 +1479,14 @@
 			"tr": "Halálok"
 		},
 		{
+			"or": "Suicides",
+			"tr": "Öngyilkosságok"
+		},
+		{
+			"or": "Ratio",
+			"tr": ""
+		},
+		{
 			"or": "The ratio of kills to deaths.",
 			"tr": ""
 		},
@@ -1608,6 +1504,10 @@
 		},
 		{
 			"or": "Current spree",
+			"tr": ""
+		},
+		{
+			"or": "Best spree",
 			"tr": ""
 		},
 		{
@@ -1771,8 +1671,8 @@
 			"tr": "Játék"
 		},
 		{
-			"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-			"tr": "Teeworlds %s kijött! Töltsd le a www.teeworlds.com oldalon!"
+			"or": "Teeworlds Archive %s is out! Download it at our github!",
+			"tr": ""
 		},
 		{
 			"or": "Time limit: %d min",
@@ -1804,8 +1704,20 @@
 			"tr": "Pont"
 		},
 		{
+			"or": "%d other players",
+			"tr": "%d másik játékos"
+		},
+		{
 			"or": "REC %3d:%02d",
 			"tr": "FELVÉTEL %3d:%02d"
+		},
+		{
+			"or": "Red team",
+			"tr": "Piros csapat"
+		},
+		{
+			"or": "Blue team",
+			"tr": "Kék csapat"
 		},
 		{
 			"or": "%s wins!",
@@ -1820,8 +1732,96 @@
 			"tr": "Kör vége!"
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": "test"
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": "mintázat"
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": "dekoráció"
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": "kezek"
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": "lábak"
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "szemek"
+		},
+		{
 			"or": "Free-View",
 			"tr": "Szabad-nézet"
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": ""
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": ""
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": "%s szavazást indított hogy megváltoztassa a szerver beállításait '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": "%s szavazást indított %s kirúgása érdekében (%s)"
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": "%s szavazást indított %s nézők közé helyezése érdekében (%s)"
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": "Admin átállította a szerver beállításait %s (%s)"
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": "Admin %s-t a nézők közé helyezte (%s)"
+		},
+		{
+			"or": "Vote aborted",
+			"tr": "Szavazás megszakítva"
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": "Admin igennel zárta a szavazást"
+		},
+		{
+			"or": "Vote passed",
+			"tr": "Szavazás sikeres"
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": "Admin nemmel zárta a szavazást"
+		},
+		{
+			"or": "Vote failed",
+			"tr": "A szavazás elbukott"
 		}
 	]
 }

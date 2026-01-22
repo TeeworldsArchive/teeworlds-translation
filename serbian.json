@@ -10,10 +10,6 @@
 	},
 	"translated strings": [
 		{
-			"or": "Search:",
-			"tr": "Traži:"
-		},
-		{
 			"or": "Teams were swapped",
 			"tr": "Timovi su bili razmenjeni"
 		},
@@ -122,322 +118,12 @@
 			"tr": "'%s' se pridružio posmatračima"
 		},
 		{
+			"or": "Search:",
+			"tr": "Traži:"
+		},
+		{
 			"or": "key not found",
 			"tr": "Dugme nije pronađjeno"
-		},
-		{
-			"or": "Move left",
-			"tr": "Levo"
-		},
-		{
-			"or": "Move right",
-			"tr": "Desno"
-		},
-		{
-			"or": "Jump",
-			"tr": "Skok"
-		},
-		{
-			"or": "Fire",
-			"tr": "Pucaj"
-		},
-		{
-			"or": "Hook",
-			"tr": "Kuka"
-		},
-		{
-			"or": "Hammer",
-			"tr": "Čekić"
-		},
-		{
-			"or": "Pistol",
-			"tr": "Pištolj"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "Sačmara"
-		},
-		{
-			"or": "Grenade",
-			"tr": "Granata"
-		},
-		{
-			"or": "Laser",
-			"tr": "Laser"
-		},
-		{
-			"or": "Next weapon",
-			"tr": "Sledeće oružje"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "Prethodno oružje"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "Za"
-		},
-		{
-			"or": "Vote no",
-			"tr": "Protiv"
-		},
-		{
-			"or": "Chat",
-			"tr": "Čet"
-		},
-		{
-			"or": "Team chat",
-			"tr": "Timski čet"
-		},
-		{
-			"or": "Whisper",
-			"tr": "Šapat"
-		},
-		{
-			"or": "Show chat",
-			"tr": "Prikaži chat"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "Emoticon"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "Posmatrački mod"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "Posmatraj sledećeg"
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "Posmatraj prošlog"
-		},
-		{
-			"or": "Console",
-			"tr": "Konzola"
-		},
-		{
-			"or": "Remote console",
-			"tr": "Serverska konzola"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "Screenshot"
-		},
-		{
-			"or": "Scoreboard",
-			"tr": "Bodovi"
-		},
-		{
-			"or": "Statboard",
-			"tr": "Tabla statistike"
-		},
-		{
-			"or": "Respawn",
-			"tr": "Respawn"
-		},
-		{
-			"or": "Ready",
-			"tr": "Spreman"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": "Dodaj demo obeleživač"
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": "Prebaci zvuk"
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": "Prebaci dinamičnu kameru"
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": "Koristi ubrzanje miša OS-a"
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": "Osetljivost miša u meniju."
-		},
-		{
-			"or": "Enable joystick",
-			"tr": "Omogući džojstik"
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": "Tolerancija podrhtavanja džojstik-a"
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": "Nisu pronađjene džojstike. Uključite džojstik i ponovo pokrenite igru."
-		},
-		{
-			"or": "Configure statboard",
-			"tr": "Podesi tablu statistike"
-		},
-		{
-			"or": "Device",
-			"tr": "Uređjaj"
-		},
-		{
-			"or": "Status",
-			"tr": "Stanje"
-		},
-		{
-			"or": "Aim bind",
-			"tr": "Nišan dugme"
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": "Džojstik osovina #%d"
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": "telo"
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": "oznake"
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": "dekoracija"
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": "ruke"
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": "stopala"
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "oči"
-		},
-		{
-			"or": "Name",
-			"tr": "Ime"
-		},
-		{
-			"or": "Suicides",
-			"tr": "Samoubistva"
-		},
-		{
-			"or": "Ratio",
-			"tr": "Razmera"
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
-			"tr": "Neto"
-		},
-		{
-			"or": "KPM",
-			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": "Niz"
-		},
-		{
-			"or": "Best spree",
-			"tr": "Najbolji niz"
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": "Uhvaćene"
-		},
-		{
-			"or": "%d other players",
-			"tr": "%d drugih igrača"
-		},
-		{
-			"or": "Red team",
-			"tr": "Crveni tim"
-		},
-		{
-			"or": "Blue team",
-			"tr": "Plavi tim"
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": "'%s' glasa za opciju '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": "'%s' glasa da se izbaci '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": "'%s' glasa da se '%s' premesti u posmatrače (%s)"
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": "Admin izglasao za opciju '%s' (%s)"
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": "Admin je premestio '%s' u posmatrače (%s)"
-		},
-		{
-			"or": "Vote aborted",
-			"tr": "Glasanje prekinuto"
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": "Admin izglasao za"
-		},
-		{
-			"or": "Vote passed",
-			"tr": "Glasanje uspešno"
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": "Admin izglasao protiv"
-		},
-		{
-			"or": "Vote failed",
-			"tr": "Glasanje neuspelo"
 		},
 		{
 			"or": "Map changed to '%s'",
@@ -454,6 +140,10 @@
 		{
 			"or": "Team",
 			"tr": "Tim"
+		},
+		{
+			"or": "Chat",
+			"tr": "Čet"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -780,6 +470,10 @@
 			"tr": "Da li ste sigurni da želite da preimenujete demo?"
 		},
 		{
+			"or": "Name",
+			"tr": "Ime"
+		},
+		{
 			"or": "Error",
 			"tr": "Greška"
 		},
@@ -1095,12 +789,206 @@
 			"tr": ""
 		},
 		{
+			"or": "Scoreboard",
+			"tr": "Bodovi"
+		},
+		{
 			"or": "Refresh",
 			"tr": "Osveži"
 		},
 		{
 			"or": "Connect",
 			"tr": "Konektuj"
+		},
+		{
+			"or": "Move left",
+			"tr": "Levo"
+		},
+		{
+			"or": "Move right",
+			"tr": "Desno"
+		},
+		{
+			"or": "Jump",
+			"tr": "Skok"
+		},
+		{
+			"or": "Fire",
+			"tr": "Pucaj"
+		},
+		{
+			"or": "Hook",
+			"tr": "Kuka"
+		},
+		{
+			"or": "Hammer",
+			"tr": "Čekić"
+		},
+		{
+			"or": "Pistol",
+			"tr": "Pištolj"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "Sačmara"
+		},
+		{
+			"or": "Grenade",
+			"tr": "Granata"
+		},
+		{
+			"or": "Laser",
+			"tr": "Laser"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "Sledeće oružje"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "Prethodno oružje"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "Za"
+		},
+		{
+			"or": "Vote no",
+			"tr": "Protiv"
+		},
+		{
+			"or": "Team chat",
+			"tr": "Timski čet"
+		},
+		{
+			"or": "Whisper",
+			"tr": "Šapat"
+		},
+		{
+			"or": "Show chat",
+			"tr": "Prikaži chat"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "Emoticon"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "Posmatrački mod"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "Posmatraj sledećeg"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "Posmatraj prošlog"
+		},
+		{
+			"or": "Console",
+			"tr": "Konzola"
+		},
+		{
+			"or": "Remote console",
+			"tr": "Serverska konzola"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "Screenshot"
+		},
+		{
+			"or": "Statboard",
+			"tr": "Tabla statistike"
+		},
+		{
+			"or": "Respawn",
+			"tr": "Respawn"
+		},
+		{
+			"or": "Ready",
+			"tr": "Spreman"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": "Dodaj demo obeleživač"
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": "Prebaci zvuk"
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": "Prebaci dinamičnu kameru"
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": "Koristi ubrzanje miša OS-a"
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": "Osetljivost miša u meniju."
+		},
+		{
+			"or": "Enable joystick",
+			"tr": "Omogući džojstik"
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": "Tolerancija podrhtavanja džojstik-a"
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": "Nisu pronađjene džojstike. Uključite džojstik i ponovo pokrenite igru."
+		},
+		{
+			"or": "Configure statboard",
+			"tr": "Podesi tablu statistike"
+		},
+		{
+			"or": "Device",
+			"tr": "Uređjaj"
+		},
+		{
+			"or": "Status",
+			"tr": "Stanje"
+		},
+		{
+			"or": "Aim bind",
+			"tr": "Nišan dugme"
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": "Džojstik osovina #%d"
 		},
 		{
 			"or": "Length",
@@ -1593,6 +1481,14 @@
 			"tr": "Smrti"
 		},
 		{
+			"or": "Suicides",
+			"tr": "Samoubistva"
+		},
+		{
+			"or": "Ratio",
+			"tr": "Razmera"
+		},
+		{
 			"or": "The ratio of kills to deaths.",
 			"tr": ""
 		},
@@ -1611,6 +1507,10 @@
 		{
 			"or": "Current spree",
 			"tr": "Trenutan niz"
+		},
+		{
+			"or": "Best spree",
+			"tr": "Najbolji niz"
 		},
 		{
 			"or": "Weapons stats",
@@ -1773,8 +1673,8 @@
 			"tr": "Igraj"
 		},
 		{
-			"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-			"tr": "Teeworld %s je objavljen! Preuzmi ga na www.teeworlds.com!"
+			"or": "Teeworlds Archive %s is out! Download it at our github!",
+			"tr": ""
 		},
 		{
 			"or": "Time limit: %d min",
@@ -1806,8 +1706,20 @@
 			"tr": "Rezultat"
 		},
 		{
+			"or": "%d other players",
+			"tr": "%d drugih igrača"
+		},
+		{
 			"or": "REC %3d:%02d",
 			"tr": "REC %3d:%02d"
+		},
+		{
+			"or": "Red team",
+			"tr": "Crveni tim"
+		},
+		{
+			"or": "Blue team",
+			"tr": "Plavi tim"
 		},
 		{
 			"or": "%s wins!",
@@ -1822,8 +1734,96 @@
 			"tr": "Runda završena!"
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": "telo"
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": "oznake"
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": "dekoracija"
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": "ruke"
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": "stopala"
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "oči"
+		},
+		{
 			"or": "Free-View",
 			"tr": "Slobodan pregled"
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": "Neto"
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": "Niz"
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": "Uhvaćene"
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": "'%s' glasa za opciju '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": "'%s' glasa da se izbaci '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": "'%s' glasa da se '%s' premesti u posmatrače (%s)"
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": "Admin izglasao za opciju '%s' (%s)"
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": "Admin je premestio '%s' u posmatrače (%s)"
+		},
+		{
+			"or": "Vote aborted",
+			"tr": "Glasanje prekinuto"
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": "Admin izglasao za"
+		},
+		{
+			"or": "Vote passed",
+			"tr": "Glasanje uspešno"
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": "Admin izglasao protiv"
+		},
+		{
+			"or": "Vote failed",
+			"tr": "Glasanje neuspelo"
 		}
 	]
 }

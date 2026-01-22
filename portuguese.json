@@ -12,10 +12,6 @@
 	},
 	"translated strings": [
 		{
-			"or": "Search:",
-			"tr": "Pesquisar:"
-		},
-		{
 			"or": "Teams were swapped",
 			"tr": ""
 		},
@@ -124,322 +120,12 @@
 			"tr": "\"%s\" juntou-se aos observadores"
 		},
 		{
+			"or": "Search:",
+			"tr": "Pesquisar:"
+		},
+		{
 			"or": "key not found",
 			"tr": ""
-		},
-		{
-			"or": "Move left",
-			"tr": "Esquerda"
-		},
-		{
-			"or": "Move right",
-			"tr": "Direita"
-		},
-		{
-			"or": "Jump",
-			"tr": "Saltar"
-		},
-		{
-			"or": "Fire",
-			"tr": "Disparar"
-		},
-		{
-			"or": "Hook",
-			"tr": "Gancho"
-		},
-		{
-			"or": "Hammer",
-			"tr": "Martelo"
-		},
-		{
-			"or": "Pistol",
-			"tr": "Pistola"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "Espingarda"
-		},
-		{
-			"or": "Grenade",
-			"tr": "Granada"
-		},
-		{
-			"or": "Laser",
-			"tr": "Laser"
-		},
-		{
-			"or": "Next weapon",
-			"tr": "Arma seguinte"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "Arma anterior"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "Votar sim"
-		},
-		{
-			"or": "Vote no",
-			"tr": "Votar não"
-		},
-		{
-			"or": "Chat",
-			"tr": "Conversa"
-		},
-		{
-			"or": "Team chat",
-			"tr": "Conversas da equipa"
-		},
-		{
-			"or": "Whisper",
-			"tr": "Sussurrar"
-		},
-		{
-			"or": "Show chat",
-			"tr": "Mostrar conversação"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "Emotes"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "Modo observador"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "Observar próximo"
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "Observar anterior"
-		},
-		{
-			"or": "Console",
-			"tr": "Consola"
-		},
-		{
-			"or": "Remote console",
-			"tr": "Consola remota"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "Captura de ecrã"
-		},
-		{
-			"or": "Scoreboard",
-			"tr": "Pontuação"
-		},
-		{
-			"or": "Statboard",
-			"tr": "Painel de estatísticas"
-		},
-		{
-			"or": "Respawn",
-			"tr": "Reaparecer"
-		},
-		{
-			"or": "Ready",
-			"tr": "Preparado"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": "Adicionar marcador de demo"
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": ""
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": ""
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": "Usar aceleração do rato do sistema operativo"
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": "Sensibilidade do rato em menus"
-		},
-		{
-			"or": "Enable joystick",
-			"tr": ""
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": ""
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": ""
-		},
-		{
-			"or": "Configure statboard",
-			"tr": "Configurar o painel de estatísticas"
-		},
-		{
-			"or": "Device",
-			"tr": ""
-		},
-		{
-			"or": "Status",
-			"tr": ""
-		},
-		{
-			"or": "Aim bind",
-			"tr": ""
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": "corpo"
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": "marca"
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": "decoração"
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": "mãos"
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": "pés"
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "olhos"
-		},
-		{
-			"or": "Name",
-			"tr": "Nome"
-		},
-		{
-			"or": "Suicides",
-			"tr": "Suicídios"
-		},
-		{
-			"or": "Ratio",
-			"tr": "Rácio"
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
-			"tr": "Rede"
-		},
-		{
-			"or": "KPM",
-			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": ""
-		},
-		{
-			"or": "Best spree",
-			"tr": ""
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": ""
-		},
-		{
-			"or": "%d other players",
-			"tr": "%d outros jogadores"
-		},
-		{
-			"or": "Red team",
-			"tr": "Equipa verm."
-		},
-		{
-			"or": "Blue team",
-			"tr": "Equipa azul"
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": "'%s' convocou uma votação para mudar opção '%s' do observador (%s)"
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": "'%s' convocou uma votação para expulsar '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": "'%s' convocou uma votação para mover '%s' para observador (%s)"
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": "O administrador forçou a opção '%s' do servidor (%s)"
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": "O administrador moveu o jogador '%s' para observador (%s)"
-		},
-		{
-			"or": "Vote aborted",
-			"tr": "Votação cancelada"
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": "O administrador forçou a votação: sim"
-		},
-		{
-			"or": "Vote passed",
-			"tr": "Votação aceite"
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": "Administrador forçou votação: não"
-		},
-		{
-			"or": "Vote failed",
-			"tr": "Votação falhou"
 		},
 		{
 			"or": "Map changed to '%s'",
@@ -456,6 +142,10 @@
 		{
 			"or": "Team",
 			"tr": "Equipa"
+		},
+		{
+			"or": "Chat",
+			"tr": "Conversa"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -782,6 +472,10 @@
 			"tr": "Tens a certeza que queres alterar o nome da demo?"
 		},
 		{
+			"or": "Name",
+			"tr": "Nome"
+		},
+		{
 			"or": "Error",
 			"tr": "Erro"
 		},
@@ -1097,12 +791,206 @@
 			"tr": ""
 		},
 		{
+			"or": "Scoreboard",
+			"tr": "Pontuação"
+		},
+		{
 			"or": "Refresh",
 			"tr": "Atualizar"
 		},
 		{
 			"or": "Connect",
 			"tr": "Conectar"
+		},
+		{
+			"or": "Move left",
+			"tr": "Esquerda"
+		},
+		{
+			"or": "Move right",
+			"tr": "Direita"
+		},
+		{
+			"or": "Jump",
+			"tr": "Saltar"
+		},
+		{
+			"or": "Fire",
+			"tr": "Disparar"
+		},
+		{
+			"or": "Hook",
+			"tr": "Gancho"
+		},
+		{
+			"or": "Hammer",
+			"tr": "Martelo"
+		},
+		{
+			"or": "Pistol",
+			"tr": "Pistola"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "Espingarda"
+		},
+		{
+			"or": "Grenade",
+			"tr": "Granada"
+		},
+		{
+			"or": "Laser",
+			"tr": "Laser"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "Arma seguinte"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "Arma anterior"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "Votar sim"
+		},
+		{
+			"or": "Vote no",
+			"tr": "Votar não"
+		},
+		{
+			"or": "Team chat",
+			"tr": "Conversas da equipa"
+		},
+		{
+			"or": "Whisper",
+			"tr": "Sussurrar"
+		},
+		{
+			"or": "Show chat",
+			"tr": "Mostrar conversação"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "Emotes"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "Modo observador"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "Observar próximo"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "Observar anterior"
+		},
+		{
+			"or": "Console",
+			"tr": "Consola"
+		},
+		{
+			"or": "Remote console",
+			"tr": "Consola remota"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "Captura de ecrã"
+		},
+		{
+			"or": "Statboard",
+			"tr": "Painel de estatísticas"
+		},
+		{
+			"or": "Respawn",
+			"tr": "Reaparecer"
+		},
+		{
+			"or": "Ready",
+			"tr": "Preparado"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": "Adicionar marcador de demo"
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": ""
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": ""
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": "Usar aceleração do rato do sistema operativo"
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": "Sensibilidade do rato em menus"
+		},
+		{
+			"or": "Enable joystick",
+			"tr": ""
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": ""
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": ""
+		},
+		{
+			"or": "Configure statboard",
+			"tr": "Configurar o painel de estatísticas"
+		},
+		{
+			"or": "Device",
+			"tr": ""
+		},
+		{
+			"or": "Status",
+			"tr": ""
+		},
+		{
+			"or": "Aim bind",
+			"tr": ""
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": ""
 		},
 		{
 			"or": "Length",
@@ -1595,6 +1483,14 @@
 			"tr": "Mortes"
 		},
 		{
+			"or": "Suicides",
+			"tr": "Suicídios"
+		},
+		{
+			"or": "Ratio",
+			"tr": "Rácio"
+		},
+		{
 			"or": "The ratio of kills to deaths.",
 			"tr": ""
 		},
@@ -1612,6 +1508,10 @@
 		},
 		{
 			"or": "Current spree",
+			"tr": ""
+		},
+		{
+			"or": "Best spree",
 			"tr": ""
 		},
 		{
@@ -1775,8 +1675,8 @@
 			"tr": "Jogar"
 		},
 		{
-			"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-			"tr": "O Teeworlds %s já saiu! Descarrega em www.teeworlds.com!"
+			"or": "Teeworlds Archive %s is out! Download it at our github!",
+			"tr": ""
 		},
 		{
 			"or": "Time limit: %d min",
@@ -1808,8 +1708,20 @@
 			"tr": "Pontos"
 		},
 		{
+			"or": "%d other players",
+			"tr": "%d outros jogadores"
+		},
+		{
 			"or": "REC %3d:%02d",
 			"tr": "REC %3d:%02d"
+		},
+		{
+			"or": "Red team",
+			"tr": "Equipa verm."
+		},
+		{
+			"or": "Blue team",
+			"tr": "Equipa azul"
 		},
 		{
 			"or": "%s wins!",
@@ -1824,8 +1736,96 @@
 			"tr": "Fim da ronda!"
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": "corpo"
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": "marca"
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": "decoração"
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": "mãos"
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": "pés"
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "olhos"
+		},
+		{
 			"or": "Free-View",
 			"tr": "Visualização livre"
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": "Rede"
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": ""
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": "'%s' convocou uma votação para mudar opção '%s' do observador (%s)"
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": "'%s' convocou uma votação para expulsar '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": "'%s' convocou uma votação para mover '%s' para observador (%s)"
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": "O administrador forçou a opção '%s' do servidor (%s)"
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": "O administrador moveu o jogador '%s' para observador (%s)"
+		},
+		{
+			"or": "Vote aborted",
+			"tr": "Votação cancelada"
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": "O administrador forçou a votação: sim"
+		},
+		{
+			"or": "Vote passed",
+			"tr": "Votação aceite"
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": "Administrador forçou votação: não"
+		},
+		{
+			"or": "Vote failed",
+			"tr": "Votação falhou"
 		}
 	]
 }

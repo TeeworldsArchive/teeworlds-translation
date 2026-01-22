@@ -15,10 +15,6 @@
 	},
 	"translated strings": [
 		{
-			"or": "Search:",
-			"tr": "Caută:"
-		},
-		{
 			"or": "Teams were swapped",
 			"tr": ""
 		},
@@ -127,322 +123,12 @@
 			"tr": ""
 		},
 		{
+			"or": "Search:",
+			"tr": "Caută:"
+		},
+		{
 			"or": "key not found",
 			"tr": ""
-		},
-		{
-			"or": "Move left",
-			"tr": "Mută la stânga"
-		},
-		{
-			"or": "Move right",
-			"tr": "Mută la dreapta"
-		},
-		{
-			"or": "Jump",
-			"tr": "Salt"
-		},
-		{
-			"or": "Fire",
-			"tr": "Foc"
-		},
-		{
-			"or": "Hook",
-			"tr": "Cârlig"
-		},
-		{
-			"or": "Hammer",
-			"tr": "Ciocan"
-		},
-		{
-			"or": "Pistol",
-			"tr": "Pistol"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "Pușcă"
-		},
-		{
-			"or": "Grenade",
-			"tr": "Grenadă"
-		},
-		{
-			"or": "Laser",
-			"tr": "Laser"
-		},
-		{
-			"or": "Next weapon",
-			"tr": "Arma următoare"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "Arma precedentă"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "Votează da"
-		},
-		{
-			"or": "Vote no",
-			"tr": "Votează nu"
-		},
-		{
-			"or": "Chat",
-			"tr": "Chat"
-		},
-		{
-			"or": "Team chat",
-			"tr": "Chat cu echipa"
-		},
-		{
-			"or": "Whisper",
-			"tr": "Șoaptă"
-		},
-		{
-			"or": "Show chat",
-			"tr": "Afișare chat"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "Figurine"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "Mod spectator"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "Vezi următorul"
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "Vezi anteriorul"
-		},
-		{
-			"or": "Console",
-			"tr": "Consolă"
-		},
-		{
-			"or": "Remote console",
-			"tr": "Consolă server"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "Captură de ecran"
-		},
-		{
-			"or": "Scoreboard",
-			"tr": "Scoruri"
-		},
-		{
-			"or": "Statboard",
-			"tr": ""
-		},
-		{
-			"or": "Respawn",
-			"tr": "Renaște"
-		},
-		{
-			"or": "Ready",
-			"tr": "Pregătit"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": ""
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": ""
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": ""
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": ""
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Enable joystick",
-			"tr": ""
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": ""
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": ""
-		},
-		{
-			"or": "Configure statboard",
-			"tr": ""
-		},
-		{
-			"or": "Device",
-			"tr": ""
-		},
-		{
-			"or": "Status",
-			"tr": ""
-		},
-		{
-			"or": "Aim bind",
-			"tr": ""
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": "corp"
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": "Mâini"
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": "picioare"
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "ochi"
-		},
-		{
-			"or": "Name",
-			"tr": "Nume"
-		},
-		{
-			"or": "Suicides",
-			"tr": ""
-		},
-		{
-			"or": "Ratio",
-			"tr": ""
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
-			"tr": ""
-		},
-		{
-			"or": "KPM",
-			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": ""
-		},
-		{
-			"or": "Best spree",
-			"tr": ""
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": ""
-		},
-		{
-			"or": "%d other players",
-			"tr": ""
-		},
-		{
-			"or": "Red team",
-			"tr": "Echipa roșie"
-		},
-		{
-			"or": "Blue team",
-			"tr": "Echipa albastră"
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": "'%s' cere voturi pentru modificarea opțiunii de server '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": "'%s' cere voturi pentru eliminarea lui '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": "'%s' cere voturi pentru mutarea '%s' la spectatori (%s)"
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": "Administratorul a forțat opțiunea de server '%s' (%s)"
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": "'%s' a fost mutat de admin la spectatori (%s)"
-		},
-		{
-			"or": "Vote aborted",
-			"tr": "Votare abandonată"
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": "Administratorul a forțat votarea cu 'da'"
-		},
-		{
-			"or": "Vote passed",
-			"tr": "Votul a trecut"
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": "Administratorul a forțat votarea cu 'nu'"
-		},
-		{
-			"or": "Vote failed",
-			"tr": "Votul a eșuat"
 		},
 		{
 			"or": "Map changed to '%s'",
@@ -459,6 +145,10 @@
 		{
 			"or": "Team",
 			"tr": "Echipa"
+		},
+		{
+			"or": "Chat",
+			"tr": "Chat"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -785,6 +475,10 @@
 			"tr": "Sigur vrei să redenumești demonstrația?"
 		},
 		{
+			"or": "Name",
+			"tr": "Nume"
+		},
+		{
 			"or": "Error",
 			"tr": "Eroare"
 		},
@@ -1100,12 +794,206 @@
 			"tr": ""
 		},
 		{
+			"or": "Scoreboard",
+			"tr": "Scoruri"
+		},
+		{
 			"or": "Refresh",
 			"tr": "Reîncarcă"
 		},
 		{
 			"or": "Connect",
 			"tr": "Conectează"
+		},
+		{
+			"or": "Move left",
+			"tr": "Mută la stânga"
+		},
+		{
+			"or": "Move right",
+			"tr": "Mută la dreapta"
+		},
+		{
+			"or": "Jump",
+			"tr": "Salt"
+		},
+		{
+			"or": "Fire",
+			"tr": "Foc"
+		},
+		{
+			"or": "Hook",
+			"tr": "Cârlig"
+		},
+		{
+			"or": "Hammer",
+			"tr": "Ciocan"
+		},
+		{
+			"or": "Pistol",
+			"tr": "Pistol"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "Pușcă"
+		},
+		{
+			"or": "Grenade",
+			"tr": "Grenadă"
+		},
+		{
+			"or": "Laser",
+			"tr": "Laser"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "Arma următoare"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "Arma precedentă"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "Votează da"
+		},
+		{
+			"or": "Vote no",
+			"tr": "Votează nu"
+		},
+		{
+			"or": "Team chat",
+			"tr": "Chat cu echipa"
+		},
+		{
+			"or": "Whisper",
+			"tr": "Șoaptă"
+		},
+		{
+			"or": "Show chat",
+			"tr": "Afișare chat"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "Figurine"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "Mod spectator"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "Vezi următorul"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "Vezi anteriorul"
+		},
+		{
+			"or": "Console",
+			"tr": "Consolă"
+		},
+		{
+			"or": "Remote console",
+			"tr": "Consolă server"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "Captură de ecran"
+		},
+		{
+			"or": "Statboard",
+			"tr": ""
+		},
+		{
+			"or": "Respawn",
+			"tr": "Renaște"
+		},
+		{
+			"or": "Ready",
+			"tr": "Pregătit"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": ""
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": ""
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": ""
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": ""
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Enable joystick",
+			"tr": ""
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": ""
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": ""
+		},
+		{
+			"or": "Configure statboard",
+			"tr": ""
+		},
+		{
+			"or": "Device",
+			"tr": ""
+		},
+		{
+			"or": "Status",
+			"tr": ""
+		},
+		{
+			"or": "Aim bind",
+			"tr": ""
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": ""
 		},
 		{
 			"or": "Length",
@@ -1598,6 +1486,14 @@
 			"tr": "Morți"
 		},
 		{
+			"or": "Suicides",
+			"tr": ""
+		},
+		{
+			"or": "Ratio",
+			"tr": ""
+		},
+		{
 			"or": "The ratio of kills to deaths.",
 			"tr": ""
 		},
@@ -1615,6 +1511,10 @@
 		},
 		{
 			"or": "Current spree",
+			"tr": ""
+		},
+		{
+			"or": "Best spree",
 			"tr": ""
 		},
 		{
@@ -1778,8 +1678,8 @@
 			"tr": "Joacă"
 		},
 		{
-			"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-			"tr": "Teeworlds %s este lansat! Descarcă-l de la www.teeworlds.com!"
+			"or": "Teeworlds Archive %s is out! Download it at our github!",
+			"tr": ""
 		},
 		{
 			"or": "Time limit: %d min",
@@ -1811,8 +1711,20 @@
 			"tr": "Scor"
 		},
 		{
+			"or": "%d other players",
+			"tr": ""
+		},
+		{
 			"or": "REC %3d:%02d",
 			"tr": "REC %3d:%02d"
+		},
+		{
+			"or": "Red team",
+			"tr": "Echipa roșie"
+		},
+		{
+			"or": "Blue team",
+			"tr": "Echipa albastră"
 		},
 		{
 			"or": "%s wins!",
@@ -1827,8 +1739,96 @@
 			"tr": "Rundă încheiată!"
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": "corp"
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": "Mâini"
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": "picioare"
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "ochi"
+		},
+		{
 			"or": "Free-View",
 			"tr": "Vizualizare liberă"
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": ""
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": ""
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": "'%s' cere voturi pentru modificarea opțiunii de server '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": "'%s' cere voturi pentru eliminarea lui '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": "'%s' cere voturi pentru mutarea '%s' la spectatori (%s)"
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": "Administratorul a forțat opțiunea de server '%s' (%s)"
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": "'%s' a fost mutat de admin la spectatori (%s)"
+		},
+		{
+			"or": "Vote aborted",
+			"tr": "Votare abandonată"
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": "Administratorul a forțat votarea cu 'da'"
+		},
+		{
+			"or": "Vote passed",
+			"tr": "Votul a trecut"
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": "Administratorul a forțat votarea cu 'nu'"
+		},
+		{
+			"or": "Vote failed",
+			"tr": "Votul a eșuat"
 		}
 	]
 }
