@@ -159,6 +159,14 @@
 			"tr": "-Side %d/%d-"
 		},
 		{
+			"or": "Click to copy line to clipboard.",
+			"tr": ""
+		},
+		{
+			"or": "Successfully copied",
+			"tr": ""
+		},
+		{
 			"or": "Press Enter to confirm or Esc to cancel",
 			"tr": "Trykk Enter for å bekrefte eller Esc for å avbryte"
 		},

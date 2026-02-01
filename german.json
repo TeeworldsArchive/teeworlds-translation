@@ -180,6 +180,14 @@
 			"tr": "-Seite %d/%d-"
 		},
 		{
+			"or": "Click to copy line to clipboard.",
+			"tr": ""
+		},
+		{
+			"or": "Successfully copied",
+			"tr": ""
+		},
+		{
 			"or": "Press Enter to confirm or Esc to cancel",
 			"tr": "Drücke Enter zum Bestätigen oder Esc zum Abbrechen"
 		},

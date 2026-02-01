@@ -173,6 +173,14 @@
 			"tr": "-Pagina %d/%d-"
 		},
 		{
+			"or": "Click to copy line to clipboard.",
+			"tr": ""
+		},
+		{
+			"or": "Successfully copied",
+			"tr": ""
+		},
+		{
 			"or": "Press Enter to confirm or Esc to cancel",
 			"tr": "Druk op Enter om te bevestigen of Esc om af te breken"
 		},

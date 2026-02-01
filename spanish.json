@@ -164,6 +164,14 @@
 			"tr": "-Página %d/%d-"
 		},
 		{
+			"or": "Click to copy line to clipboard.",
+			"tr": ""
+		},
+		{
+			"or": "Successfully copied",
+			"tr": ""
+		},
+		{
 			"or": "Press Enter to confirm or Esc to cancel",
 			"tr": "Enter para confirmar o Esc para cancelar"
 		},

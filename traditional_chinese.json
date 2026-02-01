@@ -156,6 +156,14 @@
 			"tr": "- %d/%d -"
 		},
 		{
+			"or": "Click to copy line to clipboard.",
+			"tr": "單擊以複製到剪切板。"
+		},
+		{
+			"or": "Successfully copied",
+			"tr": "複製成功"
+		},
+		{
 			"or": "Press Enter to confirm or Esc to cancel",
 			"tr": "按 Enter 鍵確認或 Esc 鍵取消"
 		},
