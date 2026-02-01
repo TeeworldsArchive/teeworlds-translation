@@ -20,6 +20,10 @@
 	},
 	"translated strings": [
 		{
+			"or": "Search:",
+			"tr": "Поиск:"
+		},
+		{
 			"or": "Teams were swapped",
 			"tr": "Смена сторон"
 		},
@@ -126,10 +130,6 @@
 		{
 			"or": "'%s' joined the spectators",
 			"tr": "'%s' присоединился к наблюдателям"
-		},
-		{
-			"or": "Search:",
-			"tr": "Поиск:"
 		},
 		{
 			"or": "key not found",
@@ -1669,6 +1669,10 @@
 		{
 			"or": "You have to wait %1.0f seconds to change identity.",
 			"tr": "Подождите %1.0f сек. перед применением настроек."
+		},
+		{
+			"or": "Shutdown server",
+			"tr": ""
 		},
 		{
 			"or": "Local server",

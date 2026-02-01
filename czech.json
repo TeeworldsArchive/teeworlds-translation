@@ -13,6 +13,10 @@
 	},
 	"translated strings": [
 		{
+			"or": "Search:",
+			"tr": "Hledat:"
+		},
+		{
 			"or": "Teams were swapped",
 			"tr": ""
 		},
@@ -119,10 +123,6 @@
 		{
 			"or": "'%s' joined the spectators",
 			"tr": ""
-		},
-		{
-			"or": "Search:",
-			"tr": "Hledat:"
 		},
 		{
 			"or": "key not found",
@@ -1661,6 +1661,10 @@
 		},
 		{
 			"or": "You have to wait %1.0f seconds to change identity.",
+			"tr": ""
+		},
+		{
+			"or": "Shutdown server",
 			"tr": ""
 		},
 		{

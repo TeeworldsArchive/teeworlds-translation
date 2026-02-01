@@ -7,6 +7,10 @@
 	},
 	"translated strings": [
 		{
+			"or": "Search:",
+			"tr": "Lorg:"
+		},
+		{
 			"or": "Teams were swapped",
 			"tr": ""
 		},
@@ -113,10 +117,6 @@
 		{
 			"or": "'%s' joined the spectators",
 			"tr": "Thàinig %s a-steach ’na (h-)amharc"
-		},
-		{
-			"or": "Search:",
-			"tr": "Lorg:"
 		},
 		{
 			"or": "key not found",
@@ -1656,6 +1656,10 @@
 		{
 			"or": "You have to wait %1.0f seconds to change identity.",
 			"tr": "Feumaidh tu feitheamh fad %1.0f diog(an) mus atharraich thu d’ aithne."
+		},
+		{
+			"or": "Shutdown server",
+			"tr": ""
 		},
 		{
 			"or": "Local server",

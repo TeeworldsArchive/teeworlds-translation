@@ -15,6 +15,10 @@
 	},
 	"translated strings": [
 		{
+			"or": "Search:",
+			"tr": "Caută:"
+		},
+		{
 			"or": "Teams were swapped",
 			"tr": ""
 		},
@@ -121,10 +125,6 @@
 		{
 			"or": "'%s' joined the spectators",
 			"tr": ""
-		},
-		{
-			"or": "Search:",
-			"tr": "Caută:"
 		},
 		{
 			"or": "key not found",
@@ -1664,6 +1664,10 @@
 		{
 			"or": "You have to wait %1.0f seconds to change identity.",
 			"tr": "Trebuie să aștepți %1.0f de secunde pentru a îți schimba indentitatea. "
+		},
+		{
+			"or": "Shutdown server",
+			"tr": ""
 		},
 		{
 			"or": "Local server",

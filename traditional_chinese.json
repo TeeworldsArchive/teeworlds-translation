@@ -8,6 +8,10 @@
 	},
 	"translated strings": [
 		{
+			"or": "Search:",
+			"tr": "搜索："
+		},
+		{
 			"or": "Teams were swapped",
 			"tr": "雙方隊伍已被交換"
 		},
@@ -114,10 +118,6 @@
 		{
 			"or": "'%s' joined the spectators",
 			"tr": "'%s' 加入了旁觀位"
-		},
-		{
-			"or": "Search:",
-			"tr": "搜索："
 		},
 		{
 			"or": "key not found",
@@ -1657,6 +1657,10 @@
 		{
 			"or": "You have to wait %1.0f seconds to change identity.",
 			"tr": "你需要等待 %1.0f 秒才能修改身份"
+		},
+		{
+			"or": "Shutdown server",
+			"tr": "關閉伺服器"
 		},
 		{
 			"or": "Local server",

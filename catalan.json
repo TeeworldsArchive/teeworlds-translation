@@ -7,6 +7,10 @@
 	},
 	"translated strings": [
 		{
+			"or": "Search:",
+			"tr": "Buscar: "
+		},
+		{
 			"or": "Teams were swapped",
 			"tr": "Els equips s'han intercanviat"
 		},
@@ -113,10 +117,6 @@
 		{
 			"or": "'%s' joined the spectators",
 			"tr": "'%s' s'ha unit als espectadors"
-		},
-		{
-			"or": "Search:",
-			"tr": "Buscar: "
 		},
 		{
 			"or": "key not found",
@@ -1656,6 +1656,10 @@
 		{
 			"or": "You have to wait %1.0f seconds to change identity.",
 			"tr": "Has d'esperar %1.0f segons per canviar d'identitat."
+		},
+		{
+			"or": "Shutdown server",
+			"tr": ""
 		},
 		{
 			"or": "Local server",
