@@ -1325,7 +1325,7 @@
 		},
 		{
 			"or": "Show social",
-			"tr": "顯示社交與聊天"
+			"tr": "顯示社交內容"
 		},
 		{
 			"context": "Show chat messages from",
@@ -1335,7 +1335,7 @@
 		{
 			"context": "Show chat messages from",
 			"or": "friends only",
-			"tr": "僅好友"
+			"tr": "僅限好友"
 		},
 		{
 			"context": "Show chat messages from",
@@ -1348,7 +1348,7 @@
 		},
 		{
 			"or": "Enable colored server broadcasts",
-			"tr": "啟用伺服器廣播消息顏色"
+			"tr": "啟用彩色伺服器廣播消息"
 		},
 		{
 			"or": "Disable whisper feature",
