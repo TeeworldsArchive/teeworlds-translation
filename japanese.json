@@ -123,6 +123,737 @@
 			"tr": ""
 		},
 		{
+			"or": "-Page %d-",
+			"tr": "-%d ページ-"
+		},
+		{
+			"or": "'%s' has set a new map record: %s",
+			"tr": ""
+		},
+		{
+			"or": "'%s' has set a new personal record: %s",
+			"tr": ""
+		},
+		{
+			"or": " (%s seconds faster)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' finished in: %s",
+			"tr": ""
+		},
+		{
+			"or": "Move left",
+			"tr": "左移動"
+		},
+		{
+			"or": "Move right",
+			"tr": "右移動"
+		},
+		{
+			"or": "Jump",
+			"tr": "ジャンプ"
+		},
+		{
+			"or": "Fire",
+			"tr": "射撃"
+		},
+		{
+			"or": "Hook",
+			"tr": "フック"
+		},
+		{
+			"or": "Hammer",
+			"tr": "ハンマー"
+		},
+		{
+			"or": "Pistol",
+			"tr": "ピストル"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "ショットガン"
+		},
+		{
+			"or": "Grenade",
+			"tr": "グレネード"
+		},
+		{
+			"or": "Laser",
+			"tr": "レーザー"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "次の武器"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "前の武器"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "賛成"
+		},
+		{
+			"or": "Vote no",
+			"tr": "反対"
+		},
+		{
+			"or": "Chat",
+			"tr": "チャット"
+		},
+		{
+			"or": "Team chat",
+			"tr": "チームチャット"
+		},
+		{
+			"or": "Whisper",
+			"tr": ""
+		},
+		{
+			"or": "Show chat",
+			"tr": "チャットを見る"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "エモティコン"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "観戦モード"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "次の人を見る"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "前の人を見る"
+		},
+		{
+			"or": "Console",
+			"tr": "コンソール"
+		},
+		{
+			"or": "Remote console",
+			"tr": "リモコン"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "スクリーンショット"
+		},
+		{
+			"or": "Scoreboard",
+			"tr": "スコアボード"
+		},
+		{
+			"or": "Statboard",
+			"tr": ""
+		},
+		{
+			"or": "Respawn",
+			"tr": "リスポーン"
+		},
+		{
+			"or": "Ready",
+			"tr": "レディー"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": ""
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": ""
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": ""
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": ""
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Enable joystick",
+			"tr": ""
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": ""
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": ""
+		},
+		{
+			"or": "Configure statboard",
+			"tr": ""
+		},
+		{
+			"or": "Device",
+			"tr": ""
+		},
+		{
+			"or": "Status",
+			"tr": ""
+		},
+		{
+			"or": "Aim bind",
+			"tr": ""
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": ""
+		},
+		{
+			"or": "Name",
+			"tr": "名前"
+		},
+		{
+			"or": "Length",
+			"tr": ""
+		},
+		{
+			"or": "Date",
+			"tr": ""
+		},
+		{
+			"or": "Close",
+			"tr": "閉じる"
+		},
+		{
+			"or": "Demofile: %s",
+			"tr": "デモファイル: %s"
+		},
+		{
+			"or": "Parent Folder",
+			"tr": "親フォルダ"
+		},
+		{
+			"or": "Folder",
+			"tr": "フォルダ"
+		},
+		{
+			"or": "Invalid Demo",
+			"tr": "無効なデモ"
+		},
+		{
+			"or": "Demo details",
+			"tr": "デモの詳細"
+		},
+		{
+			"or": "Recorded",
+			"tr": ""
+		},
+		{
+			"or": "Delete",
+			"tr": "削除"
+		},
+		{
+			"or": "Are you sure that you want to delete the demo '%s'?",
+			"tr": ""
+		},
+		{
+			"or": "Delete demo",
+			"tr": "デモを削除"
+		},
+		{
+			"or": "Yes",
+			"tr": "はい"
+		},
+		{
+			"or": "No",
+			"tr": "いいえ"
+		},
+		{
+			"or": "Rename",
+			"tr": "名前変更"
+		},
+		{
+			"or": "Refresh",
+			"tr": "更新"
+		},
+		{
+			"or": "Fetch Info",
+			"tr": ""
+		},
+		{
+			"or": "Open",
+			"tr": "開く"
+		},
+		{
+			"context": "DemoBrowser",
+			"or": "Play",
+			"tr": "プレイ"
+		},
+		{
+			"or": "Error",
+			"tr": "エラー"
+		},
+		{
+			"or": "Unable to delete the demo",
+			"tr": "デモを削除できません。"
+		},
+		{
+			"or": "Ok",
+			"tr": "Ok"
+		},
+		{
+			"or": "Created",
+			"tr": ""
+		},
+		{
+			"or": "Type",
+			"tr": "タイプ"
+		},
+		{
+			"or": "Version",
+			"tr": "バージョン"
+		},
+		{
+			"or": "Netversion",
+			"tr": ""
+		},
+		{
+			"or": "Markers",
+			"tr": ""
+		},
+		{
+			"or": "Map",
+			"tr": "マップ"
+		},
+		{
+			"or": "%.3f KiB",
+			"tr": "%.3fKiB"
+		},
+		{
+			"or": "Size",
+			"tr": "サイズ"
+		},
+		{
+			"or": "Crc",
+			"tr": "CRC"
+		},
+		{
+			"or": "Teams are locked",
+			"tr": "チームはロックしました"
+		},
+		{
+			"or": "Only %d active players are allowed",
+			"tr": "最大%d人です"
+		},
+		{
+			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
+			"tr": ""
+		},
+		{
+			"or": "Game options",
+			"tr": ""
+		},
+		{
+			"or": "locked",
+			"tr": ""
+		},
+		{
+			"or": "Spectating",
+			"tr": "観戦している"
+		},
+		{
+			"or": "Join red",
+			"tr": "赤チームに参加"
+		},
+		{
+			"or": "Joined red",
+			"tr": "赤チームに参加した"
+		},
+		{
+			"or": "Join blue",
+			"tr": "青チームに参加"
+		},
+		{
+			"or": "Joined blue",
+			"tr": "青チームに参加した"
+		},
+		{
+			"or": "Join",
+			"tr": "参加する"
+		},
+		{
+			"or": "Joined",
+			"tr": "参加した"
+		},
+		{
+			"or": "Disconnect",
+			"tr": "切断"
+		},
+		{
+			"or": "Stop record",
+			"tr": "録画停止"
+		},
+		{
+			"or": "Record",
+			"tr": ""
+		},
+		{
+			"or": "Player options",
+			"tr": "プレイヤー設定"
+		},
+		{
+			"or": "Player",
+			"tr": "プレイヤー"
+		},
+		{
+			"or": "Server info",
+			"tr": "サーバー情報"
+		},
+		{
+			"or": "Address",
+			"tr": "アドレス"
+		},
+		{
+			"or": "Ping",
+			"tr": "Ping"
+		},
+		{
+			"or": "Password",
+			"tr": "パスワード"
+		},
+		{
+			"context": "With",
+			"or": "Yes",
+			"tr": "はい"
+		},
+		{
+			"context": "Without/None",
+			"or": "No",
+			"tr": "いいえ"
+		},
+		{
+			"or": "Favorite",
+			"tr": "お気に入り"
+		},
+		{
+			"or": "Mute broadcasts",
+			"tr": ""
+		},
+		{
+			"or": "Game info",
+			"tr": "ゲーム情報"
+		},
+		{
+			"or": "Game type",
+			"tr": "ゲームタイプ"
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Casual",
+			"tr": ""
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Normal",
+			"tr": ""
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Competitive",
+			"tr": ""
+		},
+		{
+			"or": "Difficulty",
+			"tr": ""
+		},
+		{
+			"or": "Score limit",
+			"tr": "スコア上限"
+		},
+		{
+			"or": "Time limit",
+			"tr": "残り時間"
+		},
+		{
+			"or": "Players",
+			"tr": "プレイヤー"
+		},
+		{
+			"or": "MOTD",
+			"tr": "説明"
+		},
+		{
+			"or": "Option",
+			"tr": ""
+		},
+		{
+			"or": "Wait for current vote to end before calling a new one.",
+			"tr": ""
+		},
+		{
+			"or": "You must wait %d seconds before making another vote",
+			"tr": ""
+		},
+		{
+			"or": "Spectators aren't allowed to start a vote.",
+			"tr": "観戦者は投票立ちできません。"
+		},
+		{
+			"or": "Change settings",
+			"tr": "設定を変える"
+		},
+		{
+			"or": "Kick player",
+			"tr": "プレイヤーをキック"
+		},
+		{
+			"or": "Move player to spectators",
+			"tr": "プレイヤーを観戦席に移動"
+		},
+		{
+			"or": "Server does not allow voting to kick players",
+			"tr": ""
+		},
+		{
+			"or": "Kick voting requires %d players on the server",
+			"tr": ""
+		},
+		{
+			"or": "Server does not allow voting to move players to spectators",
+			"tr": ""
+		},
+		{
+			"or": "Reason:",
+			"tr": "理由:"
+		},
+		{
+			"or": "Call vote",
+			"tr": "投票を開始する"
+		},
+		{
+			"or": "Force vote",
+			"tr": "強制投票"
+		},
+		{
+			"or": "Remove",
+			"tr": "削除"
+		},
+		{
+			"or": "Vote description:",
+			"tr": "投票の説明:"
+		},
+		{
+			"or": "Vote command:",
+			"tr": "投票コマンド:"
+		},
+		{
+			"or": "Add",
+			"tr": "追加"
+		},
+		{
+			"or": "Settings",
+			"tr": "設定"
+		},
+		{
+			"or": "Shutdown server",
+			"tr": ""
+		},
+		{
+			"or": "Local server",
+			"tr": "ローカルサーバ"
+		},
+		{
+			"or": "Demos",
+			"tr": "デモ"
+		},
+		{
+			"or": "Editor",
+			"tr": "エディタ"
+		},
+		{
+			"or": "Play",
+			"tr": "プレイ"
+		},
+		{
+			"or": "Quit",
+			"tr": "終了"
+		},
+		{
+			"or": "Teeworlds Archive %s is out! Download it at our github!",
+			"tr": ""
+		},
+		{
+			"or": "Time limit: %d min",
+			"tr": "残り %d 分"
+		},
+		{
+			"context": "rounds (scoreboard)",
+			"or": "Match",
+			"tr": "試合"
+		},
+		{
+			"or": "Spectators",
+			"tr": "観戦者"
+		},
+		{
+			"or": "Game over",
+			"tr": "ゲームオーバー"
+		},
+		{
+			"or": "Round over",
+			"tr": "ラウンドオーバー"
+		},
+		{
+			"or": "Map record",
+			"tr": ""
+		},
+		{
+			"or": "Clan",
+			"tr": "クラン"
+		},
+		{
+			"or": "Time",
+			"tr": ""
+		},
+		{
+			"or": "Score",
+			"tr": "スコア"
+		},
+		{
+			"or": "%d other players",
+			"tr": ""
+		},
+		{
+			"or": "REC %3d:%02d",
+			"tr": "REC %3d:%02d"
+		},
+		{
+			"or": "Red team",
+			"tr": "赤チーム"
+		},
+		{
+			"or": "Blue team",
+			"tr": "青チーム"
+		},
+		{
+			"or": "%s wins!",
+			"tr": "%s の勝ち!"
+		},
+		{
+			"or": "Draw!",
+			"tr": "引き分け！"
+		},
+		{
+			"or": "Round over!",
+			"tr": "ラウンドオーバー！"
+		},
+		{
+			"or": "Free-View",
+			"tr": "自由視点"
+		},
+		{
+			"or": "Suicides",
+			"tr": ""
+		},
+		{
+			"or": "Ratio",
+			"tr": ""
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": ""
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": ""
+		},
+		{
+			"or": "Best spree",
+			"tr": ""
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": ""
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": ""
+		},
+		{
+			"or": "Vote aborted",
+			"tr": "投票中止"
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": ""
+		},
+		{
+			"or": "Vote passed",
+			"tr": "投票合格"
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": ""
+		},
+		{
+			"or": "Vote failed",
+			"tr": "投票不合格"
+		},
+		{
 			"or": "Map changed to '%s'",
 			"tr": ""
 		},
@@ -131,16 +862,8 @@
 			"tr": "全部"
 		},
 		{
-			"or": "Spectators",
-			"tr": "観戦者"
-		},
-		{
 			"or": "Team",
 			"tr": "チーム"
-		},
-		{
-			"or": "Chat",
-			"tr": "チャット"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -185,10 +908,6 @@
 		{
 			"or": "'%s' was removed as a friend",
 			"tr": ""
-		},
-		{
-			"or": "-Page %d-",
-			"tr": "-%d ページ-"
 		},
 		{
 			"or": "Sudden Death",
@@ -243,10 +962,6 @@
 			"tr": "残り %ds"
 		},
 		{
-			"or": "Reason:",
-			"tr": "理由:"
-		},
-		{
 			"or": "Vote Yes",
 			"tr": ""
 		},
@@ -279,48 +994,12 @@
 			"tr": ""
 		},
 		{
-			"or": "'%s' has set a new map record: %s",
-			"tr": ""
-		},
-		{
-			"or": "'%s' has set a new personal record: %s",
-			"tr": ""
-		},
-		{
-			"or": " (%s seconds faster)",
-			"tr": ""
-		},
-		{
-			"or": "'%s' finished in: %s",
-			"tr": ""
-		},
-		{
 			"or": "Game",
 			"tr": "ゲーム"
 		},
 		{
-			"or": "Players",
-			"tr": "プレイヤー"
-		},
-		{
-			"or": "Server info",
-			"tr": "サーバー情報"
-		},
-		{
-			"or": "Call vote",
-			"tr": "投票を開始する"
-		},
-		{
-			"or": "Settings",
-			"tr": "設定"
-		},
-		{
 			"or": "General",
 			"tr": "一般"
-		},
-		{
-			"or": "Player",
-			"tr": "プレイヤー"
 		},
 		{
 			"or": "TBD",
@@ -347,10 +1026,6 @@
 			"tr": "ローカル"
 		},
 		{
-			"or": "Demos",
-			"tr": "デモ"
-		},
-		{
 			"or": "Back",
 			"tr": "前に"
 		},
@@ -361,10 +1036,6 @@
 		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "オーディオデバイスの初期化に失敗しました。"
-		},
-		{
-			"or": "Ok",
-			"tr": "Ok"
 		},
 		{
 			"or": "Connecting to",
@@ -399,10 +1070,6 @@
 			"tr": "パスワードが正しくありません"
 		},
 		{
-			"or": "Quit",
-			"tr": "終了"
-		},
-		{
 			"or": "Welcome to Teeworlds",
 			"tr": "Teeworldsの世界へようこそ！"
 		},
@@ -415,20 +1082,8 @@
 			"tr": "終了してもよろしいですか？"
 		},
 		{
-			"or": "No",
-			"tr": "いいえ"
-		},
-		{
-			"or": "Yes",
-			"tr": "はい"
-		},
-		{
 			"or": "Please enter the password.",
 			"tr": ""
-		},
-		{
-			"or": "Password",
-			"tr": "パスワード"
 		},
 		{
 			"or": "Save password",
@@ -475,14 +1130,6 @@
 			"tr": "デモをリネームしてもよろしいですか？"
 		},
 		{
-			"or": "Name",
-			"tr": "名前"
-		},
-		{
-			"or": "Error",
-			"tr": "エラー"
-		},
-		{
 			"or": "Unable to rename the demo",
 			"tr": "デモの名前を変更できません。"
 		},
@@ -525,18 +1172,6 @@
 		{
 			"or": "Server",
 			"tr": ""
-		},
-		{
-			"or": "Type",
-			"tr": "タイプ"
-		},
-		{
-			"or": "Map",
-			"tr": "マップ"
-		},
-		{
-			"or": "Ping",
-			"tr": "Ping"
 		},
 		{
 			"or": "Race",
@@ -644,10 +1279,6 @@
 			"context": "friends (server browser)",
 			"or": "Offline (%d)",
 			"tr": ""
-		},
-		{
-			"or": "Clan",
-			"tr": "クラン"
 		},
 		{
 			"or": "Add friend/clan",
@@ -771,21 +1402,6 @@
 			"tr": ""
 		},
 		{
-			"context": "Server difficulty",
-			"or": "Casual",
-			"tr": ""
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Normal",
-			"tr": ""
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Competitive",
-			"tr": ""
-		},
-		{
 			"or": "Click to remove the player from your friends.",
 			"tr": ""
 		},
@@ -794,473 +1410,8 @@
 			"tr": ""
 		},
 		{
-			"or": "Scoreboard",
-			"tr": "スコアボード"
-		},
-		{
-			"or": "Refresh",
-			"tr": "更新"
-		},
-		{
 			"or": "Connect",
 			"tr": "接続"
-		},
-		{
-			"or": "Move left",
-			"tr": "左移動"
-		},
-		{
-			"or": "Move right",
-			"tr": "右移動"
-		},
-		{
-			"or": "Jump",
-			"tr": "ジャンプ"
-		},
-		{
-			"or": "Fire",
-			"tr": "射撃"
-		},
-		{
-			"or": "Hook",
-			"tr": "フック"
-		},
-		{
-			"or": "Hammer",
-			"tr": "ハンマー"
-		},
-		{
-			"or": "Pistol",
-			"tr": "ピストル"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "ショットガン"
-		},
-		{
-			"or": "Grenade",
-			"tr": "グレネード"
-		},
-		{
-			"or": "Laser",
-			"tr": "レーザー"
-		},
-		{
-			"or": "Next weapon",
-			"tr": "次の武器"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "前の武器"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "賛成"
-		},
-		{
-			"or": "Vote no",
-			"tr": "反対"
-		},
-		{
-			"or": "Team chat",
-			"tr": "チームチャット"
-		},
-		{
-			"or": "Whisper",
-			"tr": ""
-		},
-		{
-			"or": "Show chat",
-			"tr": "チャットを見る"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "エモティコン"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "観戦モード"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "次の人を見る"
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "前の人を見る"
-		},
-		{
-			"or": "Console",
-			"tr": "コンソール"
-		},
-		{
-			"or": "Remote console",
-			"tr": "リモコン"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "スクリーンショット"
-		},
-		{
-			"or": "Statboard",
-			"tr": ""
-		},
-		{
-			"or": "Respawn",
-			"tr": "リスポーン"
-		},
-		{
-			"or": "Ready",
-			"tr": "レディー"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": ""
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": ""
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": ""
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": ""
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Enable joystick",
-			"tr": ""
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": ""
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": ""
-		},
-		{
-			"or": "Configure statboard",
-			"tr": ""
-		},
-		{
-			"or": "Device",
-			"tr": ""
-		},
-		{
-			"or": "Status",
-			"tr": ""
-		},
-		{
-			"or": "Aim bind",
-			"tr": ""
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": ""
-		},
-		{
-			"or": "Length",
-			"tr": ""
-		},
-		{
-			"or": "Date",
-			"tr": ""
-		},
-		{
-			"or": "Close",
-			"tr": "閉じる"
-		},
-		{
-			"or": "Demofile: %s",
-			"tr": "デモファイル: %s"
-		},
-		{
-			"or": "Parent Folder",
-			"tr": "親フォルダ"
-		},
-		{
-			"or": "Folder",
-			"tr": "フォルダ"
-		},
-		{
-			"or": "Invalid Demo",
-			"tr": "無効なデモ"
-		},
-		{
-			"or": "Demo details",
-			"tr": "デモの詳細"
-		},
-		{
-			"or": "Recorded",
-			"tr": ""
-		},
-		{
-			"or": "Delete",
-			"tr": "削除"
-		},
-		{
-			"or": "Are you sure that you want to delete the demo '%s'?",
-			"tr": ""
-		},
-		{
-			"or": "Delete demo",
-			"tr": "デモを削除"
-		},
-		{
-			"or": "Rename",
-			"tr": "名前変更"
-		},
-		{
-			"or": "Fetch Info",
-			"tr": ""
-		},
-		{
-			"or": "Open",
-			"tr": "開く"
-		},
-		{
-			"context": "DemoBrowser",
-			"or": "Play",
-			"tr": "プレイ"
-		},
-		{
-			"or": "Unable to delete the demo",
-			"tr": "デモを削除できません。"
-		},
-		{
-			"or": "Created",
-			"tr": ""
-		},
-		{
-			"or": "Version",
-			"tr": "バージョン"
-		},
-		{
-			"or": "Netversion",
-			"tr": ""
-		},
-		{
-			"or": "Markers",
-			"tr": ""
-		},
-		{
-			"or": "%.3f KiB",
-			"tr": "%.3fKiB"
-		},
-		{
-			"or": "Size",
-			"tr": "サイズ"
-		},
-		{
-			"or": "Crc",
-			"tr": "CRC"
-		},
-		{
-			"or": "Teams are locked",
-			"tr": "チームはロックしました"
-		},
-		{
-			"or": "Only %d active players are allowed",
-			"tr": "最大%d人です"
-		},
-		{
-			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-			"tr": ""
-		},
-		{
-			"or": "Game options",
-			"tr": ""
-		},
-		{
-			"or": "locked",
-			"tr": ""
-		},
-		{
-			"or": "Spectating",
-			"tr": "観戦している"
-		},
-		{
-			"or": "Join red",
-			"tr": "赤チームに参加"
-		},
-		{
-			"or": "Joined red",
-			"tr": "赤チームに参加した"
-		},
-		{
-			"or": "Join blue",
-			"tr": "青チームに参加"
-		},
-		{
-			"or": "Joined blue",
-			"tr": "青チームに参加した"
-		},
-		{
-			"or": "Join",
-			"tr": "参加する"
-		},
-		{
-			"or": "Joined",
-			"tr": "参加した"
-		},
-		{
-			"or": "Disconnect",
-			"tr": "切断"
-		},
-		{
-			"or": "Stop record",
-			"tr": "録画停止"
-		},
-		{
-			"or": "Record",
-			"tr": ""
-		},
-		{
-			"or": "Player options",
-			"tr": "プレイヤー設定"
-		},
-		{
-			"or": "Address",
-			"tr": "アドレス"
-		},
-		{
-			"context": "With",
-			"or": "Yes",
-			"tr": "はい"
-		},
-		{
-			"context": "Without/None",
-			"or": "No",
-			"tr": "いいえ"
-		},
-		{
-			"or": "Favorite",
-			"tr": "お気に入り"
-		},
-		{
-			"or": "Mute broadcasts",
-			"tr": ""
-		},
-		{
-			"or": "Game info",
-			"tr": "ゲーム情報"
-		},
-		{
-			"or": "Game type",
-			"tr": "ゲームタイプ"
-		},
-		{
-			"or": "Difficulty",
-			"tr": ""
-		},
-		{
-			"or": "Score limit",
-			"tr": "スコア上限"
-		},
-		{
-			"or": "Time limit",
-			"tr": "残り時間"
-		},
-		{
-			"or": "MOTD",
-			"tr": "説明"
-		},
-		{
-			"or": "Option",
-			"tr": ""
-		},
-		{
-			"or": "Wait for current vote to end before calling a new one.",
-			"tr": ""
-		},
-		{
-			"or": "You must wait %d seconds before making another vote",
-			"tr": ""
-		},
-		{
-			"or": "Spectators aren't allowed to start a vote.",
-			"tr": "観戦者は投票立ちできません。"
-		},
-		{
-			"or": "Change settings",
-			"tr": "設定を変える"
-		},
-		{
-			"or": "Kick player",
-			"tr": "プレイヤーをキック"
-		},
-		{
-			"or": "Move player to spectators",
-			"tr": "プレイヤーを観戦席に移動"
-		},
-		{
-			"or": "Server does not allow voting to kick players",
-			"tr": ""
-		},
-		{
-			"or": "Kick voting requires %d players on the server",
-			"tr": ""
-		},
-		{
-			"or": "Server does not allow voting to move players to spectators",
-			"tr": ""
-		},
-		{
-			"or": "Force vote",
-			"tr": "強制投票"
-		},
-		{
-			"or": "Remove",
-			"tr": "削除"
-		},
-		{
-			"or": "Vote description:",
-			"tr": "投票の説明:"
-		},
-		{
-			"or": "Vote command:",
-			"tr": "投票コマンド:"
-		},
-		{
-			"or": "Add",
-			"tr": "追加"
 		},
 		{
 			"or": "Hue:",
@@ -1284,6 +1435,26 @@
 		},
 		{
 			"or": "Theme",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "(none)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "(automatic)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "%s (day)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "%s (night)",
 			"tr": ""
 		},
 		{
@@ -1486,14 +1657,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Suicides",
-			"tr": ""
-		},
-		{
-			"or": "Ratio",
-			"tr": ""
-		},
-		{
 			"or": "The ratio of kills to deaths.",
 			"tr": ""
 		},
@@ -1511,10 +1674,6 @@
 		},
 		{
 			"or": "Current spree",
-			"tr": ""
-		},
-		{
-			"or": "Best spree",
 			"tr": ""
 		},
 		{
@@ -1666,83 +1825,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Shutdown server",
-			"tr": ""
-		},
-		{
-			"or": "Local server",
-			"tr": "ローカルサーバ"
-		},
-		{
-			"or": "Editor",
-			"tr": "エディタ"
-		},
-		{
-			"or": "Play",
-			"tr": "プレイ"
-		},
-		{
-			"or": "Teeworlds Archive %s is out! Download it at our github!",
-			"tr": ""
-		},
-		{
-			"or": "Time limit: %d min",
-			"tr": "残り %d 分"
-		},
-		{
-			"context": "rounds (scoreboard)",
-			"or": "Match",
-			"tr": "試合"
-		},
-		{
-			"or": "Game over",
-			"tr": "ゲームオーバー"
-		},
-		{
-			"or": "Round over",
-			"tr": "ラウンドオーバー"
-		},
-		{
-			"or": "Map record",
-			"tr": ""
-		},
-		{
-			"or": "Time",
-			"tr": ""
-		},
-		{
-			"or": "Score",
-			"tr": "スコア"
-		},
-		{
-			"or": "%d other players",
-			"tr": ""
-		},
-		{
-			"or": "REC %3d:%02d",
-			"tr": "REC %3d:%02d"
-		},
-		{
-			"or": "Red team",
-			"tr": "赤チーム"
-		},
-		{
-			"or": "Blue team",
-			"tr": "青チーム"
-		},
-		{
-			"or": "%s wins!",
-			"tr": "%s の勝ち!"
-		},
-		{
-			"or": "Draw!",
-			"tr": "引き分け！"
-		},
-		{
-			"or": "Round over!",
-			"tr": "ラウンドオーバー！"
-		},
-		{
 			"context": "skins",
 			"or": "body",
 			"tr": ""
@@ -1773,66 +1855,8 @@
 			"tr": ""
 		},
 		{
-			"or": "Free-View",
-			"tr": "自由視点"
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
+			"or": "Resource '%s': download complete",
 			"tr": ""
-		},
-		{
-			"or": "KPM",
-			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": ""
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": ""
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": ""
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": ""
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": ""
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": ""
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": ""
-		},
-		{
-			"or": "Vote aborted",
-			"tr": "投票中止"
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": ""
-		},
-		{
-			"or": "Vote passed",
-			"tr": "投票合格"
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": ""
-		},
-		{
-			"or": "Vote failed",
-			"tr": "投票不合格"
 		}
 	]
 }

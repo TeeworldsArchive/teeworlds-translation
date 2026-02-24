@@ -125,6 +125,737 @@
 			"tr": ""
 		},
 		{
+			"or": "-Page %d-",
+			"tr": "-Paĝo %d-"
+		},
+		{
+			"or": "'%s' has set a new map record: %s",
+			"tr": ""
+		},
+		{
+			"or": "'%s' has set a new personal record: %s",
+			"tr": ""
+		},
+		{
+			"or": " (%s seconds faster)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' finished in: %s",
+			"tr": ""
+		},
+		{
+			"or": "Move left",
+			"tr": "Moviĝi maldekstren"
+		},
+		{
+			"or": "Move right",
+			"tr": "Moviĝi dekstren"
+		},
+		{
+			"or": "Jump",
+			"tr": "Salti"
+		},
+		{
+			"or": "Fire",
+			"tr": "Pafo"
+		},
+		{
+			"or": "Hook",
+			"tr": "Hoko"
+		},
+		{
+			"or": "Hammer",
+			"tr": "Martelo"
+		},
+		{
+			"or": "Pistol",
+			"tr": "Pistolo"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "Kartoĉa Fusilo"
+		},
+		{
+			"or": "Grenade",
+			"tr": "Grenado"
+		},
+		{
+			"or": "Laser",
+			"tr": "Laserilo"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "Sekva armilo"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "Antaŭa armilo"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "Voĉdonu jes"
+		},
+		{
+			"or": "Vote no",
+			"tr": "Voĉdonu ne"
+		},
+		{
+			"or": "Chat",
+			"tr": "Babilejo"
+		},
+		{
+			"or": "Team chat",
+			"tr": "Teama babilejo"
+		},
+		{
+			"or": "Whisper",
+			"tr": ""
+		},
+		{
+			"or": "Show chat",
+			"tr": "Montri babilejon"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "Miensimbolo"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "Spektanta reĝimo"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "Spekti neksta"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "Spekti antaŭan"
+		},
+		{
+			"or": "Console",
+			"tr": "Konzolo"
+		},
+		{
+			"or": "Remote console",
+			"tr": "Telekonzolo"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "Ekrankopio"
+		},
+		{
+			"or": "Scoreboard",
+			"tr": "Rezulttabelo"
+		},
+		{
+			"or": "Statboard",
+			"tr": ""
+		},
+		{
+			"or": "Respawn",
+			"tr": "Viviĝi"
+		},
+		{
+			"or": "Ready",
+			"tr": "Preta"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": ""
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": ""
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": ""
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": ""
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Enable joystick",
+			"tr": ""
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": ""
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": ""
+		},
+		{
+			"or": "Configure statboard",
+			"tr": ""
+		},
+		{
+			"or": "Device",
+			"tr": ""
+		},
+		{
+			"or": "Status",
+			"tr": ""
+		},
+		{
+			"or": "Aim bind",
+			"tr": ""
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": ""
+		},
+		{
+			"or": "Name",
+			"tr": "Nomo"
+		},
+		{
+			"or": "Length",
+			"tr": "Longeco"
+		},
+		{
+			"or": "Date",
+			"tr": ""
+		},
+		{
+			"or": "Close",
+			"tr": "Fermi"
+		},
+		{
+			"or": "Demofile: %s",
+			"tr": "Demonstra dosiero: %s"
+		},
+		{
+			"or": "Parent Folder",
+			"tr": "Patra dosierujo"
+		},
+		{
+			"or": "Folder",
+			"tr": "Dosierujo"
+		},
+		{
+			"or": "Invalid Demo",
+			"tr": "Malĝusta demonstro"
+		},
+		{
+			"or": "Demo details",
+			"tr": "Detaloj de demonstro"
+		},
+		{
+			"or": "Recorded",
+			"tr": "Registrita"
+		},
+		{
+			"or": "Delete",
+			"tr": "Forigi"
+		},
+		{
+			"or": "Are you sure that you want to delete the demo '%s'?",
+			"tr": ""
+		},
+		{
+			"or": "Delete demo",
+			"tr": "Forigi demonstron"
+		},
+		{
+			"or": "Yes",
+			"tr": "Jes"
+		},
+		{
+			"or": "No",
+			"tr": "Ne"
+		},
+		{
+			"or": "Rename",
+			"tr": "Renomigi"
+		},
+		{
+			"or": "Refresh",
+			"tr": "Aktualigi"
+		},
+		{
+			"or": "Fetch Info",
+			"tr": ""
+		},
+		{
+			"or": "Open",
+			"tr": "Malfermi"
+		},
+		{
+			"context": "DemoBrowser",
+			"or": "Play",
+			"tr": "Ludi"
+		},
+		{
+			"or": "Error",
+			"tr": "Eraro"
+		},
+		{
+			"or": "Unable to delete the demo",
+			"tr": "Estas neebla forigi la demonstron"
+		},
+		{
+			"or": "Ok",
+			"tr": "Bone"
+		},
+		{
+			"or": "Created",
+			"tr": "Kreita"
+		},
+		{
+			"or": "Type",
+			"tr": "Tipo"
+		},
+		{
+			"or": "Version",
+			"tr": "Versio"
+		},
+		{
+			"or": "Netversion",
+			"tr": "Interretversio:"
+		},
+		{
+			"or": "Markers",
+			"tr": ""
+		},
+		{
+			"or": "Map",
+			"tr": "Mapo"
+		},
+		{
+			"or": "%.3f KiB",
+			"tr": "%.3f kilobajton"
+		},
+		{
+			"or": "Size",
+			"tr": "Grandeco"
+		},
+		{
+			"or": "Crc",
+			"tr": "Crc"
+		},
+		{
+			"or": "Teams are locked",
+			"tr": "Teamoj estas ŝlositaj"
+		},
+		{
+			"or": "Only %d active players are allowed",
+			"tr": "Nur %d aktivaj ludantoj estas akceptataj"
+		},
+		{
+			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
+			"tr": "La teamoj estas blokitaj. Post %02d:%02d da tempo vi povos ŝanĝi la teamon."
+		},
+		{
+			"or": "Game options",
+			"tr": ""
+		},
+		{
+			"or": "locked",
+			"tr": "ŝlosita"
+		},
+		{
+			"or": "Spectating",
+			"tr": "Spektas"
+		},
+		{
+			"or": "Join red",
+			"tr": "Aligi al la ruĝa"
+		},
+		{
+			"or": "Joined red",
+			"tr": "Aligis al la ruĝa"
+		},
+		{
+			"or": "Join blue",
+			"tr": "Aligu al la blua"
+		},
+		{
+			"or": "Joined blue",
+			"tr": "Aligis al la blua"
+		},
+		{
+			"or": "Join",
+			"tr": "Aligi"
+		},
+		{
+			"or": "Joined",
+			"tr": "Aligis"
+		},
+		{
+			"or": "Disconnect",
+			"tr": "Malkonekti"
+		},
+		{
+			"or": "Stop record",
+			"tr": "Halti registradon"
+		},
+		{
+			"or": "Record",
+			"tr": "Registri"
+		},
+		{
+			"or": "Player options",
+			"tr": "Agordoj de ludanto"
+		},
+		{
+			"or": "Player",
+			"tr": "Ludanto"
+		},
+		{
+			"or": "Server info",
+			"tr": "Servilinformoj"
+		},
+		{
+			"or": "Address",
+			"tr": "Adreso"
+		},
+		{
+			"or": "Ping",
+			"tr": "Pingo"
+		},
+		{
+			"or": "Password",
+			"tr": "Pasvorto"
+		},
+		{
+			"context": "With",
+			"or": "Yes",
+			"tr": "Jes"
+		},
+		{
+			"context": "Without/None",
+			"or": "No",
+			"tr": "Ne"
+		},
+		{
+			"or": "Favorite",
+			"tr": "Ŝatata"
+		},
+		{
+			"or": "Mute broadcasts",
+			"tr": ""
+		},
+		{
+			"or": "Game info",
+			"tr": "Informoj de ludo"
+		},
+		{
+			"or": "Game type",
+			"tr": "Ludtipo"
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Casual",
+			"tr": ""
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Normal",
+			"tr": ""
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Competitive",
+			"tr": ""
+		},
+		{
+			"or": "Difficulty",
+			"tr": ""
+		},
+		{
+			"or": "Score limit",
+			"tr": "Rezultlimito"
+		},
+		{
+			"or": "Time limit",
+			"tr": "Templimito"
+		},
+		{
+			"or": "Players",
+			"tr": "Ludantoj"
+		},
+		{
+			"or": "MOTD",
+			"tr": "Mesaĝo de la tago"
+		},
+		{
+			"or": "Option",
+			"tr": ""
+		},
+		{
+			"or": "Wait for current vote to end before calling a new one.",
+			"tr": "Atendi ĝis la fino de la nuna voĉdonado por krei novan voĉdonadon."
+		},
+		{
+			"or": "You must wait %d seconds before making another vote",
+			"tr": "Vi devas atendi %d sekundojn antaŭ vi povas doni alian voĉon"
+		},
+		{
+			"or": "Spectators aren't allowed to start a vote.",
+			"tr": "Spektantoj ne rajtas komenci voĉdonadon"
+		},
+		{
+			"or": "Change settings",
+			"tr": "Ŝanĝi agordojn"
+		},
+		{
+			"or": "Kick player",
+			"tr": "Forigi ludanton"
+		},
+		{
+			"or": "Move player to spectators",
+			"tr": "Movi ludanton al spektantoj"
+		},
+		{
+			"or": "Server does not allow voting to kick players",
+			"tr": "La servilo ne permesas voĉdoni por forigi ludantojn"
+		},
+		{
+			"or": "Kick voting requires %d players on the server",
+			"tr": "La forigo de ludantoj ĉe tiu servilo bezonas %d ludantojn"
+		},
+		{
+			"or": "Server does not allow voting to move players to spectators",
+			"tr": "La servilo ne permesas voĉdoni por movi ludantojn al spektantoj"
+		},
+		{
+			"or": "Reason:",
+			"tr": "Kialo:"
+		},
+		{
+			"or": "Call vote",
+			"tr": "Voki voĉdonon"
+		},
+		{
+			"or": "Force vote",
+			"tr": "Eldevigi voĉdonadon"
+		},
+		{
+			"or": "Remove",
+			"tr": "Forigi"
+		},
+		{
+			"or": "Vote description:",
+			"tr": "Voĉdona priskribo:"
+		},
+		{
+			"or": "Vote command:",
+			"tr": "Voĉdona komando:"
+		},
+		{
+			"or": "Add",
+			"tr": "Aldoni"
+		},
+		{
+			"or": "Settings",
+			"tr": "Agordoj"
+		},
+		{
+			"or": "Shutdown server",
+			"tr": ""
+		},
+		{
+			"or": "Local server",
+			"tr": "Loka servilo"
+		},
+		{
+			"or": "Demos",
+			"tr": "Demonstroj"
+		},
+		{
+			"or": "Editor",
+			"tr": "Redaktilo"
+		},
+		{
+			"or": "Play",
+			"tr": "Ludi"
+		},
+		{
+			"or": "Quit",
+			"tr": "Forlasi"
+		},
+		{
+			"or": "Teeworlds Archive %s is out! Download it at our github!",
+			"tr": ""
+		},
+		{
+			"or": "Time limit: %d min",
+			"tr": "Templimito: %d minutojn"
+		},
+		{
+			"context": "rounds (scoreboard)",
+			"or": "Match",
+			"tr": "Ludbatalo"
+		},
+		{
+			"or": "Spectators",
+			"tr": "Spektantoj"
+		},
+		{
+			"or": "Game over",
+			"tr": "Ludo finita"
+		},
+		{
+			"or": "Round over",
+			"tr": "La raŭndo finiĝis"
+		},
+		{
+			"or": "Map record",
+			"tr": ""
+		},
+		{
+			"or": "Clan",
+			"tr": "Klano"
+		},
+		{
+			"or": "Time",
+			"tr": ""
+		},
+		{
+			"or": "Score",
+			"tr": "Rezulto"
+		},
+		{
+			"or": "%d other players",
+			"tr": ""
+		},
+		{
+			"or": "REC %3d:%02d",
+			"tr": "REG %3d:%02d"
+		},
+		{
+			"or": "Red team",
+			"tr": "Ruĝa teamo"
+		},
+		{
+			"or": "Blue team",
+			"tr": "Blua teamo"
+		},
+		{
+			"or": "%s wins!",
+			"tr": "%s venkas!"
+		},
+		{
+			"or": "Draw!",
+			"tr": "Remiso!"
+		},
+		{
+			"or": "Round over!",
+			"tr": "Fino de la raŭndo!"
+		},
+		{
+			"or": "Free-View",
+			"tr": "Libera-Vido"
+		},
+		{
+			"or": "Suicides",
+			"tr": ""
+		},
+		{
+			"or": "Ratio",
+			"tr": ""
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": ""
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": ""
+		},
+		{
+			"or": "Best spree",
+			"tr": ""
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": "'%s' volas voĉdoni por ŝanĝi la servilagordo '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": "%s' volas forigi '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": "'%s' volas forigi '%s' al la spektantoj (%s)"
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": "Administranto trudis servilagordon '%s' (%s)"
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": "La administranto movis '%s' al spektanto (%s)"
+		},
+		{
+			"or": "Vote aborted",
+			"tr": "Voĉdonado estis nuligita"
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": "La administranto trudis \"jes\" en la voĉdonado"
+		},
+		{
+			"or": "Vote passed",
+			"tr": "Voĉdonado pasis"
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": "La administranto eldevigis la voĉrezulton \"ne\""
+		},
+		{
+			"or": "Vote failed",
+			"tr": "La voĉdonado fiaskis"
+		},
+		{
 			"or": "Map changed to '%s'",
 			"tr": ""
 		},
@@ -133,16 +864,8 @@
 			"tr": "Al ĉiuj"
 		},
 		{
-			"or": "Spectators",
-			"tr": "Spektantoj"
-		},
-		{
 			"or": "Team",
 			"tr": "Teamo"
-		},
-		{
-			"or": "Chat",
-			"tr": "Babilejo"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -187,10 +910,6 @@
 		{
 			"or": "'%s' was removed as a friend",
 			"tr": ""
-		},
-		{
-			"or": "-Page %d-",
-			"tr": "-Paĝo %d-"
 		},
 		{
 			"or": "Sudden Death",
@@ -245,10 +964,6 @@
 			"tr": "%ds restas"
 		},
 		{
-			"or": "Reason:",
-			"tr": "Kialo:"
-		},
-		{
 			"or": "Vote Yes",
 			"tr": ""
 		},
@@ -281,48 +996,12 @@
 			"tr": ""
 		},
 		{
-			"or": "'%s' has set a new map record: %s",
-			"tr": ""
-		},
-		{
-			"or": "'%s' has set a new personal record: %s",
-			"tr": ""
-		},
-		{
-			"or": " (%s seconds faster)",
-			"tr": ""
-		},
-		{
-			"or": "'%s' finished in: %s",
-			"tr": ""
-		},
-		{
 			"or": "Game",
 			"tr": "Ludo"
 		},
 		{
-			"or": "Players",
-			"tr": "Ludantoj"
-		},
-		{
-			"or": "Server info",
-			"tr": "Servilinformoj"
-		},
-		{
-			"or": "Call vote",
-			"tr": "Voki voĉdonon"
-		},
-		{
-			"or": "Settings",
-			"tr": "Agordoj"
-		},
-		{
 			"or": "General",
 			"tr": "Ĝeneralaj"
-		},
-		{
-			"or": "Player",
-			"tr": "Ludanto"
 		},
 		{
 			"or": "TBD",
@@ -349,10 +1028,6 @@
 			"tr": "Loka"
 		},
 		{
-			"or": "Demos",
-			"tr": "Demonstroj"
-		},
-		{
 			"or": "Back",
 			"tr": "Reen"
 		},
@@ -363,10 +1038,6 @@
 		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "La sonludilo ne povis esti pravalorizita"
-		},
-		{
-			"or": "Ok",
-			"tr": "Bone"
 		},
 		{
 			"or": "Connecting to",
@@ -401,10 +1072,6 @@
 			"tr": "Malĝusta pasvorto"
 		},
 		{
-			"or": "Quit",
-			"tr": "Forlasi"
-		},
-		{
 			"or": "Welcome to Teeworlds",
 			"tr": "Bonvenon al Tejmondo!"
 		},
@@ -417,20 +1084,8 @@
 			"tr": "Ĉu vi estas certa ke vi volas eliri?"
 		},
 		{
-			"or": "No",
-			"tr": "Ne"
-		},
-		{
-			"or": "Yes",
-			"tr": "Jes"
-		},
-		{
 			"or": "Please enter the password.",
 			"tr": ""
-		},
-		{
-			"or": "Password",
-			"tr": "Pasvorto"
 		},
 		{
 			"or": "Save password",
@@ -477,14 +1132,6 @@
 			"tr": "Ĉu vi certe volas renomigi la demonstron?"
 		},
 		{
-			"or": "Name",
-			"tr": "Nomo"
-		},
-		{
-			"or": "Error",
-			"tr": "Eraro"
-		},
-		{
 			"or": "Unable to rename the demo",
 			"tr": "Estas neebla renomigi la demonstron"
 		},
@@ -527,18 +1174,6 @@
 		{
 			"or": "Server",
 			"tr": ""
-		},
-		{
-			"or": "Type",
-			"tr": "Tipo"
-		},
-		{
-			"or": "Map",
-			"tr": "Mapo"
-		},
-		{
-			"or": "Ping",
-			"tr": "Pingo"
 		},
 		{
 			"or": "Race",
@@ -646,10 +1281,6 @@
 			"context": "friends (server browser)",
 			"or": "Offline (%d)",
 			"tr": ""
-		},
-		{
-			"or": "Clan",
-			"tr": "Klano"
 		},
 		{
 			"or": "Add friend/clan",
@@ -773,21 +1404,6 @@
 			"tr": ""
 		},
 		{
-			"context": "Server difficulty",
-			"or": "Casual",
-			"tr": ""
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Normal",
-			"tr": ""
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Competitive",
-			"tr": ""
-		},
-		{
 			"or": "Click to remove the player from your friends.",
 			"tr": ""
 		},
@@ -796,473 +1412,8 @@
 			"tr": ""
 		},
 		{
-			"or": "Scoreboard",
-			"tr": "Rezulttabelo"
-		},
-		{
-			"or": "Refresh",
-			"tr": "Aktualigi"
-		},
-		{
 			"or": "Connect",
 			"tr": "Konekti"
-		},
-		{
-			"or": "Move left",
-			"tr": "Moviĝi maldekstren"
-		},
-		{
-			"or": "Move right",
-			"tr": "Moviĝi dekstren"
-		},
-		{
-			"or": "Jump",
-			"tr": "Salti"
-		},
-		{
-			"or": "Fire",
-			"tr": "Pafo"
-		},
-		{
-			"or": "Hook",
-			"tr": "Hoko"
-		},
-		{
-			"or": "Hammer",
-			"tr": "Martelo"
-		},
-		{
-			"or": "Pistol",
-			"tr": "Pistolo"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "Kartoĉa Fusilo"
-		},
-		{
-			"or": "Grenade",
-			"tr": "Grenado"
-		},
-		{
-			"or": "Laser",
-			"tr": "Laserilo"
-		},
-		{
-			"or": "Next weapon",
-			"tr": "Sekva armilo"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "Antaŭa armilo"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "Voĉdonu jes"
-		},
-		{
-			"or": "Vote no",
-			"tr": "Voĉdonu ne"
-		},
-		{
-			"or": "Team chat",
-			"tr": "Teama babilejo"
-		},
-		{
-			"or": "Whisper",
-			"tr": ""
-		},
-		{
-			"or": "Show chat",
-			"tr": "Montri babilejon"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "Miensimbolo"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "Spektanta reĝimo"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "Spekti neksta"
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "Spekti antaŭan"
-		},
-		{
-			"or": "Console",
-			"tr": "Konzolo"
-		},
-		{
-			"or": "Remote console",
-			"tr": "Telekonzolo"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "Ekrankopio"
-		},
-		{
-			"or": "Statboard",
-			"tr": ""
-		},
-		{
-			"or": "Respawn",
-			"tr": "Viviĝi"
-		},
-		{
-			"or": "Ready",
-			"tr": "Preta"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": ""
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": ""
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": ""
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": ""
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Enable joystick",
-			"tr": ""
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": ""
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": ""
-		},
-		{
-			"or": "Configure statboard",
-			"tr": ""
-		},
-		{
-			"or": "Device",
-			"tr": ""
-		},
-		{
-			"or": "Status",
-			"tr": ""
-		},
-		{
-			"or": "Aim bind",
-			"tr": ""
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": ""
-		},
-		{
-			"or": "Length",
-			"tr": "Longeco"
-		},
-		{
-			"or": "Date",
-			"tr": ""
-		},
-		{
-			"or": "Close",
-			"tr": "Fermi"
-		},
-		{
-			"or": "Demofile: %s",
-			"tr": "Demonstra dosiero: %s"
-		},
-		{
-			"or": "Parent Folder",
-			"tr": "Patra dosierujo"
-		},
-		{
-			"or": "Folder",
-			"tr": "Dosierujo"
-		},
-		{
-			"or": "Invalid Demo",
-			"tr": "Malĝusta demonstro"
-		},
-		{
-			"or": "Demo details",
-			"tr": "Detaloj de demonstro"
-		},
-		{
-			"or": "Recorded",
-			"tr": "Registrita"
-		},
-		{
-			"or": "Delete",
-			"tr": "Forigi"
-		},
-		{
-			"or": "Are you sure that you want to delete the demo '%s'?",
-			"tr": ""
-		},
-		{
-			"or": "Delete demo",
-			"tr": "Forigi demonstron"
-		},
-		{
-			"or": "Rename",
-			"tr": "Renomigi"
-		},
-		{
-			"or": "Fetch Info",
-			"tr": ""
-		},
-		{
-			"or": "Open",
-			"tr": "Malfermi"
-		},
-		{
-			"context": "DemoBrowser",
-			"or": "Play",
-			"tr": "Ludi"
-		},
-		{
-			"or": "Unable to delete the demo",
-			"tr": "Estas neebla forigi la demonstron"
-		},
-		{
-			"or": "Created",
-			"tr": "Kreita"
-		},
-		{
-			"or": "Version",
-			"tr": "Versio"
-		},
-		{
-			"or": "Netversion",
-			"tr": "Interretversio:"
-		},
-		{
-			"or": "Markers",
-			"tr": ""
-		},
-		{
-			"or": "%.3f KiB",
-			"tr": "%.3f kilobajton"
-		},
-		{
-			"or": "Size",
-			"tr": "Grandeco"
-		},
-		{
-			"or": "Crc",
-			"tr": "Crc"
-		},
-		{
-			"or": "Teams are locked",
-			"tr": "Teamoj estas ŝlositaj"
-		},
-		{
-			"or": "Only %d active players are allowed",
-			"tr": "Nur %d aktivaj ludantoj estas akceptataj"
-		},
-		{
-			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-			"tr": "La teamoj estas blokitaj. Post %02d:%02d da tempo vi povos ŝanĝi la teamon."
-		},
-		{
-			"or": "Game options",
-			"tr": ""
-		},
-		{
-			"or": "locked",
-			"tr": "ŝlosita"
-		},
-		{
-			"or": "Spectating",
-			"tr": "Spektas"
-		},
-		{
-			"or": "Join red",
-			"tr": "Aligi al la ruĝa"
-		},
-		{
-			"or": "Joined red",
-			"tr": "Aligis al la ruĝa"
-		},
-		{
-			"or": "Join blue",
-			"tr": "Aligu al la blua"
-		},
-		{
-			"or": "Joined blue",
-			"tr": "Aligis al la blua"
-		},
-		{
-			"or": "Join",
-			"tr": "Aligi"
-		},
-		{
-			"or": "Joined",
-			"tr": "Aligis"
-		},
-		{
-			"or": "Disconnect",
-			"tr": "Malkonekti"
-		},
-		{
-			"or": "Stop record",
-			"tr": "Halti registradon"
-		},
-		{
-			"or": "Record",
-			"tr": "Registri"
-		},
-		{
-			"or": "Player options",
-			"tr": "Agordoj de ludanto"
-		},
-		{
-			"or": "Address",
-			"tr": "Adreso"
-		},
-		{
-			"context": "With",
-			"or": "Yes",
-			"tr": "Jes"
-		},
-		{
-			"context": "Without/None",
-			"or": "No",
-			"tr": "Ne"
-		},
-		{
-			"or": "Favorite",
-			"tr": "Ŝatata"
-		},
-		{
-			"or": "Mute broadcasts",
-			"tr": ""
-		},
-		{
-			"or": "Game info",
-			"tr": "Informoj de ludo"
-		},
-		{
-			"or": "Game type",
-			"tr": "Ludtipo"
-		},
-		{
-			"or": "Difficulty",
-			"tr": ""
-		},
-		{
-			"or": "Score limit",
-			"tr": "Rezultlimito"
-		},
-		{
-			"or": "Time limit",
-			"tr": "Templimito"
-		},
-		{
-			"or": "MOTD",
-			"tr": "Mesaĝo de la tago"
-		},
-		{
-			"or": "Option",
-			"tr": ""
-		},
-		{
-			"or": "Wait for current vote to end before calling a new one.",
-			"tr": "Atendi ĝis la fino de la nuna voĉdonado por krei novan voĉdonadon."
-		},
-		{
-			"or": "You must wait %d seconds before making another vote",
-			"tr": "Vi devas atendi %d sekundojn antaŭ vi povas doni alian voĉon"
-		},
-		{
-			"or": "Spectators aren't allowed to start a vote.",
-			"tr": "Spektantoj ne rajtas komenci voĉdonadon"
-		},
-		{
-			"or": "Change settings",
-			"tr": "Ŝanĝi agordojn"
-		},
-		{
-			"or": "Kick player",
-			"tr": "Forigi ludanton"
-		},
-		{
-			"or": "Move player to spectators",
-			"tr": "Movi ludanton al spektantoj"
-		},
-		{
-			"or": "Server does not allow voting to kick players",
-			"tr": "La servilo ne permesas voĉdoni por forigi ludantojn"
-		},
-		{
-			"or": "Kick voting requires %d players on the server",
-			"tr": "La forigo de ludantoj ĉe tiu servilo bezonas %d ludantojn"
-		},
-		{
-			"or": "Server does not allow voting to move players to spectators",
-			"tr": "La servilo ne permesas voĉdoni por movi ludantojn al spektantoj"
-		},
-		{
-			"or": "Force vote",
-			"tr": "Eldevigi voĉdonadon"
-		},
-		{
-			"or": "Remove",
-			"tr": "Forigi"
-		},
-		{
-			"or": "Vote description:",
-			"tr": "Voĉdona priskribo:"
-		},
-		{
-			"or": "Vote command:",
-			"tr": "Voĉdona komando:"
-		},
-		{
-			"or": "Add",
-			"tr": "Aldoni"
 		},
 		{
 			"or": "Hue:",
@@ -1286,6 +1437,26 @@
 		},
 		{
 			"or": "Theme",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "(none)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "(automatic)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "%s (day)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "%s (night)",
 			"tr": ""
 		},
 		{
@@ -1488,14 +1659,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Suicides",
-			"tr": ""
-		},
-		{
-			"or": "Ratio",
-			"tr": ""
-		},
-		{
 			"or": "The ratio of kills to deaths.",
 			"tr": ""
 		},
@@ -1513,10 +1676,6 @@
 		},
 		{
 			"or": "Current spree",
-			"tr": ""
-		},
-		{
-			"or": "Best spree",
 			"tr": ""
 		},
 		{
@@ -1668,83 +1827,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Shutdown server",
-			"tr": ""
-		},
-		{
-			"or": "Local server",
-			"tr": "Loka servilo"
-		},
-		{
-			"or": "Editor",
-			"tr": "Redaktilo"
-		},
-		{
-			"or": "Play",
-			"tr": "Ludi"
-		},
-		{
-			"or": "Teeworlds Archive %s is out! Download it at our github!",
-			"tr": ""
-		},
-		{
-			"or": "Time limit: %d min",
-			"tr": "Templimito: %d minutojn"
-		},
-		{
-			"context": "rounds (scoreboard)",
-			"or": "Match",
-			"tr": "Ludbatalo"
-		},
-		{
-			"or": "Game over",
-			"tr": "Ludo finita"
-		},
-		{
-			"or": "Round over",
-			"tr": "La raŭndo finiĝis"
-		},
-		{
-			"or": "Map record",
-			"tr": ""
-		},
-		{
-			"or": "Time",
-			"tr": ""
-		},
-		{
-			"or": "Score",
-			"tr": "Rezulto"
-		},
-		{
-			"or": "%d other players",
-			"tr": ""
-		},
-		{
-			"or": "REC %3d:%02d",
-			"tr": "REG %3d:%02d"
-		},
-		{
-			"or": "Red team",
-			"tr": "Ruĝa teamo"
-		},
-		{
-			"or": "Blue team",
-			"tr": "Blua teamo"
-		},
-		{
-			"or": "%s wins!",
-			"tr": "%s venkas!"
-		},
-		{
-			"or": "Draw!",
-			"tr": "Remiso!"
-		},
-		{
-			"or": "Round over!",
-			"tr": "Fino de la raŭndo!"
-		},
-		{
 			"context": "skins",
 			"or": "body",
 			"tr": ""
@@ -1775,66 +1857,8 @@
 			"tr": ""
 		},
 		{
-			"or": "Free-View",
-			"tr": "Libera-Vido"
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
+			"or": "Resource '%s': download complete",
 			"tr": ""
-		},
-		{
-			"or": "KPM",
-			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": ""
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": ""
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": "'%s' volas voĉdoni por ŝanĝi la servilagordo '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": "%s' volas forigi '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": "'%s' volas forigi '%s' al la spektantoj (%s)"
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": "Administranto trudis servilagordon '%s' (%s)"
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": "La administranto movis '%s' al spektanto (%s)"
-		},
-		{
-			"or": "Vote aborted",
-			"tr": "Voĉdonado estis nuligita"
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": "La administranto trudis \"jes\" en la voĉdonado"
-		},
-		{
-			"or": "Vote passed",
-			"tr": "Voĉdonado pasis"
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": "La administranto eldevigis la voĉrezulton \"ne\""
-		},
-		{
-			"or": "Vote failed",
-			"tr": "La voĉdonado fiaskis"
 		}
 	]
 }

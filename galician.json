@@ -123,6 +123,737 @@
 			"tr": ""
 		},
 		{
+			"or": "-Page %d-",
+			"tr": "-Páxina %d-"
+		},
+		{
+			"or": "'%s' has set a new map record: %s",
+			"tr": ""
+		},
+		{
+			"or": "'%s' has set a new personal record: %s",
+			"tr": ""
+		},
+		{
+			"or": " (%s seconds faster)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' finished in: %s",
+			"tr": ""
+		},
+		{
+			"or": "Move left",
+			"tr": "Mover a esquerda"
+		},
+		{
+			"or": "Move right",
+			"tr": "Mover a dereita"
+		},
+		{
+			"or": "Jump",
+			"tr": "Saltar"
+		},
+		{
+			"or": "Fire",
+			"tr": "Disparar"
+		},
+		{
+			"or": "Hook",
+			"tr": "Gancho"
+		},
+		{
+			"or": "Hammer",
+			"tr": "Martelo"
+		},
+		{
+			"or": "Pistol",
+			"tr": "Pistola"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "Escopeta"
+		},
+		{
+			"or": "Grenade",
+			"tr": "Granada"
+		},
+		{
+			"or": "Laser",
+			"tr": "Láser"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "Arma seguinte"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "Arma anterior"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "Votar sí"
+		},
+		{
+			"or": "Vote no",
+			"tr": "Votar non"
+		},
+		{
+			"or": "Chat",
+			"tr": "Chat"
+		},
+		{
+			"or": "Team chat",
+			"tr": "Conversación de equipo"
+		},
+		{
+			"or": "Whisper",
+			"tr": ""
+		},
+		{
+			"or": "Show chat",
+			"tr": "Amosar chat"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "Emoticón"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "Modo espectador"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "Observar seguinte"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "Observar anterior"
+		},
+		{
+			"or": "Console",
+			"tr": "Consola"
+		},
+		{
+			"or": "Remote console",
+			"tr": "Consola remota"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "Captura de pantalla"
+		},
+		{
+			"or": "Scoreboard",
+			"tr": "Táboa de Puntuacións"
+		},
+		{
+			"or": "Statboard",
+			"tr": ""
+		},
+		{
+			"or": "Respawn",
+			"tr": "Renacer"
+		},
+		{
+			"or": "Ready",
+			"tr": "Listo"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": ""
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": ""
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": ""
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": ""
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Enable joystick",
+			"tr": ""
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": ""
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": ""
+		},
+		{
+			"or": "Configure statboard",
+			"tr": ""
+		},
+		{
+			"or": "Device",
+			"tr": ""
+		},
+		{
+			"or": "Status",
+			"tr": ""
+		},
+		{
+			"or": "Aim bind",
+			"tr": ""
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": ""
+		},
+		{
+			"or": "Name",
+			"tr": "Nome"
+		},
+		{
+			"or": "Length",
+			"tr": "Lonxitude"
+		},
+		{
+			"or": "Date",
+			"tr": ""
+		},
+		{
+			"or": "Close",
+			"tr": "Pechar"
+		},
+		{
+			"or": "Demofile: %s",
+			"tr": "Arquivo: %s"
+		},
+		{
+			"or": "Parent Folder",
+			"tr": "Directorio pai"
+		},
+		{
+			"or": "Folder",
+			"tr": "Cartafol"
+		},
+		{
+			"or": "Invalid Demo",
+			"tr": "Demo inválida"
+		},
+		{
+			"or": "Demo details",
+			"tr": "Detalles da demo"
+		},
+		{
+			"or": "Recorded",
+			"tr": "Grabacións"
+		},
+		{
+			"or": "Delete",
+			"tr": "Eliminar"
+		},
+		{
+			"or": "Are you sure that you want to delete the demo '%s'?",
+			"tr": ""
+		},
+		{
+			"or": "Delete demo",
+			"tr": "Eliminar demo"
+		},
+		{
+			"or": "Yes",
+			"tr": "Sí"
+		},
+		{
+			"or": "No",
+			"tr": "Non"
+		},
+		{
+			"or": "Rename",
+			"tr": "Renomear"
+		},
+		{
+			"or": "Refresh",
+			"tr": "Actualizar"
+		},
+		{
+			"or": "Fetch Info",
+			"tr": ""
+		},
+		{
+			"or": "Open",
+			"tr": "Abrir"
+		},
+		{
+			"context": "DemoBrowser",
+			"or": "Play",
+			"tr": "Xogar"
+		},
+		{
+			"or": "Error",
+			"tr": "Error"
+		},
+		{
+			"or": "Unable to delete the demo",
+			"tr": "Non se pudo eliminar a demo"
+		},
+		{
+			"or": "Ok",
+			"tr": "Aceptar"
+		},
+		{
+			"or": "Created",
+			"tr": "Creado"
+		},
+		{
+			"or": "Type",
+			"tr": "Tipo"
+		},
+		{
+			"or": "Version",
+			"tr": "Versión"
+		},
+		{
+			"or": "Netversion",
+			"tr": "Netversion"
+		},
+		{
+			"or": "Markers",
+			"tr": ""
+		},
+		{
+			"or": "Map",
+			"tr": "Mapa"
+		},
+		{
+			"or": "%.3f KiB",
+			"tr": "%.3f KiB"
+		},
+		{
+			"or": "Size",
+			"tr": "Tamaño"
+		},
+		{
+			"or": "Crc",
+			"tr": "Crc"
+		},
+		{
+			"or": "Teams are locked",
+			"tr": "Equipos bloqueados"
+		},
+		{
+			"or": "Only %d active players are allowed",
+			"tr": "Únicamente permitese %d xogadores activos"
+		},
+		{
+			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
+			"tr": "Os equipos atopanse bloqueados. Tempo de espera previo a cambiar equipo: %02d:%02d"
+		},
+		{
+			"or": "Game options",
+			"tr": ""
+		},
+		{
+			"or": "locked",
+			"tr": "bloqueado"
+		},
+		{
+			"or": "Spectating",
+			"tr": "Espectadores"
+		},
+		{
+			"or": "Join red",
+			"tr": "Unirse a vermello"
+		},
+		{
+			"or": "Joined red",
+			"tr": "Unido a vermello"
+		},
+		{
+			"or": "Join blue",
+			"tr": "Unirse a azul"
+		},
+		{
+			"or": "Joined blue",
+			"tr": "Unido a azul"
+		},
+		{
+			"or": "Join",
+			"tr": "Unirse"
+		},
+		{
+			"or": "Joined",
+			"tr": "Unido"
+		},
+		{
+			"or": "Disconnect",
+			"tr": "Desconectar"
+		},
+		{
+			"or": "Stop record",
+			"tr": "Deter grabación"
+		},
+		{
+			"or": "Record",
+			"tr": "Grabar"
+		},
+		{
+			"or": "Player options",
+			"tr": "Opcións de xogador"
+		},
+		{
+			"or": "Player",
+			"tr": "Xogador"
+		},
+		{
+			"or": "Server info",
+			"tr": "Información do Servidor"
+		},
+		{
+			"or": "Address",
+			"tr": "Dirección"
+		},
+		{
+			"or": "Ping",
+			"tr": "Ping"
+		},
+		{
+			"or": "Password",
+			"tr": "Contrasinal"
+		},
+		{
+			"context": "With",
+			"or": "Yes",
+			"tr": "Sí"
+		},
+		{
+			"context": "Without/None",
+			"or": "No",
+			"tr": "Non"
+		},
+		{
+			"or": "Favorite",
+			"tr": "Favorito"
+		},
+		{
+			"or": "Mute broadcasts",
+			"tr": ""
+		},
+		{
+			"or": "Game info",
+			"tr": "Información do xogo"
+		},
+		{
+			"or": "Game type",
+			"tr": "Modo"
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Casual",
+			"tr": ""
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Normal",
+			"tr": ""
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Competitive",
+			"tr": ""
+		},
+		{
+			"or": "Difficulty",
+			"tr": ""
+		},
+		{
+			"or": "Score limit",
+			"tr": "Limite de puntuación"
+		},
+		{
+			"or": "Time limit",
+			"tr": "Tempo limite"
+		},
+		{
+			"or": "Players",
+			"tr": "Xogadores"
+		},
+		{
+			"or": "MOTD",
+			"tr": "MOTD"
+		},
+		{
+			"or": "Option",
+			"tr": ""
+		},
+		{
+			"or": "Wait for current vote to end before calling a new one.",
+			"tr": "Agarda a que remate a votacion actual antes de iniciar unha nova."
+		},
+		{
+			"or": "You must wait %d seconds before making another vote",
+			"tr": "Debes esperar %d segundos antes de iniciar outra votación"
+		},
+		{
+			"or": "Spectators aren't allowed to start a vote.",
+			"tr": "Non se permite que os espectadores inicien unha votación."
+		},
+		{
+			"or": "Change settings",
+			"tr": "Cambiar configuración"
+		},
+		{
+			"or": "Kick player",
+			"tr": "Expulsar xogador"
+		},
+		{
+			"or": "Move player to spectators",
+			"tr": "Mover xogador a espectadores"
+		},
+		{
+			"or": "Server does not allow voting to kick players",
+			"tr": "O servidor non permite votar para expulsar xogadores"
+		},
+		{
+			"or": "Kick voting requires %d players on the server",
+			"tr": "Votar unha expulsión require %d xogadores no servidor"
+		},
+		{
+			"or": "Server does not allow voting to move players to spectators",
+			"tr": "O servidor non permite votar para mover xogadores a espectadores"
+		},
+		{
+			"or": "Reason:",
+			"tr": "Motivo:"
+		},
+		{
+			"or": "Call vote",
+			"tr": "Votar"
+		},
+		{
+			"or": "Force vote",
+			"tr": "Forzar voto"
+		},
+		{
+			"or": "Remove",
+			"tr": "Eliminar"
+		},
+		{
+			"or": "Vote description:",
+			"tr": "Descripción da votación:"
+		},
+		{
+			"or": "Vote command:",
+			"tr": "Comando de votación:"
+		},
+		{
+			"or": "Add",
+			"tr": "Engadir"
+		},
+		{
+			"or": "Settings",
+			"tr": "Configuración"
+		},
+		{
+			"or": "Shutdown server",
+			"tr": ""
+		},
+		{
+			"or": "Local server",
+			"tr": "Servidor local"
+		},
+		{
+			"or": "Demos",
+			"tr": "Demos"
+		},
+		{
+			"or": "Editor",
+			"tr": "Editor"
+		},
+		{
+			"or": "Play",
+			"tr": "Xogar"
+		},
+		{
+			"or": "Quit",
+			"tr": "Sair"
+		},
+		{
+			"or": "Teeworlds Archive %s is out! Download it at our github!",
+			"tr": ""
+		},
+		{
+			"or": "Time limit: %d min",
+			"tr": "Tempo límite: %d mins."
+		},
+		{
+			"context": "rounds (scoreboard)",
+			"or": "Match",
+			"tr": "Partida"
+		},
+		{
+			"or": "Spectators",
+			"tr": "Espectadores"
+		},
+		{
+			"or": "Game over",
+			"tr": "Fin da partida"
+		},
+		{
+			"or": "Round over",
+			"tr": "Ronda rematada"
+		},
+		{
+			"or": "Map record",
+			"tr": ""
+		},
+		{
+			"or": "Clan",
+			"tr": "Clan"
+		},
+		{
+			"or": "Time",
+			"tr": ""
+		},
+		{
+			"or": "Score",
+			"tr": "Puntuación"
+		},
+		{
+			"or": "%d other players",
+			"tr": ""
+		},
+		{
+			"or": "REC %3d:%02d",
+			"tr": "GRABANDO %3d:%02d"
+		},
+		{
+			"or": "Red team",
+			"tr": "Equipo vermello"
+		},
+		{
+			"or": "Blue team",
+			"tr": "Equipo azul"
+		},
+		{
+			"or": "%s wins!",
+			"tr": "¡%s gaña!"
+		},
+		{
+			"or": "Draw!",
+			"tr": "¡Empate!"
+		},
+		{
+			"or": "Round over!",
+			"tr": "¡Ronda rematada!"
+		},
+		{
+			"or": "Free-View",
+			"tr": "Vista libre"
+		},
+		{
+			"or": "Suicides",
+			"tr": ""
+		},
+		{
+			"or": "Ratio",
+			"tr": ""
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": ""
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": ""
+		},
+		{
+			"or": "Best spree",
+			"tr": ""
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": "'%s' iniciou unha votación para cambiar a opcion do servidor '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": "'%s' votou expulsar a '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": "'%s' iniciou unha votación para mover '%s' a espectadores (%s)"
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": "O administrador forzou a opción do servidor '%s' (%s)"
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": "O administrador moveu '%s' a espectadores (%s)"
+		},
+		{
+			"or": "Vote aborted",
+			"tr": "A votación foi rexeitada"
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": "O administrador forzou a votación a sí"
+		},
+		{
+			"or": "Vote passed",
+			"tr": "A votación foi aprobada"
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": "O administrador forzou a votación a non"
+		},
+		{
+			"or": "Vote failed",
+			"tr": "A votación fracasou"
+		},
+		{
 			"or": "Map changed to '%s'",
 			"tr": ""
 		},
@@ -131,16 +862,8 @@
 			"tr": "Todos"
 		},
 		{
-			"or": "Spectators",
-			"tr": "Espectadores"
-		},
-		{
 			"or": "Team",
 			"tr": "Equipo"
-		},
-		{
-			"or": "Chat",
-			"tr": "Chat"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -185,10 +908,6 @@
 		{
 			"or": "'%s' was removed as a friend",
 			"tr": ""
-		},
-		{
-			"or": "-Page %d-",
-			"tr": "-Páxina %d-"
 		},
 		{
 			"or": "Sudden Death",
@@ -243,10 +962,6 @@
 			"tr": "%ds restantes"
 		},
 		{
-			"or": "Reason:",
-			"tr": "Motivo:"
-		},
-		{
 			"or": "Vote Yes",
 			"tr": ""
 		},
@@ -279,48 +994,12 @@
 			"tr": ""
 		},
 		{
-			"or": "'%s' has set a new map record: %s",
-			"tr": ""
-		},
-		{
-			"or": "'%s' has set a new personal record: %s",
-			"tr": ""
-		},
-		{
-			"or": " (%s seconds faster)",
-			"tr": ""
-		},
-		{
-			"or": "'%s' finished in: %s",
-			"tr": ""
-		},
-		{
 			"or": "Game",
 			"tr": "Xogo"
 		},
 		{
-			"or": "Players",
-			"tr": "Xogadores"
-		},
-		{
-			"or": "Server info",
-			"tr": "Información do Servidor"
-		},
-		{
-			"or": "Call vote",
-			"tr": "Votar"
-		},
-		{
-			"or": "Settings",
-			"tr": "Configuración"
-		},
-		{
 			"or": "General",
 			"tr": "Xeral"
-		},
-		{
-			"or": "Player",
-			"tr": "Xogador"
 		},
 		{
 			"or": "TBD",
@@ -347,10 +1026,6 @@
 			"tr": "Local"
 		},
 		{
-			"or": "Demos",
-			"tr": "Demos"
-		},
-		{
 			"or": "Back",
 			"tr": "Atrás"
 		},
@@ -361,10 +1036,6 @@
 		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "O dispositivo de audio non pode ser inicializado."
-		},
-		{
-			"or": "Ok",
-			"tr": "Aceptar"
 		},
 		{
 			"or": "Connecting to",
@@ -399,10 +1070,6 @@
 			"tr": "Contrasinal incorrecta"
 		},
 		{
-			"or": "Quit",
-			"tr": "Sair"
-		},
-		{
 			"or": "Welcome to Teeworlds",
 			"tr": "Benvido/a a Teeworlds"
 		},
@@ -415,20 +1082,8 @@
 			"tr": "¿Está seguro de que quere sair?"
 		},
 		{
-			"or": "No",
-			"tr": "Non"
-		},
-		{
-			"or": "Yes",
-			"tr": "Sí"
-		},
-		{
 			"or": "Please enter the password.",
 			"tr": ""
-		},
-		{
-			"or": "Password",
-			"tr": "Contrasinal"
 		},
 		{
 			"or": "Save password",
@@ -475,14 +1130,6 @@
 			"tr": "¿Estás seguro de que queres renomear a demo?"
 		},
 		{
-			"or": "Name",
-			"tr": "Nome"
-		},
-		{
-			"or": "Error",
-			"tr": "Error"
-		},
-		{
 			"or": "Unable to rename the demo",
 			"tr": "Non puidose renomear a demo"
 		},
@@ -525,18 +1172,6 @@
 		{
 			"or": "Server",
 			"tr": ""
-		},
-		{
-			"or": "Type",
-			"tr": "Tipo"
-		},
-		{
-			"or": "Map",
-			"tr": "Mapa"
-		},
-		{
-			"or": "Ping",
-			"tr": "Ping"
 		},
 		{
 			"or": "Race",
@@ -644,10 +1279,6 @@
 			"context": "friends (server browser)",
 			"or": "Offline (%d)",
 			"tr": ""
-		},
-		{
-			"or": "Clan",
-			"tr": "Clan"
 		},
 		{
 			"or": "Add friend/clan",
@@ -771,21 +1402,6 @@
 			"tr": ""
 		},
 		{
-			"context": "Server difficulty",
-			"or": "Casual",
-			"tr": ""
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Normal",
-			"tr": ""
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Competitive",
-			"tr": ""
-		},
-		{
 			"or": "Click to remove the player from your friends.",
 			"tr": ""
 		},
@@ -794,473 +1410,8 @@
 			"tr": ""
 		},
 		{
-			"or": "Scoreboard",
-			"tr": "Táboa de Puntuacións"
-		},
-		{
-			"or": "Refresh",
-			"tr": "Actualizar"
-		},
-		{
 			"or": "Connect",
 			"tr": "Conectar"
-		},
-		{
-			"or": "Move left",
-			"tr": "Mover a esquerda"
-		},
-		{
-			"or": "Move right",
-			"tr": "Mover a dereita"
-		},
-		{
-			"or": "Jump",
-			"tr": "Saltar"
-		},
-		{
-			"or": "Fire",
-			"tr": "Disparar"
-		},
-		{
-			"or": "Hook",
-			"tr": "Gancho"
-		},
-		{
-			"or": "Hammer",
-			"tr": "Martelo"
-		},
-		{
-			"or": "Pistol",
-			"tr": "Pistola"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "Escopeta"
-		},
-		{
-			"or": "Grenade",
-			"tr": "Granada"
-		},
-		{
-			"or": "Laser",
-			"tr": "Láser"
-		},
-		{
-			"or": "Next weapon",
-			"tr": "Arma seguinte"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "Arma anterior"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "Votar sí"
-		},
-		{
-			"or": "Vote no",
-			"tr": "Votar non"
-		},
-		{
-			"or": "Team chat",
-			"tr": "Conversación de equipo"
-		},
-		{
-			"or": "Whisper",
-			"tr": ""
-		},
-		{
-			"or": "Show chat",
-			"tr": "Amosar chat"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "Emoticón"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "Modo espectador"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "Observar seguinte"
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "Observar anterior"
-		},
-		{
-			"or": "Console",
-			"tr": "Consola"
-		},
-		{
-			"or": "Remote console",
-			"tr": "Consola remota"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "Captura de pantalla"
-		},
-		{
-			"or": "Statboard",
-			"tr": ""
-		},
-		{
-			"or": "Respawn",
-			"tr": "Renacer"
-		},
-		{
-			"or": "Ready",
-			"tr": "Listo"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": ""
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": ""
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": ""
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": ""
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Enable joystick",
-			"tr": ""
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": ""
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": ""
-		},
-		{
-			"or": "Configure statboard",
-			"tr": ""
-		},
-		{
-			"or": "Device",
-			"tr": ""
-		},
-		{
-			"or": "Status",
-			"tr": ""
-		},
-		{
-			"or": "Aim bind",
-			"tr": ""
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": ""
-		},
-		{
-			"or": "Length",
-			"tr": "Lonxitude"
-		},
-		{
-			"or": "Date",
-			"tr": ""
-		},
-		{
-			"or": "Close",
-			"tr": "Pechar"
-		},
-		{
-			"or": "Demofile: %s",
-			"tr": "Arquivo: %s"
-		},
-		{
-			"or": "Parent Folder",
-			"tr": "Directorio pai"
-		},
-		{
-			"or": "Folder",
-			"tr": "Cartafol"
-		},
-		{
-			"or": "Invalid Demo",
-			"tr": "Demo inválida"
-		},
-		{
-			"or": "Demo details",
-			"tr": "Detalles da demo"
-		},
-		{
-			"or": "Recorded",
-			"tr": "Grabacións"
-		},
-		{
-			"or": "Delete",
-			"tr": "Eliminar"
-		},
-		{
-			"or": "Are you sure that you want to delete the demo '%s'?",
-			"tr": ""
-		},
-		{
-			"or": "Delete demo",
-			"tr": "Eliminar demo"
-		},
-		{
-			"or": "Rename",
-			"tr": "Renomear"
-		},
-		{
-			"or": "Fetch Info",
-			"tr": ""
-		},
-		{
-			"or": "Open",
-			"tr": "Abrir"
-		},
-		{
-			"context": "DemoBrowser",
-			"or": "Play",
-			"tr": "Xogar"
-		},
-		{
-			"or": "Unable to delete the demo",
-			"tr": "Non se pudo eliminar a demo"
-		},
-		{
-			"or": "Created",
-			"tr": "Creado"
-		},
-		{
-			"or": "Version",
-			"tr": "Versión"
-		},
-		{
-			"or": "Netversion",
-			"tr": "Netversion"
-		},
-		{
-			"or": "Markers",
-			"tr": ""
-		},
-		{
-			"or": "%.3f KiB",
-			"tr": "%.3f KiB"
-		},
-		{
-			"or": "Size",
-			"tr": "Tamaño"
-		},
-		{
-			"or": "Crc",
-			"tr": "Crc"
-		},
-		{
-			"or": "Teams are locked",
-			"tr": "Equipos bloqueados"
-		},
-		{
-			"or": "Only %d active players are allowed",
-			"tr": "Únicamente permitese %d xogadores activos"
-		},
-		{
-			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-			"tr": "Os equipos atopanse bloqueados. Tempo de espera previo a cambiar equipo: %02d:%02d"
-		},
-		{
-			"or": "Game options",
-			"tr": ""
-		},
-		{
-			"or": "locked",
-			"tr": "bloqueado"
-		},
-		{
-			"or": "Spectating",
-			"tr": "Espectadores"
-		},
-		{
-			"or": "Join red",
-			"tr": "Unirse a vermello"
-		},
-		{
-			"or": "Joined red",
-			"tr": "Unido a vermello"
-		},
-		{
-			"or": "Join blue",
-			"tr": "Unirse a azul"
-		},
-		{
-			"or": "Joined blue",
-			"tr": "Unido a azul"
-		},
-		{
-			"or": "Join",
-			"tr": "Unirse"
-		},
-		{
-			"or": "Joined",
-			"tr": "Unido"
-		},
-		{
-			"or": "Disconnect",
-			"tr": "Desconectar"
-		},
-		{
-			"or": "Stop record",
-			"tr": "Deter grabación"
-		},
-		{
-			"or": "Record",
-			"tr": "Grabar"
-		},
-		{
-			"or": "Player options",
-			"tr": "Opcións de xogador"
-		},
-		{
-			"or": "Address",
-			"tr": "Dirección"
-		},
-		{
-			"context": "With",
-			"or": "Yes",
-			"tr": "Sí"
-		},
-		{
-			"context": "Without/None",
-			"or": "No",
-			"tr": "Non"
-		},
-		{
-			"or": "Favorite",
-			"tr": "Favorito"
-		},
-		{
-			"or": "Mute broadcasts",
-			"tr": ""
-		},
-		{
-			"or": "Game info",
-			"tr": "Información do xogo"
-		},
-		{
-			"or": "Game type",
-			"tr": "Modo"
-		},
-		{
-			"or": "Difficulty",
-			"tr": ""
-		},
-		{
-			"or": "Score limit",
-			"tr": "Limite de puntuación"
-		},
-		{
-			"or": "Time limit",
-			"tr": "Tempo limite"
-		},
-		{
-			"or": "MOTD",
-			"tr": "MOTD"
-		},
-		{
-			"or": "Option",
-			"tr": ""
-		},
-		{
-			"or": "Wait for current vote to end before calling a new one.",
-			"tr": "Agarda a que remate a votacion actual antes de iniciar unha nova."
-		},
-		{
-			"or": "You must wait %d seconds before making another vote",
-			"tr": "Debes esperar %d segundos antes de iniciar outra votación"
-		},
-		{
-			"or": "Spectators aren't allowed to start a vote.",
-			"tr": "Non se permite que os espectadores inicien unha votación."
-		},
-		{
-			"or": "Change settings",
-			"tr": "Cambiar configuración"
-		},
-		{
-			"or": "Kick player",
-			"tr": "Expulsar xogador"
-		},
-		{
-			"or": "Move player to spectators",
-			"tr": "Mover xogador a espectadores"
-		},
-		{
-			"or": "Server does not allow voting to kick players",
-			"tr": "O servidor non permite votar para expulsar xogadores"
-		},
-		{
-			"or": "Kick voting requires %d players on the server",
-			"tr": "Votar unha expulsión require %d xogadores no servidor"
-		},
-		{
-			"or": "Server does not allow voting to move players to spectators",
-			"tr": "O servidor non permite votar para mover xogadores a espectadores"
-		},
-		{
-			"or": "Force vote",
-			"tr": "Forzar voto"
-		},
-		{
-			"or": "Remove",
-			"tr": "Eliminar"
-		},
-		{
-			"or": "Vote description:",
-			"tr": "Descripción da votación:"
-		},
-		{
-			"or": "Vote command:",
-			"tr": "Comando de votación:"
-		},
-		{
-			"or": "Add",
-			"tr": "Engadir"
 		},
 		{
 			"or": "Hue:",
@@ -1284,6 +1435,26 @@
 		},
 		{
 			"or": "Theme",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "(none)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "(automatic)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "%s (day)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "%s (night)",
 			"tr": ""
 		},
 		{
@@ -1486,14 +1657,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Suicides",
-			"tr": ""
-		},
-		{
-			"or": "Ratio",
-			"tr": ""
-		},
-		{
 			"or": "The ratio of kills to deaths.",
 			"tr": ""
 		},
@@ -1511,10 +1674,6 @@
 		},
 		{
 			"or": "Current spree",
-			"tr": ""
-		},
-		{
-			"or": "Best spree",
 			"tr": ""
 		},
 		{
@@ -1666,83 +1825,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Shutdown server",
-			"tr": ""
-		},
-		{
-			"or": "Local server",
-			"tr": "Servidor local"
-		},
-		{
-			"or": "Editor",
-			"tr": "Editor"
-		},
-		{
-			"or": "Play",
-			"tr": "Xogar"
-		},
-		{
-			"or": "Teeworlds Archive %s is out! Download it at our github!",
-			"tr": ""
-		},
-		{
-			"or": "Time limit: %d min",
-			"tr": "Tempo límite: %d mins."
-		},
-		{
-			"context": "rounds (scoreboard)",
-			"or": "Match",
-			"tr": "Partida"
-		},
-		{
-			"or": "Game over",
-			"tr": "Fin da partida"
-		},
-		{
-			"or": "Round over",
-			"tr": "Ronda rematada"
-		},
-		{
-			"or": "Map record",
-			"tr": ""
-		},
-		{
-			"or": "Time",
-			"tr": ""
-		},
-		{
-			"or": "Score",
-			"tr": "Puntuación"
-		},
-		{
-			"or": "%d other players",
-			"tr": ""
-		},
-		{
-			"or": "REC %3d:%02d",
-			"tr": "GRABANDO %3d:%02d"
-		},
-		{
-			"or": "Red team",
-			"tr": "Equipo vermello"
-		},
-		{
-			"or": "Blue team",
-			"tr": "Equipo azul"
-		},
-		{
-			"or": "%s wins!",
-			"tr": "¡%s gaña!"
-		},
-		{
-			"or": "Draw!",
-			"tr": "¡Empate!"
-		},
-		{
-			"or": "Round over!",
-			"tr": "¡Ronda rematada!"
-		},
-		{
 			"context": "skins",
 			"or": "body",
 			"tr": ""
@@ -1773,66 +1855,8 @@
 			"tr": ""
 		},
 		{
-			"or": "Free-View",
-			"tr": "Vista libre"
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
+			"or": "Resource '%s': download complete",
 			"tr": ""
-		},
-		{
-			"or": "KPM",
-			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": ""
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": ""
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": "'%s' iniciou unha votación para cambiar a opcion do servidor '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": "'%s' votou expulsar a '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": "'%s' iniciou unha votación para mover '%s' a espectadores (%s)"
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": "O administrador forzou a opción do servidor '%s' (%s)"
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": "O administrador moveu '%s' a espectadores (%s)"
-		},
-		{
-			"or": "Vote aborted",
-			"tr": "A votación foi rexeitada"
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": "O administrador forzou a votación a sí"
-		},
-		{
-			"or": "Vote passed",
-			"tr": "A votación foi aprobada"
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": "O administrador forzou a votación a non"
-		},
-		{
-			"or": "Vote failed",
-			"tr": "A votación fracasou"
 		}
 	]
 }

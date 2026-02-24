@@ -125,6 +125,737 @@
 			"tr": ""
 		},
 		{
+			"or": "-Page %d-",
+			"tr": "-%d бет-"
+		},
+		{
+			"or": "'%s' has set a new map record: %s",
+			"tr": ""
+		},
+		{
+			"or": "'%s' has set a new personal record: %s",
+			"tr": ""
+		},
+		{
+			"or": " (%s seconds faster)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' finished in: %s",
+			"tr": ""
+		},
+		{
+			"or": "Move left",
+			"tr": "Солго басуу"
+		},
+		{
+			"or": "Move right",
+			"tr": "Оңго басуу"
+		},
+		{
+			"or": "Jump",
+			"tr": "Секирүү"
+		},
+		{
+			"or": "Fire",
+			"tr": "Ок атуу"
+		},
+		{
+			"or": "Hook",
+			"tr": "Илгич"
+		},
+		{
+			"or": "Hammer",
+			"tr": "Барскан"
+		},
+		{
+			"or": "Pistol",
+			"tr": "Тапанча"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "Мылтык"
+		},
+		{
+			"or": "Grenade",
+			"tr": "Гранатомёт"
+		},
+		{
+			"or": "Laser",
+			"tr": "Лазер"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "Кийинки курал"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "Мурунку курал"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "Макул"
+		},
+		{
+			"or": "Vote no",
+			"tr": "Каршы"
+		},
+		{
+			"or": "Chat",
+			"tr": "Маек"
+		},
+		{
+			"or": "Team chat",
+			"tr": "Команданын маеги"
+		},
+		{
+			"or": "Whisper",
+			"tr": ""
+		},
+		{
+			"or": "Show chat",
+			"tr": "Маекти көрсөтүү"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "Быйтыкча"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "Көрүүчү режими"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "Кийинкини көрүү"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "Мурункуну көрүү"
+		},
+		{
+			"or": "Console",
+			"tr": "Консоль"
+		},
+		{
+			"or": "Remote console",
+			"tr": "Сервер консолу"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "Скриншот"
+		},
+		{
+			"or": "Scoreboard",
+			"tr": "Табло"
+		},
+		{
+			"or": "Statboard",
+			"tr": ""
+		},
+		{
+			"or": "Respawn",
+			"tr": "Кайрадан жаралуу"
+		},
+		{
+			"or": "Ready",
+			"tr": "Даяр"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": ""
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": ""
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": ""
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": ""
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Enable joystick",
+			"tr": ""
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": ""
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": ""
+		},
+		{
+			"or": "Configure statboard",
+			"tr": ""
+		},
+		{
+			"or": "Device",
+			"tr": ""
+		},
+		{
+			"or": "Status",
+			"tr": ""
+		},
+		{
+			"or": "Aim bind",
+			"tr": ""
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": ""
+		},
+		{
+			"or": "Name",
+			"tr": "Ысым"
+		},
+		{
+			"or": "Length",
+			"tr": "Узактыгы"
+		},
+		{
+			"or": "Date",
+			"tr": ""
+		},
+		{
+			"or": "Close",
+			"tr": "Жабуу"
+		},
+		{
+			"or": "Demofile: %s",
+			"tr": "Демо: %s"
+		},
+		{
+			"or": "Parent Folder",
+			"tr": "Ата-энелик мукаба"
+		},
+		{
+			"or": "Folder",
+			"tr": "Мукаба"
+		},
+		{
+			"or": "Invalid Demo",
+			"tr": "Туура эмес демо"
+		},
+		{
+			"or": "Demo details",
+			"tr": "Демо тууралуу"
+		},
+		{
+			"or": "Recorded",
+			"tr": "Жазылган күнү"
+		},
+		{
+			"or": "Delete",
+			"tr": "Өчүрүү"
+		},
+		{
+			"or": "Are you sure that you want to delete the demo '%s'?",
+			"tr": ""
+		},
+		{
+			"or": "Delete demo",
+			"tr": "Демону өчүрүү"
+		},
+		{
+			"or": "Yes",
+			"tr": "Ооба"
+		},
+		{
+			"or": "No",
+			"tr": "Жок"
+		},
+		{
+			"or": "Rename",
+			"tr": "Жаңыча атоо"
+		},
+		{
+			"or": "Refresh",
+			"tr": "Жаңылоо"
+		},
+		{
+			"or": "Fetch Info",
+			"tr": ""
+		},
+		{
+			"or": "Open",
+			"tr": "Ачуу"
+		},
+		{
+			"context": "DemoBrowser",
+			"or": "Play",
+			"tr": "Ойнотуу"
+		},
+		{
+			"or": "Error",
+			"tr": "Ката"
+		},
+		{
+			"or": "Unable to delete the demo",
+			"tr": "Демону өчүрүүгө мүмкүн эмес"
+		},
+		{
+			"or": "Ok",
+			"tr": "Макул"
+		},
+		{
+			"or": "Created",
+			"tr": "Жаратылган күнү"
+		},
+		{
+			"or": "Type",
+			"tr": "Түрү"
+		},
+		{
+			"or": "Version",
+			"tr": "Нускасы"
+		},
+		{
+			"or": "Netversion",
+			"tr": "Нускасы"
+		},
+		{
+			"or": "Markers",
+			"tr": ""
+		},
+		{
+			"or": "Map",
+			"tr": "Карта"
+		},
+		{
+			"or": "%.3f KiB",
+			"tr": "%.3f КиБ"
+		},
+		{
+			"or": "Size",
+			"tr": "Өлчөмү"
+		},
+		{
+			"or": "Crc",
+			"tr": "Crc"
+		},
+		{
+			"or": "Teams are locked",
+			"tr": "Командалар бекитилди"
+		},
+		{
+			"or": "Only %d active players are allowed",
+			"tr": "%d активдүү оюнчуга гана уруксат берилет"
+		},
+		{
+			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
+			"tr": "Командалар бекитилген. Команданы алмаштыруу убакыты: %02d:%02d"
+		},
+		{
+			"or": "Game options",
+			"tr": ""
+		},
+		{
+			"or": "locked",
+			"tr": "бекитилди"
+		},
+		{
+			"or": "Spectating",
+			"tr": "Көрүүчүлөр"
+		},
+		{
+			"or": "Join red",
+			"tr": "Кызылга кирүү"
+		},
+		{
+			"or": "Joined red",
+			"tr": "Кызылга кирди"
+		},
+		{
+			"or": "Join blue",
+			"tr": "Көккө кирүү"
+		},
+		{
+			"or": "Joined blue",
+			"tr": "Көккө кирди"
+		},
+		{
+			"or": "Join",
+			"tr": "Кирүү"
+		},
+		{
+			"or": "Joined",
+			"tr": "Кирди"
+		},
+		{
+			"or": "Disconnect",
+			"tr": "Байланышты токтотуу"
+		},
+		{
+			"or": "Stop record",
+			"tr": "Токтотуу"
+		},
+		{
+			"or": "Record",
+			"tr": "Жаздыруу"
+		},
+		{
+			"or": "Player options",
+			"tr": "Оюнчунун параметрлери"
+		},
+		{
+			"or": "Player",
+			"tr": "Оюнчу"
+		},
+		{
+			"or": "Server info",
+			"tr": "Маалымат"
+		},
+		{
+			"or": "Address",
+			"tr": "Дареги"
+		},
+		{
+			"or": "Ping",
+			"tr": "Пинг"
+		},
+		{
+			"or": "Password",
+			"tr": "Сырсөз"
+		},
+		{
+			"context": "With",
+			"or": "Yes",
+			"tr": "Ооба"
+		},
+		{
+			"context": "Without/None",
+			"or": "No",
+			"tr": "Жок"
+		},
+		{
+			"or": "Favorite",
+			"tr": "Тандалма"
+		},
+		{
+			"or": "Mute broadcasts",
+			"tr": ""
+		},
+		{
+			"or": "Game info",
+			"tr": "Оюн тууралуу"
+		},
+		{
+			"or": "Game type",
+			"tr": "Оюн түрү"
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Casual",
+			"tr": ""
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Normal",
+			"tr": ""
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Competitive",
+			"tr": ""
+		},
+		{
+			"or": "Difficulty",
+			"tr": ""
+		},
+		{
+			"or": "Score limit",
+			"tr": "Упай боюнча чектөө"
+		},
+		{
+			"or": "Time limit",
+			"tr": "Убакыттын чеги"
+		},
+		{
+			"or": "Players",
+			"tr": "Оюнчулар"
+		},
+		{
+			"or": "MOTD",
+			"tr": "Күндүн билдирүүсү"
+		},
+		{
+			"or": "Option",
+			"tr": ""
+		},
+		{
+			"or": "Wait for current vote to end before calling a new one.",
+			"tr": "Жаңы добушту баштоодон мурун учурдагынын аягын күтүңүз."
+		},
+		{
+			"or": "You must wait %d seconds before making another vote",
+			"tr": "Башка добушту баштоодон мурун %d секунда күтүү керек"
+		},
+		{
+			"or": "Spectators aren't allowed to start a vote.",
+			"tr": "Көрүүчүлөргө добушту баштоо мүмкүн эмес."
+		},
+		{
+			"or": "Change settings",
+			"tr": "Баптоолорду өзгөртүү"
+		},
+		{
+			"or": "Kick player",
+			"tr": "Оюнчуну серверден кетирүү"
+		},
+		{
+			"or": "Move player to spectators",
+			"tr": "Оюнчуну көрүүчүгө которуу"
+		},
+		{
+			"or": "Server does not allow voting to kick players",
+			"tr": "Сервер оюнчуларды кетирүү максатындагы добуштарга уруксат бербейт"
+		},
+		{
+			"or": "Kick voting requires %d players on the server",
+			"tr": "Серверден кетирүү максатындагы добуш %d оюнчунун болушун талап кылат"
+		},
+		{
+			"or": "Server does not allow voting to move players to spectators",
+			"tr": "Сервер оюнчуларды көрүүчүгө которуу максатындагы добуштарга уруксат бербейт"
+		},
+		{
+			"or": "Reason:",
+			"tr": "Себеби:"
+		},
+		{
+			"or": "Call vote",
+			"tr": "Добушту баштоо"
+		},
+		{
+			"or": "Force vote",
+			"tr": "Добушту мажбурлоо"
+		},
+		{
+			"or": "Remove",
+			"tr": "Өчүрүү"
+		},
+		{
+			"or": "Vote description:",
+			"tr": "Добуштун сүрөттөөсү:"
+		},
+		{
+			"or": "Vote command:",
+			"tr": "Добуш командасы:"
+		},
+		{
+			"or": "Add",
+			"tr": "Кошуу"
+		},
+		{
+			"or": "Settings",
+			"tr": "Баптоолор"
+		},
+		{
+			"or": "Shutdown server",
+			"tr": ""
+		},
+		{
+			"or": "Local server",
+			"tr": "Жергиликтүү сервер"
+		},
+		{
+			"or": "Demos",
+			"tr": "Демолор"
+		},
+		{
+			"or": "Editor",
+			"tr": "Редактор"
+		},
+		{
+			"or": "Play",
+			"tr": "Ойнотуу"
+		},
+		{
+			"or": "Quit",
+			"tr": "Чыгуу"
+		},
+		{
+			"or": "Teeworlds Archive %s is out! Download it at our github!",
+			"tr": ""
+		},
+		{
+			"or": "Time limit: %d min",
+			"tr": "Убакыттын чеги: %d мин."
+		},
+		{
+			"context": "rounds (scoreboard)",
+			"or": "Match",
+			"tr": "Матч"
+		},
+		{
+			"or": "Spectators",
+			"tr": "Көрүүчүлөр"
+		},
+		{
+			"or": "Game over",
+			"tr": "Оюн бүттү"
+		},
+		{
+			"or": "Round over",
+			"tr": "Раунд бүттү"
+		},
+		{
+			"or": "Map record",
+			"tr": ""
+		},
+		{
+			"or": "Clan",
+			"tr": "Клан"
+		},
+		{
+			"or": "Time",
+			"tr": ""
+		},
+		{
+			"or": "Score",
+			"tr": "Упайлар"
+		},
+		{
+			"or": "%d other players",
+			"tr": ""
+		},
+		{
+			"or": "REC %3d:%02d",
+			"tr": "REC %3d:%02d"
+		},
+		{
+			"or": "Red team",
+			"tr": "Кызыл командасы"
+		},
+		{
+			"or": "Blue team",
+			"tr": "Көк командасы"
+		},
+		{
+			"or": "%s wins!",
+			"tr": "%s жеңди!"
+		},
+		{
+			"or": "Draw!",
+			"tr": "Тең чыгуу!"
+		},
+		{
+			"or": "Round over!",
+			"tr": "Раунд бүттү!"
+		},
+		{
+			"or": "Free-View",
+			"tr": "Эркин кароо"
+		},
+		{
+			"or": "Suicides",
+			"tr": ""
+		},
+		{
+			"or": "Ratio",
+			"tr": ""
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": ""
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": ""
+		},
+		{
+			"or": "Best spree",
+			"tr": ""
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": "'%s' '%s' сервер параметрин өзгөртүү максатында добушту баштады (%s)"
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": "'%s' '%s' -ны серверден кетирүү максатында добушту баштады (%s)"
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": "'%s' '%s' -ны көрүүчүлөргө которуу максатында добушту баштады (%s)"
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": "Админ '%s' сервер параметрин мажбур кылды (%s)"
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": "Админ '%s' -ны көрүүчүлөргө которду (%s)"
+		},
+		{
+			"or": "Vote aborted",
+			"tr": "Добуш берүү токтотулду"
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": "Админ \"макул\" деген добушту мажбурлады"
+		},
+		{
+			"or": "Vote passed",
+			"tr": "Добуш кабыл алынды"
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": "Админ \"каршы\" деген добушту мажбурлады"
+		},
+		{
+			"or": "Vote failed",
+			"tr": "Добуш кабыл алынбады"
+		},
+		{
 			"or": "Map changed to '%s'",
 			"tr": ""
 		},
@@ -133,16 +864,8 @@
 			"tr": "Баары"
 		},
 		{
-			"or": "Spectators",
-			"tr": "Көрүүчүлөр"
-		},
-		{
 			"or": "Team",
 			"tr": "Команда"
-		},
-		{
-			"or": "Chat",
-			"tr": "Маек"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -187,10 +910,6 @@
 		{
 			"or": "'%s' was removed as a friend",
 			"tr": ""
-		},
-		{
-			"or": "-Page %d-",
-			"tr": "-%d бет-"
 		},
 		{
 			"or": "Sudden Death",
@@ -245,10 +964,6 @@
 			"tr": "%d сек. калды"
 		},
 		{
-			"or": "Reason:",
-			"tr": "Себеби:"
-		},
-		{
 			"or": "Vote Yes",
 			"tr": ""
 		},
@@ -281,48 +996,12 @@
 			"tr": ""
 		},
 		{
-			"or": "'%s' has set a new map record: %s",
-			"tr": ""
-		},
-		{
-			"or": "'%s' has set a new personal record: %s",
-			"tr": ""
-		},
-		{
-			"or": " (%s seconds faster)",
-			"tr": ""
-		},
-		{
-			"or": "'%s' finished in: %s",
-			"tr": ""
-		},
-		{
 			"or": "Game",
 			"tr": "Оюн"
 		},
 		{
-			"or": "Players",
-			"tr": "Оюнчулар"
-		},
-		{
-			"or": "Server info",
-			"tr": "Маалымат"
-		},
-		{
-			"or": "Call vote",
-			"tr": "Добушту баштоо"
-		},
-		{
-			"or": "Settings",
-			"tr": "Баптоолор"
-		},
-		{
 			"or": "General",
 			"tr": "Жалпы"
-		},
-		{
-			"or": "Player",
-			"tr": "Оюнчу"
 		},
 		{
 			"or": "TBD",
@@ -349,10 +1028,6 @@
 			"tr": "Жергиликтүү"
 		},
 		{
-			"or": "Demos",
-			"tr": "Демолор"
-		},
-		{
 			"or": "Back",
 			"tr": "Артка"
 		},
@@ -363,10 +1038,6 @@
 		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "Аудио түзмөгүн иштетүү мүмкүн эмес."
-		},
-		{
-			"or": "Ok",
-			"tr": "Макул"
 		},
 		{
 			"or": "Connecting to",
@@ -401,10 +1072,6 @@
 			"tr": "Сырсөз"
 		},
 		{
-			"or": "Quit",
-			"tr": "Чыгуу"
-		},
-		{
 			"or": "Welcome to Teeworlds",
 			"tr": "Teeworlds'ко кош келиңиз!"
 		},
@@ -417,20 +1084,8 @@
 			"tr": "Сиз оюндан чын эле чыккыңыз келеби?"
 		},
 		{
-			"or": "No",
-			"tr": "Жок"
-		},
-		{
-			"or": "Yes",
-			"tr": "Ооба"
-		},
-		{
 			"or": "Please enter the password.",
 			"tr": ""
-		},
-		{
-			"or": "Password",
-			"tr": "Сырсөз"
 		},
 		{
 			"or": "Save password",
@@ -477,14 +1132,6 @@
 			"tr": "Сиз чын эле демонун атын өзгөрткүңүз келеби?"
 		},
 		{
-			"or": "Name",
-			"tr": "Ысым"
-		},
-		{
-			"or": "Error",
-			"tr": "Ката"
-		},
-		{
 			"or": "Unable to rename the demo",
 			"tr": "Демону жаңыча атоого мүмкүн эмес"
 		},
@@ -527,18 +1174,6 @@
 		{
 			"or": "Server",
 			"tr": ""
-		},
-		{
-			"or": "Type",
-			"tr": "Түрү"
-		},
-		{
-			"or": "Map",
-			"tr": "Карта"
-		},
-		{
-			"or": "Ping",
-			"tr": "Пинг"
 		},
 		{
 			"or": "Race",
@@ -646,10 +1281,6 @@
 			"context": "friends (server browser)",
 			"or": "Offline (%d)",
 			"tr": ""
-		},
-		{
-			"or": "Clan",
-			"tr": "Клан"
 		},
 		{
 			"or": "Add friend/clan",
@@ -773,21 +1404,6 @@
 			"tr": ""
 		},
 		{
-			"context": "Server difficulty",
-			"or": "Casual",
-			"tr": ""
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Normal",
-			"tr": ""
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Competitive",
-			"tr": ""
-		},
-		{
 			"or": "Click to remove the player from your friends.",
 			"tr": ""
 		},
@@ -796,473 +1412,8 @@
 			"tr": ""
 		},
 		{
-			"or": "Scoreboard",
-			"tr": "Табло"
-		},
-		{
-			"or": "Refresh",
-			"tr": "Жаңылоо"
-		},
-		{
 			"or": "Connect",
 			"tr": "Кошулуу"
-		},
-		{
-			"or": "Move left",
-			"tr": "Солго басуу"
-		},
-		{
-			"or": "Move right",
-			"tr": "Оңго басуу"
-		},
-		{
-			"or": "Jump",
-			"tr": "Секирүү"
-		},
-		{
-			"or": "Fire",
-			"tr": "Ок атуу"
-		},
-		{
-			"or": "Hook",
-			"tr": "Илгич"
-		},
-		{
-			"or": "Hammer",
-			"tr": "Барскан"
-		},
-		{
-			"or": "Pistol",
-			"tr": "Тапанча"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "Мылтык"
-		},
-		{
-			"or": "Grenade",
-			"tr": "Гранатомёт"
-		},
-		{
-			"or": "Laser",
-			"tr": "Лазер"
-		},
-		{
-			"or": "Next weapon",
-			"tr": "Кийинки курал"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "Мурунку курал"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "Макул"
-		},
-		{
-			"or": "Vote no",
-			"tr": "Каршы"
-		},
-		{
-			"or": "Team chat",
-			"tr": "Команданын маеги"
-		},
-		{
-			"or": "Whisper",
-			"tr": ""
-		},
-		{
-			"or": "Show chat",
-			"tr": "Маекти көрсөтүү"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "Быйтыкча"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "Көрүүчү режими"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "Кийинкини көрүү"
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "Мурункуну көрүү"
-		},
-		{
-			"or": "Console",
-			"tr": "Консоль"
-		},
-		{
-			"or": "Remote console",
-			"tr": "Сервер консолу"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "Скриншот"
-		},
-		{
-			"or": "Statboard",
-			"tr": ""
-		},
-		{
-			"or": "Respawn",
-			"tr": "Кайрадан жаралуу"
-		},
-		{
-			"or": "Ready",
-			"tr": "Даяр"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": ""
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": ""
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": ""
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": ""
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Enable joystick",
-			"tr": ""
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": ""
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": ""
-		},
-		{
-			"or": "Configure statboard",
-			"tr": ""
-		},
-		{
-			"or": "Device",
-			"tr": ""
-		},
-		{
-			"or": "Status",
-			"tr": ""
-		},
-		{
-			"or": "Aim bind",
-			"tr": ""
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": ""
-		},
-		{
-			"or": "Length",
-			"tr": "Узактыгы"
-		},
-		{
-			"or": "Date",
-			"tr": ""
-		},
-		{
-			"or": "Close",
-			"tr": "Жабуу"
-		},
-		{
-			"or": "Demofile: %s",
-			"tr": "Демо: %s"
-		},
-		{
-			"or": "Parent Folder",
-			"tr": "Ата-энелик мукаба"
-		},
-		{
-			"or": "Folder",
-			"tr": "Мукаба"
-		},
-		{
-			"or": "Invalid Demo",
-			"tr": "Туура эмес демо"
-		},
-		{
-			"or": "Demo details",
-			"tr": "Демо тууралуу"
-		},
-		{
-			"or": "Recorded",
-			"tr": "Жазылган күнү"
-		},
-		{
-			"or": "Delete",
-			"tr": "Өчүрүү"
-		},
-		{
-			"or": "Are you sure that you want to delete the demo '%s'?",
-			"tr": ""
-		},
-		{
-			"or": "Delete demo",
-			"tr": "Демону өчүрүү"
-		},
-		{
-			"or": "Rename",
-			"tr": "Жаңыча атоо"
-		},
-		{
-			"or": "Fetch Info",
-			"tr": ""
-		},
-		{
-			"or": "Open",
-			"tr": "Ачуу"
-		},
-		{
-			"context": "DemoBrowser",
-			"or": "Play",
-			"tr": "Ойнотуу"
-		},
-		{
-			"or": "Unable to delete the demo",
-			"tr": "Демону өчүрүүгө мүмкүн эмес"
-		},
-		{
-			"or": "Created",
-			"tr": "Жаратылган күнү"
-		},
-		{
-			"or": "Version",
-			"tr": "Нускасы"
-		},
-		{
-			"or": "Netversion",
-			"tr": "Нускасы"
-		},
-		{
-			"or": "Markers",
-			"tr": ""
-		},
-		{
-			"or": "%.3f KiB",
-			"tr": "%.3f КиБ"
-		},
-		{
-			"or": "Size",
-			"tr": "Өлчөмү"
-		},
-		{
-			"or": "Crc",
-			"tr": "Crc"
-		},
-		{
-			"or": "Teams are locked",
-			"tr": "Командалар бекитилди"
-		},
-		{
-			"or": "Only %d active players are allowed",
-			"tr": "%d активдүү оюнчуга гана уруксат берилет"
-		},
-		{
-			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-			"tr": "Командалар бекитилген. Команданы алмаштыруу убакыты: %02d:%02d"
-		},
-		{
-			"or": "Game options",
-			"tr": ""
-		},
-		{
-			"or": "locked",
-			"tr": "бекитилди"
-		},
-		{
-			"or": "Spectating",
-			"tr": "Көрүүчүлөр"
-		},
-		{
-			"or": "Join red",
-			"tr": "Кызылга кирүү"
-		},
-		{
-			"or": "Joined red",
-			"tr": "Кызылга кирди"
-		},
-		{
-			"or": "Join blue",
-			"tr": "Көккө кирүү"
-		},
-		{
-			"or": "Joined blue",
-			"tr": "Көккө кирди"
-		},
-		{
-			"or": "Join",
-			"tr": "Кирүү"
-		},
-		{
-			"or": "Joined",
-			"tr": "Кирди"
-		},
-		{
-			"or": "Disconnect",
-			"tr": "Байланышты токтотуу"
-		},
-		{
-			"or": "Stop record",
-			"tr": "Токтотуу"
-		},
-		{
-			"or": "Record",
-			"tr": "Жаздыруу"
-		},
-		{
-			"or": "Player options",
-			"tr": "Оюнчунун параметрлери"
-		},
-		{
-			"or": "Address",
-			"tr": "Дареги"
-		},
-		{
-			"context": "With",
-			"or": "Yes",
-			"tr": "Ооба"
-		},
-		{
-			"context": "Without/None",
-			"or": "No",
-			"tr": "Жок"
-		},
-		{
-			"or": "Favorite",
-			"tr": "Тандалма"
-		},
-		{
-			"or": "Mute broadcasts",
-			"tr": ""
-		},
-		{
-			"or": "Game info",
-			"tr": "Оюн тууралуу"
-		},
-		{
-			"or": "Game type",
-			"tr": "Оюн түрү"
-		},
-		{
-			"or": "Difficulty",
-			"tr": ""
-		},
-		{
-			"or": "Score limit",
-			"tr": "Упай боюнча чектөө"
-		},
-		{
-			"or": "Time limit",
-			"tr": "Убакыттын чеги"
-		},
-		{
-			"or": "MOTD",
-			"tr": "Күндүн билдирүүсү"
-		},
-		{
-			"or": "Option",
-			"tr": ""
-		},
-		{
-			"or": "Wait for current vote to end before calling a new one.",
-			"tr": "Жаңы добушту баштоодон мурун учурдагынын аягын күтүңүз."
-		},
-		{
-			"or": "You must wait %d seconds before making another vote",
-			"tr": "Башка добушту баштоодон мурун %d секунда күтүү керек"
-		},
-		{
-			"or": "Spectators aren't allowed to start a vote.",
-			"tr": "Көрүүчүлөргө добушту баштоо мүмкүн эмес."
-		},
-		{
-			"or": "Change settings",
-			"tr": "Баптоолорду өзгөртүү"
-		},
-		{
-			"or": "Kick player",
-			"tr": "Оюнчуну серверден кетирүү"
-		},
-		{
-			"or": "Move player to spectators",
-			"tr": "Оюнчуну көрүүчүгө которуу"
-		},
-		{
-			"or": "Server does not allow voting to kick players",
-			"tr": "Сервер оюнчуларды кетирүү максатындагы добуштарга уруксат бербейт"
-		},
-		{
-			"or": "Kick voting requires %d players on the server",
-			"tr": "Серверден кетирүү максатындагы добуш %d оюнчунун болушун талап кылат"
-		},
-		{
-			"or": "Server does not allow voting to move players to spectators",
-			"tr": "Сервер оюнчуларды көрүүчүгө которуу максатындагы добуштарга уруксат бербейт"
-		},
-		{
-			"or": "Force vote",
-			"tr": "Добушту мажбурлоо"
-		},
-		{
-			"or": "Remove",
-			"tr": "Өчүрүү"
-		},
-		{
-			"or": "Vote description:",
-			"tr": "Добуштун сүрөттөөсү:"
-		},
-		{
-			"or": "Vote command:",
-			"tr": "Добуш командасы:"
-		},
-		{
-			"or": "Add",
-			"tr": "Кошуу"
 		},
 		{
 			"or": "Hue:",
@@ -1286,6 +1437,26 @@
 		},
 		{
 			"or": "Theme",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "(none)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "(automatic)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "%s (day)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "%s (night)",
 			"tr": ""
 		},
 		{
@@ -1488,14 +1659,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Suicides",
-			"tr": ""
-		},
-		{
-			"or": "Ratio",
-			"tr": ""
-		},
-		{
 			"or": "The ratio of kills to deaths.",
 			"tr": ""
 		},
@@ -1513,10 +1676,6 @@
 		},
 		{
 			"or": "Current spree",
-			"tr": ""
-		},
-		{
-			"or": "Best spree",
 			"tr": ""
 		},
 		{
@@ -1668,83 +1827,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Shutdown server",
-			"tr": ""
-		},
-		{
-			"or": "Local server",
-			"tr": "Жергиликтүү сервер"
-		},
-		{
-			"or": "Editor",
-			"tr": "Редактор"
-		},
-		{
-			"or": "Play",
-			"tr": "Ойнотуу"
-		},
-		{
-			"or": "Teeworlds Archive %s is out! Download it at our github!",
-			"tr": ""
-		},
-		{
-			"or": "Time limit: %d min",
-			"tr": "Убакыттын чеги: %d мин."
-		},
-		{
-			"context": "rounds (scoreboard)",
-			"or": "Match",
-			"tr": "Матч"
-		},
-		{
-			"or": "Game over",
-			"tr": "Оюн бүттү"
-		},
-		{
-			"or": "Round over",
-			"tr": "Раунд бүттү"
-		},
-		{
-			"or": "Map record",
-			"tr": ""
-		},
-		{
-			"or": "Time",
-			"tr": ""
-		},
-		{
-			"or": "Score",
-			"tr": "Упайлар"
-		},
-		{
-			"or": "%d other players",
-			"tr": ""
-		},
-		{
-			"or": "REC %3d:%02d",
-			"tr": "REC %3d:%02d"
-		},
-		{
-			"or": "Red team",
-			"tr": "Кызыл командасы"
-		},
-		{
-			"or": "Blue team",
-			"tr": "Көк командасы"
-		},
-		{
-			"or": "%s wins!",
-			"tr": "%s жеңди!"
-		},
-		{
-			"or": "Draw!",
-			"tr": "Тең чыгуу!"
-		},
-		{
-			"or": "Round over!",
-			"tr": "Раунд бүттү!"
-		},
-		{
 			"context": "skins",
 			"or": "body",
 			"tr": ""
@@ -1775,66 +1857,8 @@
 			"tr": ""
 		},
 		{
-			"or": "Free-View",
-			"tr": "Эркин кароо"
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
+			"or": "Resource '%s': download complete",
 			"tr": ""
-		},
-		{
-			"or": "KPM",
-			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": ""
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": ""
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": "'%s' '%s' сервер параметрин өзгөртүү максатында добушту баштады (%s)"
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": "'%s' '%s' -ны серверден кетирүү максатында добушту баштады (%s)"
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": "'%s' '%s' -ны көрүүчүлөргө которуу максатында добушту баштады (%s)"
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": "Админ '%s' сервер параметрин мажбур кылды (%s)"
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": "Админ '%s' -ны көрүүчүлөргө которду (%s)"
-		},
-		{
-			"or": "Vote aborted",
-			"tr": "Добуш берүү токтотулду"
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": "Админ \"макул\" деген добушту мажбурлады"
-		},
-		{
-			"or": "Vote passed",
-			"tr": "Добуш кабыл алынды"
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": "Админ \"каршы\" деген добушту мажбурлады"
-		},
-		{
-			"or": "Vote failed",
-			"tr": "Добуш кабыл алынбады"
 		}
 	]
 }

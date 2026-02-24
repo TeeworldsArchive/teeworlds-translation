@@ -123,6 +123,737 @@
 			"tr": ""
 		},
 		{
+			"or": "-Page %d-",
+			"tr": "-Lehekülg %d-"
+		},
+		{
+			"or": "'%s' has set a new map record: %s",
+			"tr": ""
+		},
+		{
+			"or": "'%s' has set a new personal record: %s",
+			"tr": ""
+		},
+		{
+			"or": " (%s seconds faster)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' finished in: %s",
+			"tr": ""
+		},
+		{
+			"or": "Move left",
+			"tr": "Liigu vasakule"
+		},
+		{
+			"or": "Move right",
+			"tr": "Liigu paremale"
+		},
+		{
+			"or": "Jump",
+			"tr": "Hüppa"
+		},
+		{
+			"or": "Fire",
+			"tr": "Tuli"
+		},
+		{
+			"or": "Hook",
+			"tr": ""
+		},
+		{
+			"or": "Hammer",
+			"tr": "Haamer"
+		},
+		{
+			"or": "Pistol",
+			"tr": "Püstol"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "Pump-püss"
+		},
+		{
+			"or": "Grenade",
+			"tr": "Granaat"
+		},
+		{
+			"or": "Laser",
+			"tr": "Laser"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "Järgmine relv"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "Eelmine relv"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "Hääleta Jah"
+		},
+		{
+			"or": "Vote no",
+			"tr": "Hääleta Ei"
+		},
+		{
+			"or": "Chat",
+			"tr": ""
+		},
+		{
+			"or": "Team chat",
+			"tr": ""
+		},
+		{
+			"or": "Whisper",
+			"tr": ""
+		},
+		{
+			"or": "Show chat",
+			"tr": "Näita vestlust"
+		},
+		{
+			"or": "Emoticon",
+			"tr": ""
+		},
+		{
+			"or": "Spectator mode",
+			"tr": ""
+		},
+		{
+			"or": "Spectate next",
+			"tr": "Vaatle järgmist"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "Vaatle eelmist"
+		},
+		{
+			"or": "Console",
+			"tr": "Konsool"
+		},
+		{
+			"or": "Remote console",
+			"tr": "kaugpaneel"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "Ekraanitõmmis"
+		},
+		{
+			"or": "Scoreboard",
+			"tr": "Punkti tabel"
+		},
+		{
+			"or": "Statboard",
+			"tr": ""
+		},
+		{
+			"or": "Respawn",
+			"tr": "Sünni uuesti"
+		},
+		{
+			"or": "Ready",
+			"tr": "Valmis"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": ""
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": ""
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": ""
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": ""
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Enable joystick",
+			"tr": ""
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": ""
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": ""
+		},
+		{
+			"or": "Configure statboard",
+			"tr": ""
+		},
+		{
+			"or": "Device",
+			"tr": ""
+		},
+		{
+			"or": "Status",
+			"tr": ""
+		},
+		{
+			"or": "Aim bind",
+			"tr": ""
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": ""
+		},
+		{
+			"or": "Name",
+			"tr": "Nimi"
+		},
+		{
+			"or": "Length",
+			"tr": "Pikkus"
+		},
+		{
+			"or": "Date",
+			"tr": ""
+		},
+		{
+			"or": "Close",
+			"tr": "Sulge"
+		},
+		{
+			"or": "Demofile: %s",
+			"tr": "Demofail: %s"
+		},
+		{
+			"or": "Parent Folder",
+			"tr": ""
+		},
+		{
+			"or": "Folder",
+			"tr": "Kaust"
+		},
+		{
+			"or": "Invalid Demo",
+			"tr": "Vigane demo"
+		},
+		{
+			"or": "Demo details",
+			"tr": "Demo detailid"
+		},
+		{
+			"or": "Recorded",
+			"tr": "Salvestatud"
+		},
+		{
+			"or": "Delete",
+			"tr": "Kustuta"
+		},
+		{
+			"or": "Are you sure that you want to delete the demo '%s'?",
+			"tr": ""
+		},
+		{
+			"or": "Delete demo",
+			"tr": "Kustuta demo"
+		},
+		{
+			"or": "Yes",
+			"tr": "Jah"
+		},
+		{
+			"or": "No",
+			"tr": "Ei"
+		},
+		{
+			"or": "Rename",
+			"tr": "Nimeta ümber"
+		},
+		{
+			"or": "Refresh",
+			"tr": "Värskenda"
+		},
+		{
+			"or": "Fetch Info",
+			"tr": ""
+		},
+		{
+			"or": "Open",
+			"tr": ""
+		},
+		{
+			"context": "DemoBrowser",
+			"or": "Play",
+			"tr": "Mängima"
+		},
+		{
+			"or": "Error",
+			"tr": "Viga"
+		},
+		{
+			"or": "Unable to delete the demo",
+			"tr": "Ei saa demo kustutada"
+		},
+		{
+			"or": "Ok",
+			"tr": "Ok"
+		},
+		{
+			"or": "Created",
+			"tr": "Loodud"
+		},
+		{
+			"or": "Type",
+			"tr": "Kirjuta"
+		},
+		{
+			"or": "Version",
+			"tr": "Versioon"
+		},
+		{
+			"or": "Netversion",
+			"tr": ""
+		},
+		{
+			"or": "Markers",
+			"tr": ""
+		},
+		{
+			"or": "Map",
+			"tr": "Maailm"
+		},
+		{
+			"or": "%.3f KiB",
+			"tr": "%.3f KiB"
+		},
+		{
+			"or": "Size",
+			"tr": "Suurus"
+		},
+		{
+			"or": "Crc",
+			"tr": ""
+		},
+		{
+			"or": "Teams are locked",
+			"tr": "Meeskonnad on lukus"
+		},
+		{
+			"or": "Only %d active players are allowed",
+			"tr": "Ainult %d aktiivset mängijat on lubatud"
+		},
+		{
+			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
+			"tr": "Meeskonnad on lukus. Aeg enne meeskonna vahetust: %02d:%02d"
+		},
+		{
+			"or": "Game options",
+			"tr": ""
+		},
+		{
+			"or": "locked",
+			"tr": "lukus"
+		},
+		{
+			"or": "Spectating",
+			"tr": "Vaatleb"
+		},
+		{
+			"or": "Join red",
+			"tr": "Liitu punastega"
+		},
+		{
+			"or": "Joined red",
+			"tr": "Liitu punastega"
+		},
+		{
+			"or": "Join blue",
+			"tr": "Liitu sinistega"
+		},
+		{
+			"or": "Joined blue",
+			"tr": "Liitu sinistega"
+		},
+		{
+			"or": "Join",
+			"tr": "Liitu"
+		},
+		{
+			"or": "Joined",
+			"tr": "Liitus"
+		},
+		{
+			"or": "Disconnect",
+			"tr": "Välju serverist"
+		},
+		{
+			"or": "Stop record",
+			"tr": "Lõpeta salvestus"
+		},
+		{
+			"or": "Record",
+			"tr": "Salesta"
+		},
+		{
+			"or": "Player options",
+			"tr": "Mängija valikud"
+		},
+		{
+			"or": "Player",
+			"tr": "Mängija"
+		},
+		{
+			"or": "Server info",
+			"tr": "Serveri info"
+		},
+		{
+			"or": "Address",
+			"tr": "Aadress"
+		},
+		{
+			"or": "Ping",
+			"tr": ""
+		},
+		{
+			"or": "Password",
+			"tr": "Salasõna"
+		},
+		{
+			"context": "With",
+			"or": "Yes",
+			"tr": "Jah"
+		},
+		{
+			"context": "Without/None",
+			"or": "No",
+			"tr": "Ei"
+		},
+		{
+			"or": "Favorite",
+			"tr": "Lemmik"
+		},
+		{
+			"or": "Mute broadcasts",
+			"tr": ""
+		},
+		{
+			"or": "Game info",
+			"tr": "Mängu info"
+		},
+		{
+			"or": "Game type",
+			"tr": "Mängutüüp"
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Casual",
+			"tr": ""
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Normal",
+			"tr": ""
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Competitive",
+			"tr": ""
+		},
+		{
+			"or": "Difficulty",
+			"tr": ""
+		},
+		{
+			"or": "Score limit",
+			"tr": "Skoori limiit"
+		},
+		{
+			"or": "Time limit",
+			"tr": "Ajalimiit"
+		},
+		{
+			"or": "Players",
+			"tr": "Mängijad"
+		},
+		{
+			"or": "MOTD",
+			"tr": "Päeva sõnum"
+		},
+		{
+			"or": "Option",
+			"tr": ""
+		},
+		{
+			"or": "Wait for current vote to end before calling a new one.",
+			"tr": "Oota praeguse hääletuse lõpuni, enne uue alustamist."
+		},
+		{
+			"or": "You must wait %d seconds before making another vote",
+			"tr": "Sa pead ootama %d sekundit enne uue hääletuse alustamist"
+		},
+		{
+			"or": "Spectators aren't allowed to start a vote.",
+			"tr": "Vaatlejatel pole lubatud hääletust alustada."
+		},
+		{
+			"or": "Change settings",
+			"tr": "Muuda seadeid"
+		},
+		{
+			"or": "Kick player",
+			"tr": "Viska mängija välja"
+		},
+		{
+			"or": "Move player to spectators",
+			"tr": "Liiguta mängija vaatlejate hulka"
+		},
+		{
+			"or": "Server does not allow voting to kick players",
+			"tr": "Server ei võimalda hääletada mängijate välja viskamist"
+		},
+		{
+			"or": "Kick voting requires %d players on the server",
+			"tr": "Välja viskamise hääletus nõuab %d mängijat serveris"
+		},
+		{
+			"or": "Server does not allow voting to move players to spectators",
+			"tr": "Server ei luba mängijate vaatajatesse hääletamist"
+		},
+		{
+			"or": "Reason:",
+			"tr": "Põhjus:"
+		},
+		{
+			"or": "Call vote",
+			"tr": "Kutsu hääletus"
+		},
+		{
+			"or": "Force vote",
+			"tr": ""
+		},
+		{
+			"or": "Remove",
+			"tr": "Eemalda"
+		},
+		{
+			"or": "Vote description:",
+			"tr": "Hääletuse kirjeldus:"
+		},
+		{
+			"or": "Vote command:",
+			"tr": "Hääletuse käsklus:"
+		},
+		{
+			"or": "Add",
+			"tr": "Lisa"
+		},
+		{
+			"or": "Settings",
+			"tr": "Seaded"
+		},
+		{
+			"or": "Shutdown server",
+			"tr": ""
+		},
+		{
+			"or": "Local server",
+			"tr": "Kohalik server"
+		},
+		{
+			"or": "Demos",
+			"tr": "Demod"
+		},
+		{
+			"or": "Editor",
+			"tr": ""
+		},
+		{
+			"or": "Play",
+			"tr": "Mängima"
+		},
+		{
+			"or": "Quit",
+			"tr": ""
+		},
+		{
+			"or": "Teeworlds Archive %s is out! Download it at our github!",
+			"tr": ""
+		},
+		{
+			"or": "Time limit: %d min",
+			"tr": " Ajalimiit:%d min"
+		},
+		{
+			"context": "rounds (scoreboard)",
+			"or": "Match",
+			"tr": ""
+		},
+		{
+			"or": "Spectators",
+			"tr": "Vaatlejad"
+		},
+		{
+			"or": "Game over",
+			"tr": "Mäng läbi"
+		},
+		{
+			"or": "Round over",
+			"tr": ""
+		},
+		{
+			"or": "Map record",
+			"tr": ""
+		},
+		{
+			"or": "Clan",
+			"tr": ""
+		},
+		{
+			"or": "Time",
+			"tr": ""
+		},
+		{
+			"or": "Score",
+			"tr": "Skoor"
+		},
+		{
+			"or": "%d other players",
+			"tr": ""
+		},
+		{
+			"or": "REC %3d:%02d",
+			"tr": ""
+		},
+		{
+			"or": "Red team",
+			"tr": "Punane meeskond"
+		},
+		{
+			"or": "Blue team",
+			"tr": "Sinine meeskond"
+		},
+		{
+			"or": "%s wins!",
+			"tr": "%s võitis!"
+		},
+		{
+			"or": "Draw!",
+			"tr": "Viik!"
+		},
+		{
+			"or": "Round over!",
+			"tr": ""
+		},
+		{
+			"or": "Free-View",
+			"tr": "Vaba vaade"
+		},
+		{
+			"or": "Suicides",
+			"tr": ""
+		},
+		{
+			"or": "Ratio",
+			"tr": ""
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": ""
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": ""
+		},
+		{
+			"or": "Best spree",
+			"tr": ""
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": "'%s' hääletas, et visata välja '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": "'%s' hääletas, et viia '%s' vaatlejaks (%s)"
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": "Admin tõstis '%s' vaatlejatesse (%s)"
+		},
+		{
+			"or": "Vote aborted",
+			"tr": "Hääletus katkestatud"
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": ""
+		},
+		{
+			"or": "Vote passed",
+			"tr": "Hääletus läks läbi"
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": ""
+		},
+		{
+			"or": "Vote failed",
+			"tr": "Hääletus nurjus"
+		},
+		{
 			"or": "Map changed to '%s'",
 			"tr": ""
 		},
@@ -131,16 +862,8 @@
 			"tr": "Kõik"
 		},
 		{
-			"or": "Spectators",
-			"tr": "Vaatlejad"
-		},
-		{
 			"or": "Team",
 			"tr": "Meeskond"
-		},
-		{
-			"or": "Chat",
-			"tr": ""
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -185,10 +908,6 @@
 		{
 			"or": "'%s' was removed as a friend",
 			"tr": ""
-		},
-		{
-			"or": "-Page %d-",
-			"tr": "-Lehekülg %d-"
 		},
 		{
 			"or": "Sudden Death",
@@ -243,10 +962,6 @@
 			"tr": "%d s jäänud"
 		},
 		{
-			"or": "Reason:",
-			"tr": "Põhjus:"
-		},
-		{
 			"or": "Vote Yes",
 			"tr": ""
 		},
@@ -279,48 +994,12 @@
 			"tr": ""
 		},
 		{
-			"or": "'%s' has set a new map record: %s",
-			"tr": ""
-		},
-		{
-			"or": "'%s' has set a new personal record: %s",
-			"tr": ""
-		},
-		{
-			"or": " (%s seconds faster)",
-			"tr": ""
-		},
-		{
-			"or": "'%s' finished in: %s",
-			"tr": ""
-		},
-		{
 			"or": "Game",
 			"tr": "Mäng"
 		},
 		{
-			"or": "Players",
-			"tr": "Mängijad"
-		},
-		{
-			"or": "Server info",
-			"tr": "Serveri info"
-		},
-		{
-			"or": "Call vote",
-			"tr": "Kutsu hääletus"
-		},
-		{
-			"or": "Settings",
-			"tr": "Seaded"
-		},
-		{
 			"or": "General",
 			"tr": "Üldine"
-		},
-		{
-			"or": "Player",
-			"tr": "Mängija"
 		},
 		{
 			"or": "TBD",
@@ -347,10 +1026,6 @@
 			"tr": "Kohalik"
 		},
 		{
-			"or": "Demos",
-			"tr": "Demod"
-		},
-		{
 			"or": "Back",
 			"tr": "Tagasi"
 		},
@@ -361,10 +1036,6 @@
 		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "Heliseadet ei tuvastatud."
-		},
-		{
-			"or": "Ok",
-			"tr": "Ok"
 		},
 		{
 			"or": "Connecting to",
@@ -399,10 +1070,6 @@
 			"tr": "Vale salasõna"
 		},
 		{
-			"or": "Quit",
-			"tr": ""
-		},
-		{
 			"or": "Welcome to Teeworlds",
 			"tr": "Tere tulemast Teeworlds'i"
 		},
@@ -415,20 +1082,8 @@
 			"tr": "Oled sa kindel et tahad lahkuda?"
 		},
 		{
-			"or": "No",
-			"tr": "Ei"
-		},
-		{
-			"or": "Yes",
-			"tr": "Jah"
-		},
-		{
 			"or": "Please enter the password.",
 			"tr": ""
-		},
-		{
-			"or": "Password",
-			"tr": "Salasõna"
 		},
 		{
 			"or": "Save password",
@@ -475,14 +1130,6 @@
 			"tr": "Oled sa kindel, et sa tahad demo ümber nimetada?"
 		},
 		{
-			"or": "Name",
-			"tr": "Nimi"
-		},
-		{
-			"or": "Error",
-			"tr": "Viga"
-		},
-		{
 			"or": "Unable to rename the demo",
 			"tr": "Demo ei saa ümber nimetada"
 		},
@@ -524,18 +1171,6 @@
 		},
 		{
 			"or": "Server",
-			"tr": ""
-		},
-		{
-			"or": "Type",
-			"tr": "Kirjuta"
-		},
-		{
-			"or": "Map",
-			"tr": "Maailm"
-		},
-		{
-			"or": "Ping",
 			"tr": ""
 		},
 		{
@@ -643,10 +1278,6 @@
 		{
 			"context": "friends (server browser)",
 			"or": "Offline (%d)",
-			"tr": ""
-		},
-		{
-			"or": "Clan",
 			"tr": ""
 		},
 		{
@@ -771,21 +1402,6 @@
 			"tr": ""
 		},
 		{
-			"context": "Server difficulty",
-			"or": "Casual",
-			"tr": ""
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Normal",
-			"tr": ""
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Competitive",
-			"tr": ""
-		},
-		{
 			"or": "Click to remove the player from your friends.",
 			"tr": ""
 		},
@@ -794,473 +1410,8 @@
 			"tr": ""
 		},
 		{
-			"or": "Scoreboard",
-			"tr": "Punkti tabel"
-		},
-		{
-			"or": "Refresh",
-			"tr": "Värskenda"
-		},
-		{
 			"or": "Connect",
 			"tr": "Ühenda"
-		},
-		{
-			"or": "Move left",
-			"tr": "Liigu vasakule"
-		},
-		{
-			"or": "Move right",
-			"tr": "Liigu paremale"
-		},
-		{
-			"or": "Jump",
-			"tr": "Hüppa"
-		},
-		{
-			"or": "Fire",
-			"tr": "Tuli"
-		},
-		{
-			"or": "Hook",
-			"tr": ""
-		},
-		{
-			"or": "Hammer",
-			"tr": "Haamer"
-		},
-		{
-			"or": "Pistol",
-			"tr": "Püstol"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "Pump-püss"
-		},
-		{
-			"or": "Grenade",
-			"tr": "Granaat"
-		},
-		{
-			"or": "Laser",
-			"tr": "Laser"
-		},
-		{
-			"or": "Next weapon",
-			"tr": "Järgmine relv"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "Eelmine relv"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "Hääleta Jah"
-		},
-		{
-			"or": "Vote no",
-			"tr": "Hääleta Ei"
-		},
-		{
-			"or": "Team chat",
-			"tr": ""
-		},
-		{
-			"or": "Whisper",
-			"tr": ""
-		},
-		{
-			"or": "Show chat",
-			"tr": "Näita vestlust"
-		},
-		{
-			"or": "Emoticon",
-			"tr": ""
-		},
-		{
-			"or": "Spectator mode",
-			"tr": ""
-		},
-		{
-			"or": "Spectate next",
-			"tr": "Vaatle järgmist"
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "Vaatle eelmist"
-		},
-		{
-			"or": "Console",
-			"tr": "Konsool"
-		},
-		{
-			"or": "Remote console",
-			"tr": "kaugpaneel"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "Ekraanitõmmis"
-		},
-		{
-			"or": "Statboard",
-			"tr": ""
-		},
-		{
-			"or": "Respawn",
-			"tr": "Sünni uuesti"
-		},
-		{
-			"or": "Ready",
-			"tr": "Valmis"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": ""
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": ""
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": ""
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": ""
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Enable joystick",
-			"tr": ""
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": ""
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": ""
-		},
-		{
-			"or": "Configure statboard",
-			"tr": ""
-		},
-		{
-			"or": "Device",
-			"tr": ""
-		},
-		{
-			"or": "Status",
-			"tr": ""
-		},
-		{
-			"or": "Aim bind",
-			"tr": ""
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": ""
-		},
-		{
-			"or": "Length",
-			"tr": "Pikkus"
-		},
-		{
-			"or": "Date",
-			"tr": ""
-		},
-		{
-			"or": "Close",
-			"tr": "Sulge"
-		},
-		{
-			"or": "Demofile: %s",
-			"tr": "Demofail: %s"
-		},
-		{
-			"or": "Parent Folder",
-			"tr": ""
-		},
-		{
-			"or": "Folder",
-			"tr": "Kaust"
-		},
-		{
-			"or": "Invalid Demo",
-			"tr": "Vigane demo"
-		},
-		{
-			"or": "Demo details",
-			"tr": "Demo detailid"
-		},
-		{
-			"or": "Recorded",
-			"tr": "Salvestatud"
-		},
-		{
-			"or": "Delete",
-			"tr": "Kustuta"
-		},
-		{
-			"or": "Are you sure that you want to delete the demo '%s'?",
-			"tr": ""
-		},
-		{
-			"or": "Delete demo",
-			"tr": "Kustuta demo"
-		},
-		{
-			"or": "Rename",
-			"tr": "Nimeta ümber"
-		},
-		{
-			"or": "Fetch Info",
-			"tr": ""
-		},
-		{
-			"or": "Open",
-			"tr": ""
-		},
-		{
-			"context": "DemoBrowser",
-			"or": "Play",
-			"tr": "Mängima"
-		},
-		{
-			"or": "Unable to delete the demo",
-			"tr": "Ei saa demo kustutada"
-		},
-		{
-			"or": "Created",
-			"tr": "Loodud"
-		},
-		{
-			"or": "Version",
-			"tr": "Versioon"
-		},
-		{
-			"or": "Netversion",
-			"tr": ""
-		},
-		{
-			"or": "Markers",
-			"tr": ""
-		},
-		{
-			"or": "%.3f KiB",
-			"tr": "%.3f KiB"
-		},
-		{
-			"or": "Size",
-			"tr": "Suurus"
-		},
-		{
-			"or": "Crc",
-			"tr": ""
-		},
-		{
-			"or": "Teams are locked",
-			"tr": "Meeskonnad on lukus"
-		},
-		{
-			"or": "Only %d active players are allowed",
-			"tr": "Ainult %d aktiivset mängijat on lubatud"
-		},
-		{
-			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-			"tr": "Meeskonnad on lukus. Aeg enne meeskonna vahetust: %02d:%02d"
-		},
-		{
-			"or": "Game options",
-			"tr": ""
-		},
-		{
-			"or": "locked",
-			"tr": "lukus"
-		},
-		{
-			"or": "Spectating",
-			"tr": "Vaatleb"
-		},
-		{
-			"or": "Join red",
-			"tr": "Liitu punastega"
-		},
-		{
-			"or": "Joined red",
-			"tr": "Liitu punastega"
-		},
-		{
-			"or": "Join blue",
-			"tr": "Liitu sinistega"
-		},
-		{
-			"or": "Joined blue",
-			"tr": "Liitu sinistega"
-		},
-		{
-			"or": "Join",
-			"tr": "Liitu"
-		},
-		{
-			"or": "Joined",
-			"tr": "Liitus"
-		},
-		{
-			"or": "Disconnect",
-			"tr": "Välju serverist"
-		},
-		{
-			"or": "Stop record",
-			"tr": "Lõpeta salvestus"
-		},
-		{
-			"or": "Record",
-			"tr": "Salesta"
-		},
-		{
-			"or": "Player options",
-			"tr": "Mängija valikud"
-		},
-		{
-			"or": "Address",
-			"tr": "Aadress"
-		},
-		{
-			"context": "With",
-			"or": "Yes",
-			"tr": "Jah"
-		},
-		{
-			"context": "Without/None",
-			"or": "No",
-			"tr": "Ei"
-		},
-		{
-			"or": "Favorite",
-			"tr": "Lemmik"
-		},
-		{
-			"or": "Mute broadcasts",
-			"tr": ""
-		},
-		{
-			"or": "Game info",
-			"tr": "Mängu info"
-		},
-		{
-			"or": "Game type",
-			"tr": "Mängutüüp"
-		},
-		{
-			"or": "Difficulty",
-			"tr": ""
-		},
-		{
-			"or": "Score limit",
-			"tr": "Skoori limiit"
-		},
-		{
-			"or": "Time limit",
-			"tr": "Ajalimiit"
-		},
-		{
-			"or": "MOTD",
-			"tr": "Päeva sõnum"
-		},
-		{
-			"or": "Option",
-			"tr": ""
-		},
-		{
-			"or": "Wait for current vote to end before calling a new one.",
-			"tr": "Oota praeguse hääletuse lõpuni, enne uue alustamist."
-		},
-		{
-			"or": "You must wait %d seconds before making another vote",
-			"tr": "Sa pead ootama %d sekundit enne uue hääletuse alustamist"
-		},
-		{
-			"or": "Spectators aren't allowed to start a vote.",
-			"tr": "Vaatlejatel pole lubatud hääletust alustada."
-		},
-		{
-			"or": "Change settings",
-			"tr": "Muuda seadeid"
-		},
-		{
-			"or": "Kick player",
-			"tr": "Viska mängija välja"
-		},
-		{
-			"or": "Move player to spectators",
-			"tr": "Liiguta mängija vaatlejate hulka"
-		},
-		{
-			"or": "Server does not allow voting to kick players",
-			"tr": "Server ei võimalda hääletada mängijate välja viskamist"
-		},
-		{
-			"or": "Kick voting requires %d players on the server",
-			"tr": "Välja viskamise hääletus nõuab %d mängijat serveris"
-		},
-		{
-			"or": "Server does not allow voting to move players to spectators",
-			"tr": "Server ei luba mängijate vaatajatesse hääletamist"
-		},
-		{
-			"or": "Force vote",
-			"tr": ""
-		},
-		{
-			"or": "Remove",
-			"tr": "Eemalda"
-		},
-		{
-			"or": "Vote description:",
-			"tr": "Hääletuse kirjeldus:"
-		},
-		{
-			"or": "Vote command:",
-			"tr": "Hääletuse käsklus:"
-		},
-		{
-			"or": "Add",
-			"tr": "Lisa"
 		},
 		{
 			"or": "Hue:",
@@ -1284,6 +1435,26 @@
 		},
 		{
 			"or": "Theme",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "(none)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "(automatic)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "%s (day)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "%s (night)",
 			"tr": ""
 		},
 		{
@@ -1486,14 +1657,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Suicides",
-			"tr": ""
-		},
-		{
-			"or": "Ratio",
-			"tr": ""
-		},
-		{
 			"or": "The ratio of kills to deaths.",
 			"tr": ""
 		},
@@ -1511,10 +1674,6 @@
 		},
 		{
 			"or": "Current spree",
-			"tr": ""
-		},
-		{
-			"or": "Best spree",
 			"tr": ""
 		},
 		{
@@ -1666,83 +1825,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Shutdown server",
-			"tr": ""
-		},
-		{
-			"or": "Local server",
-			"tr": "Kohalik server"
-		},
-		{
-			"or": "Editor",
-			"tr": ""
-		},
-		{
-			"or": "Play",
-			"tr": "Mängima"
-		},
-		{
-			"or": "Teeworlds Archive %s is out! Download it at our github!",
-			"tr": ""
-		},
-		{
-			"or": "Time limit: %d min",
-			"tr": " Ajalimiit:%d min"
-		},
-		{
-			"context": "rounds (scoreboard)",
-			"or": "Match",
-			"tr": ""
-		},
-		{
-			"or": "Game over",
-			"tr": "Mäng läbi"
-		},
-		{
-			"or": "Round over",
-			"tr": ""
-		},
-		{
-			"or": "Map record",
-			"tr": ""
-		},
-		{
-			"or": "Time",
-			"tr": ""
-		},
-		{
-			"or": "Score",
-			"tr": "Skoor"
-		},
-		{
-			"or": "%d other players",
-			"tr": ""
-		},
-		{
-			"or": "REC %3d:%02d",
-			"tr": ""
-		},
-		{
-			"or": "Red team",
-			"tr": "Punane meeskond"
-		},
-		{
-			"or": "Blue team",
-			"tr": "Sinine meeskond"
-		},
-		{
-			"or": "%s wins!",
-			"tr": "%s võitis!"
-		},
-		{
-			"or": "Draw!",
-			"tr": "Viik!"
-		},
-		{
-			"or": "Round over!",
-			"tr": ""
-		},
-		{
 			"context": "skins",
 			"or": "body",
 			"tr": ""
@@ -1773,66 +1855,8 @@
 			"tr": ""
 		},
 		{
-			"or": "Free-View",
-			"tr": "Vaba vaade"
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
+			"or": "Resource '%s': download complete",
 			"tr": ""
-		},
-		{
-			"or": "KPM",
-			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": ""
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": ""
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": ""
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": "'%s' hääletas, et visata välja '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": "'%s' hääletas, et viia '%s' vaatlejaks (%s)"
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": ""
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": "Admin tõstis '%s' vaatlejatesse (%s)"
-		},
-		{
-			"or": "Vote aborted",
-			"tr": "Hääletus katkestatud"
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": ""
-		},
-		{
-			"or": "Vote passed",
-			"tr": "Hääletus läks läbi"
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": ""
-		},
-		{
-			"or": "Vote failed",
-			"tr": "Hääletus nurjus"
 		}
 	]
 }

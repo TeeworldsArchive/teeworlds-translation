@@ -123,6 +123,737 @@
 			"tr": ""
 		},
 		{
+			"or": "-Page %d-",
+			"tr": "–Duilleag %d–"
+		},
+		{
+			"or": "'%s' has set a new map record: %s",
+			"tr": ""
+		},
+		{
+			"or": "'%s' has set a new personal record: %s",
+			"tr": ""
+		},
+		{
+			"or": " (%s seconds faster)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' finished in: %s",
+			"tr": ""
+		},
+		{
+			"or": "Move left",
+			"tr": "Gluais dhan taobh chlì"
+		},
+		{
+			"or": "Move right",
+			"tr": "Gluais dhan taobh deas"
+		},
+		{
+			"or": "Jump",
+			"tr": "Thoir leum"
+		},
+		{
+			"or": "Fire",
+			"tr": "Loisg"
+		},
+		{
+			"or": "Hook",
+			"tr": "Greimich"
+		},
+		{
+			"or": "Hammer",
+			"tr": "Òrd"
+		},
+		{
+			"or": "Pistol",
+			"tr": "Daga"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "Gunna-froise"
+		},
+		{
+			"or": "Grenade",
+			"tr": "Lòinsear dhurcan"
+		},
+		{
+			"or": "Laser",
+			"tr": "Leusair"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "An t-ath-arm"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "An t-arm roimhe"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "Bhòt gun aontaich thu"
+		},
+		{
+			"or": "Vote no",
+			"tr": "Bhòt às àicheadh"
+		},
+		{
+			"or": "Chat",
+			"tr": "Cabadaich"
+		},
+		{
+			"or": "Team chat",
+			"tr": "Cabadaich an sgioba"
+		},
+		{
+			"or": "Whisper",
+			"tr": "Cagairt"
+		},
+		{
+			"or": "Show chat",
+			"tr": "Seall a’ chabadaich"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "Samhla-gnùis"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "Modh amhairc"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "Amhairc an ath-gheama"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "Amhairc an geama roimhe"
+		},
+		{
+			"or": "Console",
+			"tr": "Consoil"
+		},
+		{
+			"or": "Remote console",
+			"tr": "Consoil chèin"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "Glacadh-sgrìn"
+		},
+		{
+			"or": "Scoreboard",
+			"tr": "Clàr nan sgòr"
+		},
+		{
+			"or": "Statboard",
+			"tr": "Bòrd na stadastaireachd"
+		},
+		{
+			"or": "Respawn",
+			"tr": "Ath-shìol"
+		},
+		{
+			"or": "Ready",
+			"tr": "Deiseil"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": "Cuir comharra demo ris"
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": ""
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": ""
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": "Cleachd luathachadh luchaige an t-siostam-obrachaidh"
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": "Mothalachd luchaige sna clàran-taice"
+		},
+		{
+			"or": "Enable joystick",
+			"tr": ""
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": ""
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": ""
+		},
+		{
+			"or": "Configure statboard",
+			"tr": "Rèitich bòrd na stadastaireachd"
+		},
+		{
+			"or": "Device",
+			"tr": ""
+		},
+		{
+			"or": "Status",
+			"tr": ""
+		},
+		{
+			"or": "Aim bind",
+			"tr": ""
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": ""
+		},
+		{
+			"or": "Name",
+			"tr": "Ainm"
+		},
+		{
+			"or": "Length",
+			"tr": "Faide"
+		},
+		{
+			"or": "Date",
+			"tr": ""
+		},
+		{
+			"or": "Close",
+			"tr": "Dùin"
+		},
+		{
+			"or": "Demofile: %s",
+			"tr": "Faidhle demo: %s"
+		},
+		{
+			"or": "Parent Folder",
+			"tr": "Pasgan pàraint"
+		},
+		{
+			"or": "Folder",
+			"tr": "Pasgan"
+		},
+		{
+			"or": "Invalid Demo",
+			"tr": "Demo mì-dhligheach"
+		},
+		{
+			"or": "Demo details",
+			"tr": "Fiosrachadh a’ demo"
+		},
+		{
+			"or": "Recorded",
+			"tr": "Air a chlàradh"
+		},
+		{
+			"or": "Delete",
+			"tr": "Sguab às"
+		},
+		{
+			"or": "Are you sure that you want to delete the demo '%s'?",
+			"tr": ""
+		},
+		{
+			"or": "Delete demo",
+			"tr": "Sguab às an demo"
+		},
+		{
+			"or": "Yes",
+			"tr": "Tha"
+		},
+		{
+			"or": "No",
+			"tr": "Chan eil"
+		},
+		{
+			"or": "Rename",
+			"tr": "Cuir ainm ùr air"
+		},
+		{
+			"or": "Refresh",
+			"tr": "Ath-nuadhaich"
+		},
+		{
+			"or": "Fetch Info",
+			"tr": ""
+		},
+		{
+			"or": "Open",
+			"tr": "Fosgail"
+		},
+		{
+			"context": "DemoBrowser",
+			"or": "Play",
+			"tr": "Cluich"
+		},
+		{
+			"or": "Error",
+			"tr": "Mearachd"
+		},
+		{
+			"or": "Unable to delete the demo",
+			"tr": "Cha b’ urrainn dhuinn an demo a sguabadh às"
+		},
+		{
+			"or": "Ok",
+			"tr": "Ceart ma-thà"
+		},
+		{
+			"or": "Created",
+			"tr": "Air a chruthachadh"
+		},
+		{
+			"or": "Type",
+			"tr": "Seòrsa"
+		},
+		{
+			"or": "Version",
+			"tr": "Tionndadh"
+		},
+		{
+			"or": "Netversion",
+			"tr": "Tionndadh an lìonraidh"
+		},
+		{
+			"or": "Markers",
+			"tr": "Comharran"
+		},
+		{
+			"or": "Map",
+			"tr": "Mapa"
+		},
+		{
+			"or": "%.3f KiB",
+			"tr": "%.3f KiB"
+		},
+		{
+			"or": "Size",
+			"tr": "Meud"
+		},
+		{
+			"or": "Crc",
+			"tr": "Crc"
+		},
+		{
+			"or": "Teams are locked",
+			"tr": "Tha na sgiobaidhean glaiste"
+		},
+		{
+			"or": "Only %d active players are allowed",
+			"tr": "Chan eil ach %d cluicheadair(ean) gnìomhach ceadaichte"
+		},
+		{
+			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
+			"tr": "Tha na sgiobaidhean glaiste. Ùine ri feitheamh mus gabh an sgioba atharrachadh: %02d:%02d"
+		},
+		{
+			"or": "Game options",
+			"tr": "Roghainnean a’ gheama"
+		},
+		{
+			"or": "locked",
+			"tr": "glaiste"
+		},
+		{
+			"or": "Spectating",
+			"tr": "Ag amharc"
+		},
+		{
+			"or": "Join red",
+			"tr": "Gabh san sgioba dearg"
+		},
+		{
+			"or": "Joined red",
+			"tr": "Ghabh thu san sgioba dearg"
+		},
+		{
+			"or": "Join blue",
+			"tr": "Gabh san sgioba ghorm"
+		},
+		{
+			"or": "Joined blue",
+			"tr": "Ghabh thu san sgioba ghorm"
+		},
+		{
+			"or": "Join",
+			"tr": "Gabh ann"
+		},
+		{
+			"or": "Joined",
+			"tr": "A’ cluich"
+		},
+		{
+			"or": "Disconnect",
+			"tr": "Dì-cheangail"
+		},
+		{
+			"or": "Stop record",
+			"tr": "Sguir dhen chlàradh"
+		},
+		{
+			"or": "Record",
+			"tr": "Clàraich"
+		},
+		{
+			"or": "Player options",
+			"tr": "Roghainnean a’ chluicheadair"
+		},
+		{
+			"or": "Player",
+			"tr": "Cluicheadair"
+		},
+		{
+			"or": "Server info",
+			"tr": "Mun fhrithealaiche"
+		},
+		{
+			"or": "Address",
+			"tr": "Seòladh"
+		},
+		{
+			"or": "Ping",
+			"tr": "Ping"
+		},
+		{
+			"or": "Password",
+			"tr": "Facal-faire"
+		},
+		{
+			"context": "With",
+			"or": "Yes",
+			"tr": "Tha"
+		},
+		{
+			"context": "Without/None",
+			"or": "No",
+			"tr": "Chan eil"
+		},
+		{
+			"or": "Favorite",
+			"tr": "Annsachd"
+		},
+		{
+			"or": "Mute broadcasts",
+			"tr": "Mùch na craolaidhean"
+		},
+		{
+			"or": "Game info",
+			"tr": "Fiosrachadh mun gheama"
+		},
+		{
+			"or": "Game type",
+			"tr": "Seòrsa"
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Casual",
+			"tr": "Furasta"
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Normal",
+			"tr": "Àbhaisteach"
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Competitive",
+			"tr": "Farpaiseach"
+		},
+		{
+			"or": "Difficulty",
+			"tr": "Duilgheas"
+		},
+		{
+			"or": "Score limit",
+			"tr": "Crìoch an sgòir"
+		},
+		{
+			"or": "Time limit",
+			"tr": "Crìoch-ama"
+		},
+		{
+			"or": "Players",
+			"tr": "Cluich."
+		},
+		{
+			"or": "MOTD",
+			"tr": "Teachdaireachd an latha"
+		},
+		{
+			"or": "Option",
+			"tr": "Roghainn"
+		},
+		{
+			"or": "Wait for current vote to end before calling a new one.",
+			"tr": "Fuirich gus an dig a’ bhòt làithreach gu crìoch mus tòisich thu tè ùr."
+		},
+		{
+			"or": "You must wait %d seconds before making another vote",
+			"tr": "Feumaidh tu fuireach fad %d diog(an) mus cruthaich thu bhòt eile"
+		},
+		{
+			"or": "Spectators aren't allowed to start a vote.",
+			"tr": "Chan fhaod amharc bhòt a thòiseachadh."
+		},
+		{
+			"or": "Change settings",
+			"tr": "Atharraich na roghainnean"
+		},
+		{
+			"or": "Kick player",
+			"tr": "Thoir a’ bhròg dhan chluicheadair"
+		},
+		{
+			"or": "Move player to spectators",
+			"tr": "Dèan amharc dhen chluicheadair"
+		},
+		{
+			"or": "Server does not allow voting to kick players",
+			"tr": "Cha cheadaich am frithealaiche bhòt gus a’ bhròg a thoirt dha chluicheadair"
+		},
+		{
+			"or": "Kick voting requires %d players on the server",
+			"tr": "Feumaidh %d cluicheadair(ean) a bhith air an fhrithealaiche mus gabh bhòtadh gus a’ bhròg a thoirt air cuideigin"
+		},
+		{
+			"or": "Server does not allow voting to move players to spectators",
+			"tr": "Cha cheadaich am frithealaiche bhòt gus cluicheadair a ghluasad dha na h-amhairc"
+		},
+		{
+			"or": "Reason:",
+			"tr": "Adhbhar:"
+		},
+		{
+			"or": "Call vote",
+			"tr": "Leig gu bhòt"
+		},
+		{
+			"or": "Force vote",
+			"tr": "Èignich bhòt"
+		},
+		{
+			"or": "Remove",
+			"tr": "Thoir air falbh"
+		},
+		{
+			"or": "Vote description:",
+			"tr": "Tuairisgeul a’ bhòtaidh:"
+		},
+		{
+			"or": "Vote command:",
+			"tr": "Àithne a’ bhòtaidh:"
+		},
+		{
+			"or": "Add",
+			"tr": "Cuir ris"
+		},
+		{
+			"or": "Settings",
+			"tr": "Roghainnean"
+		},
+		{
+			"or": "Shutdown server",
+			"tr": ""
+		},
+		{
+			"or": "Local server",
+			"tr": "Frithealaiche ionadail"
+		},
+		{
+			"or": "Demos",
+			"tr": "Demothan"
+		},
+		{
+			"or": "Editor",
+			"tr": "Deasaiche"
+		},
+		{
+			"or": "Play",
+			"tr": "Cluich"
+		},
+		{
+			"or": "Quit",
+			"tr": "Fàg an-seo"
+		},
+		{
+			"or": "Teeworlds Archive %s is out! Download it at our github!",
+			"tr": ""
+		},
+		{
+			"or": "Time limit: %d min",
+			"tr": "Crìoch-ama: %d mion"
+		},
+		{
+			"context": "rounds (scoreboard)",
+			"or": "Match",
+			"tr": "Maids"
+		},
+		{
+			"or": "Spectators",
+			"tr": "Amhairc"
+		},
+		{
+			"or": "Game over",
+			"tr": "Crìoch a’ gheama"
+		},
+		{
+			"or": "Round over",
+			"tr": "Tha a’ chuairt seachad"
+		},
+		{
+			"or": "Map record",
+			"tr": ""
+		},
+		{
+			"or": "Clan",
+			"tr": "Cinneadh"
+		},
+		{
+			"or": "Time",
+			"tr": ""
+		},
+		{
+			"or": "Score",
+			"tr": "Sgòr"
+		},
+		{
+			"or": "%d other players",
+			"tr": "%d cluicheadair(ean) eile"
+		},
+		{
+			"or": "REC %3d:%02d",
+			"tr": "As luaithe %3d:%02d"
+		},
+		{
+			"or": "Red team",
+			"tr": "An sgioba dearg"
+		},
+		{
+			"or": "Blue team",
+			"tr": "An sgioba gorm"
+		},
+		{
+			"or": "%s wins!",
+			"tr": "Bhuannaich %s!"
+		},
+		{
+			"or": "Draw!",
+			"tr": "Geama co-ionnann!"
+		},
+		{
+			"or": "Round over!",
+			"tr": "Tha a’ chuairt seachad!"
+		},
+		{
+			"or": "Free-View",
+			"tr": "Sealladh saor"
+		},
+		{
+			"or": "Suicides",
+			"tr": "Fèin-mhurt"
+		},
+		{
+			"or": "Ratio",
+			"tr": "Co-mheas"
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": "Lom"
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": "Splaoid"
+		},
+		{
+			"or": "Best spree",
+			"tr": "An splaoid as fheàrr"
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": "Togail"
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": "Leig “%s” atharrachadh air roghainn “%s” an fhrithealaiche gu bhòt (%s)"
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": "Leig “%s” toirt a’ bhròg air “%s” gu bhòt (%s)"
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": "Leig “%s” gluasad “%s” dha na h-amhairc gu bhòt (%s)"
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": "Dh’èignich an rianaire roghainn “%s” an fhrithealaiche (%s)"
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": "Ghluais an rianaire “%s” dha na h-amhairc (%s)"
+		},
+		{
+			"or": "Vote aborted",
+			"tr": "Chaidh sgur dhen bhòtadh"
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": "Dh’èignich rianaire aontachadh a’ bhòtaidh"
+		},
+		{
+			"or": "Vote passed",
+			"tr": "Shoirbhich leis a’ bhòt"
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": "Dh’èignich rianaire àicheadh a’ bhòtaidh"
+		},
+		{
+			"or": "Vote failed",
+			"tr": "Cha deach leis a’ bhòt"
+		},
+		{
 			"or": "Map changed to '%s'",
 			"tr": ""
 		},
@@ -131,16 +862,8 @@
 			"tr": "Na h-uile"
 		},
 		{
-			"or": "Spectators",
-			"tr": "Amhairc"
-		},
-		{
 			"or": "Team",
 			"tr": "Sgioba"
-		},
-		{
-			"or": "Chat",
-			"tr": "Cabadaich"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -185,10 +908,6 @@
 		{
 			"or": "'%s' was removed as a friend",
 			"tr": "Chan eil “%s” ’nad charaid tuilleadh"
-		},
-		{
-			"or": "-Page %d-",
-			"tr": "–Duilleag %d–"
 		},
 		{
 			"or": "Sudden Death",
@@ -243,10 +962,6 @@
 			"tr": "%dd air fhàgail"
 		},
 		{
-			"or": "Reason:",
-			"tr": "Adhbhar:"
-		},
-		{
 			"or": "Vote Yes",
 			"tr": ""
 		},
@@ -279,48 +994,12 @@
 			"tr": "Nuair a bhios tu deiseil, brùth air <%s>"
 		},
 		{
-			"or": "'%s' has set a new map record: %s",
-			"tr": ""
-		},
-		{
-			"or": "'%s' has set a new personal record: %s",
-			"tr": ""
-		},
-		{
-			"or": " (%s seconds faster)",
-			"tr": ""
-		},
-		{
-			"or": "'%s' finished in: %s",
-			"tr": ""
-		},
-		{
 			"or": "Game",
 			"tr": "Geama"
 		},
 		{
-			"or": "Players",
-			"tr": "Cluich."
-		},
-		{
-			"or": "Server info",
-			"tr": "Mun fhrithealaiche"
-		},
-		{
-			"or": "Call vote",
-			"tr": "Leig gu bhòt"
-		},
-		{
-			"or": "Settings",
-			"tr": "Roghainnean"
-		},
-		{
 			"or": "General",
 			"tr": "Coitcheann"
-		},
-		{
-			"or": "Player",
-			"tr": "Cluicheadair"
 		},
 		{
 			"or": "TBD",
@@ -347,10 +1026,6 @@
 			"tr": "Ionadail"
 		},
 		{
-			"or": "Demos",
-			"tr": "Demothan"
-		},
-		{
 			"or": "Back",
 			"tr": "Air ais"
 		},
@@ -361,10 +1036,6 @@
 		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "Cha b’ urrainn dhuinn uidheam-fuaime a thòiseachadh."
-		},
-		{
-			"or": "Ok",
-			"tr": "Ceart ma-thà"
 		},
 		{
 			"or": "Connecting to",
@@ -399,10 +1070,6 @@
 			"tr": "Chan eil am facal-faire mar bu chòir"
 		},
 		{
-			"or": "Quit",
-			"tr": "Fàg an-seo"
-		},
-		{
 			"or": "Welcome to Teeworlds",
 			"tr": "Fàilte gu Teeworlds"
 		},
@@ -415,20 +1082,8 @@
 			"tr": "A bheil thu cinnteach gu bheil thu airson fàgail?"
 		},
 		{
-			"or": "No",
-			"tr": "Chan eil"
-		},
-		{
-			"or": "Yes",
-			"tr": "Tha"
-		},
-		{
 			"or": "Please enter the password.",
 			"tr": ""
-		},
-		{
-			"or": "Password",
-			"tr": "Facal-faire"
 		},
 		{
 			"or": "Save password",
@@ -475,14 +1130,6 @@
 			"tr": "A bheil thu cinnteach gu bheil thu airson ainm ùr a thoirt air an demo?"
 		},
 		{
-			"or": "Name",
-			"tr": "Ainm"
-		},
-		{
-			"or": "Error",
-			"tr": "Mearachd"
-		},
-		{
 			"or": "Unable to rename the demo",
 			"tr": "Cha b’ urrainn dhuinn ainm ùr a chur air an demo"
 		},
@@ -525,18 +1172,6 @@
 		{
 			"or": "Server",
 			"tr": "Frithealaiche"
-		},
-		{
-			"or": "Type",
-			"tr": "Seòrsa"
-		},
-		{
-			"or": "Map",
-			"tr": "Mapa"
-		},
-		{
-			"or": "Ping",
-			"tr": "Ping"
 		},
 		{
 			"or": "Race",
@@ -644,10 +1279,6 @@
 			"context": "friends (server browser)",
 			"or": "Offline (%d)",
 			"tr": "Far loidhne (%d)"
-		},
-		{
-			"or": "Clan",
-			"tr": "Cinneadh"
 		},
 		{
 			"or": "Add friend/clan",
@@ -771,21 +1402,6 @@
 			"tr": "Tionndadh:"
 		},
 		{
-			"context": "Server difficulty",
-			"or": "Casual",
-			"tr": "Furasta"
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Normal",
-			"tr": "Àbhaisteach"
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Competitive",
-			"tr": "Farpaiseach"
-		},
-		{
 			"or": "Click to remove the player from your friends.",
 			"tr": ""
 		},
@@ -794,473 +1410,8 @@
 			"tr": ""
 		},
 		{
-			"or": "Scoreboard",
-			"tr": "Clàr nan sgòr"
-		},
-		{
-			"or": "Refresh",
-			"tr": "Ath-nuadhaich"
-		},
-		{
 			"or": "Connect",
 			"tr": "Ceangail"
-		},
-		{
-			"or": "Move left",
-			"tr": "Gluais dhan taobh chlì"
-		},
-		{
-			"or": "Move right",
-			"tr": "Gluais dhan taobh deas"
-		},
-		{
-			"or": "Jump",
-			"tr": "Thoir leum"
-		},
-		{
-			"or": "Fire",
-			"tr": "Loisg"
-		},
-		{
-			"or": "Hook",
-			"tr": "Greimich"
-		},
-		{
-			"or": "Hammer",
-			"tr": "Òrd"
-		},
-		{
-			"or": "Pistol",
-			"tr": "Daga"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "Gunna-froise"
-		},
-		{
-			"or": "Grenade",
-			"tr": "Lòinsear dhurcan"
-		},
-		{
-			"or": "Laser",
-			"tr": "Leusair"
-		},
-		{
-			"or": "Next weapon",
-			"tr": "An t-ath-arm"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "An t-arm roimhe"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "Bhòt gun aontaich thu"
-		},
-		{
-			"or": "Vote no",
-			"tr": "Bhòt às àicheadh"
-		},
-		{
-			"or": "Team chat",
-			"tr": "Cabadaich an sgioba"
-		},
-		{
-			"or": "Whisper",
-			"tr": "Cagairt"
-		},
-		{
-			"or": "Show chat",
-			"tr": "Seall a’ chabadaich"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "Samhla-gnùis"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "Modh amhairc"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "Amhairc an ath-gheama"
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "Amhairc an geama roimhe"
-		},
-		{
-			"or": "Console",
-			"tr": "Consoil"
-		},
-		{
-			"or": "Remote console",
-			"tr": "Consoil chèin"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "Glacadh-sgrìn"
-		},
-		{
-			"or": "Statboard",
-			"tr": "Bòrd na stadastaireachd"
-		},
-		{
-			"or": "Respawn",
-			"tr": "Ath-shìol"
-		},
-		{
-			"or": "Ready",
-			"tr": "Deiseil"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": "Cuir comharra demo ris"
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": ""
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": ""
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": "Cleachd luathachadh luchaige an t-siostam-obrachaidh"
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": "Mothalachd luchaige sna clàran-taice"
-		},
-		{
-			"or": "Enable joystick",
-			"tr": ""
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": ""
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": ""
-		},
-		{
-			"or": "Configure statboard",
-			"tr": "Rèitich bòrd na stadastaireachd"
-		},
-		{
-			"or": "Device",
-			"tr": ""
-		},
-		{
-			"or": "Status",
-			"tr": ""
-		},
-		{
-			"or": "Aim bind",
-			"tr": ""
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": ""
-		},
-		{
-			"or": "Length",
-			"tr": "Faide"
-		},
-		{
-			"or": "Date",
-			"tr": ""
-		},
-		{
-			"or": "Close",
-			"tr": "Dùin"
-		},
-		{
-			"or": "Demofile: %s",
-			"tr": "Faidhle demo: %s"
-		},
-		{
-			"or": "Parent Folder",
-			"tr": "Pasgan pàraint"
-		},
-		{
-			"or": "Folder",
-			"tr": "Pasgan"
-		},
-		{
-			"or": "Invalid Demo",
-			"tr": "Demo mì-dhligheach"
-		},
-		{
-			"or": "Demo details",
-			"tr": "Fiosrachadh a’ demo"
-		},
-		{
-			"or": "Recorded",
-			"tr": "Air a chlàradh"
-		},
-		{
-			"or": "Delete",
-			"tr": "Sguab às"
-		},
-		{
-			"or": "Are you sure that you want to delete the demo '%s'?",
-			"tr": ""
-		},
-		{
-			"or": "Delete demo",
-			"tr": "Sguab às an demo"
-		},
-		{
-			"or": "Rename",
-			"tr": "Cuir ainm ùr air"
-		},
-		{
-			"or": "Fetch Info",
-			"tr": ""
-		},
-		{
-			"or": "Open",
-			"tr": "Fosgail"
-		},
-		{
-			"context": "DemoBrowser",
-			"or": "Play",
-			"tr": "Cluich"
-		},
-		{
-			"or": "Unable to delete the demo",
-			"tr": "Cha b’ urrainn dhuinn an demo a sguabadh às"
-		},
-		{
-			"or": "Created",
-			"tr": "Air a chruthachadh"
-		},
-		{
-			"or": "Version",
-			"tr": "Tionndadh"
-		},
-		{
-			"or": "Netversion",
-			"tr": "Tionndadh an lìonraidh"
-		},
-		{
-			"or": "Markers",
-			"tr": "Comharran"
-		},
-		{
-			"or": "%.3f KiB",
-			"tr": "%.3f KiB"
-		},
-		{
-			"or": "Size",
-			"tr": "Meud"
-		},
-		{
-			"or": "Crc",
-			"tr": "Crc"
-		},
-		{
-			"or": "Teams are locked",
-			"tr": "Tha na sgiobaidhean glaiste"
-		},
-		{
-			"or": "Only %d active players are allowed",
-			"tr": "Chan eil ach %d cluicheadair(ean) gnìomhach ceadaichte"
-		},
-		{
-			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-			"tr": "Tha na sgiobaidhean glaiste. Ùine ri feitheamh mus gabh an sgioba atharrachadh: %02d:%02d"
-		},
-		{
-			"or": "Game options",
-			"tr": "Roghainnean a’ gheama"
-		},
-		{
-			"or": "locked",
-			"tr": "glaiste"
-		},
-		{
-			"or": "Spectating",
-			"tr": "Ag amharc"
-		},
-		{
-			"or": "Join red",
-			"tr": "Gabh san sgioba dearg"
-		},
-		{
-			"or": "Joined red",
-			"tr": "Ghabh thu san sgioba dearg"
-		},
-		{
-			"or": "Join blue",
-			"tr": "Gabh san sgioba ghorm"
-		},
-		{
-			"or": "Joined blue",
-			"tr": "Ghabh thu san sgioba ghorm"
-		},
-		{
-			"or": "Join",
-			"tr": "Gabh ann"
-		},
-		{
-			"or": "Joined",
-			"tr": "A’ cluich"
-		},
-		{
-			"or": "Disconnect",
-			"tr": "Dì-cheangail"
-		},
-		{
-			"or": "Stop record",
-			"tr": "Sguir dhen chlàradh"
-		},
-		{
-			"or": "Record",
-			"tr": "Clàraich"
-		},
-		{
-			"or": "Player options",
-			"tr": "Roghainnean a’ chluicheadair"
-		},
-		{
-			"or": "Address",
-			"tr": "Seòladh"
-		},
-		{
-			"context": "With",
-			"or": "Yes",
-			"tr": "Tha"
-		},
-		{
-			"context": "Without/None",
-			"or": "No",
-			"tr": "Chan eil"
-		},
-		{
-			"or": "Favorite",
-			"tr": "Annsachd"
-		},
-		{
-			"or": "Mute broadcasts",
-			"tr": "Mùch na craolaidhean"
-		},
-		{
-			"or": "Game info",
-			"tr": "Fiosrachadh mun gheama"
-		},
-		{
-			"or": "Game type",
-			"tr": "Seòrsa"
-		},
-		{
-			"or": "Difficulty",
-			"tr": "Duilgheas"
-		},
-		{
-			"or": "Score limit",
-			"tr": "Crìoch an sgòir"
-		},
-		{
-			"or": "Time limit",
-			"tr": "Crìoch-ama"
-		},
-		{
-			"or": "MOTD",
-			"tr": "Teachdaireachd an latha"
-		},
-		{
-			"or": "Option",
-			"tr": "Roghainn"
-		},
-		{
-			"or": "Wait for current vote to end before calling a new one.",
-			"tr": "Fuirich gus an dig a’ bhòt làithreach gu crìoch mus tòisich thu tè ùr."
-		},
-		{
-			"or": "You must wait %d seconds before making another vote",
-			"tr": "Feumaidh tu fuireach fad %d diog(an) mus cruthaich thu bhòt eile"
-		},
-		{
-			"or": "Spectators aren't allowed to start a vote.",
-			"tr": "Chan fhaod amharc bhòt a thòiseachadh."
-		},
-		{
-			"or": "Change settings",
-			"tr": "Atharraich na roghainnean"
-		},
-		{
-			"or": "Kick player",
-			"tr": "Thoir a’ bhròg dhan chluicheadair"
-		},
-		{
-			"or": "Move player to spectators",
-			"tr": "Dèan amharc dhen chluicheadair"
-		},
-		{
-			"or": "Server does not allow voting to kick players",
-			"tr": "Cha cheadaich am frithealaiche bhòt gus a’ bhròg a thoirt dha chluicheadair"
-		},
-		{
-			"or": "Kick voting requires %d players on the server",
-			"tr": "Feumaidh %d cluicheadair(ean) a bhith air an fhrithealaiche mus gabh bhòtadh gus a’ bhròg a thoirt air cuideigin"
-		},
-		{
-			"or": "Server does not allow voting to move players to spectators",
-			"tr": "Cha cheadaich am frithealaiche bhòt gus cluicheadair a ghluasad dha na h-amhairc"
-		},
-		{
-			"or": "Force vote",
-			"tr": "Èignich bhòt"
-		},
-		{
-			"or": "Remove",
-			"tr": "Thoir air falbh"
-		},
-		{
-			"or": "Vote description:",
-			"tr": "Tuairisgeul a’ bhòtaidh:"
-		},
-		{
-			"or": "Vote command:",
-			"tr": "Àithne a’ bhòtaidh:"
-		},
-		{
-			"or": "Add",
-			"tr": "Cuir ris"
 		},
 		{
 			"or": "Hue:",
@@ -1285,6 +1436,26 @@
 		{
 			"or": "Theme",
 			"tr": "Ùrlar"
+		},
+		{
+			"context": "Theme",
+			"or": "(none)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "(automatic)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "%s (day)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "%s (night)",
+			"tr": ""
 		},
 		{
 			"or": "Dynamic Camera",
@@ -1486,14 +1657,6 @@
 			"tr": "Bàs"
 		},
 		{
-			"or": "Suicides",
-			"tr": "Fèin-mhurt"
-		},
-		{
-			"or": "Ratio",
-			"tr": "Co-mheas"
-		},
-		{
 			"or": "The ratio of kills to deaths.",
 			"tr": ""
 		},
@@ -1512,10 +1675,6 @@
 		{
 			"or": "Current spree",
 			"tr": "An splaoid làithreach"
-		},
-		{
-			"or": "Best spree",
-			"tr": "An splaoid as fheàrr"
 		},
 		{
 			"or": "Weapons stats",
@@ -1666,83 +1825,6 @@
 			"tr": "Feumaidh tu feitheamh fad %1.0f diog(an) mus atharraich thu d’ aithne."
 		},
 		{
-			"or": "Shutdown server",
-			"tr": ""
-		},
-		{
-			"or": "Local server",
-			"tr": "Frithealaiche ionadail"
-		},
-		{
-			"or": "Editor",
-			"tr": "Deasaiche"
-		},
-		{
-			"or": "Play",
-			"tr": "Cluich"
-		},
-		{
-			"or": "Teeworlds Archive %s is out! Download it at our github!",
-			"tr": ""
-		},
-		{
-			"or": "Time limit: %d min",
-			"tr": "Crìoch-ama: %d mion"
-		},
-		{
-			"context": "rounds (scoreboard)",
-			"or": "Match",
-			"tr": "Maids"
-		},
-		{
-			"or": "Game over",
-			"tr": "Crìoch a’ gheama"
-		},
-		{
-			"or": "Round over",
-			"tr": "Tha a’ chuairt seachad"
-		},
-		{
-			"or": "Map record",
-			"tr": ""
-		},
-		{
-			"or": "Time",
-			"tr": ""
-		},
-		{
-			"or": "Score",
-			"tr": "Sgòr"
-		},
-		{
-			"or": "%d other players",
-			"tr": "%d cluicheadair(ean) eile"
-		},
-		{
-			"or": "REC %3d:%02d",
-			"tr": "As luaithe %3d:%02d"
-		},
-		{
-			"or": "Red team",
-			"tr": "An sgioba dearg"
-		},
-		{
-			"or": "Blue team",
-			"tr": "An sgioba gorm"
-		},
-		{
-			"or": "%s wins!",
-			"tr": "Bhuannaich %s!"
-		},
-		{
-			"or": "Draw!",
-			"tr": "Geama co-ionnann!"
-		},
-		{
-			"or": "Round over!",
-			"tr": "Tha a’ chuairt seachad!"
-		},
-		{
 			"context": "skins",
 			"or": "body",
 			"tr": "bodhaig"
@@ -1773,66 +1855,8 @@
 			"tr": "sùilean"
 		},
 		{
-			"or": "Free-View",
-			"tr": "Sealladh saor"
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
-			"tr": "Lom"
-		},
-		{
-			"or": "KPM",
+			"or": "Resource '%s': download complete",
 			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": "Splaoid"
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": "Togail"
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": "Leig “%s” atharrachadh air roghainn “%s” an fhrithealaiche gu bhòt (%s)"
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": "Leig “%s” toirt a’ bhròg air “%s” gu bhòt (%s)"
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": "Leig “%s” gluasad “%s” dha na h-amhairc gu bhòt (%s)"
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": "Dh’èignich an rianaire roghainn “%s” an fhrithealaiche (%s)"
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": "Ghluais an rianaire “%s” dha na h-amhairc (%s)"
-		},
-		{
-			"or": "Vote aborted",
-			"tr": "Chaidh sgur dhen bhòtadh"
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": "Dh’èignich rianaire aontachadh a’ bhòtaidh"
-		},
-		{
-			"or": "Vote passed",
-			"tr": "Shoirbhich leis a’ bhòt"
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": "Dh’èignich rianaire àicheadh a’ bhòtaidh"
-		},
-		{
-			"or": "Vote failed",
-			"tr": "Cha deach leis a’ bhòt"
 		}
 	]
 }

@@ -56,11 +56,11 @@
 		},
 		{
 			"or": "The blue flag was captured by '%s' (%.2f seconds)",
-			"tr": "蓝队旗帜被 '%s' 夺取（%.2f秒）"
+			"tr": "蓝队旗帜被 '%s' 夺取(%.2f秒)"
 		},
 		{
 			"or": "The red flag was captured by '%s' (%.2f seconds)",
-			"tr": "红队旗帜被 '%s' 夺取（%.2f秒）"
+			"tr": "红队旗帜被 '%s' 夺取(%.2f秒)"
 		},
 		{
 			"or": "The blue flag was captured by '%s'",
@@ -127,6 +127,737 @@
 			"tr": "键位不存在"
 		},
 		{
+			"or": "-Page %d-",
+			"tr": "-第%d页-"
+		},
+		{
+			"or": "'%s' has set a new map record: %s",
+			"tr": "'%s' 打破了地图最高记录：%s"
+		},
+		{
+			"or": "'%s' has set a new personal record: %s",
+			"tr": "'%s' 打破了个人最高记录：%s"
+		},
+		{
+			"or": " (%s seconds faster)",
+			"tr": "( -%s 秒 )"
+		},
+		{
+			"or": "'%s' finished in: %s",
+			"tr": "'%s' 用时%s完成"
+		},
+		{
+			"or": "Move left",
+			"tr": "向左移动"
+		},
+		{
+			"or": "Move right",
+			"tr": "向右移动"
+		},
+		{
+			"or": "Jump",
+			"tr": "跳跃"
+		},
+		{
+			"or": "Fire",
+			"tr": "开火"
+		},
+		{
+			"or": "Hook",
+			"tr": "钩子"
+		},
+		{
+			"or": "Hammer",
+			"tr": "锤子"
+		},
+		{
+			"or": "Pistol",
+			"tr": "手枪"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "霰弹枪"
+		},
+		{
+			"or": "Grenade",
+			"tr": "榴弹枪"
+		},
+		{
+			"or": "Laser",
+			"tr": "激光枪"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "下一个武器"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "上一个武器"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "赞成"
+		},
+		{
+			"or": "Vote no",
+			"tr": "否决"
+		},
+		{
+			"or": "Chat",
+			"tr": "聊天"
+		},
+		{
+			"or": "Team chat",
+			"tr": "队伍聊天"
+		},
+		{
+			"or": "Whisper",
+			"tr": "私信"
+		},
+		{
+			"or": "Show chat",
+			"tr": "显示聊天"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "表情"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "旁观者模式"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "旁观下一个"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "旁观上一个"
+		},
+		{
+			"or": "Console",
+			"tr": "控制台"
+		},
+		{
+			"or": "Remote console",
+			"tr": "远程控制台"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "截图"
+		},
+		{
+			"or": "Scoreboard",
+			"tr": "计分板"
+		},
+		{
+			"or": "Statboard",
+			"tr": "统计板"
+		},
+		{
+			"or": "Respawn",
+			"tr": "重生"
+		},
+		{
+			"or": "Ready",
+			"tr": "准备"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": "添加回放书签"
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": "启用/禁用音效"
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": "切换动态镜头"
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": "使用系统的鼠标加速度设置"
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": "游戏内鼠标灵敏度"
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": "主界面鼠标灵敏度"
+		},
+		{
+			"or": "Enable joystick",
+			"tr": "启用控制器"
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": "点击轮换所有可用控制器"
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": "相对"
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": "绝对"
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": "游戏内控制器模式"
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": "游戏内控制器灵敏度"
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": "主界面控制器灵敏度"
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": "摇杆防抖强度"
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": "未发现游戏控制器。连接游戏控制器后请重启游戏。"
+		},
+		{
+			"or": "Configure statboard",
+			"tr": "配置统计信息板"
+		},
+		{
+			"or": "Device",
+			"tr": "设备"
+		},
+		{
+			"or": "Status",
+			"tr": "状态"
+		},
+		{
+			"or": "Aim bind",
+			"tr": "瞄准绑定"
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": "摇杆%d号轴"
+		},
+		{
+			"or": "Name",
+			"tr": "名字"
+		},
+		{
+			"or": "Length",
+			"tr": "长度"
+		},
+		{
+			"or": "Date",
+			"tr": "日期"
+		},
+		{
+			"or": "Close",
+			"tr": "关闭"
+		},
+		{
+			"or": "Demofile: %s",
+			"tr": "回放文件：%s"
+		},
+		{
+			"or": "Parent Folder",
+			"tr": "上级目录"
+		},
+		{
+			"or": "Folder",
+			"tr": "文件夹"
+		},
+		{
+			"or": "Invalid Demo",
+			"tr": "回放文件无效或已损坏"
+		},
+		{
+			"or": "Demo details",
+			"tr": "回放详细信息"
+		},
+		{
+			"or": "Recorded",
+			"tr": "回放已保存"
+		},
+		{
+			"or": "Delete",
+			"tr": "删除"
+		},
+		{
+			"or": "Are you sure that you want to delete the demo '%s'?",
+			"tr": "你确定要移除录像'%s'吗？"
+		},
+		{
+			"or": "Delete demo",
+			"tr": "删除回放"
+		},
+		{
+			"or": "Yes",
+			"tr": "是"
+		},
+		{
+			"or": "No",
+			"tr": "否"
+		},
+		{
+			"or": "Rename",
+			"tr": "重命名"
+		},
+		{
+			"or": "Refresh",
+			"tr": "刷新"
+		},
+		{
+			"or": "Fetch Info",
+			"tr": "获取信息"
+		},
+		{
+			"or": "Open",
+			"tr": "打开"
+		},
+		{
+			"context": "DemoBrowser",
+			"or": "Play",
+			"tr": "播放"
+		},
+		{
+			"or": "Error",
+			"tr": "错误"
+		},
+		{
+			"or": "Unable to delete the demo",
+			"tr": "无法删除这个回放"
+		},
+		{
+			"or": "Ok",
+			"tr": "确定"
+		},
+		{
+			"or": "Created",
+			"tr": "已创建"
+		},
+		{
+			"or": "Type",
+			"tr": "模式"
+		},
+		{
+			"or": "Version",
+			"tr": "版本"
+		},
+		{
+			"or": "Netversion",
+			"tr": "通信版本"
+		},
+		{
+			"or": "Markers",
+			"tr": "书签"
+		},
+		{
+			"or": "Map",
+			"tr": "地图"
+		},
+		{
+			"or": "%.3f KiB",
+			"tr": "%.3f KiB"
+		},
+		{
+			"or": "Size",
+			"tr": "大小"
+		},
+		{
+			"or": "Crc",
+			"tr": "Crc"
+		},
+		{
+			"or": "Teams are locked",
+			"tr": "队伍被锁定"
+		},
+		{
+			"or": "Only %d active players are allowed",
+			"tr": "服务器只允许%d名玩家加入游戏"
+		},
+		{
+			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
+			"tr": "队伍已锁定。还有%02d:%02d才能更换队伍"
+		},
+		{
+			"or": "Game options",
+			"tr": "游戏选项"
+		},
+		{
+			"or": "locked",
+			"tr": "已锁定"
+		},
+		{
+			"or": "Spectating",
+			"tr": "视角"
+		},
+		{
+			"or": "Join red",
+			"tr": "加入红队"
+		},
+		{
+			"or": "Joined red",
+			"tr": "已加入红队"
+		},
+		{
+			"or": "Join blue",
+			"tr": "加入蓝队"
+		},
+		{
+			"or": "Joined blue",
+			"tr": "已加入蓝队"
+		},
+		{
+			"or": "Join",
+			"tr": "加入"
+		},
+		{
+			"or": "Joined",
+			"tr": "已加入"
+		},
+		{
+			"or": "Disconnect",
+			"tr": "断开连接"
+		},
+		{
+			"or": "Stop record",
+			"tr": "停止录制"
+		},
+		{
+			"or": "Record",
+			"tr": "录制回放"
+		},
+		{
+			"or": "Player options",
+			"tr": "玩家选项"
+		},
+		{
+			"or": "Player",
+			"tr": "玩家"
+		},
+		{
+			"or": "Server info",
+			"tr": "服务器信息"
+		},
+		{
+			"or": "Address",
+			"tr": "地址"
+		},
+		{
+			"or": "Ping",
+			"tr": "延迟"
+		},
+		{
+			"or": "Password",
+			"tr": "密码"
+		},
+		{
+			"context": "With",
+			"or": "Yes",
+			"tr": "是"
+		},
+		{
+			"context": "Without/None",
+			"or": "No",
+			"tr": "否"
+		},
+		{
+			"or": "Favorite",
+			"tr": "收藏"
+		},
+		{
+			"or": "Mute broadcasts",
+			"tr": "屏蔽广播"
+		},
+		{
+			"or": "Game info",
+			"tr": "游戏信息"
+		},
+		{
+			"or": "Game type",
+			"tr": "游戏模式"
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Casual",
+			"tr": "休闲"
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Normal",
+			"tr": "普通"
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Competitive",
+			"tr": "竞技"
+		},
+		{
+			"or": "Difficulty",
+			"tr": "难度"
+		},
+		{
+			"or": "Score limit",
+			"tr": "目标得分"
+		},
+		{
+			"or": "Time limit",
+			"tr": "规定时限"
+		},
+		{
+			"or": "Players",
+			"tr": "玩家"
+		},
+		{
+			"or": "MOTD",
+			"tr": "公告"
+		},
+		{
+			"or": "Option",
+			"tr": "选项"
+		},
+		{
+			"or": "Wait for current vote to end before calling a new one.",
+			"tr": "当前投票结束前不能发起新投票"
+		},
+		{
+			"or": "You must wait %d seconds before making another vote",
+			"tr": "你必须再等%d秒钟才能发起新的投票"
+		},
+		{
+			"or": "Spectators aren't allowed to start a vote.",
+			"tr": "旁观者不能发起投票。"
+		},
+		{
+			"or": "Change settings",
+			"tr": "变更设置"
+		},
+		{
+			"or": "Kick player",
+			"tr": "踢除玩家"
+		},
+		{
+			"or": "Move player to spectators",
+			"tr": "将玩家移至旁观位"
+		},
+		{
+			"or": "Server does not allow voting to kick players",
+			"tr": "服务器不允许投票踢除玩家"
+		},
+		{
+			"or": "Kick voting requires %d players on the server",
+			"tr": "踢除投票需要服务器中至少有%d名玩家才能发起"
+		},
+		{
+			"or": "Server does not allow voting to move players to spectators",
+			"tr": "服务器不允许投票将玩家移至旁观位"
+		},
+		{
+			"or": "Reason:",
+			"tr": "理由："
+		},
+		{
+			"or": "Call vote",
+			"tr": "发起投票"
+		},
+		{
+			"or": "Force vote",
+			"tr": "强制投票"
+		},
+		{
+			"or": "Remove",
+			"tr": "移除"
+		},
+		{
+			"or": "Vote description:",
+			"tr": "投票描述："
+		},
+		{
+			"or": "Vote command:",
+			"tr": "投票命令："
+		},
+		{
+			"or": "Add",
+			"tr": "添加"
+		},
+		{
+			"or": "Settings",
+			"tr": "设置"
+		},
+		{
+			"or": "Shutdown server",
+			"tr": "关闭服务器"
+		},
+		{
+			"or": "Local server",
+			"tr": "本地服务器"
+		},
+		{
+			"or": "Demos",
+			"tr": "回放"
+		},
+		{
+			"or": "Editor",
+			"tr": "编辑器"
+		},
+		{
+			"or": "Play",
+			"tr": "开始游戏"
+		},
+		{
+			"or": "Quit",
+			"tr": "退出"
+		},
+		{
+			"or": "Teeworlds Archive %s is out! Download it at our github!",
+			"tr": "Teeworlds Archive %s 发布了! 在我们的Github上下载!"
+		},
+		{
+			"or": "Time limit: %d min",
+			"tr": "规定时限：%d分钟"
+		},
+		{
+			"context": "rounds (scoreboard)",
+			"or": "Match",
+			"tr": "比赛"
+		},
+		{
+			"or": "Spectators",
+			"tr": "旁观者"
+		},
+		{
+			"or": "Game over",
+			"tr": "游戏结束"
+		},
+		{
+			"or": "Round over",
+			"tr": "回合结束"
+		},
+		{
+			"or": "Map record",
+			"tr": "地图最高记录"
+		},
+		{
+			"or": "Clan",
+			"tr": "战队"
+		},
+		{
+			"or": "Time",
+			"tr": "用时"
+		},
+		{
+			"or": "Score",
+			"tr": "分数"
+		},
+		{
+			"or": "%d other players",
+			"tr": "另有%d名玩家"
+		},
+		{
+			"or": "REC %3d:%02d",
+			"tr": "REC %3d:%02d"
+		},
+		{
+			"or": "Red team",
+			"tr": "红队"
+		},
+		{
+			"or": "Blue team",
+			"tr": "蓝队"
+		},
+		{
+			"or": "%s wins!",
+			"tr": "%s胜利!"
+		},
+		{
+			"or": "Draw!",
+			"tr": "平局!"
+		},
+		{
+			"or": "Round over!",
+			"tr": "回合结束!"
+		},
+		{
+			"or": "Free-View",
+			"tr": "自由视角"
+		},
+		{
+			"or": "Suicides",
+			"tr": "自杀数"
+		},
+		{
+			"or": "Ratio",
+			"tr": "击杀死亡比"
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": "净击杀"
+		},
+		{
+			"or": "KPM",
+			"tr": "击杀/分钟"
+		},
+		{
+			"or": "Spree",
+			"tr": "连杀数"
+		},
+		{
+			"or": "Best spree",
+			"tr": "最高连杀数"
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": "得旗数"
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": "'%s' 发起投票想要改变服务器设置 '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": "'%s' 发起投票想要踢除 '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": "'%s' 发起投票想要将 '%s' 移至旁观位 (%s)"
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": "管理员强制修改了服务器设置 '%s' (%s)"
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": "管理员将 '%s' 移至了旁观位 (%s)"
+		},
+		{
+			"or": "Vote aborted",
+			"tr": "投票被取消"
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": "管理员强制通过了投票"
+		},
+		{
+			"or": "Vote passed",
+			"tr": "投票已通过"
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": "管理员强制否决了投票"
+		},
+		{
+			"or": "Vote failed",
+			"tr": "投票被否决"
+		},
+		{
 			"or": "Map changed to '%s'",
 			"tr": "地图已更换为 '%s'"
 		},
@@ -135,16 +866,8 @@
 			"tr": "全部"
 		},
 		{
-			"or": "Spectators",
-			"tr": "旁观者"
-		},
-		{
 			"or": "Team",
 			"tr": "队伍"
-		},
-		{
-			"or": "Chat",
-			"tr": "聊天"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -189,10 +912,6 @@
 		{
 			"or": "'%s' was removed as a friend",
 			"tr": "已将 '%s' 从好友中移除"
-		},
-		{
-			"or": "-Page %d-",
-			"tr": "-第%d页-"
 		},
 		{
 			"or": "Sudden Death",
@@ -247,10 +966,6 @@
 			"tr": "还剩%d秒"
 		},
 		{
-			"or": "Reason:",
-			"tr": "理由："
-		},
-		{
 			"or": "Vote Yes",
 			"tr": "投票赞成"
 		},
@@ -283,48 +998,12 @@
 			"tr": "按 <%s> 准备"
 		},
 		{
-			"or": "'%s' has set a new map record: %s",
-			"tr": "'%s' 打破了地图最高记录：%s"
-		},
-		{
-			"or": "'%s' has set a new personal record: %s",
-			"tr": "'%s' 打破了个人最高记录：%s"
-		},
-		{
-			"or": " (%s seconds faster)",
-			"tr": "( -%s 秒 )"
-		},
-		{
-			"or": "'%s' finished in: %s",
-			"tr": "'%s' 用时%s完成"
-		},
-		{
 			"or": "Game",
 			"tr": "游戏"
 		},
 		{
-			"or": "Players",
-			"tr": "玩家"
-		},
-		{
-			"or": "Server info",
-			"tr": "服务器信息"
-		},
-		{
-			"or": "Call vote",
-			"tr": "发起投票"
-		},
-		{
-			"or": "Settings",
-			"tr": "设置"
-		},
-		{
 			"or": "General",
 			"tr": "常规"
-		},
-		{
-			"or": "Player",
-			"tr": "玩家"
 		},
 		{
 			"or": "TBD",
@@ -351,10 +1030,6 @@
 			"tr": "本地"
 		},
 		{
-			"or": "Demos",
-			"tr": "回放"
-		},
-		{
 			"or": "Back",
 			"tr": "返回"
 		},
@@ -365,10 +1040,6 @@
 		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "初始化音频设备失败。"
-		},
-		{
-			"or": "Ok",
-			"tr": "确定"
 		},
 		{
 			"or": "Connecting to",
@@ -403,10 +1074,6 @@
 			"tr": "密码错误"
 		},
 		{
-			"or": "Quit",
-			"tr": "退出"
-		},
-		{
 			"or": "Welcome to Teeworlds",
 			"tr": "欢迎来到Teeworlds!"
 		},
@@ -419,20 +1086,8 @@
 			"tr": "你确定要退出吗？"
 		},
 		{
-			"or": "No",
-			"tr": "否"
-		},
-		{
-			"or": "Yes",
-			"tr": "是"
-		},
-		{
 			"or": "Please enter the password.",
 			"tr": "请输入密码"
-		},
-		{
-			"or": "Password",
-			"tr": "密码"
 		},
 		{
 			"or": "Save password",
@@ -479,14 +1134,6 @@
 			"tr": "你确定要重命名这个回放吗？"
 		},
 		{
-			"or": "Name",
-			"tr": "名字"
-		},
-		{
-			"or": "Error",
-			"tr": "错误"
-		},
-		{
 			"or": "Unable to rename the demo",
 			"tr": "无法重命名这个回放"
 		},
@@ -529,18 +1176,6 @@
 		{
 			"or": "Server",
 			"tr": "服务器"
-		},
-		{
-			"or": "Type",
-			"tr": "模式"
-		},
-		{
-			"or": "Map",
-			"tr": "地图"
-		},
-		{
-			"or": "Ping",
-			"tr": "延迟"
 		},
 		{
 			"or": "Race",
@@ -638,20 +1273,16 @@
 		},
 		{
 			"or": "Online players (%d)",
-			"tr": "在线玩家（%d）"
+			"tr": "在线玩家(%d)"
 		},
 		{
 			"or": "Online clanmates (%d)",
-			"tr": "在线战友（%d）"
+			"tr": "在线战友(%d)"
 		},
 		{
 			"context": "friends (server browser)",
 			"or": "Offline (%d)",
-			"tr": "离线（%d）"
-		},
-		{
-			"or": "Clan",
-			"tr": "战队"
+			"tr": "离线(%d)"
 		},
 		{
 			"or": "Add friend/clan",
@@ -775,21 +1406,6 @@
 			"tr": "版本："
 		},
 		{
-			"context": "Server difficulty",
-			"or": "Casual",
-			"tr": "休闲"
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Normal",
-			"tr": "普通"
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Competitive",
-			"tr": "竞技"
-		},
-		{
 			"or": "Click to remove the player from your friends.",
 			"tr": "点击将该玩家从好友里移除"
 		},
@@ -798,473 +1414,8 @@
 			"tr": "点击将该玩家加入到好友"
 		},
 		{
-			"or": "Scoreboard",
-			"tr": "计分板"
-		},
-		{
-			"or": "Refresh",
-			"tr": "刷新"
-		},
-		{
 			"or": "Connect",
 			"tr": "连接"
-		},
-		{
-			"or": "Move left",
-			"tr": "向左移动"
-		},
-		{
-			"or": "Move right",
-			"tr": "向右移动"
-		},
-		{
-			"or": "Jump",
-			"tr": "跳跃"
-		},
-		{
-			"or": "Fire",
-			"tr": "开火"
-		},
-		{
-			"or": "Hook",
-			"tr": "钩子"
-		},
-		{
-			"or": "Hammer",
-			"tr": "锤子"
-		},
-		{
-			"or": "Pistol",
-			"tr": "手枪"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "霰弹枪"
-		},
-		{
-			"or": "Grenade",
-			"tr": "榴弹枪"
-		},
-		{
-			"or": "Laser",
-			"tr": "激光枪"
-		},
-		{
-			"or": "Next weapon",
-			"tr": "下一个武器"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "上一个武器"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "赞成"
-		},
-		{
-			"or": "Vote no",
-			"tr": "否决"
-		},
-		{
-			"or": "Team chat",
-			"tr": "队伍聊天"
-		},
-		{
-			"or": "Whisper",
-			"tr": "私信"
-		},
-		{
-			"or": "Show chat",
-			"tr": "显示聊天"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "表情"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "旁观者模式"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "旁观下一个"
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "旁观上一个"
-		},
-		{
-			"or": "Console",
-			"tr": "控制台"
-		},
-		{
-			"or": "Remote console",
-			"tr": "远程控制台"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "截图"
-		},
-		{
-			"or": "Statboard",
-			"tr": "统计板"
-		},
-		{
-			"or": "Respawn",
-			"tr": "重生"
-		},
-		{
-			"or": "Ready",
-			"tr": "准备"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": "添加回放书签"
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": "启用/禁用音效"
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": "切换动态镜头"
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": "使用系统的鼠标加速度设置"
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": "游戏内鼠标灵敏度"
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": "主界面鼠标灵敏度"
-		},
-		{
-			"or": "Enable joystick",
-			"tr": "启用控制器"
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": "点击轮换所有可用控制器"
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": "相对"
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": "绝对"
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": "游戏内控制器模式"
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": "游戏内控制器灵敏度"
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": "主界面控制器灵敏度"
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": "摇杆防抖强度"
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": "未发现游戏控制器。连接游戏控制器后请重启游戏。"
-		},
-		{
-			"or": "Configure statboard",
-			"tr": "配置统计信息板"
-		},
-		{
-			"or": "Device",
-			"tr": "设备"
-		},
-		{
-			"or": "Status",
-			"tr": "状态"
-		},
-		{
-			"or": "Aim bind",
-			"tr": "瞄准绑定"
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": "摇杆%d号轴"
-		},
-		{
-			"or": "Length",
-			"tr": "长度"
-		},
-		{
-			"or": "Date",
-			"tr": "日期"
-		},
-		{
-			"or": "Close",
-			"tr": "关闭"
-		},
-		{
-			"or": "Demofile: %s",
-			"tr": "回放文件：%s"
-		},
-		{
-			"or": "Parent Folder",
-			"tr": "上级目录"
-		},
-		{
-			"or": "Folder",
-			"tr": "文件夹"
-		},
-		{
-			"or": "Invalid Demo",
-			"tr": "回放文件无效或已损坏"
-		},
-		{
-			"or": "Demo details",
-			"tr": "回放详细信息"
-		},
-		{
-			"or": "Recorded",
-			"tr": "回放已保存"
-		},
-		{
-			"or": "Delete",
-			"tr": "删除"
-		},
-		{
-			"or": "Are you sure that you want to delete the demo '%s'?",
-			"tr": "你确定要移除录像'%s'吗？"
-		},
-		{
-			"or": "Delete demo",
-			"tr": "删除回放"
-		},
-		{
-			"or": "Rename",
-			"tr": "重命名"
-		},
-		{
-			"or": "Fetch Info",
-			"tr": "获取信息"
-		},
-		{
-			"or": "Open",
-			"tr": "打开"
-		},
-		{
-			"context": "DemoBrowser",
-			"or": "Play",
-			"tr": "播放"
-		},
-		{
-			"or": "Unable to delete the demo",
-			"tr": "无法删除这个回放"
-		},
-		{
-			"or": "Created",
-			"tr": "已创建"
-		},
-		{
-			"or": "Version",
-			"tr": "版本"
-		},
-		{
-			"or": "Netversion",
-			"tr": "通信版本"
-		},
-		{
-			"or": "Markers",
-			"tr": "书签"
-		},
-		{
-			"or": "%.3f KiB",
-			"tr": "%.3f KiB"
-		},
-		{
-			"or": "Size",
-			"tr": "大小"
-		},
-		{
-			"or": "Crc",
-			"tr": "Crc"
-		},
-		{
-			"or": "Teams are locked",
-			"tr": "队伍被锁定"
-		},
-		{
-			"or": "Only %d active players are allowed",
-			"tr": "服务器只允许%d名玩家加入游戏"
-		},
-		{
-			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-			"tr": "队伍已锁定。还有%02d:%02d才能更换队伍"
-		},
-		{
-			"or": "Game options",
-			"tr": "游戏选项"
-		},
-		{
-			"or": "locked",
-			"tr": "已锁定"
-		},
-		{
-			"or": "Spectating",
-			"tr": "视角"
-		},
-		{
-			"or": "Join red",
-			"tr": "加入红队"
-		},
-		{
-			"or": "Joined red",
-			"tr": "已加入红队"
-		},
-		{
-			"or": "Join blue",
-			"tr": "加入蓝队"
-		},
-		{
-			"or": "Joined blue",
-			"tr": "已加入蓝队"
-		},
-		{
-			"or": "Join",
-			"tr": "加入"
-		},
-		{
-			"or": "Joined",
-			"tr": "已加入"
-		},
-		{
-			"or": "Disconnect",
-			"tr": "断开连接"
-		},
-		{
-			"or": "Stop record",
-			"tr": "停止录制"
-		},
-		{
-			"or": "Record",
-			"tr": "录制回放"
-		},
-		{
-			"or": "Player options",
-			"tr": "玩家选项"
-		},
-		{
-			"or": "Address",
-			"tr": "地址"
-		},
-		{
-			"context": "With",
-			"or": "Yes",
-			"tr": "是"
-		},
-		{
-			"context": "Without/None",
-			"or": "No",
-			"tr": "否"
-		},
-		{
-			"or": "Favorite",
-			"tr": "收藏"
-		},
-		{
-			"or": "Mute broadcasts",
-			"tr": "屏蔽广播"
-		},
-		{
-			"or": "Game info",
-			"tr": "游戏信息"
-		},
-		{
-			"or": "Game type",
-			"tr": "游戏模式"
-		},
-		{
-			"or": "Difficulty",
-			"tr": "难度"
-		},
-		{
-			"or": "Score limit",
-			"tr": "目标得分"
-		},
-		{
-			"or": "Time limit",
-			"tr": "规定时限"
-		},
-		{
-			"or": "MOTD",
-			"tr": "公告"
-		},
-		{
-			"or": "Option",
-			"tr": "选项"
-		},
-		{
-			"or": "Wait for current vote to end before calling a new one.",
-			"tr": "当前投票结束前不能发起新投票"
-		},
-		{
-			"or": "You must wait %d seconds before making another vote",
-			"tr": "你必须再等%d秒钟才能发起新的投票"
-		},
-		{
-			"or": "Spectators aren't allowed to start a vote.",
-			"tr": "旁观者不能发起投票。"
-		},
-		{
-			"or": "Change settings",
-			"tr": "变更设置"
-		},
-		{
-			"or": "Kick player",
-			"tr": "踢除玩家"
-		},
-		{
-			"or": "Move player to spectators",
-			"tr": "将玩家移至旁观位"
-		},
-		{
-			"or": "Server does not allow voting to kick players",
-			"tr": "服务器不允许投票踢除玩家"
-		},
-		{
-			"or": "Kick voting requires %d players on the server",
-			"tr": "踢除投票需要服务器中至少有%d名玩家才能发起"
-		},
-		{
-			"or": "Server does not allow voting to move players to spectators",
-			"tr": "服务器不允许投票将玩家移至旁观位"
-		},
-		{
-			"or": "Force vote",
-			"tr": "强制投票"
-		},
-		{
-			"or": "Remove",
-			"tr": "移除"
-		},
-		{
-			"or": "Vote description:",
-			"tr": "投票描述："
-		},
-		{
-			"or": "Vote command:",
-			"tr": "投票命令："
-		},
-		{
-			"or": "Add",
-			"tr": "添加"
 		},
 		{
 			"or": "Hue:",
@@ -1289,6 +1440,26 @@
 		{
 			"or": "Theme",
 			"tr": "主题"
+		},
+		{
+			"context": "Theme",
+			"or": "(none)",
+			"tr": "(无)"
+		},
+		{
+			"context": "Theme",
+			"or": "(automatic)",
+			"tr": "(自动)"
+		},
+		{
+			"context": "Theme",
+			"or": "%s (day)",
+			"tr": "%s (白日)"
+		},
+		{
+			"context": "Theme",
+			"or": "%s (night)",
+			"tr": "%s (夜间)"
 		},
 		{
 			"or": "Dynamic Camera",
@@ -1490,14 +1661,6 @@
 			"tr": "死亡数"
 		},
 		{
-			"or": "Suicides",
-			"tr": "自杀数"
-		},
-		{
-			"or": "Ratio",
-			"tr": "击杀死亡比"
-		},
-		{
 			"or": "The ratio of kills to deaths.",
 			"tr": "击杀死亡比"
 		},
@@ -1518,10 +1681,6 @@
 			"tr": "当前连杀数"
 		},
 		{
-			"or": "Best spree",
-			"tr": "最高连杀数"
-		},
-		{
 			"or": "Weapons stats",
 			"tr": "武器统计信息"
 		},
@@ -1535,7 +1694,7 @@
 		},
 		{
 			"or": "The number of times that the flag was touched in CTF (1 point).",
-			"tr": "CTF中的得旗数（1分/个）"
+			"tr": "CTF中的得旗数(1分/个)"
 		},
 		{
 			"or": "Flag captures",
@@ -1543,7 +1702,7 @@
 		},
 		{
 			"or": "The number of times that the flag was captured in CTF (100 points).",
-			"tr": "CTF中的夺旗数（100分/个）"
+			"tr": "CTF中的夺旗数(100分/个)"
 		},
 		{
 			"or": "Screen",
@@ -1611,7 +1770,7 @@
 		},
 		{
 			"or": "Current: %dx%d (%d:%d)",
-			"tr": "当前：%dx%d（%d：%d）"
+			"tr": "当前：%dx%d(%d：%d)"
 		},
 		{
 			"or": "Reset graphics settings",
@@ -1670,83 +1829,6 @@
 			"tr": "你需要等待 %1.0f 秒才能修改身份"
 		},
 		{
-			"or": "Shutdown server",
-			"tr": "关闭服务器"
-		},
-		{
-			"or": "Local server",
-			"tr": "本地服务器"
-		},
-		{
-			"or": "Editor",
-			"tr": "编辑器"
-		},
-		{
-			"or": "Play",
-			"tr": "开始游戏"
-		},
-		{
-			"or": "Teeworlds Archive %s is out! Download it at our github!",
-			"tr": "Teeworlds Archive %s 发布了! 在我们的Github上下载!"
-		},
-		{
-			"or": "Time limit: %d min",
-			"tr": "规定时限：%d分钟"
-		},
-		{
-			"context": "rounds (scoreboard)",
-			"or": "Match",
-			"tr": "比赛"
-		},
-		{
-			"or": "Game over",
-			"tr": "游戏结束"
-		},
-		{
-			"or": "Round over",
-			"tr": "回合结束"
-		},
-		{
-			"or": "Map record",
-			"tr": "地图最高记录"
-		},
-		{
-			"or": "Time",
-			"tr": "用时"
-		},
-		{
-			"or": "Score",
-			"tr": "分数"
-		},
-		{
-			"or": "%d other players",
-			"tr": "另有%d名玩家"
-		},
-		{
-			"or": "REC %3d:%02d",
-			"tr": "REC %3d:%02d"
-		},
-		{
-			"or": "Red team",
-			"tr": "红队"
-		},
-		{
-			"or": "Blue team",
-			"tr": "蓝队"
-		},
-		{
-			"or": "%s wins!",
-			"tr": "%s胜利!"
-		},
-		{
-			"or": "Draw!",
-			"tr": "平局!"
-		},
-		{
-			"or": "Round over!",
-			"tr": "回合结束!"
-		},
-		{
 			"context": "skins",
 			"or": "body",
 			"tr": "身体"
@@ -1777,66 +1859,8 @@
 			"tr": "眼睛"
 		},
 		{
-			"or": "Free-View",
-			"tr": "自由视角"
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
-			"tr": "净击杀"
-		},
-		{
-			"or": "KPM",
-			"tr": "击杀/分钟"
-		},
-		{
-			"or": "Spree",
-			"tr": "连杀数"
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": "得旗数"
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": "'%s' 发起投票想要改变服务器设置 '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": "'%s' 发起投票想要踢除 '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": "'%s' 发起投票想要将 '%s' 移至旁观位 (%s)"
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": "管理员强制修改了服务器设置 '%s' (%s)"
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": "管理员将 '%s' 移至了旁观位 (%s)"
-		},
-		{
-			"or": "Vote aborted",
-			"tr": "投票被取消"
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": "管理员强制通过了投票"
-		},
-		{
-			"or": "Vote passed",
-			"tr": "投票已通过"
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": "管理员强制否决了投票"
-		},
-		{
-			"or": "Vote failed",
-			"tr": "投票被否决"
+			"or": "Resource '%s': download complete",
+			"tr": ""
 		}
 	]
 }

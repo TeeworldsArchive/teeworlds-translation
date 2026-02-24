@@ -123,6 +123,737 @@
 			"tr": ""
 		},
 		{
+			"or": "-Page %d-",
+			"tr": "-Страница %d-"
+		},
+		{
+			"or": "'%s' has set a new map record: %s",
+			"tr": ""
+		},
+		{
+			"or": "'%s' has set a new personal record: %s",
+			"tr": ""
+		},
+		{
+			"or": " (%s seconds faster)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' finished in: %s",
+			"tr": ""
+		},
+		{
+			"or": "Move left",
+			"tr": "Сулахаялла"
+		},
+		{
+			"or": "Move right",
+			"tr": "Сылтăмалла"
+		},
+		{
+			"or": "Jump",
+			"tr": "Сик"
+		},
+		{
+			"or": "Fire",
+			"tr": "Пĕрӳ"
+		},
+		{
+			"or": "Hook",
+			"tr": "Çекĕл"
+		},
+		{
+			"or": "Hammer",
+			"tr": "Мăлатук"
+		},
+		{
+			"or": "Pistol",
+			"tr": "Пистолет"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "Йĕтре пăшал"
+		},
+		{
+			"or": "Grenade",
+			"tr": "Гранатомёт"
+		},
+		{
+			"or": "Laser",
+			"tr": ""
+		},
+		{
+			"or": "Next weapon",
+			"tr": "Тепĕр хĕç-пăшал"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "Малтанхи хĕç-пăшал"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "Çинчен"
+		},
+		{
+			"or": "Vote no",
+			"tr": "Хирĕç"
+		},
+		{
+			"or": "Chat",
+			"tr": "Калаçу"
+		},
+		{
+			"or": "Team chat",
+			"tr": "Ушкăнри калаçу"
+		},
+		{
+			"or": "Whisper",
+			"tr": ""
+		},
+		{
+			"or": "Show chat",
+			"tr": "Калаçӳ кăтартма"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "Кăмăл-туйăмсем"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "Пăхакан"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "Тепĕрне пăхма"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "Малтанхине пăхма"
+		},
+		{
+			"or": "Console",
+			"tr": "Консоль"
+		},
+		{
+			"or": "Remote console",
+			"tr": "Сервер консолĕ"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "Экран ӳкерӳ"
+		},
+		{
+			"or": "Scoreboard",
+			"tr": "Паллăсен хăмми"
+		},
+		{
+			"or": "Statboard",
+			"tr": ""
+		},
+		{
+			"or": "Respawn",
+			"tr": ""
+		},
+		{
+			"or": "Ready",
+			"tr": "Хатер"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": ""
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": ""
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": ""
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": ""
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Enable joystick",
+			"tr": ""
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": ""
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": ""
+		},
+		{
+			"or": "Configure statboard",
+			"tr": ""
+		},
+		{
+			"or": "Device",
+			"tr": ""
+		},
+		{
+			"or": "Status",
+			"tr": ""
+		},
+		{
+			"or": "Aim bind",
+			"tr": ""
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": ""
+		},
+		{
+			"or": "Name",
+			"tr": "Ят"
+		},
+		{
+			"or": "Length",
+			"tr": ""
+		},
+		{
+			"or": "Date",
+			"tr": ""
+		},
+		{
+			"or": "Close",
+			"tr": "Хупма"
+		},
+		{
+			"or": "Demofile: %s",
+			"tr": "Демо: %s"
+		},
+		{
+			"or": "Parent Folder",
+			"tr": "Аслă каталог"
+		},
+		{
+			"or": "Folder",
+			"tr": "Папка"
+		},
+		{
+			"or": "Invalid Demo",
+			"tr": "Тĕрĕс мар демо"
+		},
+		{
+			"or": "Demo details",
+			"tr": "Демо тĕплĕсем"
+		},
+		{
+			"or": "Recorded",
+			"tr": "ҫырнӑ"
+		},
+		{
+			"or": "Delete",
+			"tr": "Шăлса тасатма"
+		},
+		{
+			"or": "Are you sure that you want to delete the demo '%s'?",
+			"tr": ""
+		},
+		{
+			"or": "Delete demo",
+			"tr": "Демо шăлса тасатма"
+		},
+		{
+			"or": "Yes",
+			"tr": "Çапла"
+		},
+		{
+			"or": "No",
+			"tr": "Çук"
+		},
+		{
+			"or": "Rename",
+			"tr": "Çĕнĕ ят"
+		},
+		{
+			"or": "Refresh",
+			"tr": "Каллех вула"
+		},
+		{
+			"or": "Fetch Info",
+			"tr": ""
+		},
+		{
+			"or": "Open",
+			"tr": "Уçма"
+		},
+		{
+			"context": "DemoBrowser",
+			"or": "Play",
+			"tr": "Выля"
+		},
+		{
+			"or": "Error",
+			"tr": "Йăнăш"
+		},
+		{
+			"or": "Unable to delete the demo",
+			"tr": "Демо тĕплеме пултараймасть"
+		},
+		{
+			"or": "Ok",
+			"tr": "Çапла"
+		},
+		{
+			"or": "Created",
+			"tr": ""
+		},
+		{
+			"or": "Type",
+			"tr": "Тĕс"
+		},
+		{
+			"or": "Version",
+			"tr": "Версие"
+		},
+		{
+			"or": "Netversion",
+			"tr": ""
+		},
+		{
+			"or": "Markers",
+			"tr": ""
+		},
+		{
+			"or": "Map",
+			"tr": "Карта"
+		},
+		{
+			"or": "%.3f KiB",
+			"tr": "%.3f KiB"
+		},
+		{
+			"or": "Size",
+			"tr": "Пысӑкӑш"
+		},
+		{
+			"or": "Crc",
+			"tr": ""
+		},
+		{
+			"or": "Teams are locked",
+			"tr": ""
+		},
+		{
+			"or": "Only %d active players are allowed",
+			"tr": ""
+		},
+		{
+			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
+			"tr": ""
+		},
+		{
+			"or": "Game options",
+			"tr": ""
+		},
+		{
+			"or": "locked",
+			"tr": ""
+		},
+		{
+			"or": "Spectating",
+			"tr": "Пӑхакан"
+		},
+		{
+			"or": "Join red",
+			"tr": "Хĕрлĕсемпе!"
+		},
+		{
+			"or": "Joined red",
+			"tr": ""
+		},
+		{
+			"or": "Join blue",
+			"tr": "Кăваксемпе!"
+		},
+		{
+			"or": "Joined blue",
+			"tr": ""
+		},
+		{
+			"or": "Join",
+			"tr": ""
+		},
+		{
+			"or": "Joined",
+			"tr": ""
+		},
+		{
+			"or": "Disconnect",
+			"tr": "Çыхăну чарма"
+		},
+		{
+			"or": "Stop record",
+			"tr": "Чарма"
+		},
+		{
+			"or": "Record",
+			"tr": ""
+		},
+		{
+			"or": "Player options",
+			"tr": "Опцисем"
+		},
+		{
+			"or": "Player",
+			"tr": "Вылякан"
+		},
+		{
+			"or": "Server info",
+			"tr": "Пĕлтерӳ"
+		},
+		{
+			"or": "Address",
+			"tr": "Адрес"
+		},
+		{
+			"or": "Ping",
+			"tr": "Пинг"
+		},
+		{
+			"or": "Password",
+			"tr": "Вăрттăн сăмах"
+		},
+		{
+			"context": "With",
+			"or": "Yes",
+			"tr": "Çапла"
+		},
+		{
+			"context": "Without/None",
+			"or": "No",
+			"tr": "Çук"
+		},
+		{
+			"or": "Favorite",
+			"tr": "Суйланни"
+		},
+		{
+			"or": "Mute broadcasts",
+			"tr": ""
+		},
+		{
+			"or": "Game info",
+			"tr": "Вăйă пĕлтерӳ"
+		},
+		{
+			"or": "Game type",
+			"tr": "Вăйăн тĕс"
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Casual",
+			"tr": ""
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Normal",
+			"tr": ""
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Competitive",
+			"tr": ""
+		},
+		{
+			"or": "Difficulty",
+			"tr": ""
+		},
+		{
+			"or": "Score limit",
+			"tr": "Паллă лимичĕ"
+		},
+		{
+			"or": "Time limit",
+			"tr": "Вăхăт лимичĕ"
+		},
+		{
+			"or": "Players",
+			"tr": "Çынсем"
+		},
+		{
+			"or": "MOTD",
+			"tr": "MOTD"
+		},
+		{
+			"or": "Option",
+			"tr": ""
+		},
+		{
+			"or": "Wait for current vote to end before calling a new one.",
+			"tr": ""
+		},
+		{
+			"or": "You must wait %d seconds before making another vote",
+			"tr": ""
+		},
+		{
+			"or": "Spectators aren't allowed to start a vote.",
+			"tr": "Куракан сасӑну пуҫлама май ҫук"
+		},
+		{
+			"or": "Change settings",
+			"tr": "Йĕркелӳсене урăхлатма"
+		},
+		{
+			"or": "Kick player",
+			"tr": "Вылякана бан"
+		},
+		{
+			"or": "Move player to spectators",
+			"tr": "Пăхакансем çине куçарма"
+		},
+		{
+			"or": "Server does not allow voting to kick players",
+			"tr": ""
+		},
+		{
+			"or": "Kick voting requires %d players on the server",
+			"tr": ""
+		},
+		{
+			"or": "Server does not allow voting to move players to spectators",
+			"tr": ""
+		},
+		{
+			"or": "Reason:",
+			"tr": "Сăлтав:"
+		},
+		{
+			"or": "Call vote",
+			"tr": "Сасăла"
+		},
+		{
+			"or": "Force vote",
+			"tr": "Вăйлăт"
+		},
+		{
+			"or": "Remove",
+			"tr": "Тасат"
+		},
+		{
+			"or": "Vote description:",
+			"tr": "Суйлав пирки:"
+		},
+		{
+			"or": "Vote command:",
+			"tr": "Суйлав хушу:"
+		},
+		{
+			"or": "Add",
+			"tr": "Хуш"
+		},
+		{
+			"or": "Settings",
+			"tr": "Йĕркелӳсем"
+		},
+		{
+			"or": "Shutdown server",
+			"tr": ""
+		},
+		{
+			"or": "Local server",
+			"tr": ""
+		},
+		{
+			"or": "Demos",
+			"tr": "Демосем"
+		},
+		{
+			"or": "Editor",
+			"tr": ""
+		},
+		{
+			"or": "Play",
+			"tr": "Выля"
+		},
+		{
+			"or": "Quit",
+			"tr": "Туху"
+		},
+		{
+			"or": "Teeworlds Archive %s is out! Download it at our github!",
+			"tr": ""
+		},
+		{
+			"or": "Time limit: %d min",
+			"tr": "Вăхăт лимичĕ: %d мин"
+		},
+		{
+			"context": "rounds (scoreboard)",
+			"or": "Match",
+			"tr": "матч"
+		},
+		{
+			"or": "Spectators",
+			"tr": "Пăхакансем"
+		},
+		{
+			"or": "Game over",
+			"tr": "Вăйа вĕçленчĕ"
+		},
+		{
+			"or": "Round over",
+			"tr": ""
+		},
+		{
+			"or": "Map record",
+			"tr": ""
+		},
+		{
+			"or": "Clan",
+			"tr": "Кланĕ"
+		},
+		{
+			"or": "Time",
+			"tr": ""
+		},
+		{
+			"or": "Score",
+			"tr": "Паллă"
+		},
+		{
+			"or": "%d other players",
+			"tr": ""
+		},
+		{
+			"or": "REC %3d:%02d",
+			"tr": "REC %3d:%02d"
+		},
+		{
+			"or": "Red team",
+			"tr": "Хĕрлĕ ушкăн"
+		},
+		{
+			"or": "Blue team",
+			"tr": "Кăвак ушкăн"
+		},
+		{
+			"or": "%s wins!",
+			"tr": "%s çĕнтерчĕ!"
+		},
+		{
+			"or": "Draw!",
+			"tr": "Никам та çĕнтермерĕ!"
+		},
+		{
+			"or": "Round over!",
+			"tr": ""
+		},
+		{
+			"or": "Free-View",
+			"tr": "Ирĕклĕ обзор"
+		},
+		{
+			"or": "Suicides",
+			"tr": ""
+		},
+		{
+			"or": "Ratio",
+			"tr": ""
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": ""
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": ""
+		},
+		{
+			"or": "Best spree",
+			"tr": ""
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": ""
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": ""
+		},
+		{
+			"or": "Vote aborted",
+			"tr": ""
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": "Админ суйланине ҫапла ҫине лартрӗ"
+		},
+		{
+			"or": "Vote passed",
+			"tr": ""
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": "Админ суйсану ҫӳк ҫине лартрӗ"
+		},
+		{
+			"or": "Vote failed",
+			"tr": "Суйлу ватнă"
+		},
+		{
 			"or": "Map changed to '%s'",
 			"tr": ""
 		},
@@ -131,16 +862,8 @@
 			"tr": "Пурте"
 		},
 		{
-			"or": "Spectators",
-			"tr": "Пăхакансем"
-		},
-		{
 			"or": "Team",
 			"tr": "Ушкăн"
-		},
-		{
-			"or": "Chat",
-			"tr": "Калаçу"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -185,10 +908,6 @@
 		{
 			"or": "'%s' was removed as a friend",
 			"tr": ""
-		},
-		{
-			"or": "-Page %d-",
-			"tr": "-Страница %d-"
 		},
 		{
 			"or": "Sudden Death",
@@ -243,10 +962,6 @@
 			"tr": "%d сек."
 		},
 		{
-			"or": "Reason:",
-			"tr": "Сăлтав:"
-		},
-		{
 			"or": "Vote Yes",
 			"tr": ""
 		},
@@ -279,48 +994,12 @@
 			"tr": ""
 		},
 		{
-			"or": "'%s' has set a new map record: %s",
-			"tr": ""
-		},
-		{
-			"or": "'%s' has set a new personal record: %s",
-			"tr": ""
-		},
-		{
-			"or": " (%s seconds faster)",
-			"tr": ""
-		},
-		{
-			"or": "'%s' finished in: %s",
-			"tr": ""
-		},
-		{
 			"or": "Game",
 			"tr": "Вăйă"
 		},
 		{
-			"or": "Players",
-			"tr": "Çынсем"
-		},
-		{
-			"or": "Server info",
-			"tr": "Пĕлтерӳ"
-		},
-		{
-			"or": "Call vote",
-			"tr": "Сасăла"
-		},
-		{
-			"or": "Settings",
-			"tr": "Йĕркелӳсем"
-		},
-		{
 			"or": "General",
 			"tr": "Тĕп"
-		},
-		{
-			"or": "Player",
-			"tr": "Вылякан"
 		},
 		{
 			"or": "TBD",
@@ -347,10 +1026,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Demos",
-			"tr": "Демосем"
-		},
-		{
 			"or": "Back",
 			"tr": "Каялла"
 		},
@@ -361,10 +1036,6 @@
 		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "Аудио ярма пултараймасть"
-		},
-		{
-			"or": "Ok",
-			"tr": "Çапла"
 		},
 		{
 			"or": "Connecting to",
@@ -399,10 +1070,6 @@
 			"tr": "Тĕрĕс мар вăрттăн сăмах"
 		},
 		{
-			"or": "Quit",
-			"tr": "Туху"
-		},
-		{
 			"or": "Welcome to Teeworlds",
 			"tr": "Ырă сунса кĕтетпĕр Teeworlds-ра!"
 		},
@@ -415,20 +1082,8 @@
 			"tr": "Эсир тухасшăн-и?"
 		},
 		{
-			"or": "No",
-			"tr": "Çук"
-		},
-		{
-			"or": "Yes",
-			"tr": "Çапла"
-		},
-		{
 			"or": "Please enter the password.",
 			"tr": ""
-		},
-		{
-			"or": "Password",
-			"tr": "Вăрттăн сăмах"
 		},
 		{
 			"or": "Save password",
@@ -475,14 +1130,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Name",
-			"tr": "Ят"
-		},
-		{
-			"or": "Error",
-			"tr": "Йăнăш"
-		},
-		{
 			"or": "Unable to rename the demo",
 			"tr": "Демо ячĕ улăштарма пулмасть"
 		},
@@ -525,18 +1172,6 @@
 		{
 			"or": "Server",
 			"tr": ""
-		},
-		{
-			"or": "Type",
-			"tr": "Тĕс"
-		},
-		{
-			"or": "Map",
-			"tr": "Карта"
-		},
-		{
-			"or": "Ping",
-			"tr": "Пинг"
 		},
 		{
 			"or": "Race",
@@ -644,10 +1279,6 @@
 			"context": "friends (server browser)",
 			"or": "Offline (%d)",
 			"tr": ""
-		},
-		{
-			"or": "Clan",
-			"tr": "Кланĕ"
 		},
 		{
 			"or": "Add friend/clan",
@@ -771,21 +1402,6 @@
 			"tr": ""
 		},
 		{
-			"context": "Server difficulty",
-			"or": "Casual",
-			"tr": ""
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Normal",
-			"tr": ""
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Competitive",
-			"tr": ""
-		},
-		{
 			"or": "Click to remove the player from your friends.",
 			"tr": ""
 		},
@@ -794,473 +1410,8 @@
 			"tr": ""
 		},
 		{
-			"or": "Scoreboard",
-			"tr": "Паллăсен хăмми"
-		},
-		{
-			"or": "Refresh",
-			"tr": "Каллех вула"
-		},
-		{
 			"or": "Connect",
 			"tr": "Çых"
-		},
-		{
-			"or": "Move left",
-			"tr": "Сулахаялла"
-		},
-		{
-			"or": "Move right",
-			"tr": "Сылтăмалла"
-		},
-		{
-			"or": "Jump",
-			"tr": "Сик"
-		},
-		{
-			"or": "Fire",
-			"tr": "Пĕрӳ"
-		},
-		{
-			"or": "Hook",
-			"tr": "Çекĕл"
-		},
-		{
-			"or": "Hammer",
-			"tr": "Мăлатук"
-		},
-		{
-			"or": "Pistol",
-			"tr": "Пистолет"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "Йĕтре пăшал"
-		},
-		{
-			"or": "Grenade",
-			"tr": "Гранатомёт"
-		},
-		{
-			"or": "Laser",
-			"tr": ""
-		},
-		{
-			"or": "Next weapon",
-			"tr": "Тепĕр хĕç-пăшал"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "Малтанхи хĕç-пăшал"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "Çинчен"
-		},
-		{
-			"or": "Vote no",
-			"tr": "Хирĕç"
-		},
-		{
-			"or": "Team chat",
-			"tr": "Ушкăнри калаçу"
-		},
-		{
-			"or": "Whisper",
-			"tr": ""
-		},
-		{
-			"or": "Show chat",
-			"tr": "Калаçӳ кăтартма"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "Кăмăл-туйăмсем"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "Пăхакан"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "Тепĕрне пăхма"
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "Малтанхине пăхма"
-		},
-		{
-			"or": "Console",
-			"tr": "Консоль"
-		},
-		{
-			"or": "Remote console",
-			"tr": "Сервер консолĕ"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "Экран ӳкерӳ"
-		},
-		{
-			"or": "Statboard",
-			"tr": ""
-		},
-		{
-			"or": "Respawn",
-			"tr": ""
-		},
-		{
-			"or": "Ready",
-			"tr": "Хатер"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": ""
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": ""
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": ""
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": ""
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Enable joystick",
-			"tr": ""
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": ""
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": ""
-		},
-		{
-			"or": "Configure statboard",
-			"tr": ""
-		},
-		{
-			"or": "Device",
-			"tr": ""
-		},
-		{
-			"or": "Status",
-			"tr": ""
-		},
-		{
-			"or": "Aim bind",
-			"tr": ""
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": ""
-		},
-		{
-			"or": "Length",
-			"tr": ""
-		},
-		{
-			"or": "Date",
-			"tr": ""
-		},
-		{
-			"or": "Close",
-			"tr": "Хупма"
-		},
-		{
-			"or": "Demofile: %s",
-			"tr": "Демо: %s"
-		},
-		{
-			"or": "Parent Folder",
-			"tr": "Аслă каталог"
-		},
-		{
-			"or": "Folder",
-			"tr": "Папка"
-		},
-		{
-			"or": "Invalid Demo",
-			"tr": "Тĕрĕс мар демо"
-		},
-		{
-			"or": "Demo details",
-			"tr": "Демо тĕплĕсем"
-		},
-		{
-			"or": "Recorded",
-			"tr": "ҫырнӑ"
-		},
-		{
-			"or": "Delete",
-			"tr": "Шăлса тасатма"
-		},
-		{
-			"or": "Are you sure that you want to delete the demo '%s'?",
-			"tr": ""
-		},
-		{
-			"or": "Delete demo",
-			"tr": "Демо шăлса тасатма"
-		},
-		{
-			"or": "Rename",
-			"tr": "Çĕнĕ ят"
-		},
-		{
-			"or": "Fetch Info",
-			"tr": ""
-		},
-		{
-			"or": "Open",
-			"tr": "Уçма"
-		},
-		{
-			"context": "DemoBrowser",
-			"or": "Play",
-			"tr": "Выля"
-		},
-		{
-			"or": "Unable to delete the demo",
-			"tr": "Демо тĕплеме пултараймасть"
-		},
-		{
-			"or": "Created",
-			"tr": ""
-		},
-		{
-			"or": "Version",
-			"tr": "Версие"
-		},
-		{
-			"or": "Netversion",
-			"tr": ""
-		},
-		{
-			"or": "Markers",
-			"tr": ""
-		},
-		{
-			"or": "%.3f KiB",
-			"tr": "%.3f KiB"
-		},
-		{
-			"or": "Size",
-			"tr": "Пысӑкӑш"
-		},
-		{
-			"or": "Crc",
-			"tr": ""
-		},
-		{
-			"or": "Teams are locked",
-			"tr": ""
-		},
-		{
-			"or": "Only %d active players are allowed",
-			"tr": ""
-		},
-		{
-			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-			"tr": ""
-		},
-		{
-			"or": "Game options",
-			"tr": ""
-		},
-		{
-			"or": "locked",
-			"tr": ""
-		},
-		{
-			"or": "Spectating",
-			"tr": "Пӑхакан"
-		},
-		{
-			"or": "Join red",
-			"tr": "Хĕрлĕсемпе!"
-		},
-		{
-			"or": "Joined red",
-			"tr": ""
-		},
-		{
-			"or": "Join blue",
-			"tr": "Кăваксемпе!"
-		},
-		{
-			"or": "Joined blue",
-			"tr": ""
-		},
-		{
-			"or": "Join",
-			"tr": ""
-		},
-		{
-			"or": "Joined",
-			"tr": ""
-		},
-		{
-			"or": "Disconnect",
-			"tr": "Çыхăну чарма"
-		},
-		{
-			"or": "Stop record",
-			"tr": "Чарма"
-		},
-		{
-			"or": "Record",
-			"tr": ""
-		},
-		{
-			"or": "Player options",
-			"tr": "Опцисем"
-		},
-		{
-			"or": "Address",
-			"tr": "Адрес"
-		},
-		{
-			"context": "With",
-			"or": "Yes",
-			"tr": "Çапла"
-		},
-		{
-			"context": "Without/None",
-			"or": "No",
-			"tr": "Çук"
-		},
-		{
-			"or": "Favorite",
-			"tr": "Суйланни"
-		},
-		{
-			"or": "Mute broadcasts",
-			"tr": ""
-		},
-		{
-			"or": "Game info",
-			"tr": "Вăйă пĕлтерӳ"
-		},
-		{
-			"or": "Game type",
-			"tr": "Вăйăн тĕс"
-		},
-		{
-			"or": "Difficulty",
-			"tr": ""
-		},
-		{
-			"or": "Score limit",
-			"tr": "Паллă лимичĕ"
-		},
-		{
-			"or": "Time limit",
-			"tr": "Вăхăт лимичĕ"
-		},
-		{
-			"or": "MOTD",
-			"tr": "MOTD"
-		},
-		{
-			"or": "Option",
-			"tr": ""
-		},
-		{
-			"or": "Wait for current vote to end before calling a new one.",
-			"tr": ""
-		},
-		{
-			"or": "You must wait %d seconds before making another vote",
-			"tr": ""
-		},
-		{
-			"or": "Spectators aren't allowed to start a vote.",
-			"tr": "Куракан сасӑну пуҫлама май ҫук"
-		},
-		{
-			"or": "Change settings",
-			"tr": "Йĕркелӳсене урăхлатма"
-		},
-		{
-			"or": "Kick player",
-			"tr": "Вылякана бан"
-		},
-		{
-			"or": "Move player to spectators",
-			"tr": "Пăхакансем çине куçарма"
-		},
-		{
-			"or": "Server does not allow voting to kick players",
-			"tr": ""
-		},
-		{
-			"or": "Kick voting requires %d players on the server",
-			"tr": ""
-		},
-		{
-			"or": "Server does not allow voting to move players to spectators",
-			"tr": ""
-		},
-		{
-			"or": "Force vote",
-			"tr": "Вăйлăт"
-		},
-		{
-			"or": "Remove",
-			"tr": "Тасат"
-		},
-		{
-			"or": "Vote description:",
-			"tr": "Суйлав пирки:"
-		},
-		{
-			"or": "Vote command:",
-			"tr": "Суйлав хушу:"
-		},
-		{
-			"or": "Add",
-			"tr": "Хуш"
 		},
 		{
 			"or": "Hue:",
@@ -1284,6 +1435,26 @@
 		},
 		{
 			"or": "Theme",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "(none)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "(automatic)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "%s (day)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "%s (night)",
 			"tr": ""
 		},
 		{
@@ -1486,14 +1657,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Suicides",
-			"tr": ""
-		},
-		{
-			"or": "Ratio",
-			"tr": ""
-		},
-		{
 			"or": "The ratio of kills to deaths.",
 			"tr": ""
 		},
@@ -1511,10 +1674,6 @@
 		},
 		{
 			"or": "Current spree",
-			"tr": ""
-		},
-		{
-			"or": "Best spree",
 			"tr": ""
 		},
 		{
@@ -1666,83 +1825,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Shutdown server",
-			"tr": ""
-		},
-		{
-			"or": "Local server",
-			"tr": ""
-		},
-		{
-			"or": "Editor",
-			"tr": ""
-		},
-		{
-			"or": "Play",
-			"tr": "Выля"
-		},
-		{
-			"or": "Teeworlds Archive %s is out! Download it at our github!",
-			"tr": ""
-		},
-		{
-			"or": "Time limit: %d min",
-			"tr": "Вăхăт лимичĕ: %d мин"
-		},
-		{
-			"context": "rounds (scoreboard)",
-			"or": "Match",
-			"tr": "матч"
-		},
-		{
-			"or": "Game over",
-			"tr": "Вăйа вĕçленчĕ"
-		},
-		{
-			"or": "Round over",
-			"tr": ""
-		},
-		{
-			"or": "Map record",
-			"tr": ""
-		},
-		{
-			"or": "Time",
-			"tr": ""
-		},
-		{
-			"or": "Score",
-			"tr": "Паллă"
-		},
-		{
-			"or": "%d other players",
-			"tr": ""
-		},
-		{
-			"or": "REC %3d:%02d",
-			"tr": "REC %3d:%02d"
-		},
-		{
-			"or": "Red team",
-			"tr": "Хĕрлĕ ушкăн"
-		},
-		{
-			"or": "Blue team",
-			"tr": "Кăвак ушкăн"
-		},
-		{
-			"or": "%s wins!",
-			"tr": "%s çĕнтерчĕ!"
-		},
-		{
-			"or": "Draw!",
-			"tr": "Никам та çĕнтермерĕ!"
-		},
-		{
-			"or": "Round over!",
-			"tr": ""
-		},
-		{
 			"context": "skins",
 			"or": "body",
 			"tr": ""
@@ -1773,66 +1855,8 @@
 			"tr": ""
 		},
 		{
-			"or": "Free-View",
-			"tr": "Ирĕклĕ обзор"
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
+			"or": "Resource '%s': download complete",
 			"tr": ""
-		},
-		{
-			"or": "KPM",
-			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": ""
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": ""
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": ""
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": ""
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": ""
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": ""
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": ""
-		},
-		{
-			"or": "Vote aborted",
-			"tr": ""
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": "Админ суйланине ҫапла ҫине лартрӗ"
-		},
-		{
-			"or": "Vote passed",
-			"tr": ""
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": "Админ суйсану ҫӳк ҫине лартрӗ"
-		},
-		{
-			"or": "Vote failed",
-			"tr": "Суйлу ватнă"
 		}
 	]
 }

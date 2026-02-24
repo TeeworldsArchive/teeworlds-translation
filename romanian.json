@@ -131,6 +131,737 @@
 			"tr": ""
 		},
 		{
+			"or": "-Page %d-",
+			"tr": "-Pagina %d-"
+		},
+		{
+			"or": "'%s' has set a new map record: %s",
+			"tr": ""
+		},
+		{
+			"or": "'%s' has set a new personal record: %s",
+			"tr": ""
+		},
+		{
+			"or": " (%s seconds faster)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' finished in: %s",
+			"tr": ""
+		},
+		{
+			"or": "Move left",
+			"tr": "Mută la stânga"
+		},
+		{
+			"or": "Move right",
+			"tr": "Mută la dreapta"
+		},
+		{
+			"or": "Jump",
+			"tr": "Salt"
+		},
+		{
+			"or": "Fire",
+			"tr": "Foc"
+		},
+		{
+			"or": "Hook",
+			"tr": "Cârlig"
+		},
+		{
+			"or": "Hammer",
+			"tr": "Ciocan"
+		},
+		{
+			"or": "Pistol",
+			"tr": "Pistol"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "Pușcă"
+		},
+		{
+			"or": "Grenade",
+			"tr": "Grenadă"
+		},
+		{
+			"or": "Laser",
+			"tr": "Laser"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "Arma următoare"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "Arma precedentă"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "Votează da"
+		},
+		{
+			"or": "Vote no",
+			"tr": "Votează nu"
+		},
+		{
+			"or": "Chat",
+			"tr": "Chat"
+		},
+		{
+			"or": "Team chat",
+			"tr": "Chat cu echipa"
+		},
+		{
+			"or": "Whisper",
+			"tr": "Șoaptă"
+		},
+		{
+			"or": "Show chat",
+			"tr": "Afișare chat"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "Figurine"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "Mod spectator"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "Vezi următorul"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "Vezi anteriorul"
+		},
+		{
+			"or": "Console",
+			"tr": "Consolă"
+		},
+		{
+			"or": "Remote console",
+			"tr": "Consolă server"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "Captură de ecran"
+		},
+		{
+			"or": "Scoreboard",
+			"tr": "Scoruri"
+		},
+		{
+			"or": "Statboard",
+			"tr": ""
+		},
+		{
+			"or": "Respawn",
+			"tr": "Renaște"
+		},
+		{
+			"or": "Ready",
+			"tr": "Pregătit"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": ""
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": ""
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": ""
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": ""
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Enable joystick",
+			"tr": ""
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": ""
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": ""
+		},
+		{
+			"or": "Configure statboard",
+			"tr": ""
+		},
+		{
+			"or": "Device",
+			"tr": ""
+		},
+		{
+			"or": "Status",
+			"tr": ""
+		},
+		{
+			"or": "Aim bind",
+			"tr": ""
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": ""
+		},
+		{
+			"or": "Name",
+			"tr": "Nume"
+		},
+		{
+			"or": "Length",
+			"tr": "Lungime"
+		},
+		{
+			"or": "Date",
+			"tr": ""
+		},
+		{
+			"or": "Close",
+			"tr": "Închide"
+		},
+		{
+			"or": "Demofile: %s",
+			"tr": "Fișier demonstrație: %s"
+		},
+		{
+			"or": "Parent Folder",
+			"tr": "Dosarul părinte"
+		},
+		{
+			"or": "Folder",
+			"tr": "Dosar"
+		},
+		{
+			"or": "Invalid Demo",
+			"tr": "Demonstrația nu este validă"
+		},
+		{
+			"or": "Demo details",
+			"tr": "Detalii demonstrație"
+		},
+		{
+			"or": "Recorded",
+			"tr": "Înregistrat"
+		},
+		{
+			"or": "Delete",
+			"tr": "Șterge"
+		},
+		{
+			"or": "Are you sure that you want to delete the demo '%s'?",
+			"tr": ""
+		},
+		{
+			"or": "Delete demo",
+			"tr": "Șterge demonstrația"
+		},
+		{
+			"or": "Yes",
+			"tr": "Da"
+		},
+		{
+			"or": "No",
+			"tr": "Nu"
+		},
+		{
+			"or": "Rename",
+			"tr": "Redenumește"
+		},
+		{
+			"or": "Refresh",
+			"tr": "Reîncarcă"
+		},
+		{
+			"or": "Fetch Info",
+			"tr": ""
+		},
+		{
+			"or": "Open",
+			"tr": "Deschide"
+		},
+		{
+			"context": "DemoBrowser",
+			"or": "Play",
+			"tr": "Joacă"
+		},
+		{
+			"or": "Error",
+			"tr": "Eroare"
+		},
+		{
+			"or": "Unable to delete the demo",
+			"tr": "Nu pot șterge demonstrația"
+		},
+		{
+			"or": "Ok",
+			"tr": "Bine"
+		},
+		{
+			"or": "Created",
+			"tr": "Creat"
+		},
+		{
+			"or": "Type",
+			"tr": "Tip"
+		},
+		{
+			"or": "Version",
+			"tr": "Versiune"
+		},
+		{
+			"or": "Netversion",
+			"tr": "Versiune rețea"
+		},
+		{
+			"or": "Markers",
+			"tr": ""
+		},
+		{
+			"or": "Map",
+			"tr": "Hartă"
+		},
+		{
+			"or": "%.3f KiB",
+			"tr": "%.3f KiO"
+		},
+		{
+			"or": "Size",
+			"tr": "Mărime"
+		},
+		{
+			"or": "Crc",
+			"tr": "Crc"
+		},
+		{
+			"or": "Teams are locked",
+			"tr": "Echipele au fost stabilite"
+		},
+		{
+			"or": "Only %d active players are allowed",
+			"tr": "Sunt permiși doar %d jucători activi"
+		},
+		{
+			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
+			"tr": "Echipele sunt stabilite. Timp de așteptare până poți schimba echipa: %02d:%02d"
+		},
+		{
+			"or": "Game options",
+			"tr": ""
+		},
+		{
+			"or": "locked",
+			"tr": "blocat"
+		},
+		{
+			"or": "Spectating",
+			"tr": "Spectator"
+		},
+		{
+			"or": "Join red",
+			"tr": "La roșii"
+		},
+		{
+			"or": "Joined red",
+			"tr": "Te-ai alăturat roșilor"
+		},
+		{
+			"or": "Join blue",
+			"tr": "La albaștri"
+		},
+		{
+			"or": "Joined blue",
+			"tr": "Te-ai alăturat albaștrilor"
+		},
+		{
+			"or": "Join",
+			"tr": "Intră"
+		},
+		{
+			"or": "Joined",
+			"tr": "Intrat"
+		},
+		{
+			"or": "Disconnect",
+			"tr": "Deconectare"
+		},
+		{
+			"or": "Stop record",
+			"tr": "Stop înreg."
+		},
+		{
+			"or": "Record",
+			"tr": "Înregistrează"
+		},
+		{
+			"or": "Player options",
+			"tr": "Opțiuni jucător"
+		},
+		{
+			"or": "Player",
+			"tr": "Jucător"
+		},
+		{
+			"or": "Server info",
+			"tr": "Info. server"
+		},
+		{
+			"or": "Address",
+			"tr": "Adresa"
+		},
+		{
+			"or": "Ping",
+			"tr": "Ping"
+		},
+		{
+			"or": "Password",
+			"tr": "Parolă"
+		},
+		{
+			"context": "With",
+			"or": "Yes",
+			"tr": "Da"
+		},
+		{
+			"context": "Without/None",
+			"or": "No",
+			"tr": "Nu"
+		},
+		{
+			"or": "Favorite",
+			"tr": "Favorit"
+		},
+		{
+			"or": "Mute broadcasts",
+			"tr": ""
+		},
+		{
+			"or": "Game info",
+			"tr": "Informații joc"
+		},
+		{
+			"or": "Game type",
+			"tr": "Tip de joc"
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Casual",
+			"tr": ""
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Normal",
+			"tr": ""
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Competitive",
+			"tr": ""
+		},
+		{
+			"or": "Difficulty",
+			"tr": "Dificultate"
+		},
+		{
+			"or": "Score limit",
+			"tr": "Limita de scor"
+		},
+		{
+			"or": "Time limit",
+			"tr": "Timp limită"
+		},
+		{
+			"or": "Players",
+			"tr": "Jucători"
+		},
+		{
+			"or": "MOTD",
+			"tr": "Mesajul zilei"
+		},
+		{
+			"or": "Option",
+			"tr": ""
+		},
+		{
+			"or": "Wait for current vote to end before calling a new one.",
+			"tr": "Așteaptă finalul votului curent înainte să ceri unul nou."
+		},
+		{
+			"or": "You must wait %d seconds before making another vote",
+			"tr": "Trebuie să aștepți %d secunde înaintă să votezi din nou"
+		},
+		{
+			"or": "Spectators aren't allowed to start a vote.",
+			"tr": "Spectatorii nu au voie să inițieze un vot."
+		},
+		{
+			"or": "Change settings",
+			"tr": "Modifică setările"
+		},
+		{
+			"or": "Kick player",
+			"tr": "Dă afară jucător"
+		},
+		{
+			"or": "Move player to spectators",
+			"tr": "Mută jucătorul la spectatori"
+		},
+		{
+			"or": "Server does not allow voting to kick players",
+			"tr": "Serverul nu permite voturile pentru eliminarea jucătorilor"
+		},
+		{
+			"or": "Kick voting requires %d players on the server",
+			"tr": "Votarea eliminării necesită %d jucători pe server"
+		},
+		{
+			"or": "Server does not allow voting to move players to spectators",
+			"tr": "Serverul nu permite votarea mutării jucătorilor ca spectatori"
+		},
+		{
+			"or": "Reason:",
+			"tr": "Motiv:"
+		},
+		{
+			"or": "Call vote",
+			"tr": "Votează"
+		},
+		{
+			"or": "Force vote",
+			"tr": "Forțează votul"
+		},
+		{
+			"or": "Remove",
+			"tr": "Șterge"
+		},
+		{
+			"or": "Vote description:",
+			"tr": "Descriere vot:"
+		},
+		{
+			"or": "Vote command:",
+			"tr": "Comandă votare:"
+		},
+		{
+			"or": "Add",
+			"tr": "Adaugă"
+		},
+		{
+			"or": "Settings",
+			"tr": "Setări"
+		},
+		{
+			"or": "Shutdown server",
+			"tr": ""
+		},
+		{
+			"or": "Local server",
+			"tr": "Server local"
+		},
+		{
+			"or": "Demos",
+			"tr": "Demonstrații"
+		},
+		{
+			"or": "Editor",
+			"tr": "Editor"
+		},
+		{
+			"or": "Play",
+			"tr": "Joacă"
+		},
+		{
+			"or": "Quit",
+			"tr": "Ieșire"
+		},
+		{
+			"or": "Teeworlds Archive %s is out! Download it at our github!",
+			"tr": ""
+		},
+		{
+			"or": "Time limit: %d min",
+			"tr": "Timp limită : %d min"
+		},
+		{
+			"context": "rounds (scoreboard)",
+			"or": "Match",
+			"tr": "Meci"
+		},
+		{
+			"or": "Spectators",
+			"tr": "Spectatori"
+		},
+		{
+			"or": "Game over",
+			"tr": "Jocul s-a încheiat"
+		},
+		{
+			"or": "Round over",
+			"tr": "Rundă încheiată"
+		},
+		{
+			"or": "Map record",
+			"tr": ""
+		},
+		{
+			"or": "Clan",
+			"tr": "Clanul"
+		},
+		{
+			"or": "Time",
+			"tr": ""
+		},
+		{
+			"or": "Score",
+			"tr": "Scor"
+		},
+		{
+			"or": "%d other players",
+			"tr": ""
+		},
+		{
+			"or": "REC %3d:%02d",
+			"tr": "REC %3d:%02d"
+		},
+		{
+			"or": "Red team",
+			"tr": "Echipa roșie"
+		},
+		{
+			"or": "Blue team",
+			"tr": "Echipa albastră"
+		},
+		{
+			"or": "%s wins!",
+			"tr": "%s câștigă!"
+		},
+		{
+			"or": "Draw!",
+			"tr": "Egalitate!"
+		},
+		{
+			"or": "Round over!",
+			"tr": "Rundă încheiată!"
+		},
+		{
+			"or": "Free-View",
+			"tr": "Vizualizare liberă"
+		},
+		{
+			"or": "Suicides",
+			"tr": ""
+		},
+		{
+			"or": "Ratio",
+			"tr": ""
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": ""
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": ""
+		},
+		{
+			"or": "Best spree",
+			"tr": ""
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": "'%s' cere voturi pentru modificarea opțiunii de server '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": "'%s' cere voturi pentru eliminarea lui '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": "'%s' cere voturi pentru mutarea '%s' la spectatori (%s)"
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": "Administratorul a forțat opțiunea de server '%s' (%s)"
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": "'%s' a fost mutat de admin la spectatori (%s)"
+		},
+		{
+			"or": "Vote aborted",
+			"tr": "Votare abandonată"
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": "Administratorul a forțat votarea cu 'da'"
+		},
+		{
+			"or": "Vote passed",
+			"tr": "Votul a trecut"
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": "Administratorul a forțat votarea cu 'nu'"
+		},
+		{
+			"or": "Vote failed",
+			"tr": "Votul a eșuat"
+		},
+		{
 			"or": "Map changed to '%s'",
 			"tr": ""
 		},
@@ -139,16 +870,8 @@
 			"tr": "Toți"
 		},
 		{
-			"or": "Spectators",
-			"tr": "Spectatori"
-		},
-		{
 			"or": "Team",
 			"tr": "Echipa"
-		},
-		{
-			"or": "Chat",
-			"tr": "Chat"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -193,10 +916,6 @@
 		{
 			"or": "'%s' was removed as a friend",
 			"tr": "'%s' a fost scos din lista de prieteni. "
-		},
-		{
-			"or": "-Page %d-",
-			"tr": "-Pagina %d-"
 		},
 		{
 			"or": "Sudden Death",
@@ -251,10 +970,6 @@
 			"tr": "%ds a ieșit"
 		},
 		{
-			"or": "Reason:",
-			"tr": "Motiv:"
-		},
-		{
 			"or": "Vote Yes",
 			"tr": ""
 		},
@@ -287,48 +1002,12 @@
 			"tr": "Când ești pregătit, apasă <%s>"
 		},
 		{
-			"or": "'%s' has set a new map record: %s",
-			"tr": ""
-		},
-		{
-			"or": "'%s' has set a new personal record: %s",
-			"tr": ""
-		},
-		{
-			"or": " (%s seconds faster)",
-			"tr": ""
-		},
-		{
-			"or": "'%s' finished in: %s",
-			"tr": ""
-		},
-		{
 			"or": "Game",
 			"tr": "Joc"
 		},
 		{
-			"or": "Players",
-			"tr": "Jucători"
-		},
-		{
-			"or": "Server info",
-			"tr": "Info. server"
-		},
-		{
-			"or": "Call vote",
-			"tr": "Votează"
-		},
-		{
-			"or": "Settings",
-			"tr": "Setări"
-		},
-		{
 			"or": "General",
 			"tr": "General"
-		},
-		{
-			"or": "Player",
-			"tr": "Jucător"
 		},
 		{
 			"or": "TBD",
@@ -355,10 +1034,6 @@
 			"tr": "Local"
 		},
 		{
-			"or": "Demos",
-			"tr": "Demonstrații"
-		},
-		{
 			"or": "Back",
 			"tr": "Înapoi"
 		},
@@ -369,10 +1044,6 @@
 		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "Dispozitivul audio nu a putut fi inițializat."
-		},
-		{
-			"or": "Ok",
-			"tr": "Bine"
 		},
 		{
 			"or": "Connecting to",
@@ -407,10 +1078,6 @@
 			"tr": "Parolă incorectă"
 		},
 		{
-			"or": "Quit",
-			"tr": "Ieșire"
-		},
-		{
 			"or": "Welcome to Teeworlds",
 			"tr": "Bun venit în Teeworlds"
 		},
@@ -423,20 +1090,8 @@
 			"tr": "Sigur vrei să ieși?"
 		},
 		{
-			"or": "No",
-			"tr": "Nu"
-		},
-		{
-			"or": "Yes",
-			"tr": "Da"
-		},
-		{
 			"or": "Please enter the password.",
 			"tr": ""
-		},
-		{
-			"or": "Password",
-			"tr": "Parolă"
 		},
 		{
 			"or": "Save password",
@@ -483,14 +1138,6 @@
 			"tr": "Sigur vrei să redenumești demonstrația?"
 		},
 		{
-			"or": "Name",
-			"tr": "Nume"
-		},
-		{
-			"or": "Error",
-			"tr": "Eroare"
-		},
-		{
 			"or": "Unable to rename the demo",
 			"tr": "Nu pot redenumi demonstrația"
 		},
@@ -533,18 +1180,6 @@
 		{
 			"or": "Server",
 			"tr": ""
-		},
-		{
-			"or": "Type",
-			"tr": "Tip"
-		},
-		{
-			"or": "Map",
-			"tr": "Hartă"
-		},
-		{
-			"or": "Ping",
-			"tr": "Ping"
 		},
 		{
 			"or": "Race",
@@ -652,10 +1287,6 @@
 			"context": "friends (server browser)",
 			"or": "Offline (%d)",
 			"tr": ""
-		},
-		{
-			"or": "Clan",
-			"tr": "Clanul"
 		},
 		{
 			"or": "Add friend/clan",
@@ -779,21 +1410,6 @@
 			"tr": ""
 		},
 		{
-			"context": "Server difficulty",
-			"or": "Casual",
-			"tr": ""
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Normal",
-			"tr": ""
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Competitive",
-			"tr": ""
-		},
-		{
 			"or": "Click to remove the player from your friends.",
 			"tr": ""
 		},
@@ -802,473 +1418,8 @@
 			"tr": ""
 		},
 		{
-			"or": "Scoreboard",
-			"tr": "Scoruri"
-		},
-		{
-			"or": "Refresh",
-			"tr": "Reîncarcă"
-		},
-		{
 			"or": "Connect",
 			"tr": "Conectează"
-		},
-		{
-			"or": "Move left",
-			"tr": "Mută la stânga"
-		},
-		{
-			"or": "Move right",
-			"tr": "Mută la dreapta"
-		},
-		{
-			"or": "Jump",
-			"tr": "Salt"
-		},
-		{
-			"or": "Fire",
-			"tr": "Foc"
-		},
-		{
-			"or": "Hook",
-			"tr": "Cârlig"
-		},
-		{
-			"or": "Hammer",
-			"tr": "Ciocan"
-		},
-		{
-			"or": "Pistol",
-			"tr": "Pistol"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "Pușcă"
-		},
-		{
-			"or": "Grenade",
-			"tr": "Grenadă"
-		},
-		{
-			"or": "Laser",
-			"tr": "Laser"
-		},
-		{
-			"or": "Next weapon",
-			"tr": "Arma următoare"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "Arma precedentă"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "Votează da"
-		},
-		{
-			"or": "Vote no",
-			"tr": "Votează nu"
-		},
-		{
-			"or": "Team chat",
-			"tr": "Chat cu echipa"
-		},
-		{
-			"or": "Whisper",
-			"tr": "Șoaptă"
-		},
-		{
-			"or": "Show chat",
-			"tr": "Afișare chat"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "Figurine"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "Mod spectator"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "Vezi următorul"
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "Vezi anteriorul"
-		},
-		{
-			"or": "Console",
-			"tr": "Consolă"
-		},
-		{
-			"or": "Remote console",
-			"tr": "Consolă server"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "Captură de ecran"
-		},
-		{
-			"or": "Statboard",
-			"tr": ""
-		},
-		{
-			"or": "Respawn",
-			"tr": "Renaște"
-		},
-		{
-			"or": "Ready",
-			"tr": "Pregătit"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": ""
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": ""
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": ""
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": ""
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Enable joystick",
-			"tr": ""
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": ""
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": ""
-		},
-		{
-			"or": "Configure statboard",
-			"tr": ""
-		},
-		{
-			"or": "Device",
-			"tr": ""
-		},
-		{
-			"or": "Status",
-			"tr": ""
-		},
-		{
-			"or": "Aim bind",
-			"tr": ""
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": ""
-		},
-		{
-			"or": "Length",
-			"tr": "Lungime"
-		},
-		{
-			"or": "Date",
-			"tr": ""
-		},
-		{
-			"or": "Close",
-			"tr": "Închide"
-		},
-		{
-			"or": "Demofile: %s",
-			"tr": "Fișier demonstrație: %s"
-		},
-		{
-			"or": "Parent Folder",
-			"tr": "Dosarul părinte"
-		},
-		{
-			"or": "Folder",
-			"tr": "Dosar"
-		},
-		{
-			"or": "Invalid Demo",
-			"tr": "Demonstrația nu este validă"
-		},
-		{
-			"or": "Demo details",
-			"tr": "Detalii demonstrație"
-		},
-		{
-			"or": "Recorded",
-			"tr": "Înregistrat"
-		},
-		{
-			"or": "Delete",
-			"tr": "Șterge"
-		},
-		{
-			"or": "Are you sure that you want to delete the demo '%s'?",
-			"tr": ""
-		},
-		{
-			"or": "Delete demo",
-			"tr": "Șterge demonstrația"
-		},
-		{
-			"or": "Rename",
-			"tr": "Redenumește"
-		},
-		{
-			"or": "Fetch Info",
-			"tr": ""
-		},
-		{
-			"or": "Open",
-			"tr": "Deschide"
-		},
-		{
-			"context": "DemoBrowser",
-			"or": "Play",
-			"tr": "Joacă"
-		},
-		{
-			"or": "Unable to delete the demo",
-			"tr": "Nu pot șterge demonstrația"
-		},
-		{
-			"or": "Created",
-			"tr": "Creat"
-		},
-		{
-			"or": "Version",
-			"tr": "Versiune"
-		},
-		{
-			"or": "Netversion",
-			"tr": "Versiune rețea"
-		},
-		{
-			"or": "Markers",
-			"tr": ""
-		},
-		{
-			"or": "%.3f KiB",
-			"tr": "%.3f KiO"
-		},
-		{
-			"or": "Size",
-			"tr": "Mărime"
-		},
-		{
-			"or": "Crc",
-			"tr": "Crc"
-		},
-		{
-			"or": "Teams are locked",
-			"tr": "Echipele au fost stabilite"
-		},
-		{
-			"or": "Only %d active players are allowed",
-			"tr": "Sunt permiși doar %d jucători activi"
-		},
-		{
-			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-			"tr": "Echipele sunt stabilite. Timp de așteptare până poți schimba echipa: %02d:%02d"
-		},
-		{
-			"or": "Game options",
-			"tr": ""
-		},
-		{
-			"or": "locked",
-			"tr": "blocat"
-		},
-		{
-			"or": "Spectating",
-			"tr": "Spectator"
-		},
-		{
-			"or": "Join red",
-			"tr": "La roșii"
-		},
-		{
-			"or": "Joined red",
-			"tr": "Te-ai alăturat roșilor"
-		},
-		{
-			"or": "Join blue",
-			"tr": "La albaștri"
-		},
-		{
-			"or": "Joined blue",
-			"tr": "Te-ai alăturat albaștrilor"
-		},
-		{
-			"or": "Join",
-			"tr": "Intră"
-		},
-		{
-			"or": "Joined",
-			"tr": "Intrat"
-		},
-		{
-			"or": "Disconnect",
-			"tr": "Deconectare"
-		},
-		{
-			"or": "Stop record",
-			"tr": "Stop înreg."
-		},
-		{
-			"or": "Record",
-			"tr": "Înregistrează"
-		},
-		{
-			"or": "Player options",
-			"tr": "Opțiuni jucător"
-		},
-		{
-			"or": "Address",
-			"tr": "Adresa"
-		},
-		{
-			"context": "With",
-			"or": "Yes",
-			"tr": "Da"
-		},
-		{
-			"context": "Without/None",
-			"or": "No",
-			"tr": "Nu"
-		},
-		{
-			"or": "Favorite",
-			"tr": "Favorit"
-		},
-		{
-			"or": "Mute broadcasts",
-			"tr": ""
-		},
-		{
-			"or": "Game info",
-			"tr": "Informații joc"
-		},
-		{
-			"or": "Game type",
-			"tr": "Tip de joc"
-		},
-		{
-			"or": "Difficulty",
-			"tr": "Dificultate"
-		},
-		{
-			"or": "Score limit",
-			"tr": "Limita de scor"
-		},
-		{
-			"or": "Time limit",
-			"tr": "Timp limită"
-		},
-		{
-			"or": "MOTD",
-			"tr": "Mesajul zilei"
-		},
-		{
-			"or": "Option",
-			"tr": ""
-		},
-		{
-			"or": "Wait for current vote to end before calling a new one.",
-			"tr": "Așteaptă finalul votului curent înainte să ceri unul nou."
-		},
-		{
-			"or": "You must wait %d seconds before making another vote",
-			"tr": "Trebuie să aștepți %d secunde înaintă să votezi din nou"
-		},
-		{
-			"or": "Spectators aren't allowed to start a vote.",
-			"tr": "Spectatorii nu au voie să inițieze un vot."
-		},
-		{
-			"or": "Change settings",
-			"tr": "Modifică setările"
-		},
-		{
-			"or": "Kick player",
-			"tr": "Dă afară jucător"
-		},
-		{
-			"or": "Move player to spectators",
-			"tr": "Mută jucătorul la spectatori"
-		},
-		{
-			"or": "Server does not allow voting to kick players",
-			"tr": "Serverul nu permite voturile pentru eliminarea jucătorilor"
-		},
-		{
-			"or": "Kick voting requires %d players on the server",
-			"tr": "Votarea eliminării necesită %d jucători pe server"
-		},
-		{
-			"or": "Server does not allow voting to move players to spectators",
-			"tr": "Serverul nu permite votarea mutării jucătorilor ca spectatori"
-		},
-		{
-			"or": "Force vote",
-			"tr": "Forțează votul"
-		},
-		{
-			"or": "Remove",
-			"tr": "Șterge"
-		},
-		{
-			"or": "Vote description:",
-			"tr": "Descriere vot:"
-		},
-		{
-			"or": "Vote command:",
-			"tr": "Comandă votare:"
-		},
-		{
-			"or": "Add",
-			"tr": "Adaugă"
 		},
 		{
 			"or": "Hue:",
@@ -1293,6 +1444,26 @@
 		{
 			"or": "Theme",
 			"tr": "Temă"
+		},
+		{
+			"context": "Theme",
+			"or": "(none)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "(automatic)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "%s (day)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "%s (night)",
+			"tr": ""
 		},
 		{
 			"or": "Dynamic Camera",
@@ -1494,14 +1665,6 @@
 			"tr": "Morți"
 		},
 		{
-			"or": "Suicides",
-			"tr": ""
-		},
-		{
-			"or": "Ratio",
-			"tr": ""
-		},
-		{
 			"or": "The ratio of kills to deaths.",
 			"tr": ""
 		},
@@ -1519,10 +1682,6 @@
 		},
 		{
 			"or": "Current spree",
-			"tr": ""
-		},
-		{
-			"or": "Best spree",
 			"tr": ""
 		},
 		{
@@ -1674,83 +1833,6 @@
 			"tr": "Trebuie să aștepți %1.0f de secunde pentru a îți schimba indentitatea. "
 		},
 		{
-			"or": "Shutdown server",
-			"tr": ""
-		},
-		{
-			"or": "Local server",
-			"tr": "Server local"
-		},
-		{
-			"or": "Editor",
-			"tr": "Editor"
-		},
-		{
-			"or": "Play",
-			"tr": "Joacă"
-		},
-		{
-			"or": "Teeworlds Archive %s is out! Download it at our github!",
-			"tr": ""
-		},
-		{
-			"or": "Time limit: %d min",
-			"tr": "Timp limită : %d min"
-		},
-		{
-			"context": "rounds (scoreboard)",
-			"or": "Match",
-			"tr": "Meci"
-		},
-		{
-			"or": "Game over",
-			"tr": "Jocul s-a încheiat"
-		},
-		{
-			"or": "Round over",
-			"tr": "Rundă încheiată"
-		},
-		{
-			"or": "Map record",
-			"tr": ""
-		},
-		{
-			"or": "Time",
-			"tr": ""
-		},
-		{
-			"or": "Score",
-			"tr": "Scor"
-		},
-		{
-			"or": "%d other players",
-			"tr": ""
-		},
-		{
-			"or": "REC %3d:%02d",
-			"tr": "REC %3d:%02d"
-		},
-		{
-			"or": "Red team",
-			"tr": "Echipa roșie"
-		},
-		{
-			"or": "Blue team",
-			"tr": "Echipa albastră"
-		},
-		{
-			"or": "%s wins!",
-			"tr": "%s câștigă!"
-		},
-		{
-			"or": "Draw!",
-			"tr": "Egalitate!"
-		},
-		{
-			"or": "Round over!",
-			"tr": "Rundă încheiată!"
-		},
-		{
 			"context": "skins",
 			"or": "body",
 			"tr": "corp"
@@ -1781,66 +1863,8 @@
 			"tr": "ochi"
 		},
 		{
-			"or": "Free-View",
-			"tr": "Vizualizare liberă"
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
+			"or": "Resource '%s': download complete",
 			"tr": ""
-		},
-		{
-			"or": "KPM",
-			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": ""
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": ""
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": "'%s' cere voturi pentru modificarea opțiunii de server '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": "'%s' cere voturi pentru eliminarea lui '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": "'%s' cere voturi pentru mutarea '%s' la spectatori (%s)"
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": "Administratorul a forțat opțiunea de server '%s' (%s)"
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": "'%s' a fost mutat de admin la spectatori (%s)"
-		},
-		{
-			"or": "Vote aborted",
-			"tr": "Votare abandonată"
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": "Administratorul a forțat votarea cu 'da'"
-		},
-		{
-			"or": "Vote passed",
-			"tr": "Votul a trecut"
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": "Administratorul a forțat votarea cu 'nu'"
-		},
-		{
-			"or": "Vote failed",
-			"tr": "Votul a eșuat"
 		}
 	]
 }

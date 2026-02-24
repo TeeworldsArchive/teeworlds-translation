@@ -123,6 +123,737 @@
 			"tr": ""
 		},
 		{
+			"or": "-Page %d-",
+			"tr": "-Stran %d-"
+		},
+		{
+			"or": "'%s' has set a new map record: %s",
+			"tr": ""
+		},
+		{
+			"or": "'%s' has set a new personal record: %s",
+			"tr": ""
+		},
+		{
+			"or": " (%s seconds faster)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' finished in: %s",
+			"tr": ""
+		},
+		{
+			"or": "Move left",
+			"tr": "Na levo"
+		},
+		{
+			"or": "Move right",
+			"tr": "Na desno"
+		},
+		{
+			"or": "Jump",
+			"tr": "Skok"
+		},
+		{
+			"or": "Fire",
+			"tr": "Strel"
+		},
+		{
+			"or": "Hook",
+			"tr": "Kljuka"
+		},
+		{
+			"or": "Hammer",
+			"tr": "Kladivo"
+		},
+		{
+			"or": "Pistol",
+			"tr": "Pištola"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "Puška"
+		},
+		{
+			"or": "Grenade",
+			"tr": "Granata"
+		},
+		{
+			"or": "Laser",
+			"tr": "Laser"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "Naslednje orožje"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "Prejšnje orožje"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "Glasuj za"
+		},
+		{
+			"or": "Vote no",
+			"tr": "Glasuj proti"
+		},
+		{
+			"or": "Chat",
+			"tr": "Klepet"
+		},
+		{
+			"or": "Team chat",
+			"tr": "Klepet ekipe"
+		},
+		{
+			"or": "Whisper",
+			"tr": ""
+		},
+		{
+			"or": "Show chat",
+			"tr": "Pokaži klepet"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "Emotikon"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "Način opazovanja"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "Opazuj naslednji"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "Opazuj prejšnji"
+		},
+		{
+			"or": "Console",
+			"tr": "Konzola"
+		},
+		{
+			"or": "Remote console",
+			"tr": "Oddaljena konzola"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "Posnetek zaslona"
+		},
+		{
+			"or": "Scoreboard",
+			"tr": "Tabela zmagovalcev"
+		},
+		{
+			"or": "Statboard",
+			"tr": ""
+		},
+		{
+			"or": "Respawn",
+			"tr": "Ponovno oživi"
+		},
+		{
+			"or": "Ready",
+			"tr": "Pripravljeni"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": ""
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": ""
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": ""
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": ""
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Enable joystick",
+			"tr": ""
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": ""
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": ""
+		},
+		{
+			"or": "Configure statboard",
+			"tr": ""
+		},
+		{
+			"or": "Device",
+			"tr": ""
+		},
+		{
+			"or": "Status",
+			"tr": ""
+		},
+		{
+			"or": "Aim bind",
+			"tr": ""
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": ""
+		},
+		{
+			"or": "Name",
+			"tr": "Ime"
+		},
+		{
+			"or": "Length",
+			"tr": "Dolžina"
+		},
+		{
+			"or": "Date",
+			"tr": ""
+		},
+		{
+			"or": "Close",
+			"tr": "Zapri"
+		},
+		{
+			"or": "Demofile: %s",
+			"tr": "Demo datoteka: %s"
+		},
+		{
+			"or": "Parent Folder",
+			"tr": "Starševski direktorij"
+		},
+		{
+			"or": "Folder",
+			"tr": "Direktorij"
+		},
+		{
+			"or": "Invalid Demo",
+			"tr": "Neveljaven demo"
+		},
+		{
+			"or": "Demo details",
+			"tr": "Podrobnosti o demih"
+		},
+		{
+			"or": "Recorded",
+			"tr": "Posneto"
+		},
+		{
+			"or": "Delete",
+			"tr": "Izbriši"
+		},
+		{
+			"or": "Are you sure that you want to delete the demo '%s'?",
+			"tr": ""
+		},
+		{
+			"or": "Delete demo",
+			"tr": "Izbriši demo"
+		},
+		{
+			"or": "Yes",
+			"tr": "Da"
+		},
+		{
+			"or": "No",
+			"tr": "Ne"
+		},
+		{
+			"or": "Rename",
+			"tr": "Preimenuj"
+		},
+		{
+			"or": "Refresh",
+			"tr": "Osveži"
+		},
+		{
+			"or": "Fetch Info",
+			"tr": ""
+		},
+		{
+			"or": "Open",
+			"tr": "Odpri "
+		},
+		{
+			"context": "DemoBrowser",
+			"or": "Play",
+			"tr": "Igraj"
+		},
+		{
+			"or": "Error",
+			"tr": "Napaka"
+		},
+		{
+			"or": "Unable to delete the demo",
+			"tr": "Ni bilo možno izbrisati dema"
+		},
+		{
+			"or": "Ok",
+			"tr": "V redu"
+		},
+		{
+			"or": "Created",
+			"tr": "Ustvarjeno"
+		},
+		{
+			"or": "Type",
+			"tr": "Vrsta"
+		},
+		{
+			"or": "Version",
+			"tr": "Različica"
+		},
+		{
+			"or": "Netversion",
+			"tr": "Netrazličica"
+		},
+		{
+			"or": "Markers",
+			"tr": ""
+		},
+		{
+			"or": "Map",
+			"tr": "Mapa"
+		},
+		{
+			"or": "%.3f KiB",
+			"tr": "%.3f KiB"
+		},
+		{
+			"or": "Size",
+			"tr": "Velikost"
+		},
+		{
+			"or": "Crc",
+			"tr": "Kontrola krožne kode"
+		},
+		{
+			"or": "Teams are locked",
+			"tr": "Ekipi sta statični."
+		},
+		{
+			"or": "Only %d active players are allowed",
+			"tr": "Dovoljenih je samo %d aktivnih igralcev"
+		},
+		{
+			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
+			"tr": "Ekipi sta zdaj statični. Če hočete zamenjati ekipo, morate počakati: %02d:%02d"
+		},
+		{
+			"or": "Game options",
+			"tr": ""
+		},
+		{
+			"or": "locked",
+			"tr": "zaklenjene"
+		},
+		{
+			"or": "Spectating",
+			"tr": "Opazujete"
+		},
+		{
+			"or": "Join red",
+			"tr": "Pridruži rdečim"
+		},
+		{
+			"or": "Joined red",
+			"tr": "Pridružen rdečim"
+		},
+		{
+			"or": "Join blue",
+			"tr": "Pridruži se modrim"
+		},
+		{
+			"or": "Joined blue",
+			"tr": "Pridružen modrim"
+		},
+		{
+			"or": "Join",
+			"tr": "Pridruži"
+		},
+		{
+			"or": "Joined",
+			"tr": "Pridruženi"
+		},
+		{
+			"or": "Disconnect",
+			"tr": "Prekini povezavo"
+		},
+		{
+			"or": "Stop record",
+			"tr": "Končaj snemanje"
+		},
+		{
+			"or": "Record",
+			"tr": "Snemaj"
+		},
+		{
+			"or": "Player options",
+			"tr": "Možnosti igralca"
+		},
+		{
+			"or": "Player",
+			"tr": "Igralec"
+		},
+		{
+			"or": "Server info",
+			"tr": "Informacije o strežniku"
+		},
+		{
+			"or": "Address",
+			"tr": "Naslov"
+		},
+		{
+			"or": "Ping",
+			"tr": "Ping"
+		},
+		{
+			"or": "Password",
+			"tr": "Geslo"
+		},
+		{
+			"context": "With",
+			"or": "Yes",
+			"tr": "Da"
+		},
+		{
+			"context": "Without/None",
+			"or": "No",
+			"tr": "Ne"
+		},
+		{
+			"or": "Favorite",
+			"tr": "Priljubljeno"
+		},
+		{
+			"or": "Mute broadcasts",
+			"tr": ""
+		},
+		{
+			"or": "Game info",
+			"tr": "Informacije o igri"
+		},
+		{
+			"or": "Game type",
+			"tr": "Tip igre"
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Casual",
+			"tr": ""
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Normal",
+			"tr": ""
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Competitive",
+			"tr": ""
+		},
+		{
+			"or": "Difficulty",
+			"tr": ""
+		},
+		{
+			"or": "Score limit",
+			"tr": "Omejitev točk"
+		},
+		{
+			"or": "Time limit",
+			"tr": "Omejitev časa"
+		},
+		{
+			"or": "Players",
+			"tr": "Igralci"
+		},
+		{
+			"or": "MOTD",
+			"tr": "Sporočilo dneva"
+		},
+		{
+			"or": "Option",
+			"tr": ""
+		},
+		{
+			"or": "Wait for current vote to end before calling a new one.",
+			"tr": "Počakajte, da se trenutno glasovanje konča, preden začnete novega."
+		},
+		{
+			"or": "You must wait %d seconds before making another vote",
+			"tr": "Počakati morate %d sekund, preden lahko znova glasujete"
+		},
+		{
+			"or": "Spectators aren't allowed to start a vote.",
+			"tr": "Opazovalci ne smejo začeti glasovanja"
+		},
+		{
+			"or": "Change settings",
+			"tr": "Spremeni nastavitve"
+		},
+		{
+			"or": "Kick player",
+			"tr": "Izključi igralca"
+		},
+		{
+			"or": "Move player to spectators",
+			"tr": "Premakni igralca k opazovalcem"
+		},
+		{
+			"or": "Server does not allow voting to kick players",
+			"tr": "Strežnik ne dovoljuje izključevanja igralcev z glasovanjem"
+		},
+		{
+			"or": "Kick voting requires %d players on the server",
+			"tr": "Izključevanje z glasovanjem zahteva %d igralcev na strežniku"
+		},
+		{
+			"or": "Server does not allow voting to move players to spectators",
+			"tr": "Strežnik ne dovoljuje glasovanja za premik igralca med opazovalce"
+		},
+		{
+			"or": "Reason:",
+			"tr": "Razlog:"
+		},
+		{
+			"or": "Call vote",
+			"tr": "Zahtevaj glasovanje"
+		},
+		{
+			"or": "Force vote",
+			"tr": "Vsili glasovanje"
+		},
+		{
+			"or": "Remove",
+			"tr": "Odstrani"
+		},
+		{
+			"or": "Vote description:",
+			"tr": "Opis glasovanja:"
+		},
+		{
+			"or": "Vote command:",
+			"tr": "Ukaz za glasovanje:"
+		},
+		{
+			"or": "Add",
+			"tr": "Dodaj"
+		},
+		{
+			"or": "Settings",
+			"tr": "Nastavitve"
+		},
+		{
+			"or": "Shutdown server",
+			"tr": ""
+		},
+		{
+			"or": "Local server",
+			"tr": "Lokalni strežnik"
+		},
+		{
+			"or": "Demos",
+			"tr": "Demi"
+		},
+		{
+			"or": "Editor",
+			"tr": "Urejevalnik"
+		},
+		{
+			"or": "Play",
+			"tr": "Igraj"
+		},
+		{
+			"or": "Quit",
+			"tr": "Izhod"
+		},
+		{
+			"or": "Teeworlds Archive %s is out! Download it at our github!",
+			"tr": ""
+		},
+		{
+			"or": "Time limit: %d min",
+			"tr": "Časovna meja: %d minut"
+		},
+		{
+			"context": "rounds (scoreboard)",
+			"or": "Match",
+			"tr": "Boj"
+		},
+		{
+			"or": "Spectators",
+			"tr": "Opazovalci"
+		},
+		{
+			"or": "Game over",
+			"tr": "Konec igre"
+		},
+		{
+			"or": "Round over",
+			"tr": "Kroga je konec"
+		},
+		{
+			"or": "Map record",
+			"tr": ""
+		},
+		{
+			"or": "Clan",
+			"tr": "Klan"
+		},
+		{
+			"or": "Time",
+			"tr": ""
+		},
+		{
+			"or": "Score",
+			"tr": "Točke"
+		},
+		{
+			"or": "%d other players",
+			"tr": ""
+		},
+		{
+			"or": "REC %3d:%02d",
+			"tr": "REC %3d:%02d"
+		},
+		{
+			"or": "Red team",
+			"tr": "Rdeči"
+		},
+		{
+			"or": "Blue team",
+			"tr": "Modri"
+		},
+		{
+			"or": "%s wins!",
+			"tr": "%s zmagajo!"
+		},
+		{
+			"or": "Draw!",
+			"tr": "Potegnite!"
+		},
+		{
+			"or": "Round over!",
+			"tr": "Kroga je konec!"
+		},
+		{
+			"or": "Free-View",
+			"tr": "Prost pogled"
+		},
+		{
+			"or": "Suicides",
+			"tr": ""
+		},
+		{
+			"or": "Ratio",
+			"tr": ""
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": ""
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": ""
+		},
+		{
+			"or": "Best spree",
+			"tr": ""
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": "'%s' je dal na glasovanje spremembo strežniške nastavitve '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": "'%s' glasuje za izključitev '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": "'%s' je glasoval za premik '%s' k opazovalcem (%s)"
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": "Admin je vsilil strežniško nastavitev '%s' (%s)"
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": "Admin je premaknil '%s' med opazovalce (%s)"
+		},
+		{
+			"or": "Vote aborted",
+			"tr": "Glasovanje opuščeno"
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": "Admin je vsilil glas 'za'"
+		},
+		{
+			"or": "Vote passed",
+			"tr": "Glasovanje je uspelo"
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": "Admin je vsili glas 'proti'"
+		},
+		{
+			"or": "Vote failed",
+			"tr": "Glasovanje ni uspelo"
+		},
+		{
 			"or": "Map changed to '%s'",
 			"tr": ""
 		},
@@ -131,16 +862,8 @@
 			"tr": "Vse"
 		},
 		{
-			"or": "Spectators",
-			"tr": "Opazovalci"
-		},
-		{
 			"or": "Team",
 			"tr": "Ekipa"
-		},
-		{
-			"or": "Chat",
-			"tr": "Klepet"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -185,10 +908,6 @@
 		{
 			"or": "'%s' was removed as a friend",
 			"tr": ""
-		},
-		{
-			"or": "-Page %d-",
-			"tr": "-Stran %d-"
 		},
 		{
 			"or": "Sudden Death",
@@ -243,10 +962,6 @@
 			"tr": "Še %d sekund"
 		},
 		{
-			"or": "Reason:",
-			"tr": "Razlog:"
-		},
-		{
 			"or": "Vote Yes",
 			"tr": ""
 		},
@@ -279,48 +994,12 @@
 			"tr": ""
 		},
 		{
-			"or": "'%s' has set a new map record: %s",
-			"tr": ""
-		},
-		{
-			"or": "'%s' has set a new personal record: %s",
-			"tr": ""
-		},
-		{
-			"or": " (%s seconds faster)",
-			"tr": ""
-		},
-		{
-			"or": "'%s' finished in: %s",
-			"tr": ""
-		},
-		{
 			"or": "Game",
 			"tr": "Igra"
 		},
 		{
-			"or": "Players",
-			"tr": "Igralci"
-		},
-		{
-			"or": "Server info",
-			"tr": "Informacije o strežniku"
-		},
-		{
-			"or": "Call vote",
-			"tr": "Zahtevaj glasovanje"
-		},
-		{
-			"or": "Settings",
-			"tr": "Nastavitve"
-		},
-		{
 			"or": "General",
 			"tr": "Glavno"
-		},
-		{
-			"or": "Player",
-			"tr": "Igralec"
 		},
 		{
 			"or": "TBD",
@@ -347,10 +1026,6 @@
 			"tr": "Lokalno"
 		},
 		{
-			"or": "Demos",
-			"tr": "Demi"
-		},
-		{
 			"or": "Back",
 			"tr": "Nazaj"
 		},
@@ -361,10 +1036,6 @@
 		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "Zvočne naprave ni bilo mogoče vključiti."
-		},
-		{
-			"or": "Ok",
-			"tr": "V redu"
 		},
 		{
 			"or": "Connecting to",
@@ -399,10 +1070,6 @@
 			"tr": "Geslo ni pravilno"
 		},
 		{
-			"or": "Quit",
-			"tr": "Izhod"
-		},
-		{
 			"or": "Welcome to Teeworlds",
 			"tr": "Dobrodošli v Teeworlds"
 		},
@@ -415,20 +1082,8 @@
 			"tr": "Res hočete zapustiti igro?"
 		},
 		{
-			"or": "No",
-			"tr": "Ne"
-		},
-		{
-			"or": "Yes",
-			"tr": "Da"
-		},
-		{
 			"or": "Please enter the password.",
 			"tr": ""
-		},
-		{
-			"or": "Password",
-			"tr": "Geslo"
 		},
 		{
 			"or": "Save password",
@@ -475,14 +1130,6 @@
 			"tr": "Res hočete preimenovati demo?"
 		},
 		{
-			"or": "Name",
-			"tr": "Ime"
-		},
-		{
-			"or": "Error",
-			"tr": "Napaka"
-		},
-		{
 			"or": "Unable to rename the demo",
 			"tr": "Ni bilo možno odstraniti dema"
 		},
@@ -525,18 +1172,6 @@
 		{
 			"or": "Server",
 			"tr": ""
-		},
-		{
-			"or": "Type",
-			"tr": "Vrsta"
-		},
-		{
-			"or": "Map",
-			"tr": "Mapa"
-		},
-		{
-			"or": "Ping",
-			"tr": "Ping"
 		},
 		{
 			"or": "Race",
@@ -644,10 +1279,6 @@
 			"context": "friends (server browser)",
 			"or": "Offline (%d)",
 			"tr": ""
-		},
-		{
-			"or": "Clan",
-			"tr": "Klan"
 		},
 		{
 			"or": "Add friend/clan",
@@ -771,21 +1402,6 @@
 			"tr": ""
 		},
 		{
-			"context": "Server difficulty",
-			"or": "Casual",
-			"tr": ""
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Normal",
-			"tr": ""
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Competitive",
-			"tr": ""
-		},
-		{
 			"or": "Click to remove the player from your friends.",
 			"tr": ""
 		},
@@ -794,473 +1410,8 @@
 			"tr": ""
 		},
 		{
-			"or": "Scoreboard",
-			"tr": "Tabela zmagovalcev"
-		},
-		{
-			"or": "Refresh",
-			"tr": "Osveži"
-		},
-		{
 			"or": "Connect",
 			"tr": "Poveži"
-		},
-		{
-			"or": "Move left",
-			"tr": "Na levo"
-		},
-		{
-			"or": "Move right",
-			"tr": "Na desno"
-		},
-		{
-			"or": "Jump",
-			"tr": "Skok"
-		},
-		{
-			"or": "Fire",
-			"tr": "Strel"
-		},
-		{
-			"or": "Hook",
-			"tr": "Kljuka"
-		},
-		{
-			"or": "Hammer",
-			"tr": "Kladivo"
-		},
-		{
-			"or": "Pistol",
-			"tr": "Pištola"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "Puška"
-		},
-		{
-			"or": "Grenade",
-			"tr": "Granata"
-		},
-		{
-			"or": "Laser",
-			"tr": "Laser"
-		},
-		{
-			"or": "Next weapon",
-			"tr": "Naslednje orožje"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "Prejšnje orožje"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "Glasuj za"
-		},
-		{
-			"or": "Vote no",
-			"tr": "Glasuj proti"
-		},
-		{
-			"or": "Team chat",
-			"tr": "Klepet ekipe"
-		},
-		{
-			"or": "Whisper",
-			"tr": ""
-		},
-		{
-			"or": "Show chat",
-			"tr": "Pokaži klepet"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "Emotikon"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "Način opazovanja"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "Opazuj naslednji"
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "Opazuj prejšnji"
-		},
-		{
-			"or": "Console",
-			"tr": "Konzola"
-		},
-		{
-			"or": "Remote console",
-			"tr": "Oddaljena konzola"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "Posnetek zaslona"
-		},
-		{
-			"or": "Statboard",
-			"tr": ""
-		},
-		{
-			"or": "Respawn",
-			"tr": "Ponovno oživi"
-		},
-		{
-			"or": "Ready",
-			"tr": "Pripravljeni"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": ""
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": ""
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": ""
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": ""
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Enable joystick",
-			"tr": ""
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": ""
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": ""
-		},
-		{
-			"or": "Configure statboard",
-			"tr": ""
-		},
-		{
-			"or": "Device",
-			"tr": ""
-		},
-		{
-			"or": "Status",
-			"tr": ""
-		},
-		{
-			"or": "Aim bind",
-			"tr": ""
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": ""
-		},
-		{
-			"or": "Length",
-			"tr": "Dolžina"
-		},
-		{
-			"or": "Date",
-			"tr": ""
-		},
-		{
-			"or": "Close",
-			"tr": "Zapri"
-		},
-		{
-			"or": "Demofile: %s",
-			"tr": "Demo datoteka: %s"
-		},
-		{
-			"or": "Parent Folder",
-			"tr": "Starševski direktorij"
-		},
-		{
-			"or": "Folder",
-			"tr": "Direktorij"
-		},
-		{
-			"or": "Invalid Demo",
-			"tr": "Neveljaven demo"
-		},
-		{
-			"or": "Demo details",
-			"tr": "Podrobnosti o demih"
-		},
-		{
-			"or": "Recorded",
-			"tr": "Posneto"
-		},
-		{
-			"or": "Delete",
-			"tr": "Izbriši"
-		},
-		{
-			"or": "Are you sure that you want to delete the demo '%s'?",
-			"tr": ""
-		},
-		{
-			"or": "Delete demo",
-			"tr": "Izbriši demo"
-		},
-		{
-			"or": "Rename",
-			"tr": "Preimenuj"
-		},
-		{
-			"or": "Fetch Info",
-			"tr": ""
-		},
-		{
-			"or": "Open",
-			"tr": "Odpri "
-		},
-		{
-			"context": "DemoBrowser",
-			"or": "Play",
-			"tr": "Igraj"
-		},
-		{
-			"or": "Unable to delete the demo",
-			"tr": "Ni bilo možno izbrisati dema"
-		},
-		{
-			"or": "Created",
-			"tr": "Ustvarjeno"
-		},
-		{
-			"or": "Version",
-			"tr": "Različica"
-		},
-		{
-			"or": "Netversion",
-			"tr": "Netrazličica"
-		},
-		{
-			"or": "Markers",
-			"tr": ""
-		},
-		{
-			"or": "%.3f KiB",
-			"tr": "%.3f KiB"
-		},
-		{
-			"or": "Size",
-			"tr": "Velikost"
-		},
-		{
-			"or": "Crc",
-			"tr": "Kontrola krožne kode"
-		},
-		{
-			"or": "Teams are locked",
-			"tr": "Ekipi sta statični."
-		},
-		{
-			"or": "Only %d active players are allowed",
-			"tr": "Dovoljenih je samo %d aktivnih igralcev"
-		},
-		{
-			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-			"tr": "Ekipi sta zdaj statični. Če hočete zamenjati ekipo, morate počakati: %02d:%02d"
-		},
-		{
-			"or": "Game options",
-			"tr": ""
-		},
-		{
-			"or": "locked",
-			"tr": "zaklenjene"
-		},
-		{
-			"or": "Spectating",
-			"tr": "Opazujete"
-		},
-		{
-			"or": "Join red",
-			"tr": "Pridruži rdečim"
-		},
-		{
-			"or": "Joined red",
-			"tr": "Pridružen rdečim"
-		},
-		{
-			"or": "Join blue",
-			"tr": "Pridruži se modrim"
-		},
-		{
-			"or": "Joined blue",
-			"tr": "Pridružen modrim"
-		},
-		{
-			"or": "Join",
-			"tr": "Pridruži"
-		},
-		{
-			"or": "Joined",
-			"tr": "Pridruženi"
-		},
-		{
-			"or": "Disconnect",
-			"tr": "Prekini povezavo"
-		},
-		{
-			"or": "Stop record",
-			"tr": "Končaj snemanje"
-		},
-		{
-			"or": "Record",
-			"tr": "Snemaj"
-		},
-		{
-			"or": "Player options",
-			"tr": "Možnosti igralca"
-		},
-		{
-			"or": "Address",
-			"tr": "Naslov"
-		},
-		{
-			"context": "With",
-			"or": "Yes",
-			"tr": "Da"
-		},
-		{
-			"context": "Without/None",
-			"or": "No",
-			"tr": "Ne"
-		},
-		{
-			"or": "Favorite",
-			"tr": "Priljubljeno"
-		},
-		{
-			"or": "Mute broadcasts",
-			"tr": ""
-		},
-		{
-			"or": "Game info",
-			"tr": "Informacije o igri"
-		},
-		{
-			"or": "Game type",
-			"tr": "Tip igre"
-		},
-		{
-			"or": "Difficulty",
-			"tr": ""
-		},
-		{
-			"or": "Score limit",
-			"tr": "Omejitev točk"
-		},
-		{
-			"or": "Time limit",
-			"tr": "Omejitev časa"
-		},
-		{
-			"or": "MOTD",
-			"tr": "Sporočilo dneva"
-		},
-		{
-			"or": "Option",
-			"tr": ""
-		},
-		{
-			"or": "Wait for current vote to end before calling a new one.",
-			"tr": "Počakajte, da se trenutno glasovanje konča, preden začnete novega."
-		},
-		{
-			"or": "You must wait %d seconds before making another vote",
-			"tr": "Počakati morate %d sekund, preden lahko znova glasujete"
-		},
-		{
-			"or": "Spectators aren't allowed to start a vote.",
-			"tr": "Opazovalci ne smejo začeti glasovanja"
-		},
-		{
-			"or": "Change settings",
-			"tr": "Spremeni nastavitve"
-		},
-		{
-			"or": "Kick player",
-			"tr": "Izključi igralca"
-		},
-		{
-			"or": "Move player to spectators",
-			"tr": "Premakni igralca k opazovalcem"
-		},
-		{
-			"or": "Server does not allow voting to kick players",
-			"tr": "Strežnik ne dovoljuje izključevanja igralcev z glasovanjem"
-		},
-		{
-			"or": "Kick voting requires %d players on the server",
-			"tr": "Izključevanje z glasovanjem zahteva %d igralcev na strežniku"
-		},
-		{
-			"or": "Server does not allow voting to move players to spectators",
-			"tr": "Strežnik ne dovoljuje glasovanja za premik igralca med opazovalce"
-		},
-		{
-			"or": "Force vote",
-			"tr": "Vsili glasovanje"
-		},
-		{
-			"or": "Remove",
-			"tr": "Odstrani"
-		},
-		{
-			"or": "Vote description:",
-			"tr": "Opis glasovanja:"
-		},
-		{
-			"or": "Vote command:",
-			"tr": "Ukaz za glasovanje:"
-		},
-		{
-			"or": "Add",
-			"tr": "Dodaj"
 		},
 		{
 			"or": "Hue:",
@@ -1284,6 +1435,26 @@
 		},
 		{
 			"or": "Theme",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "(none)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "(automatic)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "%s (day)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "%s (night)",
 			"tr": ""
 		},
 		{
@@ -1486,14 +1657,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Suicides",
-			"tr": ""
-		},
-		{
-			"or": "Ratio",
-			"tr": ""
-		},
-		{
 			"or": "The ratio of kills to deaths.",
 			"tr": ""
 		},
@@ -1511,10 +1674,6 @@
 		},
 		{
 			"or": "Current spree",
-			"tr": ""
-		},
-		{
-			"or": "Best spree",
 			"tr": ""
 		},
 		{
@@ -1666,83 +1825,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Shutdown server",
-			"tr": ""
-		},
-		{
-			"or": "Local server",
-			"tr": "Lokalni strežnik"
-		},
-		{
-			"or": "Editor",
-			"tr": "Urejevalnik"
-		},
-		{
-			"or": "Play",
-			"tr": "Igraj"
-		},
-		{
-			"or": "Teeworlds Archive %s is out! Download it at our github!",
-			"tr": ""
-		},
-		{
-			"or": "Time limit: %d min",
-			"tr": "Časovna meja: %d minut"
-		},
-		{
-			"context": "rounds (scoreboard)",
-			"or": "Match",
-			"tr": "Boj"
-		},
-		{
-			"or": "Game over",
-			"tr": "Konec igre"
-		},
-		{
-			"or": "Round over",
-			"tr": "Kroga je konec"
-		},
-		{
-			"or": "Map record",
-			"tr": ""
-		},
-		{
-			"or": "Time",
-			"tr": ""
-		},
-		{
-			"or": "Score",
-			"tr": "Točke"
-		},
-		{
-			"or": "%d other players",
-			"tr": ""
-		},
-		{
-			"or": "REC %3d:%02d",
-			"tr": "REC %3d:%02d"
-		},
-		{
-			"or": "Red team",
-			"tr": "Rdeči"
-		},
-		{
-			"or": "Blue team",
-			"tr": "Modri"
-		},
-		{
-			"or": "%s wins!",
-			"tr": "%s zmagajo!"
-		},
-		{
-			"or": "Draw!",
-			"tr": "Potegnite!"
-		},
-		{
-			"or": "Round over!",
-			"tr": "Kroga je konec!"
-		},
-		{
 			"context": "skins",
 			"or": "body",
 			"tr": ""
@@ -1773,66 +1855,8 @@
 			"tr": ""
 		},
 		{
-			"or": "Free-View",
-			"tr": "Prost pogled"
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
+			"or": "Resource '%s': download complete",
 			"tr": ""
-		},
-		{
-			"or": "KPM",
-			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": ""
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": ""
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": "'%s' je dal na glasovanje spremembo strežniške nastavitve '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": "'%s' glasuje za izključitev '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": "'%s' je glasoval za premik '%s' k opazovalcem (%s)"
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": "Admin je vsilil strežniško nastavitev '%s' (%s)"
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": "Admin je premaknil '%s' med opazovalce (%s)"
-		},
-		{
-			"or": "Vote aborted",
-			"tr": "Glasovanje opuščeno"
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": "Admin je vsilil glas 'za'"
-		},
-		{
-			"or": "Vote passed",
-			"tr": "Glasovanje je uspelo"
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": "Admin je vsili glas 'proti'"
-		},
-		{
-			"or": "Vote failed",
-			"tr": "Glasovanje ni uspelo"
 		}
 	]
 }

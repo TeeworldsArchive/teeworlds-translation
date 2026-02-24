@@ -130,6 +130,737 @@
 			"tr": "klawisza nie znaleziono"
 		},
 		{
+			"or": "-Page %d-",
+			"tr": "-Strona %d-"
+		},
+		{
+			"or": "'%s' has set a new map record: %s",
+			"tr": "'%s' ustanowił nowy rekord mapy: %s"
+		},
+		{
+			"or": "'%s' has set a new personal record: %s",
+			"tr": "'%s' ustanowił nowy rekord osobisty: %s"
+		},
+		{
+			"or": " (%s seconds faster)",
+			"tr": "(%s sekund szybszy)"
+		},
+		{
+			"or": "'%s' finished in: %s",
+			"tr": "'%s' ukończył w: %s"
+		},
+		{
+			"or": "Move left",
+			"tr": "W lewo"
+		},
+		{
+			"or": "Move right",
+			"tr": "W prawo"
+		},
+		{
+			"or": "Jump",
+			"tr": "Skok"
+		},
+		{
+			"or": "Fire",
+			"tr": "Strzał"
+		},
+		{
+			"or": "Hook",
+			"tr": "Hak"
+		},
+		{
+			"or": "Hammer",
+			"tr": "Młotek"
+		},
+		{
+			"or": "Pistol",
+			"tr": "Pistolet"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "Strzelba"
+		},
+		{
+			"or": "Grenade",
+			"tr": "Granatnik"
+		},
+		{
+			"or": "Laser",
+			"tr": "Laser"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "Następna broń"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "Poprzednia broń"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "Głosuj na tak"
+		},
+		{
+			"or": "Vote no",
+			"tr": "Zagłosuj na nie"
+		},
+		{
+			"or": "Chat",
+			"tr": "Czat"
+		},
+		{
+			"or": "Team chat",
+			"tr": "Czat drużynowy"
+		},
+		{
+			"or": "Whisper",
+			"tr": "Szept"
+		},
+		{
+			"or": "Show chat",
+			"tr": "Pokaż czat"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "Emotikony"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "Tryb obserwatora"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "Obserwuj kolejnego"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "Obserwuj poprzedniego"
+		},
+		{
+			"or": "Console",
+			"tr": "Konsola"
+		},
+		{
+			"or": "Remote console",
+			"tr": "Zdalna konsola"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "Zrzut ekranu"
+		},
+		{
+			"or": "Scoreboard",
+			"tr": "Tablica punktów"
+		},
+		{
+			"or": "Statboard",
+			"tr": "Statboard"
+		},
+		{
+			"or": "Respawn",
+			"tr": "Odrodzenie"
+		},
+		{
+			"or": "Ready",
+			"tr": "Gotowy"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": "Dodaj znacznik powtórki"
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": "Przełącz dzwięki"
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": "Przełącz dynamiczną kamerę"
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": "Użyj przyspieszenia myszy w systemie operacyjnym"
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": "Czułość myszy w menu"
+		},
+		{
+			"or": "Enable joystick",
+			"tr": "Włącz joystick"
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": "Tolerancja drgań joysticka"
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": "Nie znaleziono joysticka. Podłącz joystick oraz zrestartuj grę."
+		},
+		{
+			"or": "Configure statboard",
+			"tr": "Skonfiguruj statboard"
+		},
+		{
+			"or": "Device",
+			"tr": "Urządzenie"
+		},
+		{
+			"or": "Status",
+			"tr": "Status"
+		},
+		{
+			"or": "Aim bind",
+			"tr": "Aim bind"
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": "Oś joysticka #%d"
+		},
+		{
+			"or": "Name",
+			"tr": "Nazwa"
+		},
+		{
+			"or": "Length",
+			"tr": "Długość"
+		},
+		{
+			"or": "Date",
+			"tr": ""
+		},
+		{
+			"or": "Close",
+			"tr": "Zamknij"
+		},
+		{
+			"or": "Demofile: %s",
+			"tr": "Plik powtórki: %s"
+		},
+		{
+			"or": "Parent Folder",
+			"tr": "Nadrzędny folder"
+		},
+		{
+			"or": "Folder",
+			"tr": "Folder"
+		},
+		{
+			"or": "Invalid Demo",
+			"tr": "Nieprawidłowa powtórka"
+		},
+		{
+			"or": "Demo details",
+			"tr": "Szczegóły powtórki"
+		},
+		{
+			"or": "Recorded",
+			"tr": "Nagrane"
+		},
+		{
+			"or": "Delete",
+			"tr": "Usuń"
+		},
+		{
+			"or": "Are you sure that you want to delete the demo '%s'?",
+			"tr": ""
+		},
+		{
+			"or": "Delete demo",
+			"tr": "Usuń powtórke"
+		},
+		{
+			"or": "Yes",
+			"tr": "Tak"
+		},
+		{
+			"or": "No",
+			"tr": "Nie"
+		},
+		{
+			"or": "Rename",
+			"tr": "Zmień nazwę"
+		},
+		{
+			"or": "Refresh",
+			"tr": "Odśwież "
+		},
+		{
+			"or": "Fetch Info",
+			"tr": ""
+		},
+		{
+			"or": "Open",
+			"tr": "Otwórz"
+		},
+		{
+			"context": "DemoBrowser",
+			"or": "Play",
+			"tr": "Graj "
+		},
+		{
+			"or": "Error",
+			"tr": "Błąd"
+		},
+		{
+			"or": "Unable to delete the demo",
+			"tr": "Niemożna usunąć powtórki"
+		},
+		{
+			"or": "Ok",
+			"tr": "Ok"
+		},
+		{
+			"or": "Created",
+			"tr": "Stworzony"
+		},
+		{
+			"or": "Type",
+			"tr": "Typ"
+		},
+		{
+			"or": "Version",
+			"tr": "Wersja"
+		},
+		{
+			"or": "Netversion",
+			"tr": "Netversion"
+		},
+		{
+			"or": "Markers",
+			"tr": "Znaczniki"
+		},
+		{
+			"or": "Map",
+			"tr": "Mapa"
+		},
+		{
+			"or": "%.3f KiB",
+			"tr": "%.3f KiB"
+		},
+		{
+			"or": "Size",
+			"tr": "Rozmiar "
+		},
+		{
+			"or": "Crc",
+			"tr": "Suma kontrolna (Crc)"
+		},
+		{
+			"or": "Teams are locked",
+			"tr": "Drużyny są zablokowane"
+		},
+		{
+			"or": "Only %d active players are allowed",
+			"tr": "Dozwolonych jest tylko %d aktywnych graczy"
+		},
+		{
+			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
+			"tr": "Drużyny są zablokowane. Czas oczekiwania do zmiany drużyny: %02d:%02d"
+		},
+		{
+			"or": "Game options",
+			"tr": "Opcje gry"
+		},
+		{
+			"or": "locked",
+			"tr": "zablokowane"
+		},
+		{
+			"or": "Spectating",
+			"tr": "Obserwowanie"
+		},
+		{
+			"or": "Join red",
+			"tr": "Czerwoni"
+		},
+		{
+			"or": "Joined red",
+			"tr": "Czerwoni"
+		},
+		{
+			"or": "Join blue",
+			"tr": "Niebiescy"
+		},
+		{
+			"or": "Joined blue",
+			"tr": "Niebiescy"
+		},
+		{
+			"or": "Join",
+			"tr": "Dołącz"
+		},
+		{
+			"or": "Joined",
+			"tr": "Dołączył"
+		},
+		{
+			"or": "Disconnect",
+			"tr": "Rozłącz"
+		},
+		{
+			"or": "Stop record",
+			"tr": "Zakończ nagrywanie"
+		},
+		{
+			"or": "Record",
+			"tr": "Nagrywaj"
+		},
+		{
+			"or": "Player options",
+			"tr": "Opcje Gracza"
+		},
+		{
+			"or": "Player",
+			"tr": "Gracz"
+		},
+		{
+			"or": "Server info",
+			"tr": "Informacje o serwerze"
+		},
+		{
+			"or": "Address",
+			"tr": "Adres"
+		},
+		{
+			"or": "Ping",
+			"tr": "Ping"
+		},
+		{
+			"or": "Password",
+			"tr": "Hasło"
+		},
+		{
+			"context": "With",
+			"or": "Yes",
+			"tr": "Posiada"
+		},
+		{
+			"context": "Without/None",
+			"or": "No",
+			"tr": "Nie posiada"
+		},
+		{
+			"or": "Favorite",
+			"tr": "Ulubione"
+		},
+		{
+			"or": "Mute broadcasts",
+			"tr": "Wyłącz transmisje"
+		},
+		{
+			"or": "Game info",
+			"tr": "Informacje o grze"
+		},
+		{
+			"or": "Game type",
+			"tr": "Rodzaj gry"
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Casual",
+			"tr": "Casual"
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Normal",
+			"tr": "Standardowy"
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Competitive",
+			"tr": "Kompetetywny"
+		},
+		{
+			"or": "Difficulty",
+			"tr": "Trudność"
+		},
+		{
+			"or": "Score limit",
+			"tr": "Limit punktów"
+		},
+		{
+			"or": "Time limit",
+			"tr": "Limit czasu"
+		},
+		{
+			"or": "Players",
+			"tr": "Gracze"
+		},
+		{
+			"or": "MOTD",
+			"tr": "Wiadomość dnia"
+		},
+		{
+			"or": "Option",
+			"tr": "Opcja"
+		},
+		{
+			"or": "Wait for current vote to end before calling a new one.",
+			"tr": "Poczekaj aż skończy się obecne głosowanie zanim rozpoczniesz nowe."
+		},
+		{
+			"or": "You must wait %d seconds before making another vote",
+			"tr": "Musisz poczekać %d sekund zanim rozpoczniesz następne głosowanie"
+		},
+		{
+			"or": "Spectators aren't allowed to start a vote.",
+			"tr": "Obserwatorzy nie mogą głosować"
+		},
+		{
+			"or": "Change settings",
+			"tr": "Zmień ustawienia"
+		},
+		{
+			"or": "Kick player",
+			"tr": "Wyrzuć gracza"
+		},
+		{
+			"or": "Move player to spectators",
+			"tr": "Przesuń gracza do obserwatorów"
+		},
+		{
+			"or": "Server does not allow voting to kick players",
+			"tr": "Serwer nie pozwala na wyrzucanie graczy"
+		},
+		{
+			"or": "Kick voting requires %d players on the server",
+			"tr": "Opcja wyrzucanie wymaga %d graczy na serwerze "
+		},
+		{
+			"or": "Server does not allow voting to move players to spectators",
+			"tr": "Serwer nie pozwala przenosić graczy do obserwatorów poprzez głosowanie"
+		},
+		{
+			"or": "Reason:",
+			"tr": "Powód: "
+		},
+		{
+			"or": "Call vote",
+			"tr": "Głosuj"
+		},
+		{
+			"or": "Force vote",
+			"tr": "Wymuś wynik"
+		},
+		{
+			"or": "Remove",
+			"tr": "Usuń"
+		},
+		{
+			"or": "Vote description:",
+			"tr": "Opis głosowania:"
+		},
+		{
+			"or": "Vote command:",
+			"tr": "Komenda głosowania: "
+		},
+		{
+			"or": "Add",
+			"tr": "Dodaj"
+		},
+		{
+			"or": "Settings",
+			"tr": "Ustawienia"
+		},
+		{
+			"or": "Shutdown server",
+			"tr": ""
+		},
+		{
+			"or": "Local server",
+			"tr": "Serwer lokalny"
+		},
+		{
+			"or": "Demos",
+			"tr": "Powtórki"
+		},
+		{
+			"or": "Editor",
+			"tr": "Edytor"
+		},
+		{
+			"or": "Play",
+			"tr": "Graj "
+		},
+		{
+			"or": "Quit",
+			"tr": "Wyjdz"
+		},
+		{
+			"or": "Teeworlds Archive %s is out! Download it at our github!",
+			"tr": ""
+		},
+		{
+			"or": "Time limit: %d min",
+			"tr": "Limit czasu: %d min"
+		},
+		{
+			"context": "rounds (scoreboard)",
+			"or": "Match",
+			"tr": "Mecz"
+		},
+		{
+			"or": "Spectators",
+			"tr": "Obserwatorzy"
+		},
+		{
+			"or": "Game over",
+			"tr": "Koniec gry"
+		},
+		{
+			"or": "Round over",
+			"tr": "Koniec rundy"
+		},
+		{
+			"or": "Map record",
+			"tr": "Rekord mapy"
+		},
+		{
+			"or": "Clan",
+			"tr": "Klan"
+		},
+		{
+			"or": "Time",
+			"tr": "Czas"
+		},
+		{
+			"or": "Score",
+			"tr": "Punkty"
+		},
+		{
+			"or": "%d other players",
+			"tr": "%d innych graczy"
+		},
+		{
+			"or": "REC %3d:%02d",
+			"tr": "REC %3d:%02d"
+		},
+		{
+			"or": "Red team",
+			"tr": "Czerwona drużyna"
+		},
+		{
+			"or": "Blue team",
+			"tr": "Niebieska drużyna"
+		},
+		{
+			"or": "%s wins!",
+			"tr": "%s wygrali!"
+		},
+		{
+			"or": "Draw!",
+			"tr": "Remis!"
+		},
+		{
+			"or": "Round over!",
+			"tr": "Koniec rundy!"
+		},
+		{
+			"or": "Free-View",
+			"tr": "Wolna kamera"
+		},
+		{
+			"or": "Suicides",
+			"tr": "Samobójstwa"
+		},
+		{
+			"or": "Ratio",
+			"tr": "Stosunek"
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": "Net"
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": "Seria"
+		},
+		{
+			"or": "Best spree",
+			"tr": "Najlepsza seria"
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": "Przechwycenia"
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": "'%s' głosuje by zmienić opcje serwera '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": "'%s' wywołał głosowanie aby wyrzucić '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": "'%s' zagłosował by przenieść '%s' do obserwatorów (%s)"
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": "Admin zmienił opcje serwera '%s' (%s)"
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": "Admin przeniósł '%s' do obserwatorów (%s)"
+		},
+		{
+			"or": "Vote aborted",
+			"tr": "Głosowanie anulowane"
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": "Admin wymusił głos na tak"
+		},
+		{
+			"or": "Vote passed",
+			"tr": "Głosowanie się powiodło"
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": "Admin wymusił głos na nie"
+		},
+		{
+			"or": "Vote failed",
+			"tr": "Głosowanie się nie udało"
+		},
+		{
 			"or": "Map changed to '%s'",
 			"tr": "Mapa zmieniona na '%s'"
 		},
@@ -138,16 +869,8 @@
 			"tr": "Wszyscy"
 		},
 		{
-			"or": "Spectators",
-			"tr": "Obserwatorzy"
-		},
-		{
 			"or": "Team",
 			"tr": "Drużyna"
-		},
-		{
-			"or": "Chat",
-			"tr": "Czat"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -192,10 +915,6 @@
 		{
 			"or": "'%s' was removed as a friend",
 			"tr": "'%s' został usunięty ze znajomych"
-		},
-		{
-			"or": "-Page %d-",
-			"tr": "-Strona %d-"
 		},
 		{
 			"or": "Sudden Death",
@@ -250,10 +969,6 @@
 			"tr": "%d sekund do końca"
 		},
 		{
-			"or": "Reason:",
-			"tr": "Powód: "
-		},
-		{
 			"or": "Vote Yes",
 			"tr": ""
 		},
@@ -286,48 +1001,12 @@
 			"tr": "Wciśnij <%s>, kiedy gotowy"
 		},
 		{
-			"or": "'%s' has set a new map record: %s",
-			"tr": "'%s' ustanowił nowy rekord mapy: %s"
-		},
-		{
-			"or": "'%s' has set a new personal record: %s",
-			"tr": "'%s' ustanowił nowy rekord osobisty: %s"
-		},
-		{
-			"or": " (%s seconds faster)",
-			"tr": "(%s sekund szybszy)"
-		},
-		{
-			"or": "'%s' finished in: %s",
-			"tr": "'%s' ukończył w: %s"
-		},
-		{
 			"or": "Game",
 			"tr": "Gra"
 		},
 		{
-			"or": "Players",
-			"tr": "Gracze"
-		},
-		{
-			"or": "Server info",
-			"tr": "Informacje o serwerze"
-		},
-		{
-			"or": "Call vote",
-			"tr": "Głosuj"
-		},
-		{
-			"or": "Settings",
-			"tr": "Ustawienia"
-		},
-		{
 			"or": "General",
 			"tr": "Ogólne"
-		},
-		{
-			"or": "Player",
-			"tr": "Gracz"
 		},
 		{
 			"or": "TBD",
@@ -354,10 +1033,6 @@
 			"tr": "Lokalne"
 		},
 		{
-			"or": "Demos",
-			"tr": "Powtórki"
-		},
-		{
 			"or": "Back",
 			"tr": "Wróć"
 		},
@@ -368,10 +1043,6 @@
 		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "Nie można odnaleźć urządzenia audio"
-		},
-		{
-			"or": "Ok",
-			"tr": "Ok"
 		},
 		{
 			"or": "Connecting to",
@@ -406,10 +1077,6 @@
 			"tr": "Niepoprawne hasło"
 		},
 		{
-			"or": "Quit",
-			"tr": "Wyjdz"
-		},
-		{
 			"or": "Welcome to Teeworlds",
 			"tr": "Witaj w Teeworlds"
 		},
@@ -422,20 +1089,8 @@
 			"tr": "Jesteś pewny, że chcesz wyjść?"
 		},
 		{
-			"or": "No",
-			"tr": "Nie"
-		},
-		{
-			"or": "Yes",
-			"tr": "Tak"
-		},
-		{
 			"or": "Please enter the password.",
 			"tr": ""
-		},
-		{
-			"or": "Password",
-			"tr": "Hasło"
 		},
 		{
 			"or": "Save password",
@@ -482,14 +1137,6 @@
 			"tr": "Jesteś pewny że chcesz zmienić nazwę powtórki?"
 		},
 		{
-			"or": "Name",
-			"tr": "Nazwa"
-		},
-		{
-			"or": "Error",
-			"tr": "Błąd"
-		},
-		{
 			"or": "Unable to rename the demo",
 			"tr": "Niemożna zmienić nazwy powtórki"
 		},
@@ -532,18 +1179,6 @@
 		{
 			"or": "Server",
 			"tr": "Serwer"
-		},
-		{
-			"or": "Type",
-			"tr": "Typ"
-		},
-		{
-			"or": "Map",
-			"tr": "Mapa"
-		},
-		{
-			"or": "Ping",
-			"tr": "Ping"
 		},
 		{
 			"or": "Race",
@@ -651,10 +1286,6 @@
 			"context": "friends (server browser)",
 			"or": "Offline (%d)",
 			"tr": "Niedostępnych (%d)"
-		},
-		{
-			"or": "Clan",
-			"tr": "Klan"
 		},
 		{
 			"or": "Add friend/clan",
@@ -778,21 +1409,6 @@
 			"tr": "Wersja:"
 		},
 		{
-			"context": "Server difficulty",
-			"or": "Casual",
-			"tr": "Casual"
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Normal",
-			"tr": "Standardowy"
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Competitive",
-			"tr": "Kompetetywny"
-		},
-		{
 			"or": "Click to remove the player from your friends.",
 			"tr": ""
 		},
@@ -801,473 +1417,8 @@
 			"tr": ""
 		},
 		{
-			"or": "Scoreboard",
-			"tr": "Tablica punktów"
-		},
-		{
-			"or": "Refresh",
-			"tr": "Odśwież "
-		},
-		{
 			"or": "Connect",
 			"tr": "Połącz"
-		},
-		{
-			"or": "Move left",
-			"tr": "W lewo"
-		},
-		{
-			"or": "Move right",
-			"tr": "W prawo"
-		},
-		{
-			"or": "Jump",
-			"tr": "Skok"
-		},
-		{
-			"or": "Fire",
-			"tr": "Strzał"
-		},
-		{
-			"or": "Hook",
-			"tr": "Hak"
-		},
-		{
-			"or": "Hammer",
-			"tr": "Młotek"
-		},
-		{
-			"or": "Pistol",
-			"tr": "Pistolet"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "Strzelba"
-		},
-		{
-			"or": "Grenade",
-			"tr": "Granatnik"
-		},
-		{
-			"or": "Laser",
-			"tr": "Laser"
-		},
-		{
-			"or": "Next weapon",
-			"tr": "Następna broń"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "Poprzednia broń"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "Głosuj na tak"
-		},
-		{
-			"or": "Vote no",
-			"tr": "Zagłosuj na nie"
-		},
-		{
-			"or": "Team chat",
-			"tr": "Czat drużynowy"
-		},
-		{
-			"or": "Whisper",
-			"tr": "Szept"
-		},
-		{
-			"or": "Show chat",
-			"tr": "Pokaż czat"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "Emotikony"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "Tryb obserwatora"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "Obserwuj kolejnego"
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "Obserwuj poprzedniego"
-		},
-		{
-			"or": "Console",
-			"tr": "Konsola"
-		},
-		{
-			"or": "Remote console",
-			"tr": "Zdalna konsola"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "Zrzut ekranu"
-		},
-		{
-			"or": "Statboard",
-			"tr": "Statboard"
-		},
-		{
-			"or": "Respawn",
-			"tr": "Odrodzenie"
-		},
-		{
-			"or": "Ready",
-			"tr": "Gotowy"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": "Dodaj znacznik powtórki"
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": "Przełącz dzwięki"
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": "Przełącz dynamiczną kamerę"
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": "Użyj przyspieszenia myszy w systemie operacyjnym"
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": "Czułość myszy w menu"
-		},
-		{
-			"or": "Enable joystick",
-			"tr": "Włącz joystick"
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": "Tolerancja drgań joysticka"
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": "Nie znaleziono joysticka. Podłącz joystick oraz zrestartuj grę."
-		},
-		{
-			"or": "Configure statboard",
-			"tr": "Skonfiguruj statboard"
-		},
-		{
-			"or": "Device",
-			"tr": "Urządzenie"
-		},
-		{
-			"or": "Status",
-			"tr": "Status"
-		},
-		{
-			"or": "Aim bind",
-			"tr": "Aim bind"
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": "Oś joysticka #%d"
-		},
-		{
-			"or": "Length",
-			"tr": "Długość"
-		},
-		{
-			"or": "Date",
-			"tr": ""
-		},
-		{
-			"or": "Close",
-			"tr": "Zamknij"
-		},
-		{
-			"or": "Demofile: %s",
-			"tr": "Plik powtórki: %s"
-		},
-		{
-			"or": "Parent Folder",
-			"tr": "Nadrzędny folder"
-		},
-		{
-			"or": "Folder",
-			"tr": "Folder"
-		},
-		{
-			"or": "Invalid Demo",
-			"tr": "Nieprawidłowa powtórka"
-		},
-		{
-			"or": "Demo details",
-			"tr": "Szczegóły powtórki"
-		},
-		{
-			"or": "Recorded",
-			"tr": "Nagrane"
-		},
-		{
-			"or": "Delete",
-			"tr": "Usuń"
-		},
-		{
-			"or": "Are you sure that you want to delete the demo '%s'?",
-			"tr": ""
-		},
-		{
-			"or": "Delete demo",
-			"tr": "Usuń powtórke"
-		},
-		{
-			"or": "Rename",
-			"tr": "Zmień nazwę"
-		},
-		{
-			"or": "Fetch Info",
-			"tr": ""
-		},
-		{
-			"or": "Open",
-			"tr": "Otwórz"
-		},
-		{
-			"context": "DemoBrowser",
-			"or": "Play",
-			"tr": "Graj "
-		},
-		{
-			"or": "Unable to delete the demo",
-			"tr": "Niemożna usunąć powtórki"
-		},
-		{
-			"or": "Created",
-			"tr": "Stworzony"
-		},
-		{
-			"or": "Version",
-			"tr": "Wersja"
-		},
-		{
-			"or": "Netversion",
-			"tr": "Netversion"
-		},
-		{
-			"or": "Markers",
-			"tr": "Znaczniki"
-		},
-		{
-			"or": "%.3f KiB",
-			"tr": "%.3f KiB"
-		},
-		{
-			"or": "Size",
-			"tr": "Rozmiar "
-		},
-		{
-			"or": "Crc",
-			"tr": "Suma kontrolna (Crc)"
-		},
-		{
-			"or": "Teams are locked",
-			"tr": "Drużyny są zablokowane"
-		},
-		{
-			"or": "Only %d active players are allowed",
-			"tr": "Dozwolonych jest tylko %d aktywnych graczy"
-		},
-		{
-			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-			"tr": "Drużyny są zablokowane. Czas oczekiwania do zmiany drużyny: %02d:%02d"
-		},
-		{
-			"or": "Game options",
-			"tr": "Opcje gry"
-		},
-		{
-			"or": "locked",
-			"tr": "zablokowane"
-		},
-		{
-			"or": "Spectating",
-			"tr": "Obserwowanie"
-		},
-		{
-			"or": "Join red",
-			"tr": "Czerwoni"
-		},
-		{
-			"or": "Joined red",
-			"tr": "Czerwoni"
-		},
-		{
-			"or": "Join blue",
-			"tr": "Niebiescy"
-		},
-		{
-			"or": "Joined blue",
-			"tr": "Niebiescy"
-		},
-		{
-			"or": "Join",
-			"tr": "Dołącz"
-		},
-		{
-			"or": "Joined",
-			"tr": "Dołączył"
-		},
-		{
-			"or": "Disconnect",
-			"tr": "Rozłącz"
-		},
-		{
-			"or": "Stop record",
-			"tr": "Zakończ nagrywanie"
-		},
-		{
-			"or": "Record",
-			"tr": "Nagrywaj"
-		},
-		{
-			"or": "Player options",
-			"tr": "Opcje Gracza"
-		},
-		{
-			"or": "Address",
-			"tr": "Adres"
-		},
-		{
-			"context": "With",
-			"or": "Yes",
-			"tr": "Posiada"
-		},
-		{
-			"context": "Without/None",
-			"or": "No",
-			"tr": "Nie posiada"
-		},
-		{
-			"or": "Favorite",
-			"tr": "Ulubione"
-		},
-		{
-			"or": "Mute broadcasts",
-			"tr": "Wyłącz transmisje"
-		},
-		{
-			"or": "Game info",
-			"tr": "Informacje o grze"
-		},
-		{
-			"or": "Game type",
-			"tr": "Rodzaj gry"
-		},
-		{
-			"or": "Difficulty",
-			"tr": "Trudność"
-		},
-		{
-			"or": "Score limit",
-			"tr": "Limit punktów"
-		},
-		{
-			"or": "Time limit",
-			"tr": "Limit czasu"
-		},
-		{
-			"or": "MOTD",
-			"tr": "Wiadomość dnia"
-		},
-		{
-			"or": "Option",
-			"tr": "Opcja"
-		},
-		{
-			"or": "Wait for current vote to end before calling a new one.",
-			"tr": "Poczekaj aż skończy się obecne głosowanie zanim rozpoczniesz nowe."
-		},
-		{
-			"or": "You must wait %d seconds before making another vote",
-			"tr": "Musisz poczekać %d sekund zanim rozpoczniesz następne głosowanie"
-		},
-		{
-			"or": "Spectators aren't allowed to start a vote.",
-			"tr": "Obserwatorzy nie mogą głosować"
-		},
-		{
-			"or": "Change settings",
-			"tr": "Zmień ustawienia"
-		},
-		{
-			"or": "Kick player",
-			"tr": "Wyrzuć gracza"
-		},
-		{
-			"or": "Move player to spectators",
-			"tr": "Przesuń gracza do obserwatorów"
-		},
-		{
-			"or": "Server does not allow voting to kick players",
-			"tr": "Serwer nie pozwala na wyrzucanie graczy"
-		},
-		{
-			"or": "Kick voting requires %d players on the server",
-			"tr": "Opcja wyrzucanie wymaga %d graczy na serwerze "
-		},
-		{
-			"or": "Server does not allow voting to move players to spectators",
-			"tr": "Serwer nie pozwala przenosić graczy do obserwatorów poprzez głosowanie"
-		},
-		{
-			"or": "Force vote",
-			"tr": "Wymuś wynik"
-		},
-		{
-			"or": "Remove",
-			"tr": "Usuń"
-		},
-		{
-			"or": "Vote description:",
-			"tr": "Opis głosowania:"
-		},
-		{
-			"or": "Vote command:",
-			"tr": "Komenda głosowania: "
-		},
-		{
-			"or": "Add",
-			"tr": "Dodaj"
 		},
 		{
 			"or": "Hue:",
@@ -1292,6 +1443,26 @@
 		{
 			"or": "Theme",
 			"tr": "Motyw"
+		},
+		{
+			"context": "Theme",
+			"or": "(none)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "(automatic)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "%s (day)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "%s (night)",
+			"tr": ""
 		},
 		{
 			"or": "Dynamic Camera",
@@ -1493,14 +1664,6 @@
 			"tr": "Śmierci"
 		},
 		{
-			"or": "Suicides",
-			"tr": "Samobójstwa"
-		},
-		{
-			"or": "Ratio",
-			"tr": "Stosunek"
-		},
-		{
 			"or": "The ratio of kills to deaths.",
 			"tr": ""
 		},
@@ -1519,10 +1682,6 @@
 		{
 			"or": "Current spree",
 			"tr": "Aktualna seria"
-		},
-		{
-			"or": "Best spree",
-			"tr": "Najlepsza seria"
 		},
 		{
 			"or": "Weapons stats",
@@ -1673,83 +1832,6 @@
 			"tr": "Musisz poczekać %1.0f sekund aby zmienić tożsamość."
 		},
 		{
-			"or": "Shutdown server",
-			"tr": ""
-		},
-		{
-			"or": "Local server",
-			"tr": "Serwer lokalny"
-		},
-		{
-			"or": "Editor",
-			"tr": "Edytor"
-		},
-		{
-			"or": "Play",
-			"tr": "Graj "
-		},
-		{
-			"or": "Teeworlds Archive %s is out! Download it at our github!",
-			"tr": ""
-		},
-		{
-			"or": "Time limit: %d min",
-			"tr": "Limit czasu: %d min"
-		},
-		{
-			"context": "rounds (scoreboard)",
-			"or": "Match",
-			"tr": "Mecz"
-		},
-		{
-			"or": "Game over",
-			"tr": "Koniec gry"
-		},
-		{
-			"or": "Round over",
-			"tr": "Koniec rundy"
-		},
-		{
-			"or": "Map record",
-			"tr": "Rekord mapy"
-		},
-		{
-			"or": "Time",
-			"tr": "Czas"
-		},
-		{
-			"or": "Score",
-			"tr": "Punkty"
-		},
-		{
-			"or": "%d other players",
-			"tr": "%d innych graczy"
-		},
-		{
-			"or": "REC %3d:%02d",
-			"tr": "REC %3d:%02d"
-		},
-		{
-			"or": "Red team",
-			"tr": "Czerwona drużyna"
-		},
-		{
-			"or": "Blue team",
-			"tr": "Niebieska drużyna"
-		},
-		{
-			"or": "%s wins!",
-			"tr": "%s wygrali!"
-		},
-		{
-			"or": "Draw!",
-			"tr": "Remis!"
-		},
-		{
-			"or": "Round over!",
-			"tr": "Koniec rundy!"
-		},
-		{
 			"context": "skins",
 			"or": "body",
 			"tr": "ciało"
@@ -1780,66 +1862,8 @@
 			"tr": "oczy"
 		},
 		{
-			"or": "Free-View",
-			"tr": "Wolna kamera"
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
-			"tr": "Net"
-		},
-		{
-			"or": "KPM",
+			"or": "Resource '%s': download complete",
 			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": "Seria"
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": "Przechwycenia"
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": "'%s' głosuje by zmienić opcje serwera '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": "'%s' wywołał głosowanie aby wyrzucić '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": "'%s' zagłosował by przenieść '%s' do obserwatorów (%s)"
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": "Admin zmienił opcje serwera '%s' (%s)"
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": "Admin przeniósł '%s' do obserwatorów (%s)"
-		},
-		{
-			"or": "Vote aborted",
-			"tr": "Głosowanie anulowane"
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": "Admin wymusił głos na tak"
-		},
-		{
-			"or": "Vote passed",
-			"tr": "Głosowanie się powiodło"
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": "Admin wymusił głos na nie"
-		},
-		{
-			"or": "Vote failed",
-			"tr": "Głosowanie się nie udało"
 		}
 	]
 }

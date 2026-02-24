@@ -127,6 +127,737 @@
 			"tr": ""
 		},
 		{
+			"or": "-Page %d-",
+			"tr": "-Side %d-"
+		},
+		{
+			"or": "'%s' has set a new map record: %s",
+			"tr": ""
+		},
+		{
+			"or": "'%s' has set a new personal record: %s",
+			"tr": ""
+		},
+		{
+			"or": " (%s seconds faster)",
+			"tr": " (%s sekunder raskere)"
+		},
+		{
+			"or": "'%s' finished in: %s",
+			"tr": "'%s' fullførte på %s"
+		},
+		{
+			"or": "Move left",
+			"tr": "Beveg til venstre"
+		},
+		{
+			"or": "Move right",
+			"tr": "Beveg til høyre"
+		},
+		{
+			"or": "Jump",
+			"tr": "Hopp"
+		},
+		{
+			"or": "Fire",
+			"tr": "Skyte"
+		},
+		{
+			"or": "Hook",
+			"tr": "Gripe tang"
+		},
+		{
+			"or": "Hammer",
+			"tr": "Hammer"
+		},
+		{
+			"or": "Pistol",
+			"tr": "Pistol"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "Shotgun"
+		},
+		{
+			"or": "Grenade",
+			"tr": "Granat"
+		},
+		{
+			"or": "Laser",
+			"tr": "Laser"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "Neste Våpen"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "Forrige våpen"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "Stem ja"
+		},
+		{
+			"or": "Vote no",
+			"tr": "Stem nei"
+		},
+		{
+			"or": "Chat",
+			"tr": "Chat"
+		},
+		{
+			"or": "Team chat",
+			"tr": "Lagchat"
+		},
+		{
+			"or": "Whisper",
+			"tr": "Hviske"
+		},
+		{
+			"or": "Show chat",
+			"tr": "Vis chat"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "Uttrykksikoner"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "Tilskuermodus"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "Se på neste"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "Se på forrige"
+		},
+		{
+			"or": "Console",
+			"tr": "Konsoll"
+		},
+		{
+			"or": "Remote console",
+			"tr": "Server konsoll"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "Skjermbilde"
+		},
+		{
+			"or": "Scoreboard",
+			"tr": "Poengliste"
+		},
+		{
+			"or": "Statboard",
+			"tr": "Statistikkvindu"
+		},
+		{
+			"or": "Respawn",
+			"tr": "Respawn"
+		},
+		{
+			"or": "Ready",
+			"tr": "Klar"
+		},
+		{
+			"or": "Add demo marker",
+			"tr": "Legg til markering"
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": "Lyd av/på"
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": "Dynamisk kamera av/på"
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": "Bruk OS'ets musakselerasjon"
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": "Musesensitivitet i menyer"
+		},
+		{
+			"or": "Enable joystick",
+			"tr": "Aktiver joystick"
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": "Joystick jitter-toleranse"
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": "Ingen joystick funnet. Koble til en joystick og restart spillet."
+		},
+		{
+			"or": "Configure statboard",
+			"tr": "Konfigurer statistikkvindu"
+		},
+		{
+			"or": "Device",
+			"tr": "Enhet"
+		},
+		{
+			"or": "Status",
+			"tr": "Status"
+		},
+		{
+			"or": "Aim bind",
+			"tr": "Aim bind"
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": "Joystick Akse #%d"
+		},
+		{
+			"or": "Name",
+			"tr": "Navn"
+		},
+		{
+			"or": "Length",
+			"tr": "Lengde"
+		},
+		{
+			"or": "Date",
+			"tr": ""
+		},
+		{
+			"or": "Close",
+			"tr": "Lukk"
+		},
+		{
+			"or": "Demofile: %s",
+			"tr": "Demofil: %s"
+		},
+		{
+			"or": "Parent Folder",
+			"tr": "Overordnet Mappe"
+		},
+		{
+			"or": "Folder",
+			"tr": "Mappe"
+		},
+		{
+			"or": "Invalid Demo",
+			"tr": "Ugyldig Demo"
+		},
+		{
+			"or": "Demo details",
+			"tr": "Demo detaljer"
+		},
+		{
+			"or": "Recorded",
+			"tr": "Innspilt"
+		},
+		{
+			"or": "Delete",
+			"tr": "Slett"
+		},
+		{
+			"or": "Are you sure that you want to delete the demo '%s'?",
+			"tr": ""
+		},
+		{
+			"or": "Delete demo",
+			"tr": "Slett demo"
+		},
+		{
+			"or": "Yes",
+			"tr": "Ja"
+		},
+		{
+			"or": "No",
+			"tr": "Nei"
+		},
+		{
+			"or": "Rename",
+			"tr": "Gi nytt navn"
+		},
+		{
+			"or": "Refresh",
+			"tr": "Oppdater"
+		},
+		{
+			"or": "Fetch Info",
+			"tr": ""
+		},
+		{
+			"or": "Open",
+			"tr": "Åpne"
+		},
+		{
+			"context": "DemoBrowser",
+			"or": "Play",
+			"tr": "Spill"
+		},
+		{
+			"or": "Error",
+			"tr": "Error"
+		},
+		{
+			"or": "Unable to delete the demo",
+			"tr": "Kunne ikke slette demoen"
+		},
+		{
+			"or": "Ok",
+			"tr": "Ok"
+		},
+		{
+			"or": "Created",
+			"tr": "Opprettet"
+		},
+		{
+			"or": "Type",
+			"tr": "Type"
+		},
+		{
+			"or": "Version",
+			"tr": "Versjon"
+		},
+		{
+			"or": "Netversion",
+			"tr": "Nettversjon"
+		},
+		{
+			"or": "Markers",
+			"tr": "Markeringer"
+		},
+		{
+			"or": "Map",
+			"tr": "Bane"
+		},
+		{
+			"or": "%.3f KiB",
+			"tr": "%.3f KiB"
+		},
+		{
+			"or": "Size",
+			"tr": "Størrelse"
+		},
+		{
+			"or": "Crc",
+			"tr": "Crc"
+		},
+		{
+			"or": "Teams are locked",
+			"tr": "Lagene er låst"
+		},
+		{
+			"or": "Only %d active players are allowed",
+			"tr": "Kun %d aktive spillere er tillatt"
+		},
+		{
+			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
+			"tr": "Lagene er låst. Tid å vente før du bytter lag: %02d:%02d"
+		},
+		{
+			"or": "Game options",
+			"tr": "Spill innstillinger"
+		},
+		{
+			"or": "locked",
+			"tr": "låst"
+		},
+		{
+			"or": "Spectating",
+			"tr": "Ser på"
+		},
+		{
+			"or": "Join red",
+			"tr": "Bli med rødt"
+		},
+		{
+			"or": "Joined red",
+			"tr": "Ble med rødt"
+		},
+		{
+			"or": "Join blue",
+			"tr": "Bli med blått"
+		},
+		{
+			"or": "Joined blue",
+			"tr": "Ble med blått"
+		},
+		{
+			"or": "Join",
+			"tr": "Bli med"
+		},
+		{
+			"or": "Joined",
+			"tr": "Ble med"
+		},
+		{
+			"or": "Disconnect",
+			"tr": "Koble fra"
+		},
+		{
+			"or": "Stop record",
+			"tr": "Stopp opptak"
+		},
+		{
+			"or": "Record",
+			"tr": "Record"
+		},
+		{
+			"or": "Player options",
+			"tr": "Spilleralternativer"
+		},
+		{
+			"or": "Player",
+			"tr": "Spiller"
+		},
+		{
+			"or": "Server info",
+			"tr": "Serverinfo"
+		},
+		{
+			"or": "Address",
+			"tr": "Adresse"
+		},
+		{
+			"or": "Ping",
+			"tr": "Ping"
+		},
+		{
+			"or": "Password",
+			"tr": "Passord"
+		},
+		{
+			"context": "With",
+			"or": "Yes",
+			"tr": "Ja"
+		},
+		{
+			"context": "Without/None",
+			"or": "No",
+			"tr": "Nei"
+		},
+		{
+			"or": "Favorite",
+			"tr": "Favoritt"
+		},
+		{
+			"or": "Mute broadcasts",
+			"tr": "Mute servermeldinger"
+		},
+		{
+			"or": "Game info",
+			"tr": "Spillinfo"
+		},
+		{
+			"or": "Game type",
+			"tr": "Spilltype"
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Casual",
+			"tr": "Casual"
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Normal",
+			"tr": "Normal"
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Competitive",
+			"tr": "Competitive"
+		},
+		{
+			"or": "Difficulty",
+			"tr": "Vanskelighet"
+		},
+		{
+			"or": "Score limit",
+			"tr": "Poenggrense"
+		},
+		{
+			"or": "Time limit",
+			"tr": "Tidsbegrensning"
+		},
+		{
+			"or": "Players",
+			"tr": "Spillere"
+		},
+		{
+			"or": "MOTD",
+			"tr": "MOTD"
+		},
+		{
+			"or": "Option",
+			"tr": "Valg"
+		},
+		{
+			"or": "Wait for current vote to end before calling a new one.",
+			"tr": "Vent til avstemningen er ferdig før du starter en ny."
+		},
+		{
+			"or": "You must wait %d seconds before making another vote",
+			"tr": "Du må vente %d sekunder før du kan lage en ny avstemning"
+		},
+		{
+			"or": "Spectators aren't allowed to start a vote.",
+			"tr": "Tilskuere har ikke lov til å starte en avstemning."
+		},
+		{
+			"or": "Change settings",
+			"tr": "Endre innstillinger"
+		},
+		{
+			"or": "Kick player",
+			"tr": "Kast ut spiller"
+		},
+		{
+			"or": "Move player to spectators",
+			"tr": "Flytt spiller til tilskuere"
+		},
+		{
+			"or": "Server does not allow voting to kick players",
+			"tr": "Serveren tillater ikke å sparke ut spillere"
+		},
+		{
+			"or": "Kick voting requires %d players on the server",
+			"tr": "Avsteming for utsparking krever %d spillere på serveren"
+		},
+		{
+			"or": "Server does not allow voting to move players to spectators",
+			"tr": "Serveren tillater ikke avstemning for å gjøre spillere til tilskuere."
+		},
+		{
+			"or": "Reason:",
+			"tr": "Grunn:"
+		},
+		{
+			"or": "Call vote",
+			"tr": "Stem"
+		},
+		{
+			"or": "Force vote",
+			"tr": "Tving stemme"
+		},
+		{
+			"or": "Remove",
+			"tr": "Fjern"
+		},
+		{
+			"or": "Vote description:",
+			"tr": "Stemmebeskrivelse:"
+		},
+		{
+			"or": "Vote command:",
+			"tr": "Stemmingskommando:"
+		},
+		{
+			"or": "Add",
+			"tr": "Legg til"
+		},
+		{
+			"or": "Settings",
+			"tr": "Instillinger"
+		},
+		{
+			"or": "Shutdown server",
+			"tr": ""
+		},
+		{
+			"or": "Local server",
+			"tr": "Lokal server"
+		},
+		{
+			"or": "Demos",
+			"tr": "Demoer"
+		},
+		{
+			"or": "Editor",
+			"tr": "Editor"
+		},
+		{
+			"or": "Play",
+			"tr": "Spill"
+		},
+		{
+			"or": "Quit",
+			"tr": "Avslutt"
+		},
+		{
+			"or": "Teeworlds Archive %s is out! Download it at our github!",
+			"tr": ""
+		},
+		{
+			"or": "Time limit: %d min",
+			"tr": "Tidsgrense: %d min"
+		},
+		{
+			"context": "rounds (scoreboard)",
+			"or": "Match",
+			"tr": "Kamp"
+		},
+		{
+			"or": "Spectators",
+			"tr": "Tilskuere"
+		},
+		{
+			"or": "Game over",
+			"tr": "Game over"
+		},
+		{
+			"or": "Round over",
+			"tr": "Runde over"
+		},
+		{
+			"or": "Map record",
+			"tr": "Bane opptak"
+		},
+		{
+			"or": "Clan",
+			"tr": "Klan"
+		},
+		{
+			"or": "Time",
+			"tr": "Tid"
+		},
+		{
+			"or": "Score",
+			"tr": "Poeng"
+		},
+		{
+			"or": "%d other players",
+			"tr": "%d Andre spillere"
+		},
+		{
+			"or": "REC %3d:%02d",
+			"tr": "REC %3d:%02d"
+		},
+		{
+			"or": "Red team",
+			"tr": "Rødt lag"
+		},
+		{
+			"or": "Blue team",
+			"tr": "Blått lag"
+		},
+		{
+			"or": "%s wins!",
+			"tr": "%s vant!"
+		},
+		{
+			"or": "Draw!",
+			"tr": "Uavgjort!"
+		},
+		{
+			"or": "Round over!",
+			"tr": "Runde over!"
+		},
+		{
+			"or": "Free-View",
+			"tr": "Fri visning"
+		},
+		{
+			"or": "Suicides",
+			"tr": "Selvmord"
+		},
+		{
+			"or": "Ratio",
+			"tr": "Ratio"
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": "Total"
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": "Spree"
+		},
+		{
+			"or": "Best spree",
+			"tr": "Beste spree"
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": "Kapringer"
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": "'%s' stemte for å endre server innstilling '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": "'%s' stemmet for å sparke ut '%s' (%s)"
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": "'%s' stemte for å gjøre '%s' til tilskuer (%s)"
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": "Admin tvang server alternativ '%s' (%s)"
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": "Admin gjorde '%s' til tilskuer (%s)"
+		},
+		{
+			"or": "Vote aborted",
+			"tr": "Avstemning avbrutt"
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": "Admin tvunget stemme ja"
+		},
+		{
+			"or": "Vote passed",
+			"tr": "Stemme passert"
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": "Admin tvunget stemme nei"
+		},
+		{
+			"or": "Vote failed",
+			"tr": "Stemme mislyktes"
+		},
+		{
 			"or": "Map changed to '%s'",
 			"tr": "Bane endret til '%s'"
 		},
@@ -135,16 +866,8 @@
 			"tr": "Alle"
 		},
 		{
-			"or": "Spectators",
-			"tr": "Tilskuere"
-		},
-		{
 			"or": "Team",
 			"tr": "Lag"
-		},
-		{
-			"or": "Chat",
-			"tr": "Chat"
 		},
 		{
 			"or": "Press %s to resume chatting",
@@ -189,10 +912,6 @@
 		{
 			"or": "'%s' was removed as a friend",
 			"tr": "'%s' har blitt fjernet som venn"
-		},
-		{
-			"or": "-Page %d-",
-			"tr": "-Side %d-"
 		},
 		{
 			"or": "Sudden Death",
@@ -247,10 +966,6 @@
 			"tr": "%ds igjen"
 		},
 		{
-			"or": "Reason:",
-			"tr": "Grunn:"
-		},
-		{
 			"or": "Vote Yes",
 			"tr": ""
 		},
@@ -283,48 +998,12 @@
 			"tr": "Trykk <%s> Når du er klar"
 		},
 		{
-			"or": "'%s' has set a new map record: %s",
-			"tr": ""
-		},
-		{
-			"or": "'%s' has set a new personal record: %s",
-			"tr": ""
-		},
-		{
-			"or": " (%s seconds faster)",
-			"tr": " (%s sekunder raskere)"
-		},
-		{
-			"or": "'%s' finished in: %s",
-			"tr": "'%s' fullførte på %s"
-		},
-		{
 			"or": "Game",
 			"tr": "Spill"
 		},
 		{
-			"or": "Players",
-			"tr": "Spillere"
-		},
-		{
-			"or": "Server info",
-			"tr": "Serverinfo"
-		},
-		{
-			"or": "Call vote",
-			"tr": "Stem"
-		},
-		{
-			"or": "Settings",
-			"tr": "Instillinger"
-		},
-		{
 			"or": "General",
 			"tr": "Generelt"
-		},
-		{
-			"or": "Player",
-			"tr": "Spiller"
 		},
 		{
 			"or": "TBD",
@@ -351,10 +1030,6 @@
 			"tr": "Lokalt"
 		},
 		{
-			"or": "Demos",
-			"tr": "Demoer"
-		},
-		{
 			"or": "Back",
 			"tr": "Tilbake"
 		},
@@ -365,10 +1040,6 @@
 		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "Lydenheten kunne ikke startes opp."
-		},
-		{
-			"or": "Ok",
-			"tr": "Ok"
 		},
 		{
 			"or": "Connecting to",
@@ -403,10 +1074,6 @@
 			"tr": "Feil passord"
 		},
 		{
-			"or": "Quit",
-			"tr": "Avslutt"
-		},
-		{
 			"or": "Welcome to Teeworlds",
 			"tr": "Velkommen til Teeworlds"
 		},
@@ -419,20 +1086,8 @@
 			"tr": "Er du sikker på at du vil avslutte?"
 		},
 		{
-			"or": "No",
-			"tr": "Nei"
-		},
-		{
-			"or": "Yes",
-			"tr": "Ja"
-		},
-		{
 			"or": "Please enter the password.",
 			"tr": ""
-		},
-		{
-			"or": "Password",
-			"tr": "Passord"
 		},
 		{
 			"or": "Save password",
@@ -479,14 +1134,6 @@
 			"tr": "Er du sikker på at du vil endre navn på demoen"
 		},
 		{
-			"or": "Name",
-			"tr": "Navn"
-		},
-		{
-			"or": "Error",
-			"tr": "Error"
-		},
-		{
 			"or": "Unable to rename the demo",
 			"tr": "Kunne ikke endre navn på demoen"
 		},
@@ -529,18 +1176,6 @@
 		{
 			"or": "Server",
 			"tr": "Server"
-		},
-		{
-			"or": "Type",
-			"tr": "Type"
-		},
-		{
-			"or": "Map",
-			"tr": "Bane"
-		},
-		{
-			"or": "Ping",
-			"tr": "Ping"
 		},
 		{
 			"or": "Race",
@@ -648,10 +1283,6 @@
 			"context": "friends (server browser)",
 			"or": "Offline (%d)",
 			"tr": "Offline (%d)"
-		},
-		{
-			"or": "Clan",
-			"tr": "Klan"
 		},
 		{
 			"or": "Add friend/clan",
@@ -775,21 +1406,6 @@
 			"tr": "Versjon:"
 		},
 		{
-			"context": "Server difficulty",
-			"or": "Casual",
-			"tr": "Casual"
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Normal",
-			"tr": "Normal"
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Competitive",
-			"tr": "Competitive"
-		},
-		{
 			"or": "Click to remove the player from your friends.",
 			"tr": ""
 		},
@@ -798,473 +1414,8 @@
 			"tr": ""
 		},
 		{
-			"or": "Scoreboard",
-			"tr": "Poengliste"
-		},
-		{
-			"or": "Refresh",
-			"tr": "Oppdater"
-		},
-		{
 			"or": "Connect",
 			"tr": "Koble til"
-		},
-		{
-			"or": "Move left",
-			"tr": "Beveg til venstre"
-		},
-		{
-			"or": "Move right",
-			"tr": "Beveg til høyre"
-		},
-		{
-			"or": "Jump",
-			"tr": "Hopp"
-		},
-		{
-			"or": "Fire",
-			"tr": "Skyte"
-		},
-		{
-			"or": "Hook",
-			"tr": "Gripe tang"
-		},
-		{
-			"or": "Hammer",
-			"tr": "Hammer"
-		},
-		{
-			"or": "Pistol",
-			"tr": "Pistol"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "Shotgun"
-		},
-		{
-			"or": "Grenade",
-			"tr": "Granat"
-		},
-		{
-			"or": "Laser",
-			"tr": "Laser"
-		},
-		{
-			"or": "Next weapon",
-			"tr": "Neste Våpen"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "Forrige våpen"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "Stem ja"
-		},
-		{
-			"or": "Vote no",
-			"tr": "Stem nei"
-		},
-		{
-			"or": "Team chat",
-			"tr": "Lagchat"
-		},
-		{
-			"or": "Whisper",
-			"tr": "Hviske"
-		},
-		{
-			"or": "Show chat",
-			"tr": "Vis chat"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "Uttrykksikoner"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "Tilskuermodus"
-		},
-		{
-			"or": "Spectate next",
-			"tr": "Se på neste"
-		},
-		{
-			"or": "Spectate previous",
-			"tr": "Se på forrige"
-		},
-		{
-			"or": "Console",
-			"tr": "Konsoll"
-		},
-		{
-			"or": "Remote console",
-			"tr": "Server konsoll"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "Skjermbilde"
-		},
-		{
-			"or": "Statboard",
-			"tr": "Statistikkvindu"
-		},
-		{
-			"or": "Respawn",
-			"tr": "Respawn"
-		},
-		{
-			"or": "Ready",
-			"tr": "Klar"
-		},
-		{
-			"or": "Add demo marker",
-			"tr": "Legg til markering"
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": "Lyd av/på"
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": "Dynamisk kamera av/på"
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": "Bruk OS'ets musakselerasjon"
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": "Musesensitivitet i menyer"
-		},
-		{
-			"or": "Enable joystick",
-			"tr": "Aktiver joystick"
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": "Joystick jitter-toleranse"
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": "Ingen joystick funnet. Koble til en joystick og restart spillet."
-		},
-		{
-			"or": "Configure statboard",
-			"tr": "Konfigurer statistikkvindu"
-		},
-		{
-			"or": "Device",
-			"tr": "Enhet"
-		},
-		{
-			"or": "Status",
-			"tr": "Status"
-		},
-		{
-			"or": "Aim bind",
-			"tr": "Aim bind"
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": "Joystick Akse #%d"
-		},
-		{
-			"or": "Length",
-			"tr": "Lengde"
-		},
-		{
-			"or": "Date",
-			"tr": ""
-		},
-		{
-			"or": "Close",
-			"tr": "Lukk"
-		},
-		{
-			"or": "Demofile: %s",
-			"tr": "Demofil: %s"
-		},
-		{
-			"or": "Parent Folder",
-			"tr": "Overordnet Mappe"
-		},
-		{
-			"or": "Folder",
-			"tr": "Mappe"
-		},
-		{
-			"or": "Invalid Demo",
-			"tr": "Ugyldig Demo"
-		},
-		{
-			"or": "Demo details",
-			"tr": "Demo detaljer"
-		},
-		{
-			"or": "Recorded",
-			"tr": "Innspilt"
-		},
-		{
-			"or": "Delete",
-			"tr": "Slett"
-		},
-		{
-			"or": "Are you sure that you want to delete the demo '%s'?",
-			"tr": ""
-		},
-		{
-			"or": "Delete demo",
-			"tr": "Slett demo"
-		},
-		{
-			"or": "Rename",
-			"tr": "Gi nytt navn"
-		},
-		{
-			"or": "Fetch Info",
-			"tr": ""
-		},
-		{
-			"or": "Open",
-			"tr": "Åpne"
-		},
-		{
-			"context": "DemoBrowser",
-			"or": "Play",
-			"tr": "Spill"
-		},
-		{
-			"or": "Unable to delete the demo",
-			"tr": "Kunne ikke slette demoen"
-		},
-		{
-			"or": "Created",
-			"tr": "Opprettet"
-		},
-		{
-			"or": "Version",
-			"tr": "Versjon"
-		},
-		{
-			"or": "Netversion",
-			"tr": "Nettversjon"
-		},
-		{
-			"or": "Markers",
-			"tr": "Markeringer"
-		},
-		{
-			"or": "%.3f KiB",
-			"tr": "%.3f KiB"
-		},
-		{
-			"or": "Size",
-			"tr": "Størrelse"
-		},
-		{
-			"or": "Crc",
-			"tr": "Crc"
-		},
-		{
-			"or": "Teams are locked",
-			"tr": "Lagene er låst"
-		},
-		{
-			"or": "Only %d active players are allowed",
-			"tr": "Kun %d aktive spillere er tillatt"
-		},
-		{
-			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-			"tr": "Lagene er låst. Tid å vente før du bytter lag: %02d:%02d"
-		},
-		{
-			"or": "Game options",
-			"tr": "Spill innstillinger"
-		},
-		{
-			"or": "locked",
-			"tr": "låst"
-		},
-		{
-			"or": "Spectating",
-			"tr": "Ser på"
-		},
-		{
-			"or": "Join red",
-			"tr": "Bli med rødt"
-		},
-		{
-			"or": "Joined red",
-			"tr": "Ble med rødt"
-		},
-		{
-			"or": "Join blue",
-			"tr": "Bli med blått"
-		},
-		{
-			"or": "Joined blue",
-			"tr": "Ble med blått"
-		},
-		{
-			"or": "Join",
-			"tr": "Bli med"
-		},
-		{
-			"or": "Joined",
-			"tr": "Ble med"
-		},
-		{
-			"or": "Disconnect",
-			"tr": "Koble fra"
-		},
-		{
-			"or": "Stop record",
-			"tr": "Stopp opptak"
-		},
-		{
-			"or": "Record",
-			"tr": "Record"
-		},
-		{
-			"or": "Player options",
-			"tr": "Spilleralternativer"
-		},
-		{
-			"or": "Address",
-			"tr": "Adresse"
-		},
-		{
-			"context": "With",
-			"or": "Yes",
-			"tr": "Ja"
-		},
-		{
-			"context": "Without/None",
-			"or": "No",
-			"tr": "Nei"
-		},
-		{
-			"or": "Favorite",
-			"tr": "Favoritt"
-		},
-		{
-			"or": "Mute broadcasts",
-			"tr": "Mute servermeldinger"
-		},
-		{
-			"or": "Game info",
-			"tr": "Spillinfo"
-		},
-		{
-			"or": "Game type",
-			"tr": "Spilltype"
-		},
-		{
-			"or": "Difficulty",
-			"tr": "Vanskelighet"
-		},
-		{
-			"or": "Score limit",
-			"tr": "Poenggrense"
-		},
-		{
-			"or": "Time limit",
-			"tr": "Tidsbegrensning"
-		},
-		{
-			"or": "MOTD",
-			"tr": "MOTD"
-		},
-		{
-			"or": "Option",
-			"tr": "Valg"
-		},
-		{
-			"or": "Wait for current vote to end before calling a new one.",
-			"tr": "Vent til avstemningen er ferdig før du starter en ny."
-		},
-		{
-			"or": "You must wait %d seconds before making another vote",
-			"tr": "Du må vente %d sekunder før du kan lage en ny avstemning"
-		},
-		{
-			"or": "Spectators aren't allowed to start a vote.",
-			"tr": "Tilskuere har ikke lov til å starte en avstemning."
-		},
-		{
-			"or": "Change settings",
-			"tr": "Endre innstillinger"
-		},
-		{
-			"or": "Kick player",
-			"tr": "Kast ut spiller"
-		},
-		{
-			"or": "Move player to spectators",
-			"tr": "Flytt spiller til tilskuere"
-		},
-		{
-			"or": "Server does not allow voting to kick players",
-			"tr": "Serveren tillater ikke å sparke ut spillere"
-		},
-		{
-			"or": "Kick voting requires %d players on the server",
-			"tr": "Avsteming for utsparking krever %d spillere på serveren"
-		},
-		{
-			"or": "Server does not allow voting to move players to spectators",
-			"tr": "Serveren tillater ikke avstemning for å gjøre spillere til tilskuere."
-		},
-		{
-			"or": "Force vote",
-			"tr": "Tving stemme"
-		},
-		{
-			"or": "Remove",
-			"tr": "Fjern"
-		},
-		{
-			"or": "Vote description:",
-			"tr": "Stemmebeskrivelse:"
-		},
-		{
-			"or": "Vote command:",
-			"tr": "Stemmingskommando:"
-		},
-		{
-			"or": "Add",
-			"tr": "Legg til"
 		},
 		{
 			"or": "Hue:",
@@ -1289,6 +1440,26 @@
 		{
 			"or": "Theme",
 			"tr": "Tema"
+		},
+		{
+			"context": "Theme",
+			"or": "(none)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "(automatic)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "%s (day)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "%s (night)",
+			"tr": ""
 		},
 		{
 			"or": "Dynamic Camera",
@@ -1490,14 +1661,6 @@
 			"tr": "Død"
 		},
 		{
-			"or": "Suicides",
-			"tr": "Selvmord"
-		},
-		{
-			"or": "Ratio",
-			"tr": "Ratio"
-		},
-		{
 			"or": "The ratio of kills to deaths.",
 			"tr": ""
 		},
@@ -1516,10 +1679,6 @@
 		{
 			"or": "Current spree",
 			"tr": "Nåværende spree"
-		},
-		{
-			"or": "Best spree",
-			"tr": "Beste spree"
 		},
 		{
 			"or": "Weapons stats",
@@ -1670,83 +1829,6 @@
 			"tr": "Du må vente %1.0f sekunder for og endre identitet."
 		},
 		{
-			"or": "Shutdown server",
-			"tr": ""
-		},
-		{
-			"or": "Local server",
-			"tr": "Lokal server"
-		},
-		{
-			"or": "Editor",
-			"tr": "Editor"
-		},
-		{
-			"or": "Play",
-			"tr": "Spill"
-		},
-		{
-			"or": "Teeworlds Archive %s is out! Download it at our github!",
-			"tr": ""
-		},
-		{
-			"or": "Time limit: %d min",
-			"tr": "Tidsgrense: %d min"
-		},
-		{
-			"context": "rounds (scoreboard)",
-			"or": "Match",
-			"tr": "Kamp"
-		},
-		{
-			"or": "Game over",
-			"tr": "Game over"
-		},
-		{
-			"or": "Round over",
-			"tr": "Runde over"
-		},
-		{
-			"or": "Map record",
-			"tr": "Bane opptak"
-		},
-		{
-			"or": "Time",
-			"tr": "Tid"
-		},
-		{
-			"or": "Score",
-			"tr": "Poeng"
-		},
-		{
-			"or": "%d other players",
-			"tr": "%d Andre spillere"
-		},
-		{
-			"or": "REC %3d:%02d",
-			"tr": "REC %3d:%02d"
-		},
-		{
-			"or": "Red team",
-			"tr": "Rødt lag"
-		},
-		{
-			"or": "Blue team",
-			"tr": "Blått lag"
-		},
-		{
-			"or": "%s wins!",
-			"tr": "%s vant!"
-		},
-		{
-			"or": "Draw!",
-			"tr": "Uavgjort!"
-		},
-		{
-			"or": "Round over!",
-			"tr": "Runde over!"
-		},
-		{
 			"context": "skins",
 			"or": "body",
 			"tr": "kropp"
@@ -1777,66 +1859,8 @@
 			"tr": "øyne"
 		},
 		{
-			"or": "Free-View",
-			"tr": "Fri visning"
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
-			"tr": "Total"
-		},
-		{
-			"or": "KPM",
+			"or": "Resource '%s': download complete",
 			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": "Spree"
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": "Kapringer"
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": "'%s' stemte for å endre server innstilling '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": "'%s' stemmet for å sparke ut '%s' (%s)"
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": "'%s' stemte for å gjøre '%s' til tilskuer (%s)"
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": "Admin tvang server alternativ '%s' (%s)"
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": "Admin gjorde '%s' til tilskuer (%s)"
-		},
-		{
-			"or": "Vote aborted",
-			"tr": "Avstemning avbrutt"
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": "Admin tvunget stemme ja"
-		},
-		{
-			"or": "Vote passed",
-			"tr": "Stemme passert"
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": "Admin tvunget stemme nei"
-		},
-		{
-			"or": "Vote failed",
-			"tr": "Stemme mislyktes"
 		}
 	]
 }
