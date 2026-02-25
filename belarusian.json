@@ -24,6 +24,14 @@
 			"tr": ""
 		},
 		{
+			"or": "Screenshot failed",
+			"tr": ""
+		},
+		{
+			"or": "Screenshot '%s' has been copied to clipboard!",
+			"tr": ""
+		},
+		{
 			"or": "All players were moved to the game",
 			"tr": "Усе гульцы перасунуты ў гульню"
 		},
@@ -1415,6 +1423,36 @@
 			"tr": "Падлучыцца"
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": "цела"
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": "афарбоўка"
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": "ўпрыгожанні"
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": "рукі"
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": "ногі"
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "вочы"
+		},
+		{
 			"or": "Hue:",
 			"tr": "Адценне:"
 		},
@@ -1824,40 +1862,6 @@
 		{
 			"or": "You have to wait %1.0f seconds to change identity.",
 			"tr": "Пачакайце %1.0f сек. перад ужыццём налад."
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": "цела"
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": "афарбоўка"
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": "ўпрыгожанні"
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": "рукі"
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": "ногі"
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "вочы"
-		},
-		{
-			"or": "Resource '%s': download complete",
-			"tr": ""
 		}
 	]
 }

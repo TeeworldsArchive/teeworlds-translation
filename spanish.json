@@ -32,6 +32,14 @@
 			"tr": "Los equipos fueron equilibrados"
 		},
 		{
+			"or": "Screenshot failed",
+			"tr": ""
+		},
+		{
+			"or": "Screenshot '%s' has been copied to clipboard!",
+			"tr": ""
+		},
+		{
 			"or": "All players were moved to the game",
 			"tr": "Todos los jugadores fueron movidos a la partida"
 		},
@@ -1423,6 +1431,36 @@
 			"tr": "Conectar"
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": "cuerpo"
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": "tatuaje"
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": "decoración"
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": "manos"
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": "pies"
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "ojos"
+		},
+		{
 			"or": "Hue:",
 			"tr": "Hue:"
 		},
@@ -1832,40 +1870,6 @@
 		{
 			"or": "You have to wait %1.0f seconds to change identity.",
 			"tr": "Debes esperar %1.0f segundos para cambiar tu identidad."
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": "cuerpo"
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": "tatuaje"
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": "decoración"
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": "manos"
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": "pies"
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "ojos"
-		},
-		{
-			"or": "Resource '%s': download complete",
-			"tr": ""
 		}
 	]
 }

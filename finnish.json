@@ -27,6 +27,14 @@
 			"tr": ""
 		},
 		{
+			"or": "Screenshot failed",
+			"tr": ""
+		},
+		{
+			"or": "Screenshot '%s' has been copied to clipboard!",
+			"tr": ""
+		},
+		{
 			"or": "All players were moved to the game",
 			"tr": ""
 		},
@@ -1418,6 +1426,36 @@
 			"tr": "Yhdistä"
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": "vartalo"
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": "tunnus"
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": "koristeet"
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": "kädet"
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": "jalat"
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "silmät"
+		},
+		{
 			"or": "Hue:",
 			"tr": "Hue:"
 		},
@@ -1826,40 +1864,6 @@
 		},
 		{
 			"or": "You have to wait %1.0f seconds to change identity.",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": "vartalo"
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": "tunnus"
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": "koristeet"
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": "kädet"
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": "jalat"
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "silmät"
-		},
-		{
-			"or": "Resource '%s': download complete",
 			"tr": ""
 		}
 	]

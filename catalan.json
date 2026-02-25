@@ -23,6 +23,14 @@
 			"tr": "Els equips s'han equilibrat"
 		},
 		{
+			"or": "Screenshot failed",
+			"tr": ""
+		},
+		{
+			"or": "Screenshot '%s' has been copied to clipboard!",
+			"tr": ""
+		},
+		{
 			"or": "All players were moved to the game",
 			"tr": "Tots els jugadors s'han mogut al joc"
 		},
@@ -1414,6 +1422,36 @@
 			"tr": "Connectar"
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": "cos"
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": "marques"
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": "decoració"
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": "mans"
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": "peus"
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "ulls"
+		},
+		{
 			"or": "Hue:",
 			"tr": "Hue:"
 		},
@@ -1823,40 +1861,6 @@
 		{
 			"or": "You have to wait %1.0f seconds to change identity.",
 			"tr": "Has d'esperar %1.0f segons per canviar d'identitat."
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": "cos"
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": "marques"
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": "decoració"
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": "mans"
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": "peus"
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "ulls"
-		},
-		{
-			"or": "Resource '%s': download complete",
-			"tr": ""
 		}
 	]
 }

@@ -30,6 +30,14 @@
 			"tr": ""
 		},
 		{
+			"or": "Screenshot failed",
+			"tr": ""
+		},
+		{
+			"or": "Screenshot '%s' has been copied to clipboard!",
+			"tr": ""
+		},
+		{
 			"or": "All players were moved to the game",
 			"tr": "Tüm oyuncular oyuna taşındı."
 		},
@@ -1421,6 +1429,36 @@
 			"tr": "Bağlan"
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": "gövde"
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": "damga"
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": "Dekorasyon"
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": "eller"
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": "ayak"
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "gözler"
+		},
+		{
 			"or": "Hue:",
 			"tr": "Renk:"
 		},
@@ -1830,40 +1868,6 @@
 		{
 			"or": "You have to wait %1.0f seconds to change identity.",
 			"tr": "Kimlik değiştirmek için %1.0f saniye beklemelisiniz."
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": "gövde"
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": "damga"
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": "Dekorasyon"
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": "eller"
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": "ayak"
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "gözler"
-		},
-		{
-			"or": "Resource '%s': download complete",
-			"tr": ""
 		}
 	]
 }

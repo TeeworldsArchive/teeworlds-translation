@@ -27,6 +27,14 @@
 			"tr": "Lagene ble balansert"
 		},
 		{
+			"or": "Screenshot failed",
+			"tr": ""
+		},
+		{
+			"or": "Screenshot '%s' has been copied to clipboard!",
+			"tr": ""
+		},
+		{
 			"or": "All players were moved to the game",
 			"tr": "Alle spillere ble flyttet inn i spillet"
 		},
@@ -1418,6 +1426,36 @@
 			"tr": "Koble til"
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": "kropp"
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": "mønster"
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": "dekorering"
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": "hender"
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": "føtter"
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "øyne"
+		},
+		{
 			"or": "Hue:",
 			"tr": "Hue:"
 		},
@@ -1827,40 +1865,6 @@
 		{
 			"or": "You have to wait %1.0f seconds to change identity.",
 			"tr": "Du må vente %1.0f sekunder for og endre identitet."
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": "kropp"
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": "mønster"
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": "dekorering"
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": "hender"
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": "føtter"
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "øyne"
-		},
-		{
-			"or": "Resource '%s': download complete",
-			"tr": ""
 		}
 	]
 }

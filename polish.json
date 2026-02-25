@@ -30,6 +30,14 @@
 			"tr": "Drużyny zostały zbalansowane"
 		},
 		{
+			"or": "Screenshot failed",
+			"tr": ""
+		},
+		{
+			"or": "Screenshot '%s' has been copied to clipboard!",
+			"tr": ""
+		},
+		{
 			"or": "All players were moved to the game",
 			"tr": "Wszyscy gracze zostali przeniesieni do gry"
 		},
@@ -1421,6 +1429,36 @@
 			"tr": "Połącz"
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": "ciało"
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": "oznakowanie"
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": "dekoracja"
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": "dłonie"
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": "stopy"
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "oczy"
+		},
+		{
 			"or": "Hue:",
 			"tr": "Barwa:"
 		},
@@ -1830,40 +1868,6 @@
 		{
 			"or": "You have to wait %1.0f seconds to change identity.",
 			"tr": "Musisz poczekać %1.0f sekund aby zmienić tożsamość."
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": "ciało"
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": "oznakowanie"
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": "dekoracja"
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": "dłonie"
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": "stopy"
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "oczy"
-		},
-		{
-			"or": "Resource '%s': download complete",
-			"tr": ""
 		}
 	]
 }

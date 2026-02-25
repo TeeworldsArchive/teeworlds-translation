@@ -26,6 +26,14 @@
 			"tr": "Timovi su bili uravnoteženi"
 		},
 		{
+			"or": "Screenshot failed",
+			"tr": ""
+		},
+		{
+			"or": "Screenshot '%s' has been copied to clipboard!",
+			"tr": ""
+		},
+		{
 			"or": "All players were moved to the game",
 			"tr": "Svi igrači su pomereni u igru"
 		},
@@ -1417,6 +1425,36 @@
 			"tr": "Konektuj"
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": "telo"
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": "oznake"
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": "dekoracija"
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": "ruke"
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": "stopala"
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "oči"
+		},
+		{
 			"or": "Hue:",
 			"tr": "Nijansa:"
 		},
@@ -1826,40 +1864,6 @@
 		{
 			"or": "You have to wait %1.0f seconds to change identity.",
 			"tr": "Morate čekati %1.0f sekundi da promenite identitet."
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": "telo"
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": "oznake"
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": "dekoracija"
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": "ruke"
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": "stopala"
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "oči"
-		},
-		{
-			"or": "Resource '%s': download complete",
-			"tr": ""
 		}
 	]
 }

@@ -24,6 +24,14 @@
 			"tr": "雙方隊伍已被平衡分配"
 		},
 		{
+			"or": "Screenshot failed",
+			"tr": "截圖失敗"
+		},
+		{
+			"or": "Screenshot '%s' has been copied to clipboard!",
+			"tr": "截圖'%s'已被複製到剪切板!"
+		},
+		{
 			"or": "All players were moved to the game",
 			"tr": "所有玩家被移入遊戲"
 		},
@@ -1415,6 +1423,36 @@
 			"tr": "連接"
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": "身體"
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": "印記"
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": "裝飾"
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": "手"
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": "腳"
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "眼睛"
+		},
+		{
 			"or": "Hue:",
 			"tr": "色調："
 		},
@@ -1824,40 +1862,6 @@
 		{
 			"or": "You have to wait %1.0f seconds to change identity.",
 			"tr": "你需要等待 %1.0f 秒才能修改身份"
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": "身體"
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": "印記"
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": "裝飾"
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": "手"
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": "腳"
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "眼睛"
-		},
-		{
-			"or": "Resource '%s': download complete",
-			"tr": ""
 		}
 	]
 }

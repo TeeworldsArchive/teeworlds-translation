@@ -31,6 +31,14 @@
 			"tr": ""
 		},
 		{
+			"or": "Screenshot failed",
+			"tr": ""
+		},
+		{
+			"or": "Screenshot '%s' has been copied to clipboard!",
+			"tr": ""
+		},
+		{
 			"or": "All players were moved to the game",
 			"tr": ""
 		},
@@ -1422,6 +1430,36 @@
 			"tr": "Conectează"
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": "corp"
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": "Mâini"
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": "picioare"
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "ochi"
+		},
+		{
 			"or": "Hue:",
 			"tr": "Nuanță:"
 		},
@@ -1831,40 +1869,6 @@
 		{
 			"or": "You have to wait %1.0f seconds to change identity.",
 			"tr": "Trebuie să aștepți %1.0f de secunde pentru a îți schimba indentitatea. "
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": "corp"
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": "Mâini"
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": "picioare"
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "ochi"
-		},
-		{
-			"or": "Resource '%s': download complete",
-			"tr": ""
 		}
 	]
 }

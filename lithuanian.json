@@ -24,6 +24,14 @@
 			"tr": ""
 		},
 		{
+			"or": "Screenshot failed",
+			"tr": ""
+		},
+		{
+			"or": "Screenshot '%s' has been copied to clipboard!",
+			"tr": ""
+		},
+		{
 			"or": "All players were moved to the game",
 			"tr": "Visi žaidėjai buvo perkelti į žaidimą"
 		},
@@ -1415,6 +1423,36 @@
 			"tr": "Jungtis"
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": "kūnas"
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": "žymėjimas"
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": "dekoracijos"
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": "rankos"
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": "kojos"
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "akys"
+		},
+		{
 			"or": "Hue:",
 			"tr": "Atspalvis:"
 		},
@@ -1824,40 +1862,6 @@
 		{
 			"or": "You have to wait %1.0f seconds to change identity.",
 			"tr": "Jūs turi palaukti %1.0f sekundžių, kad pakeistumėte tapatybę."
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": "kūnas"
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": "žymėjimas"
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": "dekoracijos"
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": "rankos"
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": "kojos"
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "akys"
-		},
-		{
-			"or": "Resource '%s': download complete",
-			"tr": ""
 		}
 	]
 }

@@ -24,6 +24,14 @@
 			"tr": ""
 		},
 		{
+			"or": "Screenshot failed",
+			"tr": ""
+		},
+		{
+			"or": "Screenshot '%s' has been copied to clipboard!",
+			"tr": ""
+		},
+		{
 			"or": "All players were moved to the game",
 			"tr": "Minden játékos át lett helyezve a játékba"
 		},
@@ -1415,6 +1423,36 @@
 			"tr": "Csatlakozás"
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": "test"
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": "mintázat"
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": "dekoráció"
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": "kezek"
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": "lábak"
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "szemek"
+		},
+		{
 			"or": "Hue:",
 			"tr": "Árnyalat"
 		},
@@ -1824,40 +1862,6 @@
 		{
 			"or": "You have to wait %1.0f seconds to change identity.",
 			"tr": "Identitás megváltoztatásához várnod kell %1.0f másodpercet."
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": "test"
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": "mintázat"
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": "dekoráció"
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": "kezek"
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": "lábak"
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "szemek"
-		},
-		{
-			"or": "Resource '%s': download complete",
-			"tr": ""
 		}
 	]
 }

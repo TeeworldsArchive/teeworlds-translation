@@ -26,6 +26,14 @@
 			"tr": ""
 		},
 		{
+			"or": "Screenshot failed",
+			"tr": ""
+		},
+		{
+			"or": "Screenshot '%s' has been copied to clipboard!",
+			"tr": ""
+		},
+		{
 			"or": "All players were moved to the game",
 			"tr": "Всіх гравців було перенесено до гри"
 		},
@@ -1417,6 +1425,36 @@
 			"tr": "Під’єднатись"
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": "Тіло"
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": "Забарвлення"
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": "Оздоблення"
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": "Руки"
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": "Ноги"
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "Очі"
+		},
+		{
 			"or": "Hue:",
 			"tr": "Відтінок:"
 		},
@@ -1826,40 +1864,6 @@
 		{
 			"or": "You have to wait %1.0f seconds to change identity.",
 			"tr": "Зачекайте %1.0f секунд перед зміною особистості."
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": "Тіло"
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": "Забарвлення"
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": "Оздоблення"
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": "Руки"
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": "Ноги"
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "Очі"
-		},
-		{
-			"or": "Resource '%s': download complete",
-			"tr": ""
 		}
 	]
 }

@@ -23,6 +23,14 @@
 			"tr": ""
 		},
 		{
+			"or": "Screenshot failed",
+			"tr": ""
+		},
+		{
+			"or": "Screenshot '%s' has been copied to clipboard!",
+			"tr": ""
+		},
+		{
 			"or": "All players were moved to the game",
 			"tr": "Chaidh a h-uile cluicheadair a ghluasad dhan gheama"
 		},
@@ -1414,6 +1422,36 @@
 			"tr": "Ceangail"
 		},
 		{
+			"context": "skins",
+			"or": "body",
+			"tr": "bodhaig"
+		},
+		{
+			"context": "skins",
+			"or": "marking",
+			"tr": "comharradh"
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
+			"tr": "sgeadachadh"
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": "làmhan"
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": "casan"
+		},
+		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": "sùilean"
+		},
+		{
 			"or": "Hue:",
 			"tr": "Tuar:"
 		},
@@ -1823,40 +1861,6 @@
 		{
 			"or": "You have to wait %1.0f seconds to change identity.",
 			"tr": "Feumaidh tu feitheamh fad %1.0f diog(an) mus atharraich thu d’ aithne."
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": "bodhaig"
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": "comharradh"
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": "sgeadachadh"
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": "làmhan"
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": "casan"
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": "sùilean"
-		},
-		{
-			"or": "Resource '%s': download complete",
-			"tr": ""
 		}
 	]
 }
