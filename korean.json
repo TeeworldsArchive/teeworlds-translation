@@ -7,938 +7,15 @@
 	},
 	"translated strings": [
 		{
-			"or": "Search:",
-			"tr": ""
-		},
-		{
-			"or": "Teams were swapped",
-			"tr": ""
-		},
-		{
-			"or": "Teams were shuffled",
-			"tr": ""
-		},
-		{
-			"or": "Teams have been balanced",
-			"tr": ""
-		},
-		{
-			"or": "Screenshot failed",
-			"tr": ""
-		},
-		{
-			"or": "Screenshot '%s' has been copied to clipboard!",
-			"tr": ""
-		},
-		{
-			"or": "All players were moved to the game",
-			"tr": ""
-		},
-		{
-			"or": "All players were moved to the red team",
-			"tr": ""
-		},
-		{
-			"or": "All players were moved to the blue team",
-			"tr": ""
-		},
-		{
-			"or": "All players were moved to the spectators",
-			"tr": ""
-		},
-		{
-			"or": "You were moved to the red team due to team balancing",
-			"tr": ""
-		},
-		{
-			"or": "You were moved to the blue team due to team balancing",
-			"tr": ""
-		},
-		{
-			"or": "'%s' initiated a pause",
-			"tr": ""
-		},
-		{
-			"or": "The blue flag was captured by '%s' (%.2f seconds)",
-			"tr": ""
-		},
-		{
-			"or": "The red flag was captured by '%s' (%.2f seconds)",
-			"tr": ""
-		},
-		{
-			"or": "The blue flag was captured by '%s'",
-			"tr": ""
-		},
-		{
-			"or": "The red flag was captured by '%s'",
-			"tr": ""
-		},
-		{
-			"or": "%s is muted by you",
-			"tr": ""
-		},
-		{
-			"or": "Teams were locked",
-			"tr": ""
-		},
-		{
-			"or": "Teams were unlocked",
-			"tr": ""
-		},
-		{
-			"or": "'%s' entered and joined the game",
-			"tr": ""
-		},
-		{
-			"or": "'%s' entered and joined the red team",
-			"tr": ""
-		},
-		{
-			"or": "'%s' entered and joined the blue team",
-			"tr": ""
-		},
-		{
-			"or": "'%s' entered and joined the spectators",
-			"tr": ""
-		},
-		{
-			"or": "'%s' has left the game (%s)",
-			"tr": ""
-		},
-		{
-			"or": "'%s' has left the game",
-			"tr": ""
-		},
-		{
-			"or": "'%s' joined the game",
-			"tr": ""
-		},
-		{
-			"or": "'%s' joined the red team",
-			"tr": ""
-		},
-		{
-			"or": "'%s' joined the blue team",
-			"tr": ""
-		},
-		{
-			"or": "'%s' joined the spectators",
-			"tr": ""
-		},
-		{
-			"or": "key not found",
-			"tr": ""
-		},
-		{
-			"or": "-Page %d-",
-			"tr": "-Page %d-"
-		},
-		{
-			"or": "'%s' has set a new map record: %s",
-			"tr": ""
-		},
-		{
-			"or": "'%s' has set a new personal record: %s",
-			"tr": ""
-		},
-		{
 			"or": " (%s seconds faster)",
 			"tr": ""
-		},
-		{
-			"or": "'%s' finished in: %s",
-			"tr": ""
-		},
-		{
-			"or": "Move left",
-			"tr": "왼쪽으로 이동"
-		},
-		{
-			"or": "Move right",
-			"tr": "오른쪽으로 이동"
-		},
-		{
-			"or": "Jump",
-			"tr": "점프"
-		},
-		{
-			"or": "Fire",
-			"tr": "발사"
-		},
-		{
-			"or": "Hook",
-			"tr": "갈고리"
-		},
-		{
-			"or": "Hammer",
-			"tr": "해머"
-		},
-		{
-			"or": "Pistol",
-			"tr": "권총"
-		},
-		{
-			"or": "Shotgun",
-			"tr": "샷건"
-		},
-		{
-			"or": "Grenade",
-			"tr": "유탄 발사기"
-		},
-		{
-			"or": "Laser",
-			"tr": ""
-		},
-		{
-			"or": "Next weapon",
-			"tr": "다음 무기"
-		},
-		{
-			"or": "Prev. weapon",
-			"tr": "이전 무기"
-		},
-		{
-			"or": "Vote yes",
-			"tr": "예"
-		},
-		{
-			"or": "Vote no",
-			"tr": "아니오"
-		},
-		{
-			"or": "Chat",
-			"tr": "채팅"
-		},
-		{
-			"or": "Team chat",
-			"tr": "팀 채팅"
-		},
-		{
-			"or": "Whisper",
-			"tr": ""
-		},
-		{
-			"or": "Show chat",
-			"tr": "채팅 보기"
-		},
-		{
-			"or": "Emoticon",
-			"tr": "이모티콘"
-		},
-		{
-			"or": "Spectator mode",
-			"tr": "관전 모드"
-		},
-		{
-			"or": "Spectate next",
-			"tr": ""
-		},
-		{
-			"or": "Spectate previous",
-			"tr": ""
-		},
-		{
-			"or": "Console",
-			"tr": "콘솔"
-		},
-		{
-			"or": "Remote console",
-			"tr": "원격 콘솔"
-		},
-		{
-			"or": "Screenshot",
-			"tr": "스크린샷"
-		},
-		{
-			"or": "Scoreboard",
-			"tr": "점수판"
-		},
-		{
-			"or": "Statboard",
-			"tr": ""
-		},
-		{
-			"or": "Respawn",
-			"tr": ""
-		},
-		{
-			"or": "Ready",
-			"tr": ""
-		},
-		{
-			"or": "Add demo marker",
-			"tr": ""
-		},
-		{
-			"or": "Toggle sounds",
-			"tr": ""
-		},
-		{
-			"or": "Toggle dynamic camera",
-			"tr": ""
-		},
-		{
-			"or": "Use OS mouse acceleration",
-			"tr": ""
-		},
-		{
-			"or": "In-game mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Menu mouse sens.",
-			"tr": ""
-		},
-		{
-			"or": "Enable joystick",
-			"tr": ""
-		},
-		{
-			"or": "Click to cycle through all available joysticks.",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Relative",
-			"tr": ""
-		},
-		{
-			"context": "In-game joystick mode",
-			"or": "Absolute",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick mode",
-			"tr": ""
-		},
-		{
-			"or": "In-game joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Menu/Editor joystick sensitivity",
-			"tr": ""
-		},
-		{
-			"or": "Joystick jitter tolerance",
-			"tr": ""
-		},
-		{
-			"or": "No joysticks found. Plug in a joystick and restart the game.",
-			"tr": ""
-		},
-		{
-			"or": "Configure statboard",
-			"tr": ""
-		},
-		{
-			"or": "Device",
-			"tr": ""
-		},
-		{
-			"or": "Status",
-			"tr": ""
-		},
-		{
-			"or": "Aim bind",
-			"tr": ""
-		},
-		{
-			"or": "Joystick Axis #%d",
-			"tr": ""
-		},
-		{
-			"or": "Name",
-			"tr": "이름"
-		},
-		{
-			"or": "Length",
-			"tr": ""
-		},
-		{
-			"or": "Date",
-			"tr": ""
-		},
-		{
-			"or": "Close",
-			"tr": "닫기"
-		},
-		{
-			"or": "Demofile: %s",
-			"tr": ""
-		},
-		{
-			"or": "Parent Folder",
-			"tr": "상위 폴더"
-		},
-		{
-			"or": "Folder",
-			"tr": "폴더"
-		},
-		{
-			"or": "Invalid Demo",
-			"tr": "잘못된 데모"
-		},
-		{
-			"or": "Demo details",
-			"tr": "데모 세부정보"
-		},
-		{
-			"or": "Recorded",
-			"tr": ""
-		},
-		{
-			"or": "Delete",
-			"tr": "삭제"
-		},
-		{
-			"or": "Are you sure that you want to delete the demo '%s'?",
-			"tr": ""
-		},
-		{
-			"or": "Delete demo",
-			"tr": "데모 삭제"
-		},
-		{
-			"or": "Yes",
-			"tr": "예"
-		},
-		{
-			"or": "No",
-			"tr": "아니오"
-		},
-		{
-			"or": "Rename",
-			"tr": "이름 변경"
-		},
-		{
-			"or": "Refresh",
-			"tr": "새로고침"
-		},
-		{
-			"or": "Fetch Info",
-			"tr": ""
-		},
-		{
-			"or": "Open",
-			"tr": "열기"
-		},
-		{
-			"context": "DemoBrowser",
-			"or": "Play",
-			"tr": "플레이"
-		},
-		{
-			"or": "Error",
-			"tr": "에러"
-		},
-		{
-			"or": "Unable to delete the demo",
-			"tr": "데모를 삭제할 수 없음"
-		},
-		{
-			"or": "Ok",
-			"tr": "확인"
-		},
-		{
-			"or": "Created",
-			"tr": ""
-		},
-		{
-			"or": "Type",
-			"tr": "종류"
-		},
-		{
-			"or": "Version",
-			"tr": "버전"
-		},
-		{
-			"or": "Netversion",
-			"tr": ""
-		},
-		{
-			"or": "Markers",
-			"tr": ""
-		},
-		{
-			"or": "Map",
-			"tr": "맵"
 		},
 		{
 			"or": "%.3f KiB",
 			"tr": ""
 		},
 		{
-			"or": "Size",
-			"tr": ""
-		},
-		{
-			"or": "Crc",
-			"tr": ""
-		},
-		{
-			"or": "Teams are locked",
-			"tr": ""
-		},
-		{
-			"or": "Only %d active players are allowed",
-			"tr": ""
-		},
-		{
-			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-			"tr": ""
-		},
-		{
-			"or": "Game options",
-			"tr": ""
-		},
-		{
-			"or": "locked",
-			"tr": ""
-		},
-		{
-			"or": "Spectating",
-			"tr": ""
-		},
-		{
-			"or": "Join red",
-			"tr": "레드팀에 참가"
-		},
-		{
-			"or": "Joined red",
-			"tr": ""
-		},
-		{
-			"or": "Join blue",
-			"tr": "블루팀에 참가"
-		},
-		{
-			"or": "Joined blue",
-			"tr": ""
-		},
-		{
-			"or": "Join",
-			"tr": ""
-		},
-		{
-			"or": "Joined",
-			"tr": ""
-		},
-		{
-			"or": "Disconnect",
-			"tr": "연결끊기"
-		},
-		{
-			"or": "Stop record",
-			"tr": "기록 중지"
-		},
-		{
-			"or": "Record",
-			"tr": ""
-		},
-		{
-			"or": "Player options",
-			"tr": "플레이어 옵션"
-		},
-		{
-			"or": "Player",
-			"tr": "플레이어"
-		},
-		{
-			"or": "Server info",
-			"tr": "서버 정보"
-		},
-		{
-			"or": "Address",
-			"tr": "주소"
-		},
-		{
-			"or": "Ping",
-			"tr": "핑"
-		},
-		{
-			"or": "Password",
-			"tr": "비밀번호"
-		},
-		{
-			"context": "With",
-			"or": "Yes",
-			"tr": "예"
-		},
-		{
-			"context": "Without/None",
-			"or": "No",
-			"tr": "아니오"
-		},
-		{
-			"or": "Favorite",
-			"tr": "즐겨찾기"
-		},
-		{
-			"or": "Mute broadcasts",
-			"tr": ""
-		},
-		{
-			"or": "Game info",
-			"tr": "게임 정보"
-		},
-		{
-			"or": "Game type",
-			"tr": "게임 종류"
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Casual",
-			"tr": ""
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Normal",
-			"tr": ""
-		},
-		{
-			"context": "Server difficulty",
-			"or": "Competitive",
-			"tr": ""
-		},
-		{
-			"or": "Difficulty",
-			"tr": ""
-		},
-		{
-			"or": "Score limit",
-			"tr": "점수 제한"
-		},
-		{
-			"or": "Time limit",
-			"tr": "시간 제한"
-		},
-		{
-			"or": "Players",
-			"tr": "유저수"
-		},
-		{
-			"or": "MOTD",
-			"tr": "MOTD"
-		},
-		{
-			"or": "Option",
-			"tr": ""
-		},
-		{
-			"or": "Wait for current vote to end before calling a new one.",
-			"tr": ""
-		},
-		{
-			"or": "You must wait %d seconds before making another vote",
-			"tr": ""
-		},
-		{
-			"or": "Spectators aren't allowed to start a vote.",
-			"tr": ""
-		},
-		{
-			"or": "Change settings",
-			"tr": "세팅 바꿈"
-		},
-		{
-			"or": "Kick player",
-			"tr": "플레이어 추방"
-		},
-		{
-			"or": "Move player to spectators",
-			"tr": "관전자로 플레이어 이동"
-		},
-		{
-			"or": "Server does not allow voting to kick players",
-			"tr": ""
-		},
-		{
-			"or": "Kick voting requires %d players on the server",
-			"tr": ""
-		},
-		{
-			"or": "Server does not allow voting to move players to spectators",
-			"tr": ""
-		},
-		{
-			"or": "Reason:",
-			"tr": "이유:"
-		},
-		{
-			"or": "Call vote",
-			"tr": "투표"
-		},
-		{
-			"or": "Force vote",
-			"tr": "강제 투표"
-		},
-		{
-			"or": "Remove",
-			"tr": "삭제"
-		},
-		{
-			"or": "Vote description:",
-			"tr": "투표 설명:"
-		},
-		{
-			"or": "Vote command:",
-			"tr": "투표 명령:"
-		},
-		{
-			"or": "Add",
-			"tr": "추가"
-		},
-		{
-			"or": "Settings",
-			"tr": "세팅"
-		},
-		{
-			"or": "Shutdown server",
-			"tr": ""
-		},
-		{
-			"or": "Local server",
-			"tr": ""
-		},
-		{
-			"or": "Demos",
-			"tr": "데모"
-		},
-		{
-			"or": "Editor",
-			"tr": ""
-		},
-		{
-			"or": "Play",
-			"tr": "플레이"
-		},
-		{
-			"or": "Quit",
-			"tr": "종료"
-		},
-		{
-			"or": "Teeworlds Archive %s is out! Download it at our github!",
-			"tr": ""
-		},
-		{
-			"or": "Time limit: %d min",
-			"tr": "시간 제한: %d min"
-		},
-		{
-			"context": "rounds (scoreboard)",
-			"or": "Match",
-			"tr": ""
-		},
-		{
-			"or": "Spectators",
-			"tr": "관전자"
-		},
-		{
-			"or": "Game over",
-			"tr": "게임 오버"
-		},
-		{
-			"or": "Round over",
-			"tr": ""
-		},
-		{
-			"or": "Map record",
-			"tr": ""
-		},
-		{
-			"or": "Clan",
-			"tr": "클랜"
-		},
-		{
-			"or": "Time",
-			"tr": ""
-		},
-		{
-			"or": "Score",
-			"tr": "점수"
-		},
-		{
 			"or": "%d other players",
-			"tr": ""
-		},
-		{
-			"or": "REC %3d:%02d",
-			"tr": "녹화 %3d:%02d"
-		},
-		{
-			"or": "Red team",
-			"tr": "레드팀"
-		},
-		{
-			"or": "Blue team",
-			"tr": "블루팀"
-		},
-		{
-			"or": "%s wins!",
-			"tr": "%s (이)가 이김!"
-		},
-		{
-			"or": "Draw!",
-			"tr": "무승부!"
-		},
-		{
-			"or": "Round over!",
-			"tr": ""
-		},
-		{
-			"or": "Free-View",
-			"tr": "자유 시점"
-		},
-		{
-			"or": "Suicides",
-			"tr": ""
-		},
-		{
-			"or": "Ratio",
-			"tr": ""
-		},
-		{
-			"context": "Net score",
-			"or": "Net",
-			"tr": ""
-		},
-		{
-			"or": "KPM",
-			"tr": ""
-		},
-		{
-			"or": "Spree",
-			"tr": ""
-		},
-		{
-			"or": "Best spree",
-			"tr": ""
-		},
-		{
-			"context": "Flag grabs",
-			"or": "Grabs",
-			"tr": ""
-		},
-		{
-			"or": "'%s' called vote to change server option '%s' (%s)",
-			"tr": ""
-		},
-		{
-			"or": "'%s' called for vote to kick '%s' (%s)",
-			"tr": ""
-		},
-		{
-			"or": "'%s' called for vote to move '%s' to spectators (%s)",
-			"tr": ""
-		},
-		{
-			"or": "Admin forced server option '%s' (%s)",
-			"tr": ""
-		},
-		{
-			"or": "Admin moved '%s' to spectator (%s)",
-			"tr": ""
-		},
-		{
-			"or": "Vote aborted",
-			"tr": ""
-		},
-		{
-			"or": "Admin forced vote yes",
-			"tr": ""
-		},
-		{
-			"or": "Vote passed",
-			"tr": ""
-		},
-		{
-			"or": "Admin forced vote no",
-			"tr": ""
-		},
-		{
-			"or": "Vote failed",
-			"tr": ""
-		},
-		{
-			"or": "Map changed to '%s'",
-			"tr": ""
-		},
-		{
-			"or": "All",
-			"tr": "모두"
-		},
-		{
-			"or": "Team",
-			"tr": "팀"
-		},
-		{
-			"or": "Press %s to resume chatting",
-			"tr": ""
-		},
-		{
-			"or": "Press Tab to cycle chat recipients",
-			"tr": ""
-		},
-		{
-			"or": "-Page %d/%d-",
-			"tr": ""
-		},
-		{
-			"or": "Click to copy line to clipboard.",
-			"tr": ""
-		},
-		{
-			"or": "Successfully copied",
-			"tr": ""
-		},
-		{
-			"or": "Press Enter to confirm or Esc to cancel",
-			"tr": ""
-		},
-		{
-			"or": "Press Tab to select or Esc to cancel",
-			"tr": ""
-		},
-		{
-			"or": "'%s' was muted",
-			"tr": ""
-		},
-		{
-			"or": "'%s' was unmuted",
-			"tr": ""
-		},
-		{
-			"or": "'%s' was added as a friend",
-			"tr": ""
-		},
-		{
-			"or": "'%s' was removed as a friend",
-			"tr": ""
-		},
-		{
-			"or": "Sudden Death",
-			"tr": "서든 데스"
-		},
-		{
-			"or": "Game paused",
-			"tr": ""
-		},
-		{
-			"or": "%d player not ready",
-			"tr": ""
-		},
-		{
-			"or": "%d players not ready",
-			"tr": ""
-		},
-		{
-			"or": "Game starts in",
-			"tr": ""
-		},
-		{
-			"or": "Wait for next round",
 			"tr": ""
 		},
 		{
@@ -946,168 +23,36 @@
 			"tr": ""
 		},
 		{
+			"or": "%d player not ready",
+			"tr": ""
+		},
+		{
+			"or": "%d players",
+			"tr": ""
+		},
+		{
 			"or": "%d players left",
 			"tr": ""
 		},
 		{
-			"or": "Warmup",
-			"tr": "준비"
-		},
-		{
-			"or": "waiting for more players",
+			"or": "%d players not ready",
 			"tr": ""
 		},
 		{
-			"or": "Connection Problems...",
-			"tr": "연결에 문제가 있음..."
+			"or": "%d servers",
+			"tr": ""
 		},
 		{
-			"or": "Please balance teams!",
-			"tr": "팀 밸런스!"
+			"or": "%d servers, %d players",
+			"tr": ""
+		},
+		{
+			"or": "%d%% loaded",
+			"tr": "%d%% 로딩..."
 		},
 		{
 			"or": "%ds left",
 			"tr": "%d 초 후 취소"
-		},
-		{
-			"or": "Vote Yes",
-			"tr": ""
-		},
-		{
-			"or": "Vote No",
-			"tr": ""
-		},
-		{
-			"or": "Spectate",
-			"tr": "관전"
-		},
-		{
-			"or": "Free View",
-			"tr": ""
-		},
-		{
-			"or": "Red Flag",
-			"tr": ""
-		},
-		{
-			"or": "Blue Flag",
-			"tr": ""
-		},
-		{
-			"or": "Click on a player or flag to follow it",
-			"tr": ""
-		},
-		{
-			"or": "When ready, press <%s>",
-			"tr": ""
-		},
-		{
-			"or": "Game",
-			"tr": "게임"
-		},
-		{
-			"or": "General",
-			"tr": "일반"
-		},
-		{
-			"or": "TBD",
-			"tr": ""
-		},
-		{
-			"or": "Controls",
-			"tr": "조작"
-		},
-		{
-			"or": "Graphics",
-			"tr": "그래픽"
-		},
-		{
-			"or": "Sound",
-			"tr": "소리"
-		},
-		{
-			"or": "Global",
-			"tr": ""
-		},
-		{
-			"or": "Local",
-			"tr": ""
-		},
-		{
-			"or": "Back",
-			"tr": ""
-		},
-		{
-			"or": "Sound error",
-			"tr": "소리 오류"
-		},
-		{
-			"or": "The audio device couldn't be initialised.",
-			"tr": "오디오 장치를 초기화할 수 없음"
-		},
-		{
-			"or": "Connecting to",
-			"tr": "연결 중"
-		},
-		{
-			"or": "Downloading map",
-			"tr": "맵 다운로드 중"
-		},
-		{
-			"or": "Loading demo",
-			"tr": ""
-		},
-		{
-			"or": "Language",
-			"tr": "언어"
-		},
-		{
-			"or": "Flag",
-			"tr": ""
-		},
-		{
-			"or": "Rename demo",
-			"tr": "데모 이름 변경"
-		},
-		{
-			"or": "Save skin",
-			"tr": ""
-		},
-		{
-			"or": "Password incorrect",
-			"tr": "비밀번호 오류"
-		},
-		{
-			"or": "Welcome to Teeworlds",
-			"tr": "Teeworlds 에 오신 것을 환영합니다."
-		},
-		{
-			"or": "There's an unsaved map in the editor; you may want to save it before you quit the game.",
-			"tr": ""
-		},
-		{
-			"or": "Are you sure that you want to quit?",
-			"tr": "종료하시겠습니까?"
-		},
-		{
-			"or": "Please enter the password.",
-			"tr": ""
-		},
-		{
-			"or": "Save password",
-			"tr": ""
-		},
-		{
-			"or": "Save password and server as favorite",
-			"tr": ""
-		},
-		{
-			"or": "Abort",
-			"tr": "중단"
-		},
-		{
-			"or": "Try again",
-			"tr": "재시도"
 		},
 		{
 			"or": "%i minute left",
@@ -1126,366 +71,6 @@
 			"tr": "%i 초 남음"
 		},
 		{
-			"or": "Error loading demo",
-			"tr": "데모 로딩 에러"
-		},
-		{
-			"or": "Cancel",
-			"tr": ""
-		},
-		{
-			"or": "Are you sure you want to rename the demo?",
-			"tr": ""
-		},
-		{
-			"or": "Unable to rename the demo",
-			"tr": "데모의 이름을 바꿀 수 없음"
-		},
-		{
-			"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
-			"tr": ""
-		},
-		{
-			"or": "Unable to save the skin",
-			"tr": ""
-		},
-		{
-			"or": "Unable to save the skin with a reserved name",
-			"tr": ""
-		},
-		{
-			"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
-			"tr": "다음 빈칸에 게임에서 사용할 닉네임을 입력해 주세요."
-		},
-		{
-			"or": "Nickname",
-			"tr": "닉네임"
-		},
-		{
-			"or": "Enter",
-			"tr": "입력"
-		},
-		{
-			"or": "Nickname is empty.",
-			"tr": ""
-		},
-		{
-			"or": "Disconnected",
-			"tr": "연결 끊김"
-		},
-		{
-			"or": "The server is running a non-standard tuning on a pure game type.",
-			"tr": "이 서버는 게임의 표준 형식에 비표준 설정을 사용합니다."
-		},
-		{
-			"or": "Server",
-			"tr": ""
-		},
-		{
-			"or": "Race",
-			"tr": ""
-		},
-		{
-			"or": "Favorites",
-			"tr": "즐겨찾기"
-		},
-		{
-			"or": "This server is protected by a password.",
-			"tr": ""
-		},
-		{
-			"or": "Click to remove server from favorites.",
-			"tr": ""
-		},
-		{
-			"or": "Click to add server to favorites.",
-			"tr": ""
-		},
-		{
-			"or": "Friends are online on this server.",
-			"tr": ""
-		},
-		{
-			"or": "%d servers, %d players",
-			"tr": ""
-		},
-		{
-			"or": "Are you sure that you want to remove the filter '%s' from the server browser?",
-			"tr": ""
-		},
-		{
-			"or": "Remove filter",
-			"tr": ""
-		},
-		{
-			"or": "Refreshing master servers",
-			"tr": "마스터 서버를 새로 고치는 중"
-		},
-		{
-			"or": "No filter category is selected",
-			"tr": ""
-		},
-		{
-			"or": "Fetching server info",
-			"tr": ""
-		},
-		{
-			"or": "No servers found",
-			"tr": "서버를 찾을 수 없음"
-		},
-		{
-			"or": "No local servers found (ports %d–%d)",
-			"tr": ""
-		},
-		{
-			"or": "No servers match your filter criteria",
-			"tr": "필터에 일치하는 서버가 없음"
-		},
-		{
-			"or": "Host address:",
-			"tr": ""
-		},
-		{
-			"or": "%d%% loaded",
-			"tr": "%d%% 로딩..."
-		},
-		{
-			"or": "%d servers",
-			"tr": ""
-		},
-		{
-			"or": "%d players",
-			"tr": ""
-		},
-		{
-			"or": "Double click to join your friend.",
-			"tr": ""
-		},
-		{
-			"context": "Playing '(gametype)' on '(map)'",
-			"or": "Playing '%s' on '%s'",
-			"tr": ""
-		},
-		{
-			"context": "Watching '(gametype)' on '(map)'",
-			"or": "Watching '%s' on '%s'",
-			"tr": ""
-		},
-		{
-			"or": "Click to delete this friend.",
-			"tr": ""
-		},
-		{
-			"or": "Online players (%d)",
-			"tr": ""
-		},
-		{
-			"or": "Online clanmates (%d)",
-			"tr": ""
-		},
-		{
-			"context": "friends (server browser)",
-			"or": "Offline (%d)",
-			"tr": ""
-		},
-		{
-			"or": "Add friend/clan",
-			"tr": ""
-		},
-		{
-			"or": "Add friend",
-			"tr": ""
-		},
-		{
-			"or": "Add clan",
-			"tr": ""
-		},
-		{
-			"or": "Are you sure that you want to remove the player '%s' from your friends list?",
-			"tr": ""
-		},
-		{
-			"or": "Are you sure that you want to remove the clan '%s' from your friends list?",
-			"tr": ""
-		},
-		{
-			"or": "Remove friend",
-			"tr": "친구 삭제"
-		},
-		{
-			"or": "New filter",
-			"tr": ""
-		},
-		{
-			"or": "Server filter",
-			"tr": "서버 필터"
-		},
-		{
-			"or": "Has people playing",
-			"tr": "적어도 한 플레이어"
-		},
-		{
-			"or": "Count players only",
-			"tr": "Count players only"
-		},
-		{
-			"or": "Server not full",
-			"tr": "빈 방"
-		},
-		{
-			"or": "Show friends only",
-			"tr": "친구가 있는 방"
-		},
-		{
-			"or": "Hide bots",
-			"tr": ""
-		},
-		{
-			"or": "No password",
-			"tr": "비밀번호 없음"
-		},
-		{
-			"or": "Compatible version",
-			"tr": "버전 호환"
-		},
-		{
-			"or": "Standard gametype",
-			"tr": "기본 게임 종류"
-		},
-		{
-			"or": "Standard map",
-			"tr": "기본 맵"
-		},
-		{
-			"or": "Game types:",
-			"tr": "게임 종류:"
-		},
-		{
-			"or": "Include servers with this gametype.",
-			"tr": ""
-		},
-		{
-			"or": "Exclude servers with this gametype.",
-			"tr": ""
-		},
-		{
-			"context": "clear gametype filters",
-			"or": "Clear",
-			"tr": ""
-		},
-		{
-			"or": "Maximum ping:",
-			"tr": "최대 핑"
-		},
-		{
-			"or": "Server address:",
-			"tr": "서버 주소:"
-		},
-		{
-			"or": "Flag:",
-			"tr": ""
-		},
-		{
-			"or": "Difficulty:",
-			"tr": ""
-		},
-		{
-			"or": "Reset filter",
-			"tr": "필터 초기화"
-		},
-		{
-			"or": "Server details",
-			"tr": "서버 세부정보"
-		},
-		{
-			"or": "Map:",
-			"tr": ""
-		},
-		{
-			"or": "Game type:",
-			"tr": ""
-		},
-		{
-			"or": "Version:",
-			"tr": ""
-		},
-		{
-			"or": "Click to remove the player from your friends.",
-			"tr": ""
-		},
-		{
-			"or": "Click to add the player to your friends.",
-			"tr": ""
-		},
-		{
-			"or": "Connect",
-			"tr": "연결"
-		},
-		{
-			"context": "skins",
-			"or": "body",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "marking",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "decoration",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "hands",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "feet",
-			"tr": ""
-		},
-		{
-			"context": "skins",
-			"or": "eyes",
-			"tr": ""
-		},
-		{
-			"or": "Hue:",
-			"tr": ""
-		},
-		{
-			"or": "Sat:",
-			"tr": ""
-		},
-		{
-			"or": "Lgt:",
-			"tr": ""
-		},
-		{
-			"or": "Alp:",
-			"tr": ""
-		},
-		{
-			"or": "Skins",
-			"tr": "스킨"
-		},
-		{
-			"or": "Theme",
-			"tr": ""
-		},
-		{
-			"context": "Theme",
-			"or": "(none)",
-			"tr": ""
-		},
-		{
-			"context": "Theme",
-			"or": "(automatic)",
-			"tr": ""
-		},
-		{
 			"context": "Theme",
 			"or": "%s (day)",
 			"tr": ""
@@ -1496,31 +81,658 @@
 			"tr": ""
 		},
 		{
-			"or": "Dynamic Camera",
-			"tr": "다이내믹 카메라"
-		},
-		{
-			"or": "Smooth Camera",
+			"or": "%s is muted by you",
 			"tr": ""
 		},
 		{
-			"or": "Switch weapon on pickup",
-			"tr": "획득한 무기로 교체"
+			"or": "%s wins!",
+			"tr": "%s (이)가 이김!"
 		},
 		{
-			"or": "Show name plates",
-			"tr": "이름 표시"
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' entered and joined the blue team",
+			"tr": ""
+		},
+		{
+			"or": "'%s' entered and joined the game",
+			"tr": ""
+		},
+		{
+			"or": "'%s' entered and joined the red team",
+			"tr": ""
+		},
+		{
+			"or": "'%s' entered and joined the spectators",
+			"tr": ""
+		},
+		{
+			"or": "'%s' finished in: %s",
+			"tr": ""
+		},
+		{
+			"or": "'%s' has left the game",
+			"tr": ""
+		},
+		{
+			"or": "'%s' has left the game (%s)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' has set a new map record: %s",
+			"tr": ""
+		},
+		{
+			"or": "'%s' has set a new personal record: %s",
+			"tr": ""
+		},
+		{
+			"or": "'%s' initiated a pause",
+			"tr": ""
+		},
+		{
+			"or": "'%s' joined the blue team",
+			"tr": ""
+		},
+		{
+			"or": "'%s' joined the game",
+			"tr": ""
+		},
+		{
+			"or": "'%s' joined the red team",
+			"tr": ""
+		},
+		{
+			"or": "'%s' joined the spectators",
+			"tr": ""
+		},
+		{
+			"or": "'%s' was added as a friend",
+			"tr": ""
+		},
+		{
+			"or": "'%s' was muted",
+			"tr": ""
+		},
+		{
+			"or": "'%s' was removed as a friend",
+			"tr": ""
+		},
+		{
+			"or": "'%s' was unmuted",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "(automatic)",
+			"tr": ""
+		},
+		{
+			"context": "Theme",
+			"or": "(none)",
+			"tr": ""
+		},
+		{
+			"or": "-Page %d-",
+			"tr": "-Page %d-"
+		},
+		{
+			"or": "-Page %d/%d-",
+			"tr": ""
+		},
+		{
+			"or": "Abort",
+			"tr": "중단"
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Absolute",
+			"tr": ""
+		},
+		{
+			"or": "Add",
+			"tr": "추가"
+		},
+		{
+			"or": "Add clan",
+			"tr": ""
+		},
+		{
+			"or": "Add demo marker",
+			"tr": ""
+		},
+		{
+			"or": "Add friend",
+			"tr": ""
+		},
+		{
+			"or": "Add friend/clan",
+			"tr": ""
+		},
+		{
+			"or": "Address",
+			"tr": "주소"
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": ""
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": ""
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": ""
+		},
+		{
+			"or": "Aim bind",
+			"tr": ""
+		},
+		{
+			"or": "All",
+			"tr": "모두"
+		},
+		{
+			"or": "All players were moved to the blue team",
+			"tr": ""
+		},
+		{
+			"or": "All players were moved to the game",
+			"tr": ""
+		},
+		{
+			"or": "All players were moved to the red team",
+			"tr": ""
+		},
+		{
+			"or": "All players were moved to the spectators",
+			"tr": ""
+		},
+		{
+			"or": "Alp:",
+			"tr": ""
 		},
 		{
 			"or": "Always show name plates",
 			"tr": "항상 이름표시"
 		},
 		{
-			"or": "Use team colors for name plates",
-			"tr": "이름에 팀 컬러 사용"
+			"or": "Anti Aliasing",
+			"tr": ""
 		},
 		{
-			"or": "Show in-game HUD",
+			"or": "Are you sure that you want to delete the demo '%s'?",
+			"tr": ""
+		},
+		{
+			"or": "Are you sure that you want to delete the skin '%s'?",
+			"tr": ""
+		},
+		{
+			"or": "Are you sure that you want to quit?",
+			"tr": "종료하시겠습니까?"
+		},
+		{
+			"or": "Are you sure that you want to remove the clan '%s' from your friends list?",
+			"tr": ""
+		},
+		{
+			"or": "Are you sure that you want to remove the filter '%s' from the server browser?",
+			"tr": ""
+		},
+		{
+			"or": "Are you sure that you want to remove the player '%s' from your friends list?",
+			"tr": ""
+		},
+		{
+			"or": "Are you sure that you want to reset the controls to their defaults?",
+			"tr": ""
+		},
+		{
+			"or": "Are you sure that you want to reset the general settings to their defaults?",
+			"tr": ""
+		},
+		{
+			"or": "Are you sure that you want to reset the graphics settings to their defaults?",
+			"tr": ""
+		},
+		{
+			"or": "Are you sure that you want to reset the sound settings to their defaults?",
+			"tr": ""
+		},
+		{
+			"or": "Are you sure you want to rename the demo?",
+			"tr": ""
+		},
+		{
+			"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
+			"tr": ""
+		},
+		{
+			"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
+			"tr": "다음 빈칸에 게임에서 사용할 닉네임을 입력해 주세요."
+		},
+		{
+			"or": "Automatically record demos",
+			"tr": "자동으로 데모 기록"
+		},
+		{
+			"or": "Automatically take game over screenshot",
+			"tr": "자동으로 게임 종료 스크린샷 저장"
+		},
+		{
+			"or": "Back",
+			"tr": ""
+		},
+		{
+			"or": "Basic",
+			"tr": ""
+		},
+		{
+			"or": "Best spree",
+			"tr": ""
+		},
+		{
+			"or": "Blue Flag",
+			"tr": ""
+		},
+		{
+			"or": "Blue team",
+			"tr": "블루팀"
+		},
+		{
+			"or": "Borderless window",
+			"tr": ""
+		},
+		{
+			"or": "Call vote",
+			"tr": "투표"
+		},
+		{
+			"or": "Cancel",
+			"tr": ""
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Casual",
+			"tr": ""
+		},
+		{
+			"or": "Change settings",
+			"tr": "세팅 바꿈"
+		},
+		{
+			"or": "Chat",
+			"tr": "채팅"
+		},
+		{
+			"or": "Clan",
+			"tr": "클랜"
+		},
+		{
+			"context": "clear gametype filters",
+			"or": "Clear",
+			"tr": ""
+		},
+		{
+			"or": "Click on a player or flag to follow it",
+			"tr": ""
+		},
+		{
+			"or": "Click to add server to favorites.",
+			"tr": ""
+		},
+		{
+			"or": "Click to add the player to your friends.",
+			"tr": ""
+		},
+		{
+			"or": "Click to copy line to clipboard.",
+			"tr": ""
+		},
+		{
+			"or": "Click to cycle through all available joysticks.",
+			"tr": ""
+		},
+		{
+			"or": "Click to delete this friend.",
+			"tr": ""
+		},
+		{
+			"or": "Click to remove server from favorites.",
+			"tr": ""
+		},
+		{
+			"or": "Click to remove the player from your friends.",
+			"tr": ""
+		},
+		{
+			"or": "Client",
+			"tr": "클라이언트"
+		},
+		{
+			"or": "Close",
+			"tr": "닫기"
+		},
+		{
+			"or": "Compatible version",
+			"tr": "버전 호환"
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Competitive",
+			"tr": ""
+		},
+		{
+			"or": "Configure statboard",
+			"tr": ""
+		},
+		{
+			"or": "Connect",
+			"tr": "연결"
+		},
+		{
+			"or": "Connecting to",
+			"tr": "연결 중"
+		},
+		{
+			"or": "Connection Problems...",
+			"tr": "연결에 문제가 있음..."
+		},
+		{
+			"or": "Console",
+			"tr": "콘솔"
+		},
+		{
+			"or": "Controls",
+			"tr": "조작"
+		},
+		{
+			"or": "Count players only",
+			"tr": "Count players only"
+		},
+		{
+			"or": "Crc",
+			"tr": ""
+		},
+		{
+			"or": "Created",
+			"tr": ""
+		},
+		{
+			"or": "Current spree",
+			"tr": ""
+		},
+		{
+			"or": "Current: %dx%d (%d:%d)",
+			"tr": ""
+		},
+		{
+			"or": "Custom",
+			"tr": ""
+		},
+		{
+			"or": "Custom colors",
+			"tr": "사용자 정의 색상"
+		},
+		{
+			"or": "Customize",
+			"tr": ""
+		},
+		{
+			"or": "Date",
+			"tr": ""
+		},
+		{
+			"or": "Deaths",
+			"tr": ""
+		},
+		{
+			"or": "Delete",
+			"tr": "삭제"
+		},
+		{
+			"or": "Delete demo",
+			"tr": "데모 삭제"
+		},
+		{
+			"or": "Delete skin",
+			"tr": ""
+		},
+		{
+			"or": "Demo details",
+			"tr": "데모 세부정보"
+		},
+		{
+			"or": "Demofile: %s",
+			"tr": ""
+		},
+		{
+			"or": "Demos",
+			"tr": "데모"
+		},
+		{
+			"or": "Detail",
+			"tr": ""
+		},
+		{
+			"or": "Device",
+			"tr": ""
+		},
+		{
+			"or": "Difficulty",
+			"tr": ""
+		},
+		{
+			"or": "Difficulty:",
+			"tr": ""
+		},
+		{
+			"or": "Disable whisper feature",
+			"tr": ""
+		},
+		{
+			"or": "Disconnect",
+			"tr": "연결끊기"
+		},
+		{
+			"or": "Disconnected",
+			"tr": "연결 끊김"
+		},
+		{
+			"or": "Double click to join your friend.",
+			"tr": ""
+		},
+		{
+			"or": "Downloading map",
+			"tr": "맵 다운로드 중"
+		},
+		{
+			"or": "Draw!",
+			"tr": "무승부!"
+		},
+		{
+			"or": "Dynamic Camera",
+			"tr": "다이내믹 카메라"
+		},
+		{
+			"or": "Editor",
+			"tr": ""
+		},
+		{
+			"or": "Emoticon",
+			"tr": "이모티콘"
+		},
+		{
+			"or": "Enable OpenGL ES",
+			"tr": ""
+		},
+		{
+			"or": "Enable colored server broadcasts",
+			"tr": ""
+		},
+		{
+			"or": "Enable joystick",
+			"tr": ""
+		},
+		{
+			"or": "Enter",
+			"tr": "입력"
+		},
+		{
+			"or": "Error",
+			"tr": "에러"
+		},
+		{
+			"or": "Error loading demo",
+			"tr": "데모 로딩 에러"
+		},
+		{
+			"or": "Exclude servers with this gametype.",
+			"tr": ""
+		},
+		{
+			"or": "Favorite",
+			"tr": "즐겨찾기"
+		},
+		{
+			"or": "Favorites",
+			"tr": "즐겨찾기"
+		},
+		{
+			"or": "Fetch Info",
+			"tr": ""
+		},
+		{
+			"or": "Fetching server info",
+			"tr": ""
+		},
+		{
+			"or": "Fire",
+			"tr": "발사"
+		},
+		{
+			"or": "Flag",
+			"tr": ""
+		},
+		{
+			"or": "Flag captures",
+			"tr": ""
+		},
+		{
+			"or": "Flag grabs",
+			"tr": ""
+		},
+		{
+			"or": "Flag:",
+			"tr": ""
+		},
+		{
+			"or": "Folder",
+			"tr": "폴더"
+		},
+		{
+			"or": "Force vote",
+			"tr": "강제 투표"
+		},
+		{
+			"or": "Free View",
+			"tr": ""
+		},
+		{
+			"or": "Free-View",
+			"tr": "자유 시점"
+		},
+		{
+			"or": "Friends are online on this server.",
+			"tr": ""
+		},
+		{
+			"or": "Fullscreen",
+			"tr": "전체화면"
+		},
+		{
+			"or": "Game",
+			"tr": "게임"
+		},
+		{
+			"or": "Game info",
+			"tr": "게임 정보"
+		},
+		{
+			"or": "Game options",
+			"tr": ""
+		},
+		{
+			"or": "Game over",
+			"tr": "게임 오버"
+		},
+		{
+			"or": "Game paused",
+			"tr": ""
+		},
+		{
+			"or": "Game starts in",
+			"tr": ""
+		},
+		{
+			"or": "Game type",
+			"tr": "게임 종류"
+		},
+		{
+			"or": "Game type:",
+			"tr": ""
+		},
+		{
+			"or": "Game types:",
+			"tr": "게임 종류:"
+		},
+		{
+			"or": "General",
+			"tr": "일반"
+		},
+		{
+			"or": "Global",
+			"tr": ""
+		},
+		{
+			"context": "Flag grabs",
+			"or": "Grabs",
+			"tr": ""
+		},
+		{
+			"or": "Graphics",
+			"tr": "그래픽"
+		},
+		{
+			"or": "Grenade",
+			"tr": "유탄 발사기"
+		},
+		{
+			"or": "Hammer",
+			"tr": "해머"
+		},
+		{
+			"or": "Has people playing",
+			"tr": "적어도 한 플레이어"
+		},
+		{
+			"or": "Hide bots",
 			"tr": ""
 		},
 		{
@@ -1528,11 +740,1087 @@
 			"tr": ""
 		},
 		{
+			"or": "High Detail",
+			"tr": "자세한 내용"
+		},
+		{
+			"or": "Hook",
+			"tr": "갈고리"
+		},
+		{
+			"or": "Host address:",
+			"tr": ""
+		},
+		{
+			"or": "Hue:",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick mode",
+			"tr": ""
+		},
+		{
+			"or": "In-game joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "In-game mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Include servers with this gametype.",
+			"tr": ""
+		},
+		{
+			"or": "Invalid Demo",
+			"tr": "잘못된 데모"
+		},
+		{
+			"or": "Join",
+			"tr": ""
+		},
+		{
+			"or": "Join blue",
+			"tr": "블루팀에 참가"
+		},
+		{
+			"or": "Join red",
+			"tr": "레드팀에 참가"
+		},
+		{
+			"or": "Joined",
+			"tr": ""
+		},
+		{
+			"or": "Joined blue",
+			"tr": ""
+		},
+		{
+			"or": "Joined red",
+			"tr": ""
+		},
+		{
+			"or": "Joystick",
+			"tr": ""
+		},
+		{
+			"or": "Joystick Axis #%d",
+			"tr": ""
+		},
+		{
+			"or": "Joystick jitter tolerance",
+			"tr": ""
+		},
+		{
+			"or": "Jump",
+			"tr": "점프"
+		},
+		{
+			"or": "KPM",
+			"tr": ""
+		},
+		{
+			"or": "Kick player",
+			"tr": "플레이어 추방"
+		},
+		{
+			"or": "Kick voting requires %d players on the server",
+			"tr": ""
+		},
+		{
+			"or": "Kills",
+			"tr": ""
+		},
+		{
+			"or": "Kills per minute",
+			"tr": ""
+		},
+		{
+			"or": "Language",
+			"tr": "언어"
+		},
+		{
+			"or": "Laser",
+			"tr": ""
+		},
+		{
+			"or": "Length",
+			"tr": ""
+		},
+		{
+			"or": "Lgt:",
+			"tr": ""
+		},
+		{
+			"or": "Limit Fps",
+			"tr": ""
+		},
+		{
+			"or": "Load the sound system",
+			"tr": ""
+		},
+		{
+			"or": "Loading demo",
+			"tr": ""
+		},
+		{
+			"or": "Local",
+			"tr": ""
+		},
+		{
+			"or": "Local server",
+			"tr": ""
+		},
+		{
+			"or": "MOTD",
+			"tr": "MOTD"
+		},
+		{
+			"or": "Map",
+			"tr": "맵"
+		},
+		{
+			"or": "Map changed to '%s'",
+			"tr": ""
+		},
+		{
+			"or": "Map record",
+			"tr": ""
+		},
+		{
+			"or": "Map:",
+			"tr": ""
+		},
+		{
+			"or": "Markers",
+			"tr": ""
+		},
+		{
+			"context": "rounds (scoreboard)",
+			"or": "Match",
+			"tr": ""
+		},
+		{
+			"or": "Max",
+			"tr": ""
+		},
+		{
+			"or": "Max fps",
+			"tr": ""
+		},
+		{
+			"or": "Maximum ping:",
+			"tr": "최대 핑"
+		},
+		{
+			"or": "Menu background opacity",
+			"tr": ""
+		},
+		{
+			"or": "Menu mouse sens.",
+			"tr": ""
+		},
+		{
+			"or": "Menu/Editor joystick sensitivity",
+			"tr": ""
+		},
+		{
+			"or": "Misc",
+			"tr": ""
+		},
+		{
+			"or": "Mouse",
+			"tr": ""
+		},
+		{
+			"or": "Move left",
+			"tr": "왼쪽으로 이동"
+		},
+		{
+			"or": "Move player to spectators",
+			"tr": "관전자로 플레이어 이동"
+		},
+		{
+			"or": "Move right",
+			"tr": "오른쪽으로 이동"
+		},
+		{
+			"or": "Movement",
+			"tr": "이동"
+		},
+		{
+			"or": "Mute broadcasts",
+			"tr": ""
+		},
+		{
+			"or": "Mute when window is inactive",
+			"tr": ""
+		},
+		{
+			"or": "Name",
+			"tr": "이름"
+		},
+		{
+			"context": "Net score",
+			"or": "Net",
+			"tr": ""
+		},
+		{
+			"or": "Net score",
+			"tr": ""
+		},
+		{
+			"or": "Netversion",
+			"tr": ""
+		},
+		{
+			"or": "New filter",
+			"tr": ""
+		},
+		{
+			"or": "Next weapon",
+			"tr": "다음 무기"
+		},
+		{
+			"or": "Nickname",
+			"tr": "닉네임"
+		},
+		{
+			"or": "Nickname is empty.",
+			"tr": ""
+		},
+		{
+			"or": "No",
+			"tr": "아니오"
+		},
+		{
+			"context": "Without/None",
+			"or": "No",
+			"tr": "아니오"
+		},
+		{
+			"or": "No filter category is selected",
+			"tr": ""
+		},
+		{
+			"or": "No joysticks found. Plug in a joystick and restart the game.",
+			"tr": ""
+		},
+		{
+			"or": "No local servers found (ports %d–%d)",
+			"tr": ""
+		},
+		{
+			"or": "No password",
+			"tr": "비밀번호 없음"
+		},
+		{
+			"or": "No servers found",
+			"tr": "서버를 찾을 수 없음"
+		},
+		{
+			"or": "No servers match your filter criteria",
+			"tr": "필터에 일치하는 서버가 없음"
+		},
+		{
+			"context": "Server difficulty",
+			"or": "Normal",
+			"tr": ""
+		},
+		{
+			"or": "Normal:",
+			"tr": ""
+		},
+		{
+			"context": "friends (server browser)",
+			"or": "Offline (%d)",
+			"tr": ""
+		},
+		{
+			"or": "Ok",
+			"tr": "확인"
+		},
+		{
+			"or": "Online clanmates (%d)",
+			"tr": ""
+		},
+		{
+			"or": "Online players (%d)",
+			"tr": ""
+		},
+		{
+			"or": "Only %d active players are allowed",
+			"tr": ""
+		},
+		{
+			"or": "Open",
+			"tr": "열기"
+		},
+		{
+			"or": "Option",
+			"tr": ""
+		},
+		{
+			"or": "Other",
+			"tr": ""
+		},
+		{
+			"or": "Parent Folder",
+			"tr": "상위 폴더"
+		},
+		{
+			"or": "Password",
+			"tr": "비밀번호"
+		},
+		{
+			"or": "Password incorrect",
+			"tr": "비밀번호 오류"
+		},
+		{
+			"or": "Personal",
+			"tr": ""
+		},
+		{
+			"or": "Ping",
+			"tr": "핑"
+		},
+		{
+			"or": "Pistol",
+			"tr": "권총"
+		},
+		{
+			"context": "DemoBrowser",
+			"or": "Play",
+			"tr": "플레이"
+		},
+		{
+			"or": "Play",
+			"tr": "플레이"
+		},
+		{
+			"or": "Play background music",
+			"tr": ""
+		},
+		{
+			"or": "Player",
+			"tr": "플레이어"
+		},
+		{
+			"or": "Player options",
+			"tr": "플레이어 옵션"
+		},
+		{
+			"or": "Players",
+			"tr": "유저수"
+		},
+		{
+			"context": "Playing '(gametype)' on '(map)'",
+			"or": "Playing '%s' on '%s'",
+			"tr": ""
+		},
+		{
+			"or": "Please balance teams!",
+			"tr": "팀 밸런스!"
+		},
+		{
+			"or": "Please enter the password.",
+			"tr": ""
+		},
+		{
+			"or": "Press %s to resume chatting",
+			"tr": ""
+		},
+		{
+			"or": "Press Enter to confirm or Esc to cancel",
+			"tr": ""
+		},
+		{
+			"or": "Press Tab to cycle chat recipients",
+			"tr": ""
+		},
+		{
+			"or": "Press Tab to select or Esc to cancel",
+			"tr": ""
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "이전 무기"
+		},
+		{
+			"or": "Quality Textures",
+			"tr": "텍스처 품질"
+		},
+		{
+			"or": "Quit",
+			"tr": "종료"
+		},
+		{
+			"or": "REC %3d:%02d",
+			"tr": "녹화 %3d:%02d"
+		},
+		{
+			"or": "Race",
+			"tr": ""
+		},
+		{
+			"or": "Randomize",
+			"tr": ""
+		},
+		{
+			"or": "Ratio",
+			"tr": ""
+		},
+		{
+			"or": "Ready",
+			"tr": ""
+		},
+		{
+			"or": "Reason:",
+			"tr": "이유:"
+		},
+		{
+			"or": "Recommended",
+			"tr": ""
+		},
+		{
+			"or": "Record",
+			"tr": ""
+		},
+		{
+			"or": "Recorded",
+			"tr": ""
+		},
+		{
+			"or": "Red Flag",
+			"tr": ""
+		},
+		{
+			"or": "Red team",
+			"tr": "레드팀"
+		},
+		{
+			"or": "Refresh",
+			"tr": "새로고침"
+		},
+		{
+			"or": "Refreshing master servers",
+			"tr": "마스터 서버를 새로 고치는 중"
+		},
+		{
+			"context": "In-game joystick mode",
+			"or": "Relative",
+			"tr": ""
+		},
+		{
+			"or": "Remote console",
+			"tr": "원격 콘솔"
+		},
+		{
+			"or": "Remove",
+			"tr": "삭제"
+		},
+		{
+			"or": "Remove filter",
+			"tr": ""
+		},
+		{
+			"or": "Remove friend",
+			"tr": "친구 삭제"
+		},
+		{
+			"or": "Rename",
+			"tr": "이름 변경"
+		},
+		{
+			"or": "Rename demo",
+			"tr": "데모 이름 변경"
+		},
+		{
+			"or": "Reset",
+			"tr": ""
+		},
+		{
+			"or": "Reset controls",
+			"tr": ""
+		},
+		{
+			"or": "Reset filter",
+			"tr": "필터 초기화"
+		},
+		{
+			"or": "Reset general settings",
+			"tr": ""
+		},
+		{
+			"or": "Reset graphics settings",
+			"tr": ""
+		},
+		{
+			"or": "Reset sound settings",
+			"tr": ""
+		},
+		{
+			"or": "Resolution",
+			"tr": ""
+		},
+		{
+			"or": "Respawn",
+			"tr": ""
+		},
+		{
+			"or": "Round over",
+			"tr": ""
+		},
+		{
+			"or": "Round over!",
+			"tr": ""
+		},
+		{
+			"or": "Sample rate",
+			"tr": "샘플링 속도"
+		},
+		{
+			"or": "Sat:",
+			"tr": ""
+		},
+		{
+			"or": "Save",
+			"tr": ""
+		},
+		{
+			"or": "Save password",
+			"tr": ""
+		},
+		{
+			"or": "Save password and server as favorite",
+			"tr": ""
+		},
+		{
+			"or": "Save skin",
+			"tr": ""
+		},
+		{
+			"or": "Score",
+			"tr": "점수"
+		},
+		{
+			"or": "Score limit",
+			"tr": "점수 제한"
+		},
+		{
+			"or": "Scoreboard",
+			"tr": "점수판"
+		},
+		{
+			"or": "Screen",
+			"tr": ""
+		},
+		{
+			"or": "Screen:",
+			"tr": ""
+		},
+		{
+			"or": "Screenshot",
+			"tr": "스크린샷"
+		},
+		{
+			"or": "Screenshot '%s' has been copied to clipboard!",
+			"tr": ""
+		},
+		{
+			"or": "Screenshot failed",
+			"tr": ""
+		},
+		{
+			"or": "Search:",
+			"tr": ""
+		},
+		{
+			"or": "Server",
+			"tr": ""
+		},
+		{
+			"or": "Server address:",
+			"tr": "서버 주소:"
+		},
+		{
+			"or": "Server details",
+			"tr": "서버 세부정보"
+		},
+		{
+			"or": "Server does not allow voting to kick players",
+			"tr": ""
+		},
+		{
+			"or": "Server does not allow voting to move players to spectators",
+			"tr": ""
+		},
+		{
+			"or": "Server filter",
+			"tr": "서버 필터"
+		},
+		{
+			"or": "Server info",
+			"tr": "서버 정보"
+		},
+		{
+			"or": "Server not full",
+			"tr": "빈 방"
+		},
+		{
+			"or": "Settings",
+			"tr": "세팅"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "샷건"
+		},
+		{
+			"or": "Show chat",
+			"tr": "채팅 보기"
+		},
+		{
+			"or": "Show chat messages from",
+			"tr": ""
+		},
+		{
+			"or": "Show friends only",
+			"tr": "친구가 있는 방"
+		},
+		{
+			"or": "Show in-game HUD",
+			"tr": ""
+		},
+		{
+			"or": "Show name plates",
+			"tr": "이름 표시"
+		},
+		{
+			"or": "Show social",
+			"tr": ""
+		},
+		{
 			"or": "Show user IDs",
 			"tr": ""
 		},
 		{
-			"or": "Show social",
+			"or": "Shutdown server",
+			"tr": ""
+		},
+		{
+			"or": "Size",
+			"tr": ""
+		},
+		{
+			"or": "Skins",
+			"tr": "스킨"
+		},
+		{
+			"or": "Skip the main menu",
+			"tr": ""
+		},
+		{
+			"or": "Smooth Camera",
+			"tr": ""
+		},
+		{
+			"or": "Some map sounds could not be loaded. Check the local console for details.",
+			"tr": ""
+		},
+		{
+			"or": "Sound",
+			"tr": "소리"
+		},
+		{
+			"or": "Sound error",
+			"tr": "소리 오류"
+		},
+		{
+			"or": "Spectate",
+			"tr": "관전"
+		},
+		{
+			"or": "Spectate next",
+			"tr": ""
+		},
+		{
+			"or": "Spectate previous",
+			"tr": ""
+		},
+		{
+			"or": "Spectating",
+			"tr": ""
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "관전 모드"
+		},
+		{
+			"or": "Spectators",
+			"tr": "관전자"
+		},
+		{
+			"or": "Spectators aren't allowed to start a vote.",
+			"tr": ""
+		},
+		{
+			"or": "Spree",
+			"tr": ""
+		},
+		{
+			"or": "Standard gametype",
+			"tr": "기본 게임 종류"
+		},
+		{
+			"or": "Standard map",
+			"tr": "기본 맵"
+		},
+		{
+			"or": "Statboard",
+			"tr": ""
+		},
+		{
+			"or": "Status",
+			"tr": ""
+		},
+		{
+			"or": "Stop record",
+			"tr": "기록 중지"
+		},
+		{
+			"or": "Successfully copied",
+			"tr": ""
+		},
+		{
+			"or": "Sudden Death",
+			"tr": "서든 데스"
+		},
+		{
+			"or": "Suicides",
+			"tr": ""
+		},
+		{
+			"or": "Switch weapon on pickup",
+			"tr": "획득한 무기로 교체"
+		},
+		{
+			"or": "TBD",
+			"tr": ""
+		},
+		{
+			"or": "Team",
+			"tr": "팀"
+		},
+		{
+			"or": "Team chat",
+			"tr": "팀 채팅"
+		},
+		{
+			"or": "Team:",
+			"tr": ""
+		},
+		{
+			"or": "Teams are locked",
+			"tr": ""
+		},
+		{
+			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
+			"tr": ""
+		},
+		{
+			"or": "Teams have been balanced",
+			"tr": ""
+		},
+		{
+			"or": "Teams were locked",
+			"tr": ""
+		},
+		{
+			"or": "Teams were shuffled",
+			"tr": ""
+		},
+		{
+			"or": "Teams were swapped",
+			"tr": ""
+		},
+		{
+			"or": "Teams were unlocked",
+			"tr": ""
+		},
+		{
+			"or": "Tee",
+			"tr": ""
+		},
+		{
+			"or": "Teeworlds Archive %s is out! Download it at our github!",
+			"tr": ""
+		},
+		{
+			"or": "Texture",
+			"tr": ""
+		},
+		{
+			"or": "Texture Compression",
+			"tr": "텍스처 압축"
+		},
+		{
+			"or": "The audio device couldn't be initialised.",
+			"tr": "오디오 장치를 초기화할 수 없음"
+		},
+		{
+			"or": "The blue flag was captured by '%s'",
+			"tr": ""
+		},
+		{
+			"or": "The blue flag was captured by '%s' (%.2f seconds)",
+			"tr": ""
+		},
+		{
+			"or": "The game has been cancelled",
+			"tr": ""
+		},
+		{
+			"or": "The number of kills minus the number of deaths.",
+			"tr": ""
+		},
+		{
+			"or": "The number of times that the flag was captured in CTF (100 points).",
+			"tr": ""
+		},
+		{
+			"or": "The number of times that the flag was touched in CTF (1 point).",
+			"tr": ""
+		},
+		{
+			"or": "The proportion of kills gotten with each weapon.",
+			"tr": ""
+		},
+		{
+			"or": "The ratio of kills to deaths.",
+			"tr": ""
+		},
+		{
+			"or": "The red flag was captured by '%s'",
+			"tr": ""
+		},
+		{
+			"or": "The red flag was captured by '%s' (%.2f seconds)",
+			"tr": ""
+		},
+		{
+			"or": "The server is running a non-standard tuning on a pure game type.",
+			"tr": "이 서버는 게임의 표준 형식에 비표준 설정을 사용합니다."
+		},
+		{
+			"or": "Theme",
+			"tr": ""
+		},
+		{
+			"or": "There's an unsaved map in the editor; you may want to save it before you quit the game.",
+			"tr": ""
+		},
+		{
+			"or": "This server is protected by a password.",
+			"tr": ""
+		},
+		{
+			"or": "Time",
+			"tr": ""
+		},
+		{
+			"or": "Time limit",
+			"tr": "시간 제한"
+		},
+		{
+			"or": "Time limit: %d min",
+			"tr": "시간 제한: %d min"
+		},
+		{
+			"or": "Toggle dynamic camera",
+			"tr": ""
+		},
+		{
+			"or": "Toggle sounds",
+			"tr": ""
+		},
+		{
+			"or": "Try again",
+			"tr": "재시도"
+		},
+		{
+			"or": "Type",
+			"tr": "종류"
+		},
+		{
+			"or": "Unable to delete the demo",
+			"tr": "데모를 삭제할 수 없음"
+		},
+		{
+			"or": "Unable to delete the skin",
+			"tr": ""
+		},
+		{
+			"or": "Unable to rename the demo",
+			"tr": "데모의 이름을 바꿀 수 없음"
+		},
+		{
+			"or": "Unable to save the skin",
+			"tr": ""
+		},
+		{
+			"or": "Unable to save the skin with a reserved name",
+			"tr": ""
+		},
+		{
+			"or": "Use OS mouse acceleration",
+			"tr": ""
+		},
+		{
+			"or": "Use sounds",
+			"tr": "소리 사용"
+		},
+		{
+			"or": "Use team colors for name plates",
+			"tr": "이름에 팀 컬러 사용"
+		},
+		{
+			"or": "V-Sync",
+			"tr": "V-Sync"
+		},
+		{
+			"or": "Version",
+			"tr": "버전"
+		},
+		{
+			"or": "Version:",
+			"tr": ""
+		},
+		{
+			"or": "Volume",
+			"tr": ""
+		},
+		{
+			"or": "Vote No",
+			"tr": ""
+		},
+		{
+			"or": "Vote Yes",
+			"tr": ""
+		},
+		{
+			"or": "Vote aborted",
+			"tr": ""
+		},
+		{
+			"or": "Vote command:",
+			"tr": "투표 명령:"
+		},
+		{
+			"or": "Vote description:",
+			"tr": "투표 설명:"
+		},
+		{
+			"or": "Vote failed",
+			"tr": ""
+		},
+		{
+			"or": "Vote no",
+			"tr": "아니오"
+		},
+		{
+			"or": "Vote passed",
+			"tr": ""
+		},
+		{
+			"or": "Vote yes",
+			"tr": "예"
+		},
+		{
+			"or": "Voting",
+			"tr": "투표 중"
+		},
+		{
+			"or": "Wait for current vote to end before calling a new one.",
+			"tr": ""
+		},
+		{
+			"or": "Wait for next round",
+			"tr": ""
+		},
+		{
+			"or": "Warmup",
+			"tr": "준비"
+		},
+		{
+			"context": "Watching '(gametype)' on '(map)'",
+			"or": "Watching '%s' on '%s'",
+			"tr": ""
+		},
+		{
+			"or": "Weapon",
+			"tr": "무기"
+		},
+		{
+			"or": "Weapons stats",
+			"tr": ""
+		},
+		{
+			"or": "Welcome to Teeworlds",
+			"tr": "Teeworlds 에 오신 것을 환영합니다."
+		},
+		{
+			"or": "When ready, press <%s>",
+			"tr": ""
+		},
+		{
+			"or": "Whisper",
+			"tr": ""
+		},
+		{
+			"or": "Wide menu",
+			"tr": ""
+		},
+		{
+			"or": "Yes",
+			"tr": "예"
+		},
+		{
+			"context": "With",
+			"or": "Yes",
+			"tr": "예"
+		},
+		{
+			"or": "You have to wait %1.0f seconds to change identity.",
+			"tr": ""
+		},
+		{
+			"or": "You must reconnect to change identity.",
+			"tr": ""
+		},
+		{
+			"or": "You must restart the game for all settings to take effect.",
+			"tr": "설정을 적용하기 위해선 게임을 다시 시작해야 합니다."
+		},
+		{
+			"or": "You must wait %d seconds before making another vote",
+			"tr": ""
+		},
+		{
+			"or": "You were moved to the blue team due to team balancing",
+			"tr": ""
+		},
+		{
+			"or": "You were moved to the red team due to team balancing",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "body",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "decoration",
 			"tr": ""
 		},
 		{
@@ -1541,8 +1829,36 @@
 			"tr": ""
 		},
 		{
+			"context": "skins",
+			"or": "eyes",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "feet",
+			"tr": ""
+		},
+		{
 			"context": "Show chat messages from",
 			"or": "friends only",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "hands",
+			"tr": ""
+		},
+		{
+			"or": "key not found",
+			"tr": ""
+		},
+		{
+			"or": "locked",
+			"tr": ""
+		},
+		{
+			"context": "skins",
+			"or": "marking",
 			"tr": ""
 		},
 		{
@@ -1551,315 +1867,7 @@
 			"tr": ""
 		},
 		{
-			"or": "Show chat messages from",
-			"tr": ""
-		},
-		{
-			"or": "Enable colored server broadcasts",
-			"tr": ""
-		},
-		{
-			"or": "Disable whisper feature",
-			"tr": ""
-		},
-		{
-			"or": "Client",
-			"tr": "클라이언트"
-		},
-		{
-			"or": "Skip the main menu",
-			"tr": ""
-		},
-		{
-			"or": "Wide menu",
-			"tr": ""
-		},
-		{
-			"or": "Menu background opacity",
-			"tr": ""
-		},
-		{
-			"or": "Automatically record demos",
-			"tr": "자동으로 데모 기록"
-		},
-		{
-			"or": "Max",
-			"tr": ""
-		},
-		{
-			"or": "Automatically take game over screenshot",
-			"tr": "자동으로 게임 종료 스크린샷 저장"
-		},
-		{
-			"or": "Reset",
-			"tr": ""
-		},
-		{
-			"or": "Reset general settings",
-			"tr": ""
-		},
-		{
-			"or": "Are you sure that you want to reset the general settings to their defaults?",
-			"tr": ""
-		},
-		{
-			"or": "Customize",
-			"tr": ""
-		},
-		{
-			"or": "Custom colors",
-			"tr": "사용자 정의 색상"
-		},
-		{
-			"or": "Tee",
-			"tr": ""
-		},
-		{
-			"or": "Normal:",
-			"tr": ""
-		},
-		{
-			"or": "Team:",
-			"tr": ""
-		},
-		{
-			"or": "Personal",
-			"tr": ""
-		},
-		{
-			"or": "Save",
-			"tr": ""
-		},
-		{
-			"or": "Randomize",
-			"tr": ""
-		},
-		{
-			"or": "Are you sure that you want to delete the skin '%s'?",
-			"tr": ""
-		},
-		{
-			"or": "Delete skin",
-			"tr": ""
-		},
-		{
-			"or": "Basic",
-			"tr": ""
-		},
-		{
-			"or": "Custom",
-			"tr": ""
-		},
-		{
-			"or": "Unable to delete the skin",
-			"tr": ""
-		},
-		{
-			"or": "Mouse",
-			"tr": ""
-		},
-		{
-			"or": "Joystick",
-			"tr": ""
-		},
-		{
-			"or": "Movement",
-			"tr": "이동"
-		},
-		{
-			"or": "Weapon",
-			"tr": "무기"
-		},
-		{
-			"or": "Voting",
-			"tr": "투표 중"
-		},
-		{
-			"or": "Misc",
-			"tr": ""
-		},
-		{
-			"or": "Reset controls",
-			"tr": ""
-		},
-		{
-			"or": "Are you sure that you want to reset the controls to their defaults?",
-			"tr": ""
-		},
-		{
-			"or": "Kills",
-			"tr": ""
-		},
-		{
-			"or": "Deaths",
-			"tr": ""
-		},
-		{
-			"or": "The ratio of kills to deaths.",
-			"tr": ""
-		},
-		{
-			"or": "Net score",
-			"tr": ""
-		},
-		{
-			"or": "The number of kills minus the number of deaths.",
-			"tr": ""
-		},
-		{
-			"or": "Kills per minute",
-			"tr": ""
-		},
-		{
-			"or": "Current spree",
-			"tr": ""
-		},
-		{
-			"or": "Weapons stats",
-			"tr": ""
-		},
-		{
-			"or": "The proportion of kills gotten with each weapon.",
-			"tr": ""
-		},
-		{
-			"or": "Flag grabs",
-			"tr": ""
-		},
-		{
-			"or": "The number of times that the flag was touched in CTF (1 point).",
-			"tr": ""
-		},
-		{
-			"or": "Flag captures",
-			"tr": ""
-		},
-		{
-			"or": "The number of times that the flag was captured in CTF (100 points).",
-			"tr": ""
-		},
-		{
-			"or": "Screen",
-			"tr": ""
-		},
-		{
-			"or": "Fullscreen",
-			"tr": "전체화면"
-		},
-		{
-			"or": "Borderless window",
-			"tr": ""
-		},
-		{
-			"or": "Screen:",
-			"tr": ""
-		},
-		{
-			"or": "Anti Aliasing",
-			"tr": ""
-		},
-		{
-			"or": "Enable OpenGL ES",
-			"tr": ""
-		},
-		{
-			"or": "V-Sync",
-			"tr": "V-Sync"
-		},
-		{
-			"or": "Limit Fps",
-			"tr": ""
-		},
-		{
-			"or": "Max fps",
-			"tr": ""
-		},
-		{
-			"or": "Texture",
-			"tr": ""
-		},
-		{
-			"or": "Quality Textures",
-			"tr": "텍스처 품질"
-		},
-		{
-			"or": "Texture Compression",
-			"tr": "텍스처 압축"
-		},
-		{
-			"or": "High Detail",
-			"tr": "자세한 내용"
-		},
-		{
-			"or": "Resolution",
-			"tr": ""
-		},
-		{
-			"or": "Recommended",
-			"tr": ""
-		},
-		{
-			"or": "Other",
-			"tr": ""
-		},
-		{
-			"or": "Current: %dx%d (%d:%d)",
-			"tr": ""
-		},
-		{
-			"or": "Reset graphics settings",
-			"tr": ""
-		},
-		{
-			"or": "Are you sure that you want to reset the graphics settings to their defaults?",
-			"tr": ""
-		},
-		{
-			"or": "Play background music",
-			"tr": ""
-		},
-		{
-			"or": "Mute when window is inactive",
-			"tr": ""
-		},
-		{
-			"or": "Detail",
-			"tr": ""
-		},
-		{
-			"or": "Sample rate",
-			"tr": "샘플링 속도"
-		},
-		{
-			"or": "Volume",
-			"tr": ""
-		},
-		{
-			"or": "Load the sound system",
-			"tr": ""
-		},
-		{
-			"or": "Use sounds",
-			"tr": "소리 사용"
-		},
-		{
-			"or": "Reset sound settings",
-			"tr": ""
-		},
-		{
-			"or": "Are you sure that you want to reset the sound settings to their defaults?",
-			"tr": ""
-		},
-		{
-			"or": "You must restart the game for all settings to take effect.",
-			"tr": "설정을 적용하기 위해선 게임을 다시 시작해야 합니다."
-		},
-		{
-			"or": "You must reconnect to change identity.",
-			"tr": ""
-		},
-		{
-			"or": "You have to wait %1.0f seconds to change identity.",
+			"or": "waiting for more players",
 			"tr": ""
 		}
 	]
