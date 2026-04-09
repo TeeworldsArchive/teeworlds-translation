@@ -330,6 +330,11 @@
 			"tr": "Ĉar tiu estas via unua fojo, ke vi startigis la ludon, bonvolu enskribi vian kromnomon sube. Vi povas ekrigardi la agordojn por alfari ilin laŭ via gusto antaŭ vi aliĝos iu servilo."
 		},
 		{
+			"context": "UI scale",
+			"or": "Auto",
+			"tr": ""
+		},
+		{
 			"or": "Automatically record demos",
 			"tr": "Aŭtomate registri demonstrojn"
 		},
@@ -886,10 +891,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Map record",
-			"tr": ""
-		},
-		{
 			"or": "Map:",
 			"tr": ""
 		},
@@ -1302,10 +1303,6 @@
 			"tr": "Konservi haŭtaĵon"
 		},
 		{
-			"or": "Score",
-			"tr": "Rezulto"
-		},
-		{
 			"or": "Score limit",
 			"tr": "Rezultlimito"
 		},
@@ -1626,10 +1623,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Time",
-			"tr": ""
-		},
-		{
 			"or": "Time limit",
 			"tr": "Templimito"
 		},
@@ -1652,6 +1645,10 @@
 		{
 			"or": "Type",
 			"tr": "Tipo"
+		},
+		{
+			"or": "UI scale",
+			"tr": ""
 		},
 		{
 			"or": "Unable to delete the demo",

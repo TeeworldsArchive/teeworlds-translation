@@ -346,6 +346,11 @@
 			"tr": "Omdat dit de eerste keer is dat je het spel opstart, moet je een bijnaam kiezen. Doe dat hieronder. We raden aan om de instellingen te controleren voordat je deelneemt aan een server."
 		},
 		{
+			"context": "UI scale",
+			"or": "Auto",
+			"tr": ""
+		},
+		{
 			"or": "Automatically record demos",
 			"tr": "Automatisch demo's opnemen"
 		},
@@ -902,10 +907,6 @@
 			"tr": "Je bevindt je nu op de kaart '%s'"
 		},
 		{
-			"or": "Map record",
-			"tr": "Kaartrecord"
-		},
-		{
 			"or": "Map:",
 			"tr": "Kaart:"
 		},
@@ -1318,10 +1319,6 @@
 			"tr": "Skin opslaan"
 		},
 		{
-			"or": "Score",
-			"tr": "Score"
-		},
-		{
 			"or": "Score limit",
 			"tr": "Scorelimiet"
 		},
@@ -1642,10 +1639,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Time",
-			"tr": "Tijd"
-		},
-		{
 			"or": "Time limit",
 			"tr": "Tijdslimiet"
 		},
@@ -1668,6 +1661,10 @@
 		{
 			"or": "Type",
 			"tr": "Type"
+		},
+		{
+			"or": "UI scale",
+			"tr": ""
 		},
 		{
 			"or": "Unable to delete the demo",

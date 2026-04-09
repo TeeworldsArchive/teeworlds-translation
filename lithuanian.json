@@ -329,6 +329,11 @@
 			"tr": "Kadangi tai yra pirmas kartas, kai pradedate žaidimą, įveskite žemiau savo slapyvardį. Rekomenduojame, kad jūs pakoreguotumėte nustatymus pagal savo skonį prieš prisijungdami prie serverio."
 		},
 		{
+			"context": "UI scale",
+			"or": "Auto",
+			"tr": ""
+		},
+		{
 			"or": "Automatically record demos",
 			"tr": "Automatiškai įrašyti demo"
 		},
@@ -885,10 +890,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Map record",
-			"tr": ""
-		},
-		{
 			"or": "Map:",
 			"tr": "Žemėlapis:"
 		},
@@ -1301,10 +1302,6 @@
 			"tr": "Išsaugoti avatarą"
 		},
 		{
-			"or": "Score",
-			"tr": "Taškai"
-		},
-		{
 			"or": "Score limit",
 			"tr": "Taškų limitas"
 		},
@@ -1625,10 +1622,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Time",
-			"tr": ""
-		},
-		{
 			"or": "Time limit",
 			"tr": "Laiko limitas"
 		},
@@ -1651,6 +1644,10 @@
 		{
 			"or": "Type",
 			"tr": "Tipas"
+		},
+		{
+			"or": "UI scale",
+			"tr": ""
 		},
 		{
 			"or": "Unable to delete the demo",

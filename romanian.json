@@ -336,6 +336,11 @@
 			"tr": "Aceasta fiind prima lansare a jocului, te rog introdu-ți pseudonimul mai jos. E recomandat să verifici setările și să le ajustezi cum vrei înainte să intri pe un server."
 		},
 		{
+			"context": "UI scale",
+			"or": "Auto",
+			"tr": ""
+		},
+		{
 			"or": "Automatically record demos",
 			"tr": "Înregistrează automat demonstrații"
 		},
@@ -892,10 +897,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Map record",
-			"tr": ""
-		},
-		{
 			"or": "Map:",
 			"tr": ""
 		},
@@ -1308,10 +1309,6 @@
 			"tr": "Salvează costumul"
 		},
 		{
-			"or": "Score",
-			"tr": "Scor"
-		},
-		{
 			"or": "Score limit",
 			"tr": "Limita de scor"
 		},
@@ -1632,10 +1629,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Time",
-			"tr": ""
-		},
-		{
 			"or": "Time limit",
 			"tr": "Timp limită"
 		},
@@ -1658,6 +1651,10 @@
 		{
 			"or": "Type",
 			"tr": "Tip"
+		},
+		{
+			"or": "UI scale",
+			"tr": ""
 		},
 		{
 			"or": "Unable to delete the demo",

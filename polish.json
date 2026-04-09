@@ -335,6 +335,11 @@
 			"tr": "Jest to twoje pierwsze uruchomienie gry, wpisz swój pseudonim poniżej. Jest zalecane sprawdzić ustawienia oraz dostosować je do siebie, przed dołączeniem do gry."
 		},
 		{
+			"context": "UI scale",
+			"or": "Auto",
+			"tr": ""
+		},
+		{
 			"or": "Automatically record demos",
 			"tr": "Automatycznie nagrywaj powtórki"
 		},
@@ -891,10 +896,6 @@
 			"tr": "Mapa zmieniona na '%s'"
 		},
 		{
-			"or": "Map record",
-			"tr": "Rekord mapy"
-		},
-		{
 			"or": "Map:",
 			"tr": "Mapa:"
 		},
@@ -1307,10 +1308,6 @@
 			"tr": "Zapisz skórkę"
 		},
 		{
-			"or": "Score",
-			"tr": "Punkty"
-		},
-		{
 			"or": "Score limit",
 			"tr": "Limit punktów"
 		},
@@ -1631,10 +1628,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Time",
-			"tr": "Czas"
-		},
-		{
 			"or": "Time limit",
 			"tr": "Limit czasu"
 		},
@@ -1657,6 +1650,10 @@
 		{
 			"or": "Type",
 			"tr": "Typ"
+		},
+		{
+			"or": "UI scale",
+			"tr": ""
 		},
 		{
 			"or": "Unable to delete the demo",

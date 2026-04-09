@@ -353,6 +353,11 @@
 			"tr": "Da dies dein erster Start des Spiels ist, gib bitte unten deinen Namen ein. Es wird empfohlen, die Einstellungen zu überprüfen, um sie deinen Vorstellungen anzupassen, bevor du einem Server beitrittst."
 		},
 		{
+			"context": "UI scale",
+			"or": "Auto",
+			"tr": ""
+		},
+		{
 			"or": "Automatically record demos",
 			"tr": "Automatisch Aufnahmen erstellen"
 		},
@@ -909,10 +914,6 @@
 			"tr": "Die Map wurde geändert zu %s"
 		},
 		{
-			"or": "Map record",
-			"tr": "Map Rekord"
-		},
-		{
 			"or": "Map:",
 			"tr": "Karte:"
 		},
@@ -1325,10 +1326,6 @@
 			"tr": "Skin speichern"
 		},
 		{
-			"or": "Score",
-			"tr": "Punkte"
-		},
-		{
 			"or": "Score limit",
 			"tr": "Punktelimit"
 		},
@@ -1649,10 +1646,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Time",
-			"tr": "Zeit"
-		},
-		{
 			"or": "Time limit",
 			"tr": "Zeitlimit"
 		},
@@ -1675,6 +1668,10 @@
 		{
 			"or": "Type",
 			"tr": "Typ"
+		},
+		{
+			"or": "UI scale",
+			"tr": ""
 		},
 		{
 			"or": "Unable to delete the demo",

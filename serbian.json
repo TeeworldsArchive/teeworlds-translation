@@ -331,6 +331,11 @@
 			"tr": "Pošto prvi put pokrećete igru, molimo da ispod unesete Vaš nadimak (nick). Preporučujemo da proverite podešavanja i podesite ih prema Vašem ukusu pre nego što se konektujete na server."
 		},
 		{
+			"context": "UI scale",
+			"or": "Auto",
+			"tr": ""
+		},
+		{
 			"or": "Automatically record demos",
 			"tr": "Automatski snimi demo"
 		},
@@ -887,10 +892,6 @@
 			"tr": "Mapa je promenjena u '%s'"
 		},
 		{
-			"or": "Map record",
-			"tr": "Rekord mape"
-		},
-		{
 			"or": "Map:",
 			"tr": "Mapa:"
 		},
@@ -1303,10 +1304,6 @@
 			"tr": "Sačuvaj skin"
 		},
 		{
-			"or": "Score",
-			"tr": "Rezultat"
-		},
-		{
 			"or": "Score limit",
 			"tr": "Max. bodova"
 		},
@@ -1627,10 +1624,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Time",
-			"tr": "Vreme"
-		},
-		{
 			"or": "Time limit",
 			"tr": "Max. vremena"
 		},
@@ -1653,6 +1646,10 @@
 		{
 			"or": "Type",
 			"tr": "Tip"
+		},
+		{
+			"or": "UI scale",
+			"tr": ""
 		},
 		{
 			"or": "Unable to delete the demo",

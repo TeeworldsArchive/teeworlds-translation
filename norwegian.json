@@ -332,6 +332,11 @@
 			"tr": "Siden dette er første gang du starter spillet, vennligst skriv inn et kallenavn nedenfor. Det anbefales at du sjekker innstillingene og justerer dem slik du ønsker før du kobler til en server."
 		},
 		{
+			"context": "UI scale",
+			"or": "Auto",
+			"tr": ""
+		},
+		{
 			"or": "Automatically record demos",
 			"tr": "Ta opp demoer automatisk"
 		},
@@ -888,10 +893,6 @@
 			"tr": "Bane endret til '%s'"
 		},
 		{
-			"or": "Map record",
-			"tr": "Bane opptak"
-		},
-		{
 			"or": "Map:",
 			"tr": "Kart:"
 		},
@@ -1304,10 +1305,6 @@
 			"tr": "Lagre utseende"
 		},
 		{
-			"or": "Score",
-			"tr": "Poeng"
-		},
-		{
 			"or": "Score limit",
 			"tr": "Poenggrense"
 		},
@@ -1628,10 +1625,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Time",
-			"tr": "Tid"
-		},
-		{
 			"or": "Time limit",
 			"tr": "Tidsbegrensning"
 		},
@@ -1654,6 +1647,10 @@
 		{
 			"or": "Type",
 			"tr": "Type"
+		},
+		{
+			"or": "UI scale",
+			"tr": ""
 		},
 		{
 			"or": "Unable to delete the demo",

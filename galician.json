@@ -328,6 +328,11 @@
 			"tr": "Como é a primeira vez que inicias o xogo, por favor, introdce o teu apodo. É recomendable que verifiques a tua configuración e xustes as preferencias antes de unirte a un servidor."
 		},
 		{
+			"context": "UI scale",
+			"or": "Auto",
+			"tr": ""
+		},
+		{
 			"or": "Automatically record demos",
 			"tr": "Grabar demos automáticamente"
 		},
@@ -884,10 +889,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Map record",
-			"tr": ""
-		},
-		{
 			"or": "Map:",
 			"tr": ""
 		},
@@ -1300,10 +1301,6 @@
 			"tr": "Gardar skin"
 		},
 		{
-			"or": "Score",
-			"tr": "Puntuación"
-		},
-		{
 			"or": "Score limit",
 			"tr": "Limite de puntuación"
 		},
@@ -1624,10 +1621,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Time",
-			"tr": ""
-		},
-		{
 			"or": "Time limit",
 			"tr": "Tempo limite"
 		},
@@ -1650,6 +1643,10 @@
 		{
 			"or": "Type",
 			"tr": "Tipo"
+		},
+		{
+			"or": "UI scale",
+			"tr": ""
 		},
 		{
 			"or": "Unable to delete the demo",

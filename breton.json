@@ -328,6 +328,11 @@
 			"tr": "Dre m'eo ar wech kentañ ma lañsit ar c'hoari, enlakait hoc'h anv mar plij. Aliet eo gwiriekaat an arventennoù evit lakaat anezhe evel m'ho 'peus c'hoant a-raok kennaskañ d'ur servijer."
 		},
 		{
+			"context": "UI scale",
+			"or": "Auto",
+			"tr": ""
+		},
+		{
 			"or": "Automatically record demos",
 			"tr": "Enrollañ an demo ent emgefreek"
 		},
@@ -884,10 +889,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Map record",
-			"tr": ""
-		},
-		{
 			"or": "Map:",
 			"tr": ""
 		},
@@ -1300,10 +1301,6 @@
 			"tr": "Enrollañ an neuz"
 		},
 		{
-			"or": "Score",
-			"tr": "Poentoù"
-		},
-		{
 			"or": "Score limit",
 			"tr": "Bevenn poentoù"
 		},
@@ -1624,10 +1621,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Time",
-			"tr": ""
-		},
-		{
 			"or": "Time limit",
 			"tr": "Bevenn amzer"
 		},
@@ -1650,6 +1643,10 @@
 		{
 			"or": "Type",
 			"tr": "Doare"
+		},
+		{
+			"or": "UI scale",
+			"tr": ""
 		},
 		{
 			"or": "Unable to delete the demo",

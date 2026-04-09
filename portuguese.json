@@ -333,6 +333,11 @@
 			"tr": "Como esta é a primeira vez que abres o jogo, deves definir uma alcunha. É recomendado que alteres as definições conforme pretenderes antes de entrares num servidor."
 		},
 		{
+			"context": "UI scale",
+			"or": "Auto",
+			"tr": ""
+		},
+		{
 			"or": "Automatically record demos",
 			"tr": "Gravar demos automaticamente"
 		},
@@ -889,10 +894,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Map record",
-			"tr": ""
-		},
-		{
 			"or": "Map:",
 			"tr": "Mapa:"
 		},
@@ -1305,10 +1306,6 @@
 			"tr": "Gravar pele"
 		},
 		{
-			"or": "Score",
-			"tr": "Pontos"
-		},
-		{
 			"or": "Score limit",
 			"tr": "Limite de pontuação"
 		},
@@ -1629,10 +1626,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Time",
-			"tr": ""
-		},
-		{
 			"or": "Time limit",
 			"tr": "Limite de tempo"
 		},
@@ -1655,6 +1648,10 @@
 		{
 			"or": "Type",
 			"tr": "Tipo"
+		},
+		{
+			"or": "UI scale",
+			"tr": ""
 		},
 		{
 			"or": "Unable to delete the demo",

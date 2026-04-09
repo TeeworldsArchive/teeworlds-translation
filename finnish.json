@@ -332,6 +332,11 @@
 			"tr": "Tämä on ensimmäinen kerta kun käynnistät pelin, ole hyvä ja kirjoita nimimerkkisi alle. On suositeltua, että tarkistat asetukset ja muutat niitä mielesi mukaan ennen kuin liityt palvelimille."
 		},
 		{
+			"context": "UI scale",
+			"or": "Auto",
+			"tr": ""
+		},
+		{
 			"or": "Automatically record demos",
 			"tr": "Nauhoita demot automaattisesti"
 		},
@@ -888,10 +893,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Map record",
-			"tr": ""
-		},
-		{
 			"or": "Map:",
 			"tr": ""
 		},
@@ -1304,10 +1305,6 @@
 			"tr": "Tallenna ulkoasu"
 		},
 		{
-			"or": "Score",
-			"tr": "Pisteet"
-		},
-		{
 			"or": "Score limit",
 			"tr": "Pisteraja"
 		},
@@ -1628,10 +1625,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Time",
-			"tr": ""
-		},
-		{
 			"or": "Time limit",
 			"tr": "Aikaraja"
 		},
@@ -1654,6 +1647,10 @@
 		{
 			"or": "Type",
 			"tr": "Tyyppi"
+		},
+		{
+			"or": "UI scale",
+			"tr": ""
 		},
 		{
 			"or": "Unable to delete the demo",

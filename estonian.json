@@ -328,6 +328,11 @@
 			"tr": "Kuna see on esimene kord, kui sa mängu käivitad, palun sisesta oma mängija nimi alla. On soovitatud kontrollida seadeid, et muuta neid oma äranägemise järgi enne serverisse sisenemist"
 		},
 		{
+			"context": "UI scale",
+			"or": "Auto",
+			"tr": ""
+		},
+		{
 			"or": "Automatically record demos",
 			"tr": "Automaatselt salvesta demod"
 		},
@@ -884,10 +889,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Map record",
-			"tr": ""
-		},
-		{
 			"or": "Map:",
 			"tr": ""
 		},
@@ -1300,10 +1301,6 @@
 			"tr": "Salvesta välimus"
 		},
 		{
-			"or": "Score",
-			"tr": "Skoor"
-		},
-		{
 			"or": "Score limit",
 			"tr": "Skoori limiit"
 		},
@@ -1624,10 +1621,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Time",
-			"tr": ""
-		},
-		{
 			"or": "Time limit",
 			"tr": "Ajalimiit"
 		},
@@ -1650,6 +1643,10 @@
 		{
 			"or": "Type",
 			"tr": "Kirjuta"
+		},
+		{
+			"or": "UI scale",
+			"tr": ""
 		},
 		{
 			"or": "Unable to delete the demo",

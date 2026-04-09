@@ -328,6 +328,11 @@
 			"tr": "Al ser la primera vegada que obres el joc, si us plau posa el teu nom a sota. Et recomanem veure la configuració abans d'entrar a un servidor"
 		},
 		{
+			"context": "UI scale",
+			"or": "Auto",
+			"tr": ""
+		},
+		{
 			"or": "Automatically record demos",
 			"tr": "Grabar repeticions automàticament"
 		},
@@ -884,10 +889,6 @@
 			"tr": "Mapa canviat a '%s'"
 		},
 		{
-			"or": "Map record",
-			"tr": "Rècord del mapa"
-		},
-		{
 			"or": "Map:",
 			"tr": "Mapa:"
 		},
@@ -1300,10 +1301,6 @@
 			"tr": "Guardar la skin"
 		},
 		{
-			"or": "Score",
-			"tr": "Puntuació"
-		},
-		{
 			"or": "Score limit",
 			"tr": "Límit de puntuació"
 		},
@@ -1624,10 +1621,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Time",
-			"tr": "Temps"
-		},
-		{
 			"or": "Time limit",
 			"tr": "Temps límit"
 		},
@@ -1650,6 +1643,10 @@
 		{
 			"or": "Type",
 			"tr": "Tipus"
+		},
+		{
+			"or": "UI scale",
+			"tr": ""
 		},
 		{
 			"or": "Unable to delete the demo",

@@ -328,6 +328,11 @@
 			"tr": "Toisc gurb é seo an chéad uair a thosóidh tú an cluiche, cuir isteach do leasainm thíos. Molaimid duit súil a chaitheamh ar na socruithe agus iad a athrú mar is áil leat sula gceanglóidh tú le freastalaí."
 		},
 		{
+			"context": "UI scale",
+			"or": "Auto",
+			"tr": ""
+		},
+		{
 			"or": "Automatically record demos",
 			"tr": "Taifead taispeántais go huathoibríoch"
 		},
@@ -884,10 +889,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Map record",
-			"tr": ""
-		},
-		{
 			"or": "Map:",
 			"tr": ""
 		},
@@ -1300,10 +1301,6 @@
 			"tr": "Sábháil an craiceann"
 		},
 		{
-			"or": "Score",
-			"tr": "Scór"
-		},
-		{
 			"or": "Score limit",
 			"tr": "Teorainn scóir"
 		},
@@ -1624,10 +1621,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Time",
-			"tr": ""
-		},
-		{
 			"or": "Time limit",
 			"tr": "Teorainn ama"
 		},
@@ -1650,6 +1643,10 @@
 		{
 			"or": "Type",
 			"tr": "Cineál"
+		},
+		{
+			"or": "UI scale",
+			"tr": ""
 		},
 		{
 			"or": "Unable to delete the demo",

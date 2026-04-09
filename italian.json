@@ -336,6 +336,11 @@
 			"tr": "Essendo la prima volta che avvii il gioco, ti preghiamo di inserire il tuo nickname qui sotto. Puoi cambiare le impostazioni in base alle tue preferenze prima di entrare in gioco."
 		},
 		{
+			"context": "UI scale",
+			"or": "Auto",
+			"tr": ""
+		},
+		{
 			"or": "Automatically record demos",
 			"tr": "Registra automaticamente demo"
 		},
@@ -892,10 +897,6 @@
 			"tr": "Mappa modificata in '%s'"
 		},
 		{
-			"or": "Map record",
-			"tr": "Record della mappa"
-		},
-		{
 			"or": "Map:",
 			"tr": "Mappa:"
 		},
@@ -1308,10 +1309,6 @@
 			"tr": "Salva skin"
 		},
 		{
-			"or": "Score",
-			"tr": "Punti"
-		},
-		{
 			"or": "Score limit",
 			"tr": "Limite punti"
 		},
@@ -1632,10 +1629,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Time",
-			"tr": "Tempo"
-		},
-		{
 			"or": "Time limit",
 			"tr": "Limite di tempo"
 		},
@@ -1658,6 +1651,10 @@
 		{
 			"or": "Type",
 			"tr": "Tipo"
+		},
+		{
+			"or": "UI scale",
+			"tr": ""
 		},
 		{
 			"or": "Unable to delete the demo",

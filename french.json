@@ -348,6 +348,11 @@
 			"tr": "Comme c'est la première fois que vous lancez le jeu, veuillez entrer votre pseudo ci-dessous. Vous devriez vérifier les réglages et les ajuster avant de rejoindre un serveur."
 		},
 		{
+			"context": "UI scale",
+			"or": "Auto",
+			"tr": ""
+		},
+		{
 			"or": "Automatically record demos",
 			"tr": "Enregistrer automatiquement une démo"
 		},
@@ -904,10 +909,6 @@
 			"tr": "La carte est maintenant '%s'"
 		},
 		{
-			"or": "Map record",
-			"tr": "Record de la carte"
-		},
-		{
 			"or": "Map:",
 			"tr": "Carte :"
 		},
@@ -1320,10 +1321,6 @@
 			"tr": "Sauvegarder le skin"
 		},
 		{
-			"or": "Score",
-			"tr": "Score"
-		},
-		{
 			"or": "Score limit",
 			"tr": "Limite de score"
 		},
@@ -1644,10 +1641,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Time",
-			"tr": "Temps"
-		},
-		{
 			"or": "Time limit",
 			"tr": "Temps limite"
 		},
@@ -1670,6 +1663,10 @@
 		{
 			"or": "Type",
 			"tr": "Type"
+		},
+		{
+			"or": "UI scale",
+			"tr": ""
 		},
 		{
 			"or": "Unable to delete the demo",
