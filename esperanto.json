@@ -1559,10 +1559,6 @@
 			"tr": "Teksturo"
 		},
 		{
-			"or": "Texture Compression",
-			"tr": "Kompaktigo de teksturoj"
-		},
-		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "La sonludilo ne povis esti pravalorizita"
 		},

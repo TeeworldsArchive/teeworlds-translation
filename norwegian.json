@@ -1561,10 +1561,6 @@
 			"tr": "Tekstur"
 		},
 		{
-			"or": "Texture Compression",
-			"tr": "Tekstur kompresjon"
-		},
-		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "Lydenheten kunne ikke startes opp."
 		},

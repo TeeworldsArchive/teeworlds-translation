@@ -1557,10 +1557,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Texture Compression",
-			"tr": "Текстур хĕсӳ"
-		},
-		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "Аудио ярма пултараймасть"
 		},

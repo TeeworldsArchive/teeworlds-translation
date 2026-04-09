@@ -1557,10 +1557,6 @@
 			"tr": "Tekstuur"
 		},
 		{
-			"or": "Texture Compression",
-			"tr": ""
-		},
-		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "Heliseadet ei tuvastatud."
 		},

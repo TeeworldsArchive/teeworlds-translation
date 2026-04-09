@@ -1557,10 +1557,6 @@
 			"tr": "Inneach"
 		},
 		{
-			"or": "Texture Compression",
-			"tr": "Dùmhlachadh nan inneach"
-		},
-		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "Cha b’ urrainn dhuinn uidheam-fuaime a thòiseachadh."
 		},

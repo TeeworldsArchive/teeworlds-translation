@@ -1563,10 +1563,6 @@
 			"tr": "Textury"
 		},
 		{
-			"or": "Texture Compression",
-			"tr": "Komprese textur"
-		},
-		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "Zvukové zařízení nelze inicializovat."
 		},

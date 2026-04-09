@@ -1565,10 +1565,6 @@
 			"tr": "Textura"
 		},
 		{
-			"or": "Texture Compression",
-			"tr": "Compresie texturi"
-		},
-		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "Dispozitivul audio nu a putut fi inițializat."
 		},

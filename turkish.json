@@ -1564,10 +1564,6 @@
 			"tr": "Doku"
 		},
 		{
-			"or": "Texture Compression",
-			"tr": "Dolgu sıkıştırması"
-		},
-		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "Ses donanımı başlatılamadı."
 		},

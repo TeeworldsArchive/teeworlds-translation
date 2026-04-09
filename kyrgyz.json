@@ -1559,10 +1559,6 @@
 			"tr": "Текстура"
 		},
 		{
-			"or": "Texture Compression",
-			"tr": "Текстуралык кысуу"
-		},
-		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "Аудио түзмөгүн иштетүү мүмкүн эмес."
 		},

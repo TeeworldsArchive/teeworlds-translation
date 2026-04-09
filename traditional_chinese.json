@@ -1558,10 +1558,6 @@
 			"tr": "紋理"
 		},
 		{
-			"or": "Texture Compression",
-			"tr": "紋理壓縮"
-		},
-		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "初始化音頻設備失敗。"
 		},

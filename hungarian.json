@@ -1558,10 +1558,6 @@
 			"tr": "Textúra"
 		},
 		{
-			"or": "Texture Compression",
-			"tr": "Textúra tömörítés"
-		},
-		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "A hangeszköz nem kezdeményezhető."
 		},

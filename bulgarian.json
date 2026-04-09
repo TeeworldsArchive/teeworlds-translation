@@ -1560,10 +1560,6 @@
 			"tr": "Текстура"
 		},
 		{
-			"or": "Texture Compression",
-			"tr": "Компресия на текстурите"
-		},
-		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "Звуковото устройство не може да бъде стартирано."
 		},

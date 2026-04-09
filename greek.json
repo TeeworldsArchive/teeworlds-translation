@@ -1557,10 +1557,6 @@
 			"tr": "Υφή"
 		},
 		{
-			"or": "Texture Compression",
-			"tr": "Συμπίεση υφής"
-		},
-		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "Η συσκευή ήχου δεν μπορούσε να ενεργοποιηθεί."
 		},

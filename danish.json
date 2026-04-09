@@ -1557,10 +1557,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Texture Compression",
-			"tr": "Teksturkompression"
-		},
-		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "Lydenheden kunne ikke startes"
 		},

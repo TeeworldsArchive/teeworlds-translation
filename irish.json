@@ -1557,10 +1557,6 @@
 			"tr": "Uigeacht"
 		},
 		{
-			"or": "Texture Compression",
-			"tr": "Comhbhrú Uigeachtaí"
-		},
-		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "Níorbh fhéidir an gléas fuaime a thúsú."
 		},

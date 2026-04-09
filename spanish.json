@@ -1566,10 +1566,6 @@
 			"tr": "Textura"
 		},
 		{
-			"or": "Texture Compression",
-			"tr": "Compresión de texturas"
-		},
-		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "El dispositivo de audio no puede ser inicializado."
 		},

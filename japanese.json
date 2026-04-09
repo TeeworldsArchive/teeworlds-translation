@@ -1557,10 +1557,6 @@
 			"tr": "テクスチャ"
 		},
 		{
-			"or": "Texture Compression",
-			"tr": "テクスチャ圧縮"
-		},
-		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "オーディオデバイスの初期化に失敗しました。"
 		},

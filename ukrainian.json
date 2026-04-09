@@ -1560,10 +1560,6 @@
 			"tr": "Текстура"
 		},
 		{
-			"or": "Texture Compression",
-			"tr": "Стиснення текстур"
-		},
-		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "Аудіопристрій не може бути ініціалізований."
 		},

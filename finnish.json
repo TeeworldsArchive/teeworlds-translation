@@ -1561,10 +1561,6 @@
 			"tr": "Tekstuuri"
 		},
 		{
-			"or": "Texture Compression",
-			"tr": "Tekstuuripakkaus"
-		},
-		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "Äänilaitteen alustaminen ei onnistunut."
 		},

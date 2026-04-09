@@ -1557,10 +1557,6 @@
 			"tr": "Gwiadezh"
 		},
 		{
-			"or": "Texture Compression",
-			"tr": "Gwaskadur gwiadezh"
-		},
-		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "N'haller ket deraouekaat an trobarzhel aodio "
 		},

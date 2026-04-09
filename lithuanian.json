@@ -1558,10 +1558,6 @@
 			"tr": "Tekstūra"
 		},
 		{
-			"or": "Texture Compression",
-			"tr": "Tekstūrų Suspaudimas"
-		},
-		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "Garso įrenginys negali būti paleistas."
 		},

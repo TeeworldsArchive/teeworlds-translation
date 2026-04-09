@@ -1559,10 +1559,6 @@
 			"tr": ""
 		},
 		{
-			"or": "Texture Compression",
-			"tr": "Kompresija tekstura"
-		},
-		{
 			"or": "The audio device couldn't be initialised.",
 			"tr": "Audio-uređaj nije moguće pokrenuti."
 		},
