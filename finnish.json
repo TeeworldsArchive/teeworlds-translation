@@ -512,6 +512,11 @@
 			"tr": ""
 		},
 		{
+			"context": "Audio",
+			"or": "Default Playback Device",
+			"tr": ""
+		},
+		{
 			"or": "Delete",
 			"tr": "Poista"
 		},
@@ -541,6 +546,11 @@
 		},
 		{
 			"or": "Device",
+			"tr": ""
+		},
+		{
+			"context": "Audio",
+			"or": "Devices",
 			"tr": ""
 		},
 		{

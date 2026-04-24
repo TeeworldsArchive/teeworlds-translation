@@ -508,6 +508,11 @@
 			"tr": "Bàs"
 		},
 		{
+			"context": "Audio",
+			"or": "Default Playback Device",
+			"tr": ""
+		},
+		{
 			"or": "Delete",
 			"tr": "Sguab às"
 		},
@@ -537,6 +542,11 @@
 		},
 		{
 			"or": "Device",
+			"tr": ""
+		},
+		{
+			"context": "Audio",
+			"or": "Devices",
 			"tr": ""
 		},
 		{

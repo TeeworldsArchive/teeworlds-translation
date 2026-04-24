@@ -511,6 +511,11 @@
 			"tr": "Умирания"
 		},
 		{
+			"context": "Audio",
+			"or": "Default Playback Device",
+			"tr": ""
+		},
+		{
 			"or": "Delete",
 			"tr": "Изтриване"
 		},
@@ -541,6 +546,11 @@
 		{
 			"or": "Device",
 			"tr": "Устройство"
+		},
+		{
+			"context": "Audio",
+			"or": "Devices",
+			"tr": ""
 		},
 		{
 			"or": "Difficulty",

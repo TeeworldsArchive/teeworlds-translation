@@ -516,6 +516,11 @@
 			"tr": "Morți"
 		},
 		{
+			"context": "Audio",
+			"or": "Default Playback Device",
+			"tr": ""
+		},
+		{
 			"or": "Delete",
 			"tr": "Șterge"
 		},
@@ -545,6 +550,11 @@
 		},
 		{
 			"or": "Device",
+			"tr": ""
+		},
+		{
+			"context": "Audio",
+			"or": "Devices",
 			"tr": ""
 		},
 		{

@@ -512,6 +512,11 @@
 			"tr": "Død"
 		},
 		{
+			"context": "Audio",
+			"or": "Default Playback Device",
+			"tr": ""
+		},
+		{
 			"or": "Delete",
 			"tr": "Slett"
 		},
@@ -542,6 +547,11 @@
 		{
 			"or": "Device",
 			"tr": "Enhet"
+		},
+		{
+			"context": "Audio",
+			"or": "Devices",
+			"tr": ""
 		},
 		{
 			"or": "Difficulty",

@@ -511,6 +511,11 @@
 			"tr": "Смерті"
 		},
 		{
+			"context": "Audio",
+			"or": "Default Playback Device",
+			"tr": ""
+		},
+		{
 			"or": "Delete",
 			"tr": "Видалити"
 		},
@@ -540,6 +545,11 @@
 		},
 		{
 			"or": "Device",
+			"tr": ""
+		},
+		{
+			"context": "Audio",
+			"or": "Devices",
 			"tr": ""
 		},
 		{

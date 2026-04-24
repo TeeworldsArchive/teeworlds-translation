@@ -509,6 +509,11 @@
 			"tr": "死亡數"
 		},
 		{
+			"context": "Audio",
+			"or": "Default Playback Device",
+			"tr": "默認播放設備"
+		},
+		{
 			"or": "Delete",
 			"tr": "刪除"
 		},
@@ -538,6 +543,11 @@
 		},
 		{
 			"or": "Device",
+			"tr": "設備"
+		},
+		{
+			"context": "Audio",
+			"or": "Devices",
 			"tr": "設備"
 		},
 		{

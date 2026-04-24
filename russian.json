@@ -521,6 +521,11 @@
 			"tr": "Смертей"
 		},
 		{
+			"context": "Audio",
+			"or": "Default Playback Device",
+			"tr": ""
+		},
+		{
 			"or": "Delete",
 			"tr": "Удалить"
 		},
@@ -551,6 +556,11 @@
 		{
 			"or": "Device",
 			"tr": "Устройство"
+		},
+		{
+			"context": "Audio",
+			"or": "Devices",
+			"tr": ""
 		},
 		{
 			"or": "Difficulty",

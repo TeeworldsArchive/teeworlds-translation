@@ -508,6 +508,11 @@
 			"tr": "Morts"
 		},
 		{
+			"context": "Audio",
+			"or": "Default Playback Device",
+			"tr": ""
+		},
+		{
 			"or": "Delete",
 			"tr": "Esborrar"
 		},
@@ -538,6 +543,11 @@
 		{
 			"or": "Device",
 			"tr": "Dispositiu"
+		},
+		{
+			"context": "Audio",
+			"or": "Devices",
+			"tr": ""
 		},
 		{
 			"or": "Difficulty",

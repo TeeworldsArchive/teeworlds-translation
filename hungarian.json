@@ -509,6 +509,11 @@
 			"tr": "Halálok"
 		},
 		{
+			"context": "Audio",
+			"or": "Default Playback Device",
+			"tr": ""
+		},
+		{
 			"or": "Delete",
 			"tr": "Törlés"
 		},
@@ -538,6 +543,11 @@
 		},
 		{
 			"or": "Device",
+			"tr": ""
+		},
+		{
+			"context": "Audio",
+			"or": "Devices",
 			"tr": ""
 		},
 		{

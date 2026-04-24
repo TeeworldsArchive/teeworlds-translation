@@ -526,6 +526,11 @@
 			"tr": "Doden"
 		},
 		{
+			"context": "Audio",
+			"or": "Default Playback Device",
+			"tr": ""
+		},
+		{
 			"or": "Delete",
 			"tr": "Verwijderen"
 		},
@@ -556,6 +561,11 @@
 		{
 			"or": "Device",
 			"tr": "Apparaat"
+		},
+		{
+			"context": "Audio",
+			"or": "Devices",
+			"tr": ""
 		},
 		{
 			"or": "Difficulty",
