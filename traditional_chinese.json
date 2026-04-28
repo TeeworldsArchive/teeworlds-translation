@@ -1560,8 +1560,8 @@
 			"tr": "Tee"
 		},
 		{
-			"or": "Teeworlds Archive %s is out! Download it at our github!",
-			"tr": "Teeworlds Archive %s 發布了! 在我們的Github上下載!"
+			"or": "Teeworlds Archive %s is out!",
+			"tr": ""
 		},
 		{
 			"or": "Texture",
